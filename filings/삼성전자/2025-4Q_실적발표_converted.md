@@ -1,0 +1,264 @@
+```
+---
+title: "2025년 4분기 실적발표"
+company: "삼성전자"
+doc_type: "실적발표"
+publish_date: "2025-01-01"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-19T10:30:00+09:00"
+
+key_figures:
+  dart_revenue_annual:
+    value: "3,336,059.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "436,010.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "452,068.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "5,669,421.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "1,306,217.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "4,363,203.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_q4_2025:
+    value: "93.8"
+    unit: "조원"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0.95
+    note: "한국채택국제회계기준, 외부감사 미완료"
+  
+  operating_profit_q4_2025:
+    value: "20.1"
+    unit: "조원"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0.95
+    note: "한국채택국제회계기준, 외부감사 미완료"
+  
+  net_income_q4_2025:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0
+    note: "Stage 4 교정: 원본 문서에서 미제공"
+  
+  revenue_fy_2025:
+    value: "333.6"
+    unit: "조원"
+    basis: "연결"
+    period: "FY 2025"
+    confidence: 0.95
+    note: "연간 실적, 외부감사 미완료"
+  
+  operating_profit_fy_2025:
+    value: "43.6"
+    unit: "조원"
+    basis: "연결"
+    period: "FY 2025"
+    confidence: 0.95
+    note: "연간 실적, 외부감사 미완료"
+  
+  net_income_fy_2025:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "FY 2025"
+    confidence: 0
+    note: "Stage 4 교정: 원본 문서에서 미제공"
+  
+  eps_q4_2025:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0
+    note: "Stage 4 교정: 원본 문서에서 미제공"
+  
+  revenue_growth_qoq:
+    value: "8.9"
+    unit: "%"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0.98
+    note: "전분기 대비 성장률 (86.1조원 → 93.8조원)"
+  
+  operating_profit_growth_qoq:
+    value: "64.8"
+    unit: "%"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0.98
+    note: "전분기 대비 성장률 (12.2조원 → 20.1조원)"
+
+  segment_revenue_breakdown:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "4Q 2025"
+    confidence: 0
+    note: "Stage 4 교정: 목차에 '사업부문별 매출 및 영업이익' 언급되나 본문 미포함"
+---
+
+# 삼성전자
+
+경영설명회: 2025년 4분기
+
+---
+
+# 유의사항
+
+본 자료의 재무정보는 한국채택국제회계기준에 따라 작성된 **연결 기준**의 영업실적입니다.
+
+본 자료에 포함된 "2025년 4분기 실적"은 분사, 자회사 및 관계사 등에 대한 외부감사인의 회계감사가 완료되지 않은 상태에서
+
+투자자 여러분의 편의를 위해 작성된 자료이므로, 그 내용 중 일부는 회계감사과정에서 달라질 수 있음을 양지하시기 바랍니다.
+
+또한 본 자료는 미래에 대한 "예측정보"를 포함하고 있습니다. 이는 과거가 아닌 미래의 사건과 관계된 것으로
+
+회사의 향후 예상되는 경영환경 및 재무실적을 의미하고, 표현상으로는 "예상", "전망", "계획", "기대" 등과 같은 단어를 포함합니다.
+
+"예측정보"는 그 성격상 불확실한 사건들을 언급하는데, 회사의 향후 경영환경 및 재무실적에 긍정적 또는
+
+부정적으로 영향을 미칠 수 있는 불확실성에는 다음과 같은 것들이 포함됩니다.
+
+· 환율, 이자율 등의 변동을 포함한 국내·외 금융시장의 동향
+
+· 산업의 특성, 인수 등을 포함한 회사의 전략적인 의사결정
+
+· DX: Device eXperience, DS: Device Solutions 등 회사가 영위하는 주요 사업분야의 예상치 못한 급격한 여건 변화
+
+· 기타 경영환경 및 재무실적에 영향을 미칠 수 있는 국내·외적 변화
+
+이러한 불확실성으로 인해 회사의 실제 미래 실적은 "예측정보"에 명시적 또는
+
+묵시적으로 포함된 내용과 중대한 차이가 있을 수 있음을 양지하시기 바랍니다.
+
+---
+
+# 목차
+
+| 발표자 소개 | '25년 4분기 경영실적 및 재무현황 | 사업부문별 매출 및 영업이익 | 별첨 |
+
+---
+
+# '25년 4분기 실적발표
+
+## 발표자 | 진행
+
+[이미지: 8명의 발표자 사진]
+
+| 박호철 부사장 | 김재준 부사장 | 신승철 부사장 | 강석재 부사장 | 허철 부사장 | 조성혁 부사장 | 이현 부사장 | 다니엘 오 부사장 |
+|---|---|---|---|---|---|---|---|
+| Chief Financial Officer | 메모리 | System LSI | Foundry | 삼성디스플레이 | Mobile eXperience | 삼성디스플레이(VD) | Investor Relations |
+
+Device Solutions | Device eXperience
+
+---
+
+# '25년 4분기 경영실적 요약
+**연결기준 전사 손익**
+
+## 분기 실적 | 연간 실적
+
+| 구분 | 매출 | 영업이익 | 구분 | 매출 | 영업이익 |
+|---|---|---|---|---|---|
+| 4Q '25 | **93.8조원**(연결) | **20.1조원**(연결) | FY '25 | **333.6조원**(연결) | **43.6조원**(연결) |
+
+<!-- 분기 실적 추이 차트 데이터 -->
+**분기별 실적 추이:**
+- 4Q '24: 매출 **75.8조원**(연결), 영업이익 **6.5조원**(연결)
+- 3Q '25: 매출 **86.1조원**(연결), 영업이익 **12.2조원**(연결)  
+- 4Q '25: 매출 **93.8조원**(연결), 영업이익 **20.1조원**(연결)
+
+*주석: 4분기 매출은 전분기 대비 8.9% 성장 (86.1조원 → 93.8조원), 영업이익은 전분기 대비 64.8% 급증 (12.2조원 → 20.1조원)*
+
+<!-- 연간 실적 추이 차트 데이터 -->
+**연간 실적 추이:**
+- FY '23: 매출 **258.9조원**(연결), 영업이익 **6.6조원**(연결)
+- FY '24: 매출 **300.9조원**(연결), 영업이익 **32.7조원**(연결)
+- FY '25: 매출 **333.6조원**(연결), 영업이익 **43.6조원**(연결)
+
+*주석: 연간 매출은 전년 대비 10.9% 성장 (300.9조원 → 333.6조원), 영업이익은 전년 대비 33.3% 성장 (32.7조원 → 43.6조원)*
+
+**※ 모든 재무수치는 한국채택국제회계기준 연결기준이며, 외부감사 미완료 상태임**
+
+---
+
+## 누락 항목 보충 안내
+
+다음 항목들은 원본 문서에서 제공되지 않았습니다:
+
+- **당기순이익 (Net Income)**: 4분기 및 연간 수치 미제공
+- **주당순이익 (EPS)**: 4분기 수치 미제공  
+- ⚠️ **사업부문별 매출 및 영업이익**: 목차에 언급되나 본문에서 확인 불가 - 원본 문서 확인 필요
+
+```
+
+
+---
+
+## DART 연결재무제표 (삼성전자, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 3,336,059.4 | DART |
+| 영업이익 | 436,010.5 | DART |
+| 당기순이익 | 452,068.0 | DART |
+| 자산총계 | 5,669,421.1 | DART |
+| 부채총계 | 1,306,217.7 | DART |
+| 자본총계 | 4,363,203.4 | DART |
+| 영업활동현금흐름 | 853,151.5 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-24 | 파서 버전: v2.0.0
