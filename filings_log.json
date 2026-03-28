@@ -543,5 +543,71 @@
         "cost": 0.1283
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T22:31:38.265699",
+    "total": 8,
+    "success": 8,
+    "failed": 0,
+    "cost": 1.04,
+    "files": [
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2024-4Q",
+        "status": "ok",
+        "cost": 0.1347
+      },
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1348
+      },
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1291
+      },
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1304
+      },
+      {
+        "company": "SK텔레콤",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.136
+      },
+      {
+        "company": "SK텔레콤",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1411
+      },
+      {
+        "company": "SK텔레콤",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.117
+      },
+      {
+        "company": "SK텔레콤",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.117
+      }
+    ]
   }
 ]

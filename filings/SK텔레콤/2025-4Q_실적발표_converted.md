@@ -1,0 +1,302 @@
+```yaml
+---
+title: "SK텔레콤 2025년 4분기 실적발표"
+company: "SK텔레콤"
+doc_type: "실적발표"
+publish_date: "2026-02-05"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T09:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "170,992.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "10,732.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "3,750.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "301,077.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "171,524.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "129,552.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "17,099"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연결기준 전년 대비 4.7% 감소"
+  
+  operating_profit:
+    value: "1,073"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연결기준 전년 대비 41.1% 감소, 사이버 침해사고 대응비용 영향"
+  
+  net_income:
+    value: "375"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연결 순이익 전년 대비 73.0% 감소"
+  
+  controlling_net_income:
+    value: "408"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "지배회사 순이익 전년 대비 67.3% 감소"
+  
+  ebitda:
+    value: "4,663"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연결 EBITDA 전년 대비 15.5% 감소"
+  
+  capex:
+    value: "2,129"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "설비투자 전년 대비 11.1% 감소"
+
+english_summary:
+  title: "SK Telecom Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 17.1T (-4.7% YoY), Operating profit KRW 1.1T (-41.1% YoY)"
+  highlights:
+    - "Consolidated revenue declined 4.7% YoY to KRW 17.1T due to cyber incident impact on mobile revenue"
+    - "Operating profit dropped 41.1% YoY to KRW 1.1T due to cyber incident response costs and penalty-related expenses"
+    - "AI DC revenue grew 34.9% YoY driven by increased utilization of Gasan-Yangju DC and Pangyo DC acquisition"
+  key_figures_en:
+    revenue: "KRW 17.1 trillion (consolidated, -4.7% YoY)"
+    operating_profit: "KRW 1.1 trillion (-41.1% YoY)"
+    net_income: "KRW 0.4 trillion (-73.0% YoY)"
+    ebitda: "KRW 4.7 trillion (-15.5% YoY)"
+  outlook: "Focus on enhancing fundamental competitiveness through product-channel optimization and customer lifetime value-centered operations in 2026."
+---
+
+# SK telecom
+
+## Investor Briefing
+
+# 2025년 연간 실적
+
+2026.2.5.
+
+---
+
+# Disclaimer
+
+본 자료는 SK텔레콤(주) (이하 "회사")과 그 자회사들의 재정 상황, 운영·영업성과 및 회사 경영진의 계획·목표와 관련된 향후 전망을 포함하고 있습니다.
+
+그러한 향후 전망은 회사의 실제 성과에 영향을 줄 수 있는 알려지지 않은 위험과 불확실성, 그리고 다른 요인들에 의해 변경될 수 있습니다.
+
+회사는 본 자료에 포함된 정보의 정확성과 완벽성에 대해서 암묵적 또는 명시적으로 보장할 수 없으며, 본 자료에 서술된 내용은 과거 또는 미래에 대한 약속이나 진술로 간주될 수 없습니다.
+
+따라서, 본 자료는 투자자들의 투자 결과에 대하여 어떠한 법적인 목적으로 사용되어서는 안되며, 회사는 본 자료에서 제공되는 정보에 기하여 발생되는 투자 결과에 대해 어떠한 책임이나 손해 또는 피해를 지지 않음을 알려드립니다.
+
+또한 본 자료는 외부감시인의 회계 감사가 완료되지 않은 상태에서 K-IFRS 기준으로 작성된 회사의 추정 재무정보 및 영업성과에 대한 내용을 포함하고 있으며, 내용 중 일부는 회계 감사 과정에서 변경될 수 있습니다.
+
+---
+
+# FY2025 Investor Briefing
+
+| 01. Financial Results |
+| 02. Business Highlights |
+| 03. Shareholder Return |
+| 04. Appendix |
+
+---
+
+# Financial Results
+
+## 연결 손익계산서
+
+> 모든 수치는 K-IFRS 연결기준, 단위: 십억원
+
+| 항목 | 2024 | 2025 | YoY | 4Q24 | 4Q25 | YoY |
+|------|------|------|-----|------|------|-----|
+| 매출 | 17,941 | 17,099 | △4.7% | 4,512 | 4,329 | △4.1% |
+| SKT | 12,774 | 12,051 | △5.7% | 3,191 | 3,084 | △3.3% |
+| SKB | 4,411 | 4,533 | 2.8% | 1,121 | 1,157 | 3.2% |
+| 영업비용 | 16,117 | 16,026 | △0.6% | 4,257 | 4,210 | △1.1% |
+| **영업이익** | **1,823** | **1,073** | **△41.1%** | **254** | **119** | **△53.1%** |
+| SKT | 1,523 | 812 | △46.7% | 179 | 131 | △27.1% |
+| SKB | 352 | 289 | △17.9% | 102 | 12 | △88.5% |
+| 순이익 | 1,387 | 375 | △73.0% | 395 | 97 | △75.4% |
+| **지배회사순이익** | **1,250** | **408** | **△67.3%** | **291** | **113** | **△61.3%** |
+| **EBITDA** | **5,518** | **4,663** | **△15.5%** | **1,181** | **1,020** | **△13.7%** |
+| CapEx | 2,394 | 2,129 | △11.1% | 1,227 | 931 | △24.1% |
+
+*주요 변동 요인: 사이버 침해사고로 인한 SKT 이동통신매출 감소, 사이버 침해사고 대응비용 및 위약금 관련 비용 발생*
+
+### 연결 매출
+
+■ **연결 매출은 17.1조원으로 YoY 4.7% 감소**
+- 사이버 침해사고 인한 SKT 이동통신매출 감소
+- SKB 매출은 DCA사업 성장에 따른 증가
+
+■ **연결 영업이익은 1.07조원으로 YoY 41.1% 감소**
+- 사이버 침해사고 대응비용 및 위약금 관련 비용 발생 영향
+
+■ **연결 순이익은 3,751억원으로 YoY 73.0% 감소**
+- 영업이익 감소 및 과징금 영향
+
+### 영업이익 & margin
+
+> 영업이익 및 margin 추이 (단위: 십억원, %)
+
+- 2024: 1,823 (10.2%)
+- 2025: 1,073 (6.3%)
+- 4Q24: 254 (5.6%)
+- 1Q25: 567 (12.7%)
+- 2Q25: 338 (7.8%)
+- 3Q25: 48 (0.0%)
+- 4Q25: 119 (2.8%)
+
+*3분기에 특별히 낮은 마진율은 사이버 침해사고 관련 비용 집중 반영*
+
+### EBITDA & margin
+
+> EBITDA 및 margin 추이 (단위: 십억원, %)
+
+- 2024: 5,518 (30.8%)
+- 2025: 4,663 (27.3%)
+- 4Q24: 1,181 (26.2%)
+- 1Q25: 1,465 (32.9%)
+- 2Q25: 1,233 (28.4%)
+- 3Q25: 946 (23.8%)
+- 4Q25: 1,020 (23.6%)
+
+---
+
+# Financial Results
+
+## SKT 손익계산서
+
+> SKT 별도 기준, 단위: 십억원
+
+| 항목 | 2024 | 2025 | YoY | 4Q24 | 4Q25 | YoY |
+|------|------|------|-----|------|------|-----|
+| **매출** | **12,774** | **12,051** | **△5.7%** | **3,191** | **3,084** | **△3.3%** |
+| 이동통신매출 | 10,670 | 9,946 | △6.8% | 2,661 | 2,538 | △4.6% |
+| 기타 | 2,104 | 2,105 | 1.1% | 530 | 546 | 3.1% |
+| 영업비용 | 11,251 | 11,239 | △0.1% | 3,011 | 2,953 | △1.9% |
+| 마케팅비용 | 2,909 | 2,900 | △0.3% | 747 | 763 | 2.1% |
+| 감가상각비¹⁾ | 2,780 | 2,634 | △5.3% | 698 | 667 | △4.3% |
+| **영업이익** | **1,523** | **812** | **△46.7%** | **179** | **131** | **△27.1%** |
+| **영업이익률** | **11.9%** | **6.7%** | **△5.2%p** | **5.6%** | **4.2%** | **△1.4%p** |
+| 순이익 | 1,280 | 411 | △67.9% | 286 | 106 | △62.9% |
+| **EBITDA** | **4,303** | **3,445** | **△19.9%** | **877** | **798** | **△9.0%** |
+| **EBITDA마진률** | **33.7%** | **28.6%** | **△5.1%p** | **27.5%** | **25.9%** | **△1.6%p** |
+
+¹⁾ 감가상각비는 R&D와 운영기간용 자산을 포함
+
+### SKT 실적 요약
+
+■ **별도 매출은 12.05조원으로 YoY 5.7% 감소**
+- 무선 가입자 감소와 8월 모금 50% 할인 등 요금 인하 마케팅 시행 영향
+
+■ **별도 영업이익은 8,118억원으로 YoY 46.7% 감소**
+- 매출 감소 및 유선교체 등 사이버 침해사고 대응
+
+■ **별도 순이익은 4,108억원으로 YoY 67.9% 감소**
+- 개인정보보호위원회 과징금 및 법인세 감면 특례 종료 영향
+
+## SKB 손익계산서
+
+> SKB 별도 기준, 단위: 십억원
+
+| 항목 | 2024 | 2025 | YoY | 4Q24 | 4Q25 | YoY |
+|------|------|------|-----|------|------|-----|
+| **매출** | **4,411** | **4,533** | **2.8%** | **1,121** | **1,157** | **3.2%** |
+| 유료방송 | 1,920 | 1,905 | △0.8% | 485 | 475 | △2.1% |
+| 유선통신 | 1,124 | 1,155 | 2.8% | 288 | 296 | 2.8% |
+| B2B사업 | 1,367 | 1,473 | 7.8% | 348 | 387 | 11.2% |
+| 영업비용 | 4,059 | 4,244 | 4.6% | 1,019 | 1,146 | 12.4% |
+| **영업이익** | **352** | **289** | **△17.9%** | **102** | **12** | **△88.5%** |
+| **영업이익률** | **8.0%** | **6.4%** | **△1.6%p** | **9.1%** | **1.0%** | **△8.1%p** |
+| 순이익 | 256 | 163 | △36.3% | 86 | (11) | 적자전환 |
+| **EBITDA** | **1,310** | **1,276** | **△2.6%** | **341** | **259** | **△24.0%** |
+| **EBITDA마진률** | **29.7%** | **28.2%** | **△1.6%p** | **30.4%** | **22.4%** | **△8.0%p** |
+
+### SKB 실적 요약
+
+■ **SK
+
+
+---
+
+## DART 연결재무제표 (SK텔레콤, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 170,992.1 | DART |
+| 영업이익 | 10,732.1 | DART |
+| 당기순이익 | 3,750.8 | DART |
+| 자산총계 | 301,077.8 | DART |
+| 부채총계 | 171,524.9 | DART |
+| 자본총계 | 129,552.9 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0
