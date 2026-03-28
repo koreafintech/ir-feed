@@ -1,0 +1,360 @@
+```markdown
+---
+title: "삼성SDI 2025년 4분기 실적발표"
+company: "삼성SDI"
+doc_type: "실적발표"
+publish_date: "2026-02-02"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "2,751.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,899.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "235,701.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "132,667"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 20.0% 감소"
+  operating_loss:
+    value: "17,224"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "2024년 3,633억원 이익에서 적자 전환"
+  net_loss:
+    value: "5,849"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "2024년 5,755억원 이익에서 적자 전환"
+  q4_revenue:
+    value: "38,587"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "전분기 대비 26.4% 증가, 전년 동기 대비 2.8% 증가"
+  total_assets:
+    value: "422,553"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년말"
+    confidence: 0.98
+    note: "전년말 대비 16,580억원 증가"
+  capex_2025:
+    value: "3.3"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "전년 6.6조원 대비 50% 감소"
+  ebitda_2025:
+    value: "3,776"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "Stage 4 교정: 누락 필드 추가"
+  ebitda_margin_2025:
+    value: "2.85"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "Stage 4 교정: 3,776억원 ÷ 132,667억원 = 2.85% 계산 제공"
+  debt_to_equity_ratio:
+    value: "0.46"
+    basis: "연결"
+    period: "2025년말"
+    confidence: 0.95
+    note: "Stage 4 교정: 108,839억원 ÷ 235,701억원 = 0.46 계산 제공"
+  segment_operating_profit_2025_battery:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 2025년 배터리 세그먼트 영업이익(손실) 수치 누락 - 원본 확인 필요"
+  segment_operating_profit_2025_materials:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 2025년 전자재료 세그먼트 영업이익(손실) 수치 누락 - 원본 확인 필요"
+  battery_market_forecast_2026_ess:
+    value: "N/A"
+    unit: "GWh"
+    basis: "시장전망"
+    period: "2026"
+    confidence: 0
+    note: "Stage 4 교정: 배터리 시장 전망 2026년 ESS 수치 누락 - 원본 확인 필요"
+  battery_market_forecast_2026_small:
+    value: "N/A"
+    unit: "GWh"
+    basis: "시장전망"
+    period: "2026"
+    confidence: 0
+    note: "Stage 4 교정: 배터리 시장 전망 2026년 소형 배터리 수치 누락 - 원본 확인 필요"
+  ess_forecast_2026_complete:
+    value: "N/A"
+    unit: "GWh"
+    basis: "시장전망"
+    period: "2026"
+    confidence: 0
+    note: "Stage 4 교정: 美 ESS 배터리 시장 전망 2026년 수치 불완전 - 원본 확인 필요"
+
+english_summary:
+  title: "Samsung SDI Q4 2025 Earnings Results"
+  one_liner: "⚠️ Revenue KRW 13.3T (-20% YoY), Operating loss KRW 1.7T (vs. KRW 0.36T profit in 2024), Net loss KRW 0.58T (vs. KRW 0.58T profit in 2024). Stage 4 교정: 순손실 표기 'KRW 0.6T'에서 'KRW 0.58T'로 수정 (confidence 0.85 미만 항목)"
+  highlights:
+    - "Q4 revenue recovery to KRW 3.9T (+26.4% QoQ) despite full-year decline"
+    - "Battery business affected by EV sales slowdown and ESS tariff burden"
+    - "Electronic materials revenue declined due to reduced OLED material sales"
+    - "Strengthened ESS sales foundation with global BBU market share of 50%"
+    - "Signed large-scale supply contracts worth 150TWh+ over 5 years"
+    - "Reduced CAPEX to KRW 3.3T in 2025 from KRW 6.6T in 2024"
+  key_figures_en:
+    revenue: "KRW 13.3 trillion (consolidated, -20% YoY)"
+    operating_loss: "KRW 1.7 trillion (vs. KRW 0.36T profit in 2024)"
+    net_loss: "⚠️ KRW 0.58 trillion (vs. KRW 0.58T profit in 2024). Stage 4 교정: 반올림 기준 명확화"
+    q4_revenue: "KRW 3.9 trillion (+26.4% QoQ, +2.8% YoY)"
+    total_assets: "KRW 42.3 trillion (+KRW 1.7T YoY)"
+  outlook: "Focus on ESS battery full capacity sales (20GWh), power tool market expansion, and investment efficiency optimization for 2026."
+---
+
+# SAMSUNG SDI
+
+## 2025년 4분기 실적설명회
+
+2026.2.2
+
+---
+
+# Disclaimer
+
+• 본 자료의 재무정보는 한국채택국제회계기준(K-IFRS)에 따라 작성된 연결 기준의 잠정 영업실적에 기초하여 작성되었습니다.
+
+• 본 자료는 외부감시인의 회계감사가 완료되지 않은 상태에 투자자들의 편의를 위해 제공되는 정보로, 내용 중 일부는 회계감사 과정에서 변경될 수 있습니다.
+
+• 본 자료는 미래에 대한 예상, 전망, 계획, 기대 등의 '예측 정보'를 포함하고 있습니다. 이러한 미래에 대한 예측 정보는 그 성격의 불확실성으로 인해 실제 결과와 차이가 발생할 수 있음을 양지하시기 바랍니다.
+
+---
+
+# 1. 2025년 Review
+
+## 재무 현황
+
+### 손익계산서 (단위: 억원, 연결기준)
+
+| 항목 | '24.4Q | '25.3Q | '25.4Q | QoQ | YoY | '24년 | '25년 | YoY |
+|---|---|---|---|---|---|---|---|---|
+| 매출 | 37,545 | 30,518 | 38,587 | +26.4% | +2.8% | 165,922 | 132,667 | △20.0% |
+| 영업이익(손실) | △2,567 | △5,913 | △2,992 | 적자 지속 | 적자 지속 | 3,633 | △17,224 | 적자 전환 |
+| 세전이익(손실) | △3,472 | △4,296 | △2,364 | 적자 지속 | 적자 지속 | 5,273 | △13,640 | 적자 전환 |
+| 당기순이익(손실) | △2,427 | 57 | △2,078 | 적자 전환 | 적자 지속 | 5,755 | △5,849 | 적자 전환 |
+| EBITDA | 2,222 | △767 | 2,733 | 흑자 전환 | +23.0% | 22,162 | 3,776 | △83.0% |
+
+*주: 2025년 4분기 매출은 전분기 대비 26.4% 회복했으나, 연간 기준으로는 전년 대비 20% 감소*
+
+### 재무상태표 (단위: 억원, 연결기준)
+
+| 항목 | '24년말 | '25.3분기 | '25년말 | QoQ | YoY |
+|---|---|---|---|---|---|
+| 자산 | 405,973 | 421,745 | 422,553 | +808 | +16,580 |
+| 부채 | 190,301 | 187,017 | 186,852 | △164 | △3,449 |
+| 자본 | 215,672 | 234,729 | 235,701 | +972 | +20,029 |
+| 현금성자산 | 18,851 | 21,486 | 18,040 | △3,446 | △811 |
+| 차입금 | 115,779 | 114,414 | 108,839 | △5,575 | △6,940 |
+
+*주: 총 자산은 전년말 대비 1.7조원 증가, 차입금은 0.7조원 감소. D/E 비율 0.46배 (2025년말 기준)*
+
+### R&D 및 CAPEX (단위: 조원)
+
+| 연도 | R&D | CAPEX |
+|---|---|---|
+| 2023년 | 1.1 | 4.3 |
+| 2024년 | 1.3 | 6.6 |
+| 2025년 | 1.4 | 3.3 |
+
+*주: 2025년 CAPEX는 전년 대비 50% 감소하여 투자 효율화 추진. EBITDA 마진율 2.85% (3,776억원 ÷ 132,667억원)*
+
+---
+
+# 1. 2025년 Review
+
+## 사업별 실적
+
+### 4분기 실적 (단위: 억원, 연결기준)
+
+#### 매출액
+
+| 분기 | 총 매출 | 배터리 | 전자재료 |
+|---|---|---|---|
+| '24.4Q | 37,545 | 1,901 | 35,644 |
+| '25.3Q | 30,518 | 2,318 | 28,200 |
+| '25.4Q | 38,587 | 2,367 | 36,220 |
+
+*주: 4분기 배터리 매출은 전분기 대비 소폭 증가, 전자재료는 전분기 대비 28% 증가*
+
+#### 영업손실 (단위: 억원, 연결기준)
+
+| 분기 | 영업손실 |
+|---|---|
+| '24.4Q | △2,567 |
+| '25.3Q | △5,913 |
+| '25.4Q | △2,992 |
+
+### 연간 실적 (단위: 억원, 연결기준)
+
+#### 매출액
+
+| 연도 | 총 매출 | 배터리 | 전자재료 |
+|---|---|---|---|
+| 2024년 | 165,922 | 9,010 | 156,912 |
+| 2025년 | 132,667 | 8,826 | 123,841 |
+| 증감률 | △20.0% | △2.0% | △21.1% |
+
+#### 영업이익(손실) (단위: 억원, 연결기준)
+
+| 연도 | 총 영업이익(손실) | 배터리 | 전자재료 |
+|---|---|---|---|
+| 2024년 | 3,633 | 1,456 | 2,177 |
+| 2025년 | △17,224 | ⚠️ N/A | ⚠️ N/A |
+
+*주: 2024년 1,456억원(배터리) + 2,177억원(전자재료) = 3,633억원 영업이익에서 2025년 대폭 적자 전환. Stage 4 교정: 2025년 배터리/전자재료 세그먼트별 영업손실 수치 누락 - 원본 확인 필요 (confidence 0.85 미만)*
+
+**주요 실적 요인:**
+- **배터리**: 친환경 정책 변화, 전략 고객의 판매 부진 등에 따른 EV 판매 감소, ESS 관세 부담, 소형 수요 회복 지연 등의 영향
+- **전자재료**: 반도체 소재 실적 개선에도 불구, OLED 소재 판매 감소로 전년도 대비 매출 감소 및 수익성 감소
+
+---
+
+# 1. 2025년 Review
+
+## 2025년 주요 경영성과
+
+### ESS 판매 기반 강화
+
+[이미지: AI 칩, 배터리 관리 시스템, 에너지 저장 시스템]
+
+- **NCA SBB 1.7, LFP SBB 2.0** 유일한 각형 구조 ESS 솔루션
+- **ESS Capa 증설 지속** 美 현지 ESS Capa 확보 등
+- **BBU 판매 확대** 셀 기준 글로벌 M/S 50% 달성 (3rd party 추정)
+
+### 기술 경쟁력 강화
+
+[이미지: 차세대 배터리, CES Innovation Awards 2026, 배터리 제품]
+
+- **ESS 안정성** (The SmartESS Award - 대한민국 기술대상) 및 원형 초고출력 기술력 인정 (CES 최고 혁신상)
+- **BMW 전고체·현대차 로봇용 배터리** 공동 개발 MOU 체결
+- **신제품 최초 적용** G-Host 고밀도 EMC 등 전자재료 신제품
+
+### 수주 활동 강화
+
+[이미지: 배터리, ESS, 배터리 제품]
+
+- **대규모 공급계약 체결 완료** EV용 NCA 배터리 및 ESS용 LFP 각형 등 (총 5년 150TWh+)
+- **국내 ESS 중장기계약시장** 1차 입찰 수주 확정
+- **고출력 원형배터리** Global 전동공구 업체향 공급
+
+---
+
+# 2. 2026년 Preview
+
+## 2026년 시장 전망
+
+### 사업별 시장 전망
+
+#### EV
+- 글로벌 전기차 배터리 수요는 전년 대비 약 16% 성장, 중국 제외 약 26% 성장 전망
+  (미주 △9% 유럽 +9%)
+- 美 전기차 정책 감소·중국산 규제 강화로 유럽서 배터리 경쟁 심화 전망
+
+#### ESS  
+- AI 데이터센터 증가로 전력용·UPS·BBU 수요 성장 지속
+- IRA·관세 등 영향으로 Non-China 공급 업체의 美 시장 공급 기회 확대
+
+#### 소형
+- 원형은 데이터센터 건설 증가로 전동공구 중심 수요 반등
+  E2Wheeler, 로봇 등 신규 시장 수요도 성장 지속
+- 파우치는 스마트폰·폴더블폰 등 프리미엄 모델 중심 고용량 배터리 수요 증가
+
+#### 전자재료
+- 반도체는 AI용 서버투자 확대 영향으로 수요 증가 (2025 $688M → 2026 $717M)
+- 디스플레이는 IT/모바일 OLED 패널 중심으로 성장 (2025 $937M → 2026 $981M)
+
+### 배터리 시장 전망 (단위: GWh)
+
+| 연도 | EV | ESS | 소형 |
+|------|------|------|------|
+| 2025 | 약 1,000 | ⚠️ N/A | ⚠️ N/A |
+| 2026 | 약 1,150 | ⚠️ N/A | ⚠️ N/A |
+| 2027 | ⚠️ N/A | ⚠️ N/A | ⚠️ N/A |
+| 2028 | 약 2,400 | ⚠️ N/A | ⚠️ N/A |
+
+*주: Stage 4 교정: 원본 확인 필요. 2026년 ESS 및 소형 배터리 수치 누락, 2027~2028년 EV 수치 누락 (confidence 0.6 미만). [원본 확인 필요]*
+
+### 美 ESS 배터리 시장 전망 (단위: GWh)
+
+| 연도 | ESS |
+|------|------|
+| 2025 | 약 90 |
+| 2026 | ⚠️ N/A |
+
+*주: Stage 4 교정: 원본 확인 필요. 2026년 수치가 불완전하게 종료됨 (confidence 0.5 미만, critical severity). 문서에서 '약 90 GWh 다음 문구 절단' 확인됨*
+```
+
+
+---
+
+## DART 연결재무제표 (삼성SDI, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 2,751.5 | DART |
+| 영업이익 | 2,899.6 | DART |
+| 자본총계 | 235,701.1 | DART |
+| 영업활동현금흐름 | 7,923.9 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0
