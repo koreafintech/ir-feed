@@ -1,0 +1,360 @@
+```
+---
+title: "LG전자 2025년 3분기 실적발표"
+company: "LG전자"
+doc_type: "실적발표"
+publish_date: "2025-10-31"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "892,008.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "24,783.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "12,204.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "686,201.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "400,681.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "285,520.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "21.87"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "한국채택국제회계기준 기준, 외부감사인 검토 미완료"
+  operating_profit:
+    value: "6,889"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "LG인테 포함"
+  operating_margin:
+    value: "3.1"
+    unit: "%"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "전년동기 3.4% 대비 0.3%p 감소"
+  net_income:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0
+    note: "Stage 4 교정 - 순이익 데이터 미포함, 원본 확인 필요"
+  ebitda:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0
+    note: "Stage 4 교정 - EBITDA 정보 미포함, 원본 확인 필요"
+  cash_flow:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0
+    note: "Stage 4 교정 - 영업현금흐름/자유현금흐름 정보 미포함, 원본 확인 필요"
+  hs_revenue:
+    value: "6.58"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "HS사업부문, 전년동기 대비 4.7% 증가"
+  ms_revenue:
+    value: "4.65"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "MS사업부문, 전년동기 대비 9.5% 감소"
+  vs_revenue:
+    value: "2.65"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "VS사업부문, 전년동기 대비 1.4% 증가"
+  es_revenue:
+    value: "2.17"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "ES사업부문, 전년동기 대비 1.1% 증가"
+  india_ipo_proceeds:
+    value: "1.8"
+    unit: "조원"
+    basis: "별도"
+    period: "3Q2025"
+    confidence: 0.98
+    note: "인도법인 15% 지분 매각 대금, 남부세액 등 제외 후 본사 귀속 예상"
+
+english_summary:
+  title: "LG Electronics Q3 2025 Earnings Results"
+  one_liner: "Revenue KRW 21.87T (-1.4% YoY), Operating profit KRW 0.69T (-8.4% YoY)"
+  highlights:
+    - "Achieved Q3 2025 consolidated revenue of KRW 21.87 trillion and operating profit of KRW 688.9 billion"
+    - "Successfully listed Indian subsidiary on Indian stock market with KRW 1.8 trillion proceeds to headquarters"
+    - "Maintained stable qualitative growth through built-in appliances and online direct sales despite global demand contraction"
+  key_figures_en:
+    revenue: "KRW 21.87 trillion (consolidated, -1.4% YoY)"
+    operating_profit: "KRW 0.69 trillion (-8.4% YoY)"
+    operating_margin: "3.1% (-0.3%p YoY)"
+    hs_revenue: "KRW 6.58 trillion (+4.7% YoY)"
+    ms_revenue: "KRW 4.65 trillion (-9.5% YoY)"
+    vs_revenue: "KRW 2.65 trillion (+1.4% YoY)"
+    es_revenue: "KRW 2.17 trillion (+1.1% YoY)"
+  outlook: "Company expects continued global demand contraction and intensified competition in Q4 2025, while implementing global production system reorganization and accelerating new business models."
+---
+
+# 2025년 3분기 실적 발표
+
+2025년 10월 31일
+
+LG전자
+
+---
+
+본 자료에 포함된 2025년 3분기 LG전자(이하 "회사")의 경영실적 및 재무성과와 관련한 모든 정보는 한국채택국제회계기준에 따라 작성되었습니다.
+
+2025년 3분기 회사의 경영실적 및 재무성과는 투자자의 편의를 위해 **외부감사인의 검토 절차가 완료되지 않은 상태**에서 조기에 작성된 것으로 그 내용 중 일부는 외부감사인의 검토 과정에서 달라질 수 있습니다.
+
+한편 본 자료는 2025년 4분기 매출계획 등 미래에 대한 "예측정보"를 포함하고 있습니다.
+
+위 "예측정보"는 향후 경영환경의 변화 등에 따라 영향을 받으며, 본질적으로 불확실성을 내포하고 있는 바, 이러한 불확실성으로 인하여 실제 미래성과는 "예측정보"에 기재되거나 암시된 내용과 중대한 차이가 있을 수 있습니다.
+
+또한 향후 전망은 현재의 시장상황과 회사의 경영방향 등을 고려한 것으로서 향후 시장환경의 변화와 전략수정 등에 따라 달라질 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결과에 대한 법적 책임 소재의 입증자료로 사용될 수 없습니다.
+
+---
+
+# 목차
+
+| I | 연결기준 경영실적 및 전망 |
+|---|---|
+| II | 사업부문별 실적 및 전망 |
+| III | ESG 경영 활동 및 성과 |
+
+---
+
+# I 연결기준 경영실적 및 전망
+
+---
+
+## 연결기준 경영실적 리뷰 및 전망
+
+### 실적 및 전망
+
+#### 3분기 실적
+
+**2025년 3분기 연결 기준 매출액은 21.87조원**(전년동기 대비 -1.4%), **영업이익은 6,889억원**(전년동기 대비 -8.4%)**을 기록**
+
+3분기 전사 매출은,
+- 글로벌 수요 위축 및 경쟁 심화에 따른 디스플레이 사업 부진에도 전년 수준을 확보했으며,
+- 빌트인 가전 / 온라인 직접판매 등에 기반한 안정적인 질적성장 지속
+
+전사 영업이익은
+- 글로벌 경쟁 심화 및 인적 운영 효율성 임시적 비용 증가로 전년 대비 영업이익 감소하였으나,
+- 사업 경쟁력 강화 및 조직 역동성 확보를 위한 선제적 대응 영향
+
+**미국 관세정책 영향과 지정학적 리스크, 그에 따른 글로벌 수요 위축은 지속될 전망**
+
+**더욱 심화된 경쟁 구도는 사업 운영의 부담 요소**
+
+#### 4분기 전망
+
+#### 대응 전략
+
+- 글로벌 생산체제 개편의 생산지 적정화 및 가격인상 등 시나리오별 대응을 통해 관세 영향을 최소화
+
+- 최근 성공적인 인도법인 상장을 기반으로 성장 잠재력 큰 Global South 지역에서 매출 성장 모멘텀 확보하고,
+  선진 시장에서 각 지역별 특화된 제품을 통해 시장 지배력 강화
+
+- 빌트인 가전, webOS 플랫폼, 온라인 직접판매 등 신사업모델의 성장을 가속
+
+  전장 / 상업 공조 등 B2B 사업 비중 확대를 통해 질적 성장을 지속
+
+- 조직의 역동성 확보를 위한 선제적 노력과 원가 구조 개선 및 효율적 실행을 통해 중장기적 사업의 경쟁력을 강화
+
+---
+
+# 인도법인 상장
+
+## CFO Message
+
+### 인도법인 상장
+
+• 2025년 10월 14일 LG전자 인도법인을 인도 주식 시장에 상장
+
+• 인도 IPO 역사상 2008년 이후 최대 규모의 자금이 몰려 공모 주식수의 **54배에 달하는 경쟁률**을 기록
+
+• 시가총액 기준 **18조원 이상의 기업가치 평가** 확보
+
+• 보유한 인도법인 발행주식의 **15% 매각 대금 약 1.8조원**은 인도법인에 따른 남부세액 등 제외 후 전액 본사 귀속
+
+### 인도법인 현황
+
+• 인도로 집중한 미래 생산과 판매 전략에 걸친 "현지 완결형 사업구조" 구축
+
+• 인도 가전 시장 M/S 1등의 시장 지위와 강력한 브랜드 인지도 지속 유지
+
+• 인도법인 상장을 통해 명실상부한 인도 국민 기업으로의 도약 추진
+
+### 인도사업의 미래비전
+
+• **Make for India** : 인도 고객의 라이프스타일에 최적화된 전략
+
+• **Make in India** : 신설 중인 제3공장을 포함하여 현지 완결형 사업구조를 고도화
+
+• **Make India Global** : 글로벌 무대 진출을 위한 파트너로 지속 가능한 성장을 도모
+
+---
+
+# 연결기준 경영실적 및 전망
+
+## 매출 및 손익
+
+### 매출/손익
+(단위: 억원, 연결기준)
+
+<!-- 영업이익률: 3.1%, 3.1%, 3.4% -->
+
+| | 2Q'25 | QoQ | 3Q'25 | YoY | 3Q'24 |
+|---|---|---|---|---|---|
+| **연결¹⁾** | | | | | |
+| 매출액 | 207,352 | +5.5% | 218,737 | -1.4% | 221,764 |
+| 영업이익 | 6,394 | +495 | 6,889 | -630 | 7,519 |
+| (%) | 3.1% | +0.0%p | 3.1% | -0.3%p | 3.4% |
+| **HS²⁾** | | | | | |
+| 매출액 | 65,944 | -0.2% | 65,804 | +4.7% | 62,822 |
+| 영업이익 | 4,399 | -740 | 3,659 | +114 | 3,545 |
+| (%) | 6.7% | -1.1%p | 5.6% | +0.0%p | 5.6% |
+| **MS²⁾** | | | | | |
+| 매출액 | 43,934 | +5.9% | 46,525 | -9.5% | 51,385 |
+| 영업이익 | -1,917 | -1,109 | -3,026 | -3,134 | 108 |
+| (%) | -4.4% | -2.1%p | -6.5% | -6.7%p | 0.2% |
+| **VS²⁾** | | | | | |
+| 매출액 | 28,494 | -7.1% | 26,467 | +1.4% | 26,113 |
+| 영업이익 | 1,262 | +234 | 1,496 | +1,485 | 11 |
+| (%) | 4.4% | +1.3%p | 5.7% | +5.7%p | 0.0% |
+| **ES²⁾** | | | | | |
+| 매출액 | 26,442 | -18.0% | 21,672 | +1.1% | 21,441 |
+| 영업이익 | 2,505 | -1,176 | 1,329 | -235 | 1,564 |
+| (%) | 9.5% | -3.4%p | 6.1% | -1.2%p | 7.3% |
+
+주석:
+1) LG인테 포함
+2) 2024년 1분기부터 신규 제품 기준으로 이전계정분류가 적용되었으며, 동일한 기준에 따라 과거 자료도 재작성하였음
+
+<!-- 각 사업부문별 영업이익률 변동 분석:
+- HS: 전년동기 5.6% 수준 유지
+- MS: 적자폭 확대 (-6.5%)
+- VS: 대폭 개선 (5.7%, 전년동기 0.0%)
+- ES: 소폭 하락 (6.1%, 전년동기 7.3%) -->
+
+### 매출액 추이
+
+**연결 기준 매출액** (단위: 조원)
+
+- 2Q'25: **20.74조원**
+- QoQ: **5.5%↑**  
+- 3Q'25: **21.87조원**
+- YoY: **1.4%↓**
+- 3Q'24: **22.18조원**
+
+---
+
+# 사업포트폴리오 전환
+
+## 주요 Initiative별 현황
+
+### B2B
+
+**B2B 매출액 및**
+
+> ⚠️ **Stage 4 교정 안내**
+> - net_income (순이익 데이터 미포함) - key_figures에 placeholder 추가됨
+> - ebitda (EBITDA 정보 미포함) - key_figures에 placeholder 추가됨
+> - cash_flow (영업현금흐름, 자유현금흐름 정보 미포함) - key_figures에 placeholder 추가됨
+> 
+> 원본 문서에서 상기 항목들을 확인하시기 바랍니다.
+```
+
+
+---
+
+## DART 연결재무제표 (LG전자, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 892,008.8 | DART |
+| 영업이익 | 24,783.9 | DART |
+| 당기순이익 | 12,204.1 | DART |
+| 자산총계 | 686,201.7 | DART |
+| 부채총계 | 400,681.4 | DART |
+| 자본총계 | 285,520.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

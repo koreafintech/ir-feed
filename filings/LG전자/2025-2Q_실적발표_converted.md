@@ -1,0 +1,325 @@
+```markdown
+---
+title: "LG전자 2025년 2분기 실적발표"
+company: "LG전자"
+doc_type: "실적발표"
+publish_date: "2025-07-25"
+fiscal_year: 2025
+fiscal_quarter: "Q2"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-11T03:21:30Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "892,008.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "24,783.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "12,204.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "686,201.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "400,681.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "285,520.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "20.74"
+    unit: "조원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0.98
+    note: "전년 동기 대비 4.4% 감소"
+  
+  operating_profit:
+    value: "6,394"
+    unit: "억원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0.98
+    note: "전년 동기 대비 5,578억원 감소 | Stage 4 교정: 세그먼트 합계(6,249억원)와 145억원 차이 발생 - 원본 확인 필요 ⚠️"
+  
+  operating_margin:
+    value: "3.1"
+    unit: "%"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0.98
+    note: "전년 동기 대비 2.4%p 하락"
+
+  b2b_revenue:
+    value: "6.2"
+    unit: "조원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0.95
+    note: "전체 매출 대비 37% 비중 | Stage 4 교정: YoY +3.33% (표기 +3% 정확) ⚠️"
+
+  subscription_revenue:
+    value: "6,300"
+    unit: "억원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0.85
+    note: "전년 동기 대비 18% 증가 | Stage 4 교정: English summary의 KRW 630 billion과 불일치 - 단위 변환 오류 ⚠️ 원본 확인 필요"
+
+  net_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 핵심 항목 - 원본 자료에서 확인 필요"
+
+  net_margin:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 핵심 지표 - 원본 자료에서 확인 필요"
+
+english_summary:
+  title: "LG Electronics Q2 2025 Earnings Results"
+  one_liner: "Revenue KRW 20.74T (-4.4% YoY), Operating profit KRW 639.4B (-46.6% YoY)"
+  highlights:
+    - "Continued focus on qualitative growth through B2B business expansion and subscription services"
+    - "B2B revenue reached KRW 6.2T, accounting for 37% of total revenue"
+    - "Subscription business grew 18% YoY despite challenging market conditions"
+    - "Announced interim dividend of KRW 500 per share and treasury stock cancellation"
+  key_figures_en:
+    revenue: "KRW 20.74 trillion (consolidated, -4.4% YoY)"
+    operating_profit: "KRW 639.4 billion (-46.6% YoY)"
+    operating_margin: "3.1% (-2.4%p YoY)"
+    b2b_revenue: "KRW 6.2 trillion (37% of total revenue)"
+    subscription_revenue: "KRW 6,300 billion (+18% YoY) | Stage 4 교정: ⚠️ 원본의 'KRW 630 billion'에서 단위 변환 오류로 보임 - 원본 확인 필요"
+  outlook: "Company expects continued uncertainties from US tariff policies and geopolitical risks in Q3 while focusing on production optimization and market-specific strategies."
+---
+
+# 2025년 2분기 실적 발표
+
+2025년 7월 25일
+
+LG전자
+
+---
+
+본 자료에 포함된 2025년 2분기 LG전자(이하 "회사")의 경영실적 및 재무성과와 관련한 모든 정보는 한국재무회계기준에 따라 작성되었습니다.
+
+2025년 2분기 회사의 경영실적 및 재무성과는 투자자의 편의를 위해 외부감사인의 검토 절차가 완료되지 않은 상태에서 조기에 작성된 것으로 그 내용 중 일부는 외부감사인의 검토 과정에서 달라질 수 있습니다.
+
+한편 본 자료는 2025년 3분기 매출계획 등 미래에 대한 "예측정보"를 포함하고 있습니다. 이러한 "예측정보" 역시 현재 가능한 경영실적을 담고 있습니다.
+
+위 "예측정보"는 향후 경영환경 변화 등에 따라 영향을 받으며, 본질적으로 불확실성을 내포하고 있는 바, 이러한 불확실성으로 인하여 실제 미래성과는 "예측정보"에 기재되거나 암시된 내용과 중대한 차이가 있을 수 있습니다.
+
+또한 향후 전망은 현재의 시장상황과 회사의 경영방향 등을 고려한 것으로써 향후 시장환경의 변화와 전략수정 등에 따라 달라질 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결과에 대한 법적 책임 소재의 입증자료로 사용될 수 없습니다.
+
+---
+
+# 목차
+
+| I | 연결기준 경영실적 및 전망 |
+|---|---|
+| II | 사업부문별 실적 및 전망 |
+| III | ESG 경영 활동 및 성과 |
+
+---
+
+# I 연결기준 경영실적 및 전망
+
+---
+
+## 연결기준 경영실적 리뷰 및 전망
+
+### 2분기 실적
+
+◎ **2025년 2분기 연결 기준 매출액은 20.74조원(연결기준), 영업이익은 6,394억원(연결기준)을 기록**
+
+> **Stage 4 교정 주석:** 세그먼트별 영업이익 합계(HS 4,399억원 + MS -1,917억원 + VS 1,262억원 + ES 2,505억원 = 6,249억원)와 연결 영업이익 6,394억원 간 145억원 차이 발생. ⚠️ 원본 자료에서 세그먼트 합계와 연결 수준 간 차이 원인 확인 필요
+
+◎ 2분기 전사 매출은,
+- 미국 관세정책 변동성, 중동 지정학적 리스크, 이로 인한 소비심리 위축 지속 등 비우호적 경영환경 지속되어 전년 동기 대비 매출 감소하였으나, 구독 / 운영형 직접판매 / 주력 B2B 사업 등을 중심으로 질적 성장 기반 강화 중
+
+◎ 전사 영업이익은,
+- 미국 관세 비용 부담과 TV사업의 시장 수요 저하 및 경쟁심화로 전년 동기 대비 영업이익이 감소하였으나, 그 외 사업들은 오퍼레이션 효율화 등을 통해 전년 동기 수준 또는 전년 대비 개선된 안정적인 수익성 확보
+
+### 3분기 전망
+
+◎ 본격화되는 미국 관세정책 영향과 소비심리 위축 우려, 지정학적 리스크 등 불확실성 요인이 지속될 전망
+
+◎ 심화되는 경쟁환경 및 마케팅 비용 증가 그리고 원자재 가격 상승으로 인한 제품 원가 상승 요인 또한 사업 운영상 부담 요소
+
+### 대응 전략
+
+◎ 미국 관세 인상 부담은 글로벌 생산체계 기반의 생산지 최적화 등 신속한 대응을 통해 사업 영향을 최소화
+
+◎ 각 지역별 / 세그먼트별 특화된 대응 전략을 통해
+- 프리미엄 시장 차별력을 강화하고 보급형 시장 또한 적극 공략하여 매출 성장 모멘텀 확보
+
+◎ 전장 / 냉난방 공조 등 B2B사업, 가전구독 webOS 플랫폼의 높은 성장세를 기반으로, 수익성을 강화하는 질적 성장 지속
+
+◎ 경쟁심화에 따른 비용 증가는 원가구조 개선 노력과 오퍼레이션 효율성 제고를 통해 극복하여 안정적인 수익성 확보
+
+---
+
+# 질적 성장 전략
+
+## CFO Message
+
+**질적 성장 전략 성과**
+
+- 전장 / HVAC / 스마트팩토리, 부품 솔루션 등 B2B사업의 비중 확대
+- 가전구독 / 온라인 직접판매 등 D2C분야의 견조한 성장세 지속
+- webOS 플랫폼 사업, 전문화된 케어서비스, HVAC 유지 보수 등 Non-HW사업의 성장도 가속화
+
+**질적 성장 전략 효과**
+
+- B2B 거래선과 구축해 온 장기적인 동반 성장 노력과
+  가전구독, 온라인 직접판매 사업 등을 통해 확보한 고객과의 직접적인 관계 형성에 기반한 성과
+- 심화되는 경쟁에서 차별적인 경쟁우위를 확보, 상대적으로 높은 수익성 확보 가능
+
+**주주환원 계획 이행**
+
+- 중간 배당 기준일 및 배당금액 공시
+  - 배당 기준일: 2025년 8월 1일
+  - **배당 금액: 1주당 500원(보통주, 우선주 동일)**
+- 기 취득한 자기주식 소각 결정 공시
+  - 소각 예정일: 2025년 7월 31일
+  - **소각대상 주식: 보통주 761,427주**
+
+---
+
+# 연결기준 경영실적 및 전망
+
+## 매출·손익
+
+**영업이익률(연결기준)**
+<!-- 주석: 영업이익률 3.1%는 영업이익 6,394억원 ÷ 매출액 20.74조원으로 계산됨 -->
+
+| | 1Q'25 | QoQ | 2Q'25 | YoY | 2Q'24 |
+|---|---|---|---|---|---|
+| **영업이익률** | 5.5% | -2.4%p | 3.1% | -2.4%p | 5.5% |
+
+**매출액(연결기준, 단위: 조원)**
+
+| | 1Q'25 | QoQ | 2Q'25 | YoY | 2Q'24 |
+|---|---|---|---|---|---|
+| **매출액** | 22.74 | -8.8% | 20.74 | -4.4% | 21.69 |
+
+## 부문별 실적
+
+<!-- 주석: HS=Home & Smart, MS=Mobile Solutions, VS=Vehicle Solutions, ES=Energy Solutions -->
+
+| 부문 | | 1Q'25 | QoQ | 2Q'25 | YoY | 2Q'24 |
+|---|---|---|---|---|---|---|
+| **연결** | 매출액(억원) | 227,398 | -8.8% | 207,352 | -4.4% | 216,944 |
+| | 영업이익(억원) | 12,591 | -6,197 | 6,394 | -5,578 | 11,972 |
+| | 영업이익률(%) | 5.5% | -2.4%p | 3.1% | -2.4%p | 5.5% |
+| **HS¹⁾** | 매출액(억원) | 66,968 | -1.5% | 65,944 | +2.8% | 64,163 |
+| | 영업이익(억원) | 6,446 | -2,047 | 4,399 | +109 | 4,290 |
+| | 영업이익률(%) | 9.6% | -2.9%p | 6.7% | +0.0%p | 6.7% |
+| **MS¹⁾** | 매출액(억원) | 49,503 | -11.2% | 43,934 | -13.5% | 50,766 |
+| | 영업이익(억원) | 49 | -1,966 | -1,917 | -3,185 | 1,268 |
+| | 영업이익률(%) | 0.1% | -4.5%p | -4.4% | -6.9%p | 2.5% |
+| **VS¹⁾** | 매출액(억원) | 28,432 | +0.2% | 28,494 | +5.8% | 26,921 |
+| | 영업이익(억원) | 1,251 | +11 | 1,262 | +434 | 828 |
+| | 영업이익률(%) | 4.4% | +0.0%p | 4.4% | +1.3%p | 3.1% |
+| **ES¹⁾** | 매출액(억원) | 30,544 | -13.4% | 26,442 | +4.3% | 25,357 |
+| | 영업이익(억원) | 4,067 | -1,562 | 2,505 | +16 | 2,489 |
+| | 영업이익률(%) | 13.3% | -3.8%p | 9.5% | -0.3%p | 9.8% |
+
+1) LG이노텍 포함  
+2) 2Q'25 1분기부터 신설 자회사로 운영사업이 이관되었으며, 동일한 기준에 따라 과거 자료도 재작성하였음
+
+> **Stage 4 교정 주석:** 세그먼트별 영업이익 합계 검증: 4,399 + (-1,917) + 1,262 + 2,505 = 6,249억원 ≠ 6,394억원 (차이: 145억원). ⚠️ 원본 자료에서 세그먼트 합계와 연결 수준 간 차이의 원인(기타 항목, 제거/통합 항목 등)을 설명하는 조정 내역이 필요함
+
+---
+
+# 사업포트폴리오 전환
+
+## 주요 Initiative별 현황
+
+### B2B
+
+**매출(연결기준, 단위: 조원, %)**
+
+| | 1Q'25 | QoQ | 2Q'25 | YoY | 2Q'24 |
+|---|---|---|---|---|---|
+| **B2B 매출** | 6.5 | -4% | 6.2 | +3% | 6.0 |
+| **B2B 비중** | 36% | +1%p | 37% | +2%p | 35% |
+
+> **Stage 4 교정 주석:** QoQ 변화율 표기 수정: "8.8% ↓" → "-4%" (계산: (6.2-6.5)/6.5 = -4.6% ≈ -4%)
+> YoY 변화율: +3.33% ≈ +3% (표기 정확) ⚠️ confidence: 0.9, 원본 자료의 정확한 계산 기준 확인 권장
+
+**2분기 성과**
+
+- PJT별 납기이행 등으로 산업용 디스플레이 및 칠러 매출 전분기 대비
+```
+
+
+---
+
+## DART 연결재무제표 (LG전자, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 892,008.8 | DART |
+| 영업이익 | 24,783.9 | DART |
+| 당기순이익 | 12,204.1 | DART |
+| 자산총계 | 686,201.7 | DART |
+| 부채총계 | 400,681.4 | DART |
+| 자본총계 | 285,520.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

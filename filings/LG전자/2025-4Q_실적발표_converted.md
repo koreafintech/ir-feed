@@ -1,0 +1,342 @@
+```yaml
+---
+title: "LG전자 2025년 4분기 실적발표"
+company: "LG전자"
+doc_type: "실적발표"
+publish_date: "2026-01-30"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-30T00:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "892,008.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "24,783.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "12,204.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "686,201.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "400,681.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "285,520.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "23.85"
+    unit: "조원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "전년 동기 대비 4.8% 증가"
+  operating_profit:
+    value: "-1,090"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "영업손실 발생, 전년 동기 1,354억원 대비 적자 전환"
+  operating_margin:
+    value: "-0.5"
+    unit: "%"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "전년 동기 0.6% 대비 마이너스 전환"
+  net_income:
+    value: "-7,259"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "순손실 발생, 전년 동기 -7,137억원 대비 손실 확대"
+  cash_end_period:
+    value: "87,698"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "기말 현금 및 현금성 자산"
+  debt_ratio:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 추가, 원본 데이터 미제공"
+  segment_operating_margin_detail:
+    value: "N/A"
+    unit: "%"
+    basis: "세그먼트별"
+    period: "Q3 2025"
+    confidence: 0
+    note: "Stage 4 교정: HS, MS 세그먼트 Q3 영업이익 재계산 값 검증 필요 - ⚠️ 원본 확인 필요"
+  full_year_2025_figures:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "FY 2025"
+    confidence: 0
+    note: "Stage 4 교정: 연간 누적 실적(FY2025) 수치 부재, Q4만 제시됨"
+
+english_summary:
+  title: "LG Electronics Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 2.385T (+4.8% YoY), Operating loss KRW 109B vs profit 135.4B in Q4'24"
+  highlights:
+    - "Revenue growth driven by global south expansion and premium segment focus despite challenging market conditions"
+    - "Operating loss in Q4'25 due to structural improvements in display business and market headwinds"
+    - "B2B business maintained stable 34% revenue share, subscription service grew 21% YoY"
+  key_figures_en:
+    revenue: "KRW 2.385 trillion (consolidated, +4.8% YoY)"
+    operating_profit: "KRW -109 billion (operating loss vs +135.4B in Q4'24)"
+    net_income: "KRW -725.9 billion (net loss)"
+    cash: "KRW 8.77 trillion (cash and cash equivalents at period end)"
+  outlook: "Focus on AI-driven smart factory, data center cooling solutions, and robotics for future growth opportunities."
+---
+
+# 2025년 4분기 실적 발표
+
+2026년 1월 30일
+
+LG전자
+
+---
+
+본 자료에 포함된 2025년 4분기 LG전자(이하 "회사")의 경영실적 및 재무성과와 관련한 모든 정보는 한국채택국제회계기준에 따라 작성되었습니다.
+
+2025년 4분기 회사의 경영실적 및 재무성과는 투자자의 편의를 위해 외부감사인의 감사 절차가 완료되지 않은 상태에서 조기에 작성된 것으로 그 내용 중 일부는 외부감사인의 감사 과정에서 달라질 수 있습니다.
+
+한편 본 자료는 2026년 매출계획 등 미래에 대한 "예측정보"를 포함하고 있습니다.
+이러한 "예측정보" 역시 현재까지의 경영실적을 함께 반영하고 있습니다.
+
+위 "예측정보"는 향후 경영환경의 변화 등에 따라 경영을 반영하며, 본질적으로 불확실성을 내포하고 있는 바,
+이러한 불확실성으로 인하여 실제 미래상황은 "예측정보"에 기재되거나 암시된 내용과 중대한 차이가 있을 수 있습니다.
+
+또한 향후 전망은 현재의 시장상황과 회사의 경영방향 등을 고려한 것으로 향후 시장환경의 변화와 전략수정 등에 따라
+달라질 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결과에 대한 법적 책임 소재의 입증자료로 사용될 수 없습니다.
+
+---
+
+# 목 차
+
+**Ⅰ** 연결기준 경영실적 및 전망
+
+**Ⅱ** 사업부문별 실적 및 전망
+
+---
+
+# Ⅰ 연결기준 경영실적 및 전망
+
+---
+
+## 2025년 경영실적 리뷰 및 2026년 전망 | 실적 및 전망
+
+### 2025년 리뷰
+
+**2025년 리뷰**
+- 글로벌 보호무역주의 기조, 지정학적 리스크 등으로 인한 글로벌 소비시장 위축에도,
+주력사업의 신흥시장 성장 확대, 프리미엄층 물량증 동시 공략, 전장사업 및 방산장비 사업 성장에 힘입어 **매출 성장 (연결기준)**
+- 가전사업은 지역별 글로벌 생산기지 최적화 및 효율적 오퍼레이션을 통해 원가절감 및 수익성 개선 추진, 경쟁심화로 악화된 디스플레이 사업 수익성 개선 위한 강도높은 구조개선 실행 및 근본적 인재정책 확보 기반 구축
+- 스마트팩토리, 구독, webOS 플랫폼 등 신사업 성장을 통한 수익성 기여 확대
+
+### 2026년 전망
+
+- 장기화된 글로벌 수요 회복 지연과 관세·원료 등 원가 인상은 사업 운영의 부담 요소
+- AI 기술 발전에 따라 AI 인프라/로봇 관련 산업의 투자가 증가, 새로운 사업기회 창출 기대
+
+### 대응 전략
+
+- 주력사업은 글로벌 사우스 전략을 통해 매출 성장 모멘텀 확보와 각 지역별 특화된 대응으로 시장 지배력 강화
+- 구독, webOS 플랫폼 등 신사업군의 성장과, 전장/냉난방공조 등 B2B 사업 비중 확대를 통해 질적 성장 지속
+- AI 중심으로 변화하는 새로운 산업 생태계의 다양한 기회를 선점하기 위해
+  AI기반 스마트팩토리, 차세대 데이터센터 냉각솔루션, 로봇 영역 등 미래성장 사업에 적극 투자하여 성장동력 발굴 추진
+- 생성형(Generative) AI 업무 방식으로 더 가치 있는 일에 집중하여 속도와 실행력 제고
+
+---
+
+# 연결기준 경영실적 및 전망
+
+## 매출 및 손익
+
+### 매출 / 손익
+(단위: 조원/%)
+
+**영업이익률**
+
+```
+3Q'25: 3.1% → 4Q'25: -0.5% (전년 동기 0.6%)
+```
+
+### 매출액
+
+| 구분 | 3Q'25 | QoQ | 4Q'25 | YoY | 4Q'24 |
+|------|-------|-----|-------|-----|-------|
+| 매출액 (조원) | 21.87 | 9.0% ↑ | **23.85** | 4.8% ↑ | 22.76 |
+
+> **주석**: 4Q'25 매출액 23.85조원은 전분기 대비 9.0% 증가, 전년 동기 대비 4.8% 증가
+
+## 부문별 실적
+(단위: 억원/%)
+
+| 구분 | 사업부 | 3Q'25 | QoQ | 4Q'25 | YoY | 4Q'24 |
+|------|-------|-------|-----|-------|-----|-------|
+| **연결** | **매출액** | **218,737** | **+9.0%** | **238,522** | **+4.8%** | **227,615** |
+| **합계¹⁾** | **영업이익** | **6,889** | **-7,979** | **-1,090** | **-2,444** | **1,354** |
+| | **(%)** | **3.1%** | **-3.6%p** | **-0.5%** | **-1.1%p** | **0.6%** |
+| HS²⁾ | 매출액 | 65,804 | -5.0% | 62,543 | +4.6% | 59,781 |
+| | 영업이익 | 3,659 | -5,370 | -1,711 | -1,022 | -689 |
+| | (%) | 5.6% | -8.3%p | -2.7% | -1.5%p | -1.2% |
+| MS²⁾ | 매출액 | 46,525 | +16.7% | 54,301 | -3.3% | 56,126 |
+| | 영업이익 | -3,026 | +411 | -2,615 | -2,111 | -504 |
+| | (%) | -6.5% | +1.7%p | -4.8% | -3.9%p | -0.9% |
+| VS²⁾ | 매출액 | 26,467 | +5.7% | 27,964 | +5.3% | 26,554 |
+| | 영업이익 | 1,496 | +85 | 1,581 | +1,780 | -199 |
+| | (%) | 5.7% | +0.0%p | 5.7% | +6.4%p | -0.7% |
+| ES²⁾ | 매출액 | 21,672 | -32.8% | 14,572 | -6.1% | 15,523 |
+| | 영업이익 | 1,329 | -2,757 | -1,428 | -772 | -656 |
+| | (%) | 6.1% | -15.9%p | -9.8% | -5.8%p | -4.2% |
+
+> **주석**: 
+> - HS(Home Appliance & Air Solution): 생활가전 사업부문
+> - MS(Media & Entertainment Solution): 미디어엔터테인먼트 사업부문  
+> - VS(Vehicle component Solutions): 전장부품 사업부문
+> - ES(Energy Solution): 에너지솔루션 사업부문
+
+**⚠️ 원본 확인 필요**: HS, MS 세그먼트 Q3 영업이익 재계산 값 검증 필요 (Stage 4 교정)
+
+주1) LG이노텍 포함 (연결기준)
+주2) 25년 1분기부터 신조직 기준으로 분할영업비용배분이 변경되었으며, 동일한 기준에 따라 과거 자료도 재작성하였음
+
+---
+
+# 사업포트폴리오 전환
+
+## 주요 Initiative별 현황
+
+### B2B
+
+(단위: 조원/%)
+
+**매출**
+
+| 구분 | 3Q'25 | QoQ | 4Q'25 | YoY | 4Q'24 |
+|------|-------|-----|-------|-----|-------|
+| 매출 (조원) | 5.9 | 7% ↓ | **5.5** | 1% ↓ | 5.6 |
+| B2B 비중 | 35% | | **34%** | | 34% |
+
+#### 4분기 결과
+
+- 안정적인 수주 진행 기반으로 전장사업 매출이 증가하였으나, 하반기 계절적 비수기 및 소비심리 약화에 따른 냉난방공조 매출 감소로 **B2B 매출은 전년 동기 대비 소폭 감소**
+
+- 전사 매출에서 B2B 사업이 차지하는 매출비중은 **안정적인 34% 수준을 유지**하며 질적 성장 지속
+
+### 구독사업
+
+(단위: 천억원/%)
+
+**매출**
+
+| 구분 | 3Q'25 | QoQ | 4Q'25 | YoY | 4Q'24 |
+|------|-------|-----|-------|-----|-------|
+| 매출 (천억원) | 7.0 | 16% ↓ | **5.9** | 21% ↑ | 4.9 |
+
+#### 4분기 결과
+
+- 한국 구독사업은 차별화된 케어서비스 기반의 지속적인 경쟁우위를 더욱 공고히 하며, **전년 동기 대비 두 자릿수 높은 매출 성장**
+
+- 해외 구독사업은 말레이시아, 태국, 대만에 이어 싱가포르로 진출하며 사업대상국가 확대 중
+
+- 해외 확장 초기 단계이나 속도감 있는 해외사업 확장을 통해 전체 구독사업 매출에서 해외 지역 비중 지속 증가세 지속
+
+---
+
+## 주요 누락 항목 (Stage 4 교정)
+
+### 1. 재무안정성 지표 (debt_ratio) - 심각도: 낮음
+- **상태**: 누락
+- **설명**: 부채비율 데이터가 원본 실적발표 자료에 미제공
+- **조치**: key_figures에 placeholder 추가 (value: "N/A", confidence: 0)
+
+### 2. 세그먼트별 영업이익 재계산 값 (segment_operating_margin_detail) - 심각도: 낮음
+- **상태**: 부분적 검증 필요
+- **설명**: HS, MS 세그먼트 Q3 2025년 영업이익 수치에 대한 재계산 검증 필요
+- **조치**: key_figures에 placeholder 추가, ⚠️ 원본 확인 필요 주석 추가 (confidence: 0)
+
+### 3. 연간 누적 실적 (full_year_2025_figures) - 심각도: 중간
+- **상태**: 누락
+- **설명**: 2025년 전체 누적 실적(FY2025) 수치 미제시, Q4 분기 실적만 제공됨
+- **조치**: key_figures에 placeholder 추가 (value: "N/A", confidence: 0)
+- **참고**: 투자자의 완전한 연간 실적 파악을 위해 추후 최종 감사 결과 공시 시 제공 예정
+
+※ 사업별 매출액 산출기준
+1) B2B 사업: 각 사업부문별 기업 고객매출 (HS부문 상업용 매출 + MS부문
+```
+
+
+---
+
+## DART 연결재무제표 (LG전자, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 892,008.8 | DART |
+| 영업이익 | 24,783.9 | DART |
+| 당기순이익 | 12,204.1 | DART |
+| 자산총계 | 686,201.7 | DART |
+| 부채총계 | 400,681.4 | DART |
+| 자본총계 | 285,520.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

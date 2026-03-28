@@ -609,5 +609,78 @@
         "cost": 0.117
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T22:49:11.114804",
+    "total": 9,
+    "success": 9,
+    "failed": 0,
+    "cost": 1.16,
+    "files": [
+      {
+        "company": "LG전자",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1375
+      },
+      {
+        "company": "LG전자",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1352
+      },
+      {
+        "company": "LG전자",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1317
+      },
+      {
+        "company": "LG전자",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1377
+      },
+      {
+        "company": "LG전자",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1371
+      },
+      {
+        "company": "LG화학",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1464
+      },
+      {
+        "company": "LG화학",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.0991
+      },
+      {
+        "company": "LG화학",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.0991
+      },
+      {
+        "company": "LG화학",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1362
+      }
+    ]
   }
 ]
