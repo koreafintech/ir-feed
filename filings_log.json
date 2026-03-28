@@ -439,5 +439,64 @@
         "cost": 0.1354
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T20:34:18.724858",
+    "total": 7,
+    "success": 7,
+    "failed": 0,
+    "cost": 0.7667,
+    "files": [
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1374
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.14
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0725
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1328
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.0915
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1029
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.0896
+      }
+    ]
   }
 ]
