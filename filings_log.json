@@ -345,5 +345,99 @@
         "cost": 0.1366
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T20:22:36.139717",
+    "total": 12,
+    "success": 5,
+    "failed": 7,
+    "cost": 0.5866,
+    "files": [
+      {
+        "company": "Naver",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1108
+      },
+      {
+        "company": "Naver",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "Naver",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "Naver",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "크래프톤",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "엔씨소프트",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1354
+      }
+    ]
   }
 ]
