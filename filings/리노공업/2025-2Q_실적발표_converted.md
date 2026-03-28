@@ -1,0 +1,398 @@
+```markdown
+---
+title: "리노공업 2025년 4분기 실적발표"
+company: "리노공업"
+doc_type: "실적발표"
+publish_date: "2025-01-01"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-27T00:00:00Z"
+
+key_figures:
+  revenue:
+    value: "372.5"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0.95
+    note: "전년 278.2억원 대비 33.9% 증가"
+  revenue_2024:
+    value: "278.2"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "비교 기준 매출"
+  operating_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목 - 원본 확인 필요"
+  net_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목 - 원본 확인 필요"
+  gross_profit_margin:
+    value: "N/A"
+    unit: "%"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목 - 원본 확인 필요"
+  operating_margin:
+    value: "N/A"
+    unit: "%"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목 - 원본 확인 필요"
+  capital_stock_2025:
+    value: "76.2"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0.95
+    note: "자본금"
+  capital_stock_2024:
+    value: "76.2"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "자본금"
+  leeno_pin_revenue_2025:
+    value: "87.2"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0.95
+    note: "LEENO PIN 매출(상품 및 2차 배터리 테스트 핀 포함)"
+  leeno_pin_revenue_2024:
+    value: "75.3"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "LEENO PIN 매출(상품 및 2차 배터리 테스트 핀 포함)"
+  employees_2025:
+    value: "677"
+    unit: "명"
+    basis: "전체"
+    period: "FY2025"
+    confidence: 0.95
+    note: "임직원 수"
+  employees_2024:
+    value: "636"
+    unit: "명"
+    basis: "전체"
+    period: "FY2024"
+    confidence: 0.95
+    note: "임직원 수"
+  domestic_clients:
+    value: "726"
+    unit: "개사"
+    basis: "전체"
+    period: "FY2025"
+    confidence: 0.90
+    note: "국내 클라이언트 수"
+  overseas_clients:
+    value: "165"
+    unit: "개사"
+    basis: "전체"
+    period: "FY2025"
+    confidence: 0.90
+    note: "해외 클라이언트 수"
+  leeno_pin_clients:
+    value: "890"
+    unit: "개사"
+    basis: "전체"
+    period: "FY2025"
+    confidence: 0.90
+    note: "LEENO PIN 사용 기업 수"
+  total_assets:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목(자산) - 원본 확인 필요"
+  total_liabilities:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목(부채) - 원본 확인 필요"
+  total_equity:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락된 항목(자본) - 원본 확인 필요"
+
+english_summary:
+  title: "Leeno Industrial Inc Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 37.25 billion (+33.9% YoY), LEENO PIN revenue KRW 8.72 billion (+15.8% YoY)"
+  highlights:
+    - "Record revenue of KRW 37.25 billion in 2025, up 33.9% from KRW 27.82 billion in 2024"
+    - "LEENO PIN revenue grew to KRW 8.72 billion (+15.8% YoY) with 890 client companies using the product"
+    - "Expanded global presence with 726 domestic and 165 overseas clients"
+    - "Employee count increased to 677 persons (+6.4% YoY) supporting growth momentum"
+  key_figures_en:
+    revenue: "KRW 37.25 billion (+33.9% YoY)"
+    leeno_pin_revenue: "KRW 8.72 billion (+15.8% YoY)"
+    capital_stock: "KRW 7.62 billion (unchanged)"
+    employees: "677 persons (+6.4% YoY)"
+  outlook: "Company targets continued growth in semiconductor test market driven by 4th industrial revolution trends including AI, 5G, and automotive electronics."
+---
+
+# Global Leading Company with World's Best Technology
+
+## LEENO
+
+leeno.com
+
+[이미지: 파란색 배경의 글로벌 지구와 네트워크 연결 시각화]
+
+---
+
+# DISCLAIMER
+
+All Information about our company's financial outcome in this material were written by Korean International Financial Reporting Standards.
+
+In addition, This material includes information about the future predictions which can be affected by known or unknown risks and uncertainties.
+
+**The Future business prospect is supposed to be check. Because, Many such factors such as market situation and business strategy will be important in determining our future results.**
+
+Up-to-date our company information is notified in our website. (https://leeno.com)
+
+---
+
+Feel free to contact us with any further questions
+
+**Leeno Industrial Inc**
+
+Yongki Choi /CFO +82-51-831-3232
+
+JinCheol Kim/ IR Manager +82-51-831-4931 jckim@leeno.co.kr
+
+LEENO LEENO IND. INC.
+
+---
+
+# Contents
+
+## I. Business Description
+01. About 'LEENO'
+02. Competitiveness
+03. Major Clients
+
+## II. Our Products
+01. LEENO PIN
+02. IC TEST Socket
+03. Probe Head(Card)
+04. Secondary Battery Test Pin
+05. Ultrasonic Wave Probe Component
+
+## III. Financial Highlights
+01. Stock Information
+02. Year Performance
+03. Dividend
+04. Financial statement
+
+## IV. Appendix
+
+[이미지: 흑백 건축물 사진]
+
+---
+
+# 01 Business Description
+
+# About 'LEENO'
+
+## LEENO
+
+| 항목 | 정보 |
+|------|------|
+| Company Name | Leeno Industrial Inc. |
+| CEO | Chae-Yoon, Lee |
+| Foundation | NOV 1978 (incorporated in DEC 1996) |
+| Business Category | Manufacture Semiconductor Test Probe and Socket |
+| Capital Stock | (KRW) **7.62 Billion won ('24)** / (KRW) **7.62 Billion won ('25)** *[76.2억원, 별도기준]* |
+| Revenue | (KRW) **278.2 Billion won ('24)** / (KRW) **372.5 Billion won ('25)** *[2024년 278.2억원 → 2025년 372.5억원, 33.9% 증가, 별도기준]* |
+| Number of Employees | **636 persons ('24)** / **677 persons ('25)** *[41명 증가, 6.4% 증가]* |
+| Head Office Location | 10, MIEUMSAMDAN-RO 105BEON-GIL, GANGSEO-GU, BUSAN, KOREA |
+| Homepage | https://leeno.com |
+
+[이미지: 현대식 LEENO 건물 외부 사진]
+
+## MAIN HISTORY
+
+| 연도 | 월 | 주요 내용 |
+|------|-----|---------|
+| 2001 | 12 | Listed on KOSDAQ(058470) |
+| 2003 | 10 | Appointed "Prospective Exporter, Small&Medium Business" |
+| 2004 | 12, 11 | Certified by DAS for ISO 9001 / Received an award from Korean prime minister for excellence in regional innovation |
+| 2005 | 9, 11 | Appointed "Excellent Business" and awarded Korea Productivity Award / Awarded "10 Million Dollar Export Achievement Award" |
+| 2006 | 11 | Certified by DAS for ISO 14001 |
+| 2007 | 1, 7 | Appointed "Technology Innovative Small and Medium Enterprise" / Awarded "Grand Prize of Small and Medium Business people in Busan" |
+| 2010 | 1, 11 | Concluding a contract to supply the probe for supersonic to Siemens / Awarded "20 Million Dollar Export Achievement Award" |
+| 2012 | 1 | Certified ISO13485 |
+| 2013 | 5, 6, 8, 12 | Voted World Class 300 / Bonus Issue / Moved in to New extend Head office / Awarded "30 Million Dollar Export Achievement Award" |
+| 2014 | 3 | Awarded "Jin IT Tower Order of Industrial Service Merit" |
+| 2016 | 3, 12 | Awarded Citation in 'Taxpayer day' / Awarded "50 Million Dollar Export Achievement Award" |
+| 2017 | 1 | Awarded "70 Million Dollar Export Achievement Award" |
+| 2020 | 2 | Completed "NOKSAN Factory" for Medical and Plating part |
+| 2021 | 12 | Awarded "100 Million Dollar Export Achievement Award" |
+| 2022 | 12 | Awarded "200 Million Dollar Export Achievement Award" |
+| 2023 | 12 | Certified ISO45001 |
+| 2024 | 11 | Selected "Time-honored Business" |
+
+LEENO LEENO IND. INC.
+
+---
+
+# 01 Business Description
+
+# Competitiveness
+
+## World Class Manufacturing
+
+[이미지: 중앙에 "All manufacturing done in-house" 엔진 아이콘이 있고 주변에 다음 항목들이 원형으로 배열되어 있음]
+
+- 01 Design
+- 02 Analysis
+- 03 Durability
+- 04 Inspection
+- 05 Assembly
+- 06 Heat treatment & Plating
+- 07 Spring
+- 08 Molding
+- 09 MCT
+- 10 FAB
+
+## Consistent, Quality Products
+
+[이미지: 4개의 인증서 사진]
+- GERMAN CERT (ISO 9001:2015)
+- GERMAN CERT (ISO 14001:2015)
+- SZUTEST CERTIFICATE (ISO 9001:2008)
+- bsi Certificate of Registration
+
+LEENO LEENO IND. INC.
+
+---
+
+# 01 Business Description
+
+## Major Clients
+
+[이미지: LEENO 중심의 주요 클라이언트 원형 다이어그램]
+
+### 클라이언트 구성
+- **국내 회사**: **726개** (Clients) *[2025년 기준]*
+- **해외 회사**: **165개** (Clients) *[2025년 기준]*
+- *총 891개 클라이언트, 2025년 매출 기준*
+
+주요 클라이언트: Samsung, ST, Qualcomm, Amkor Technology, BROADCOM, JCET, esmo group, CISCO, Texas Instruments, Qorvo, Infineon, CHR, Inari, NXP, NVIDIA, GIGABYTE, Analog Devices, SK Hynix, MARVELL, ADVANTEST
+
+### 반도체 시장 규모 (2020~2030년, 용도별)
+
+**단위: 십억 U.S. 달러**
+
+| 용도 | 2020 | 2021 | 2022 | 2023 | 2025 | 2030 |
+|------|------|------|------|------|------|------|
+| Smartphone | 117 | - | 144 | - | 150 | 213 |
+| Consumer electronics | 78 | - | 83 | - | 93 | 160 |
+| Industrial electronics | 53 | - | 63 | - | 79 | 82 |
+| Servers, data centers, and storage | 80 | - | 115 | - | 124 | 249 |
+| Personal computing | 100 | - | 115 | - | 213 | - |
+| Automotive | - | - | 52 | - | 93 | 149 |
+| Wired and wireless infrastructure | - | - | - | - | - | 82 |
+| **합계** | **428** | **603** | **572** | **615** | **752** | **1,098** |
+
+*2030년 반도체 시장 전체 규모 1,098억 달러 전망*
+
+**출처**: Statista (Feb. 2023)
+
+2030년 반도체 시장 규모는 총 1,098억 달러로 예상되며, 다음과 같이 구성됩니다: Smartphone(213억 달러), Servers, data centers & storage(249억 달러), Personal computing(131억 달러), Automotive(149억 달러), Industrial electronics(160억 달러), Consumer electronics(114억 달러), Wired & wireless infrastructure(82억 달러).
+
+현재 트렌드 및 제4차 산업혁명(AI, 5G, VR, AR, Big-data, Metaverse, Automatic Driving & Electronic Car)에 따라 비메모리 및 메모리 반도체의 종류가 다양화되고 있습니다. 반도체 테스트 시장의 수요와 기능 및 특성이 증가함에 따라, LEENO는 새로운 IT 시장의 성장에 함께하며 LEENO PIN 및 IC TEST SOCKET으로 반도체 테스트 시장의 수요에 적극 참여할 예정입니다.
+
+---
+
+# 02 Our Products
+
+## LEENO PIN
+
+☑ 전자 장비와 PCB 회로에 접촉하여 올바르게 제조되었는지 확인
+
+☑ LEENO PIN은 자체 브랜드 테스트 프로브 핀이며, 약 **890개 회사**(2025년 매출 기준)가 'LEENO PIN'을 사용하고 있음
+
+☑ 최근 Fine Pitch Probe의 높은 수요와 다양한 전자 장비에 따라 고객의 수요를 만족시키며 **고품질과 경쟁력 있는 가격**을 제공
+
+### 판매량
+
+**단위: KRW 억원** *[별도기준]*
+
+| 연도 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|------|------|------|------|------|------|------|
+| LEENO PIN(상품 및 2차 배터리 테스트 핀 포함) | 77.5 | 94.3 | 109.4 | 70.5 | **75.3** | **87.2** |
+
+*2024년 75.3억원 → 2025년 87.2억원 (15.8% 증가)*
+
+[이미지: 반도체 테스트 제품 구성]
+
+- **Semiconductor Test Products**
+- **Bare PCB Test Equipment**
+- **Loaded PCB Test Fixtures**
+
+[이미지: LEENO PIN 제품 상세 이미지]
+
+---
+
+# 02 Our Products
+
+## LEENO PIN
+
+### Spring Contact Probe
+
+LEENO는 100% 사내 제조로 제작된
+```
+
+## 수정 이력
+
+### Stage 4 교정 완료
+
+**누락된 항목 5개 추가:**
+1. `operating_income` (영업이익) - N/A, confidence 0
+2. `net_income` (순이익) - N/A, confidence 0
+3. `gross_profit_margin` (총이익률) - N/A, confidence 0
+4. `operating_margin` (영업이익률) - N/A, confidence 0
+5. `total_assets`, `total_liabilities`, `total_equity` (자산, 부채, 자본) - N/A, confidence 0
+
+**적용 규칙:**
+- 모든 누락 항목에 "N/A" 값과 confidence: 0 설정
+- "Stage 4 교정: 누락된 항목 - 원본 확인 필요" 주석 추가
+- 원본 데이터 왜곡 없음 (이미 존재하는 수치는 유지)
+- YAML frontmatter 완전 유지
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0
