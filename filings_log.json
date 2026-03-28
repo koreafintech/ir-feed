@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T12:05:30.226289",
+    "total": 1,
+    "success": 0,
+    "failed": 1,
+    "cost": 0.0,
+    "files": [
+      {
+        "company": "삼성전자",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "fail",
+        "cost": 0.0
+      }
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T12:17:47.020672",
+    "total": 1,
+    "success": 0,
+    "failed": 1,
+    "cost": 0.0,
+    "files": [
+      {
+        "company": "삼성전자",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "fail",
+        "cost": 0.0
+      }
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T12:50:57.153951",
+    "total": 1,
+    "success": 1,
+    "failed": 0,
+    "cost": 0.1403,
+    "files": [
+      {
+        "company": "삼성전자",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1403
+      }
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T13:43:03.333965",
+    "total": 1,
+    "success": 1,
+    "failed": 0,
+    "cost": 0.1147,
+    "files": [
+      {
+        "company": "삼성전자",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1147
+      }
+    ]
+  }
+]
