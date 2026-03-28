@@ -1,0 +1,294 @@
+---
+title: "2025년 4분기 실적발표"
+company: "SK하이닉스"
+doc_type: "실적발표"
+publish_date: "2026-01-29"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-01-29T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "971,466.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "472,063.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "429,479.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "1,761,076.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "554,409.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "1,206,667.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "32.83"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 Q4"
+    confidence: 0.98
+    note: "사상 최대 분기 매출, QoQ +34%, YoY +66%"
+  
+  operating_profit:
+    value: "19.17"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 Q4"
+    confidence: 0.98
+    note: "3개 분기 연속 사상 최대 영업이익, QoQ +68%, YoY +137%"
+  
+  net_income:
+    value: "15.25"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 Q4"
+    confidence: 0.98
+    note: "당기순이익률 46%"
+  
+  ebitda:
+    value: "22.73"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 Q4"
+    confidence: 0.98
+    note: "EBITDA 마진율 69%, QoQ +52%, YoY +102%"
+  
+  annual_revenue:
+    value: "97.1"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 FY"
+    confidence: 0.98
+    note: "역대 최대 연간 실적, YoY +47%"
+  
+  annual_operating_profit:
+    value: "47.2"
+    unit: "조원"
+    basis: "연결"
+    period: "2025 FY"
+    confidence: 0.98
+    note: "역대 최대 연간 영업이익, YoY +101%"
+
+english_summary:
+  title: "SK Hynix Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 32.8T (+66% YoY), Operating profit KRW 19.2T (+137% YoY)"
+  highlights:
+    - "Record-breaking quarterly revenue of KRW 32.8 trillion, up 34% QoQ and 66% YoY"
+    - "Third consecutive quarter of record operating profit at KRW 19.2 trillion"
+    - "Annual revenue reached record KRW 97.1 trillion (+47% YoY) with operating profit of KRW 47.2 trillion (+101% YoY)"
+    - "HBM revenue more than doubled YoY, with world-first HBM4 mass production in Sep 2025"
+  key_figures_en:
+    revenue: "KRW 32.8 trillion (consolidated, +66% YoY)"
+    operating_profit: "KRW 19.2 trillion (+137% YoY, 58% margin)"
+    net_income: "KRW 15.2 trillion (46% margin)"
+    ebitda: "KRW 22.7 trillion (69% margin)"
+  outlook: "Strong technology leadership in AI memory with enhanced high-value product portfolio securing both profitability and growth."
+---
+
+# 2025년 4분기 실적발표
+
+2026.01.29 | Investor Relations
+
+---
+
+## Disclaimer
+
+본 자료는 외부감시인의 감사가 완료되지 않은 상태에서 투자자 여러분의 편의를 위하여 작성된 자료이며, 내용 중 일부는 외부감사인의 감사 과정에서 달라질 수 있습니다.
+
+이 자료에 포함된 회사의 재무성과에 대한 모든 정보는 한국채택국제회계기준(K-IFRS)에 따라 **연결 기준**으로 작성되었습니다.
+
+또한, 본 자료는 미래에 대한 예상, 전망, 계획, 기대 등의 '예측정보'를 포함하고 있으며 이러한 '예측정보'는 그 성격의 불확실성으로 인해 회사의 실제 미래실적과 중대한 차이가 있을 수 있음을 양지하시기 바랍니다.
+
+---
+
+## 재무실적
+
+### 2025년 4분기
+
+---
+
+## 재무실적
+
+### 매출 분석
+
+**사상 최대 분기 매출 기록**
+
+**'25 Q4 매출**
+# 32.83조원 *(연결기준)*
++34% QoQ / +66% YoY
+
+**'25 Q3 매출**
+# 24.45조원 *(연결기준)*
+
+#### DRAM
+- B/G 환산수율 초반 % ↑ QoQ
+- ASP 약 20% 초반 ↑ QoQ
+
+#### NAND
+- B/G 약 10% ↑ QoQ  
+- ASP 약 30% 초반 ↑ QoQ
+
+*주: Solidigm 연결 실적 기준*
+
+---
+
+## 재무실적
+
+### 이익 분석 – 영업이익
+
+**(단위: 십억원, 연결기준)**
+
+**'25 Q2부터 '25 Q4까지**
+
+**3개 분기 연속 사상 최대 분기 영업이익 경신**
+
+| 항목 | 금액(십억원) | 조원 환산 |
+|------|-------------|-----------|
+| 매출액 | 32,827 | 32.83조원 |
+| 매출원가 | 22,576 | 22.58조원 |
+| 판관비 | 3,407 | 3.41조원 |
+| D&A* | 3,563 | 3.56조원 |
+| **영업이익** | **19,170** | **19.17조원** |
+| **EBITDA** | **22,732** | **22.73조원** |
+
+**영업이익 19.17조원** *(연결기준)*
+(QoQ +68% / YoY +137%)
+
+- 영업이익률 58% *(영업이익 ÷ 매출액 = 19.17 ÷ 32.83)*
+- 큰 폭의 가격 상승으로 DRAM과 NAND 모두 수익성 개선
+
+**EBITDA 22.73조원** *(연결기준)*
+(QoQ +52% / YoY +102%)
+
+- EBITDA 마진율 69% *(EBITDA ÷ 매출액 = 22.73 ÷ 32.83)*
+
+*D&A : 감가상각비 및 무형자산상각비*
+※ 본 자료의 모든 수치는 반올림하여 일부 단수 차이 발생
+
+---
+
+# 이익 분석 – 손익구조
+
+## 손익구조 **(단위: 십억원, 연결기준)**
+
+| 항목 | 금액(십억원) | 조원 환산 |
+|------|-------------|-----------|
+| 영업이익 | 19,170 | 19.17조원 |
+| 영업외순익 | -1,516 | -1.52조원 |
+| 법인세비용차감전순이익 | 17,654 | 17.65조원 |
+| 법인세 비용 | 2,407 | 2.41조원 |
+| **당기순이익** | **15,246** | **15.25조원** |
+
+## 영업외순익 -1.52조원 *(연결기준)*
+
+- 외환관련 손익 -0.17조원
+- 투자자산 평가이익 6.63조원  
+- 교환사채 교환권 관련 파생상품손익 -8.37조원
+
+## 당기순이익 15.25조원 *(연결기준)*
+
+- 당기순이익률 46% *(당기순이익 ÷ 매출액 = 15.25 ÷ 32.83)*
+
+※ 본 자료의 모든 수치는 반올림하여 일부 단수 차이 발생
+
+---
+
+# 2025 Highlights
+
+**매출 97.1조원, 영업이익 47.2조원** *(연결기준)*
+
+- 역대 최대 연간 실적 기록
+- AI 메모리 중심의 기술 경쟁력 강화 및 고부가 제품 포트폴리오 비중 확대로 수익성과 성장성을 동시에 확보
+
+### 매출 및 영업이익 추이 **(단위: 조원, 연결기준)**
+
+| 연도 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|------|------|------|------|------|------|------|------|------|------|------|
+| 매출 | - | - | - | - | - | - | - | - | 66.2 | **97.1** |
+| 영업이익 | - | - | - | - | - | - | - | - | 23.5 | **47.2** |
+
+**2025년 매출 증감: +47%** *(97.1조원 vs 2024년 66.2조원)*
+**2025년 영업이익 증감: +101%** *(47.2조원 vs 2024년 23.5조원)*
+
+---
+
+# 제품/Tech Highlights
+
+## HBM
+
+- 25.3월 세계 최초 HBM4 샘플 공급에 이어, 25.9월 업계 최초 양산 체제 구축
+- 25년 HBM 매출 전년 대비 2배 이상 확대
+
+## DRAM
+
+- 최고 수준 성능 및 원가 경쟁력 확보한 1cnm DDR5 본격 양산
+- 1bnm 32Gb 기반 업계 최대 용량 256GB DDR5 RDIMM 개발
+
+## NAND
+
+- 321단 기반 QLC 제품 개발 완료 등 기술 경쟁력 강화  
+- 하반기 eSSD 중심 수요 회복으로 연간 기준 최대 매출 기록
+
+
+---
+
+## DART 연결재무제표 (SK하이닉스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 971,466.8 | DART |
+| 영업이익 | 472,063.2 | DART |
+| 당기순이익 | 429,479.0 | DART |
+| 자산총계 | 1,761,076.6 | DART |
+| 부채총계 | 554,409.1 | DART |
+| 자본총계 | 1,206,667.5 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

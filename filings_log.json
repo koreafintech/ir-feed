@@ -117,5 +117,43 @@
         "cost": 0.1147
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T15:50:29.955271",
+    "total": 4,
+    "success": 4,
+    "failed": 0,
+    "cost": 0.3209,
+    "files": [
+      {
+        "company": "SK하이닉스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.0794
+      },
+      {
+        "company": "SK하이닉스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0794
+      },
+      {
+        "company": "SK하이닉스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.0794
+      },
+      {
+        "company": "SK하이닉스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.0826
+      }
+    ]
   }
 ]
