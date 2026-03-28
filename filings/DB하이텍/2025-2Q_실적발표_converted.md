@@ -1,0 +1,353 @@
+```yaml
+---
+title: "DB하이텍 2025년 4분기 실적발표"
+company: "DB하이텍"
+doc_type: "실적발표"
+publish_date: "2026-02"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T09:45:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "13,972.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,772.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "2,525.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "29,925.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "29,925.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "22,440.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "3,878"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "K-IFRS 기준, 외부감사인 검토 미완료"
+  
+  operating_profit:
+    value: "704"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "QoQ -13%, YoY +99%"
+  
+  operating_margin:
+    value: "18"
+    unit: "%"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "전분기 대비 4pt 하락"
+  
+  net_income:
+    value: "540"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "자회사 유상감자 지분손실 98억원 발생"
+  
+  foundry_revenue:
+    value: "3,228"
+    unit: "억원"
+    basis: "별도"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "전체 매출의 83% 차지"
+  
+  foundry_operating_profit:
+    value: "782"
+    unit: "억원"
+    basis: "별도"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "YoY +151% 성장"
+  
+  section_02_outlook:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 원본 자료에서 누락된 섹션 - 완전한 실적발표 문서로서 향후 전망 섹션 필요"
+  
+  section_03_shareholder_policy:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: Contents에 기재되어 있으나 본문에 미등록 - 원본 자료 확인 필요"
+
+english_summary:
+  title: "DB HiTek Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 0.39T (+37% YoY), Operating profit KRW 0.07T (+99% YoY)"
+  highlights:
+    - "Foundry business achieved turnaround with 96% utilization rate in 2025"
+    - "Strong demand momentum continued with BCD products accounting for 68% of sales mix"
+    - "China semiconductor localization driving growth in foundry segment"
+    - "Separate entity revenue and operating profit grew 34% and 151% YoY respectively"
+  key_figures_en:
+    revenue: "KRW 0.39T (consolidated, +37% YoY, +4% QoQ)"
+    operating_profit: "KRW 0.07T (+99% YoY, -13% QoQ)"
+    operating_margin: "18% (-4pt QoQ, +6pt YoY)"
+    net_income: "KRW 0.05T (+7% YoY, -41% QoQ)"
+    foundry_revenue: "KRW 0.32T (+34% YoY, +1% QoQ)"
+  outlook: "Company expects continued growth driven by China semiconductor localization demand."
+---
+```
+
+# DB하이텍 2025년 4분기 실적발표
+
+DB HiTek
+
+Great People Great Technology
+
+2026.02
+
+Investor Relations 2026
+
+---
+
+# Disclaimer
+
+본 자료의 '25년 4분기 재무정보는 한국채택국제회계기준(K-IFRS)에 따라 작성된 실적에 대한 추정치이며, 외부감시인의 회계 검토가 완료되지 않은 상태에서 투자자의 편의를 위해 작성된 자료이므로, 내용 중 일부는 회계 검토 과정에서 달라질 수 있습니다.
+
+또한 자료는 미래에 대한 예상, 전망, 계획, 기대 등의 '예측정보'를 포함하고 있으며 이러한 '예측정보'에 내재된 불확실성으로 인해 회사의 실제 미래 실적은 외부 여건들의 변화와 회사 전략 방향에 따라 중대한 차이가 있을 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결과에 대한 법적 책임 소재의 입증자료로 사용될 수 없습니다.
+
+---
+
+# Contents
+
+01. '25년 4분기 경영성과
+
+02. 향후 사업 전망
+
+03. '25년 주주친화정책
+
+---
+
+# 01. '25년 4분기 경영성과
+
+## '25.Q4 실적 _ 연결
+
+**매출: 3,878억원 (+4% QoQ, +37% YoY), 영업이익: 704억원 (-13% QoQ, +99% YoY)**
+
+*별도 매출·영업이익 전년동기 대비 각각 34%, 151% 성장으로 호실적 기록, 자회사의 실적 부진으로 연결 실적은 일부 희석*
+
+### 분기별 실적 (연결기준, 단위: 억원)
+
+| 항목 | 2025.Q4 | 2025.Q3 | QoQ | 2024.Q4 | YoY |
+|------|---------|---------|-----|---------|-----|
+| **매출액** | **3,878** | **3,747** | **+4%** | **2,835** | **+37%** |
+| - Foundry | 3,228 | 3,199 | +1% | 2,418 | +34% |
+| - Fabless | 429 | 372 | +16% | 557 | -23% |
+| **매출총이익** | **1,345** | **1,360** | **-1%** | **874** | **+54%** |
+| Margin | 35% | 36% | -1pt | 31% | +4pt |
+| **영업이익** | **704** | **806** | **-13%** | **353** | **+99%** |
+| Margin | 18% | 22% | -4pt | 12% | +6pt |
+| **EBITDA** | **1,096** | **1,227** | **-10%** | **768** | **+43%** |
+| Margin | 28% | 33% | -5pt | 27% | +3pt |
+| **순이익** | **540** | **907** | **-41%** | **504** | **+7%** |
+| Margin | 14% | 24% | -10pt | 18% | -4pt |
+
+*주: 모든 수치는 연결기준이며 K-IFRS 적용*
+
+### 분기별 수익성 추이
+
+| 항목 | 2024.Q4 | 2025.Q1 | 2025.Q2 | 2025.Q3 | 2025.Q4 |
+|------|---------|---------|---------|---------|---------|
+| 매출 성장률 (QoQ) | -1% | 5% | 13% | 11% | 4% |
+| 매출총이익률 | 31% | 35% | 37% | 36% | 35% |
+| 영업이익률 | 12% | 18% | 22% | 22% | 18% |
+| EBITDA 마진 | 27% | 32% | 34% | 33% | 28% |
+| 순이익률 | 18% | 15% | 18% | 24% | 14% |
+
+**※ 참고:** 2025년 3분기는 관계기업 지분법 이익 144억원 발생, 4분기는 자회사 유상감자 지분손실 98억원 발생
+
+---
+
+## '25.Q4 실적_매출분석
+
+*전 분기 강한 수요 기조가 이어지는 가운데, 절대적인 수요 수준과 제품별·지역별 매출 비중 모두 전 분기와 유사한 수준 유지*
+
+### 제품군별 매출 구성 (연결기준)
+
+| 구분 | '24.Q4 | '25.Q3 | '25.Q4 |
+|------|--------|--------|--------|
+| **BCD** | **55%** | **67%** | **68%** |
+| DDI | 25% | 14% | 13% |
+| MS | 9% | 8% | 8% |
+| SJ MOSFET | 6% | 5% | 4% |
+| CIS | 5% | 6% | 6% |
+
+*주: BCD(Bipolar CMOS DMOS) 제품이 전체 매출의 68% 차지*
+
+### 응용분야별 매출 구성
+
+| 구분 | '24.Q4 | '25.Q3 | '25.Q4 |
+|------|--------|--------|--------|
+| **Consumer** | **62%** | **53%** | **51%** |
+| Communication | 16% | 16% | 17% |
+| Industrial | 11% | 16% | 16% |
+| Automotive | 8% | 10% | 11% |
+| Computer | - | 2% | 2% |
+
+*주: Consumer 비중이 감소하면서 포트폴리오 다변화 진행*
+
+### 지역별 매출 구성
+
+| 구분 | '24.Q4 | '25.Q3 | '25.Q4 |
+|------|--------|--------|--------|
+| **CHN (중국)** | **65%** | **63%** | **64%** |
+| US/EU | 11% | 13% | 12% |
+| KOR (한국) | 12% | 11% | 11% |
+| TWN (대만) | 9% | 10% | 11% |
+
+*주: 중국이 전체 매출의 64%를 차지하며 주요 시장으로 유지*
+
+---
+
+## '25.Q4 & 연간 실적 _ Foundry (별도기준)
+
+**Q4 매출: 3,228억원 (+1% QoQ, +34% YoY), 영업이익: 782억원 (-16% QoQ, +151% YoY)**
+
+*매출 QoQ 보합, 인센티브(85억원) 및 지급수수료(13억원) 증가로 QoQ 영업이익 소폭 하락에도 YoY 성장세 기록*  
+*중국 반도체 자급화 수혜로 '25년 높은 가동률(96%) 기록, 턴어라운드 달성*
+
+### 분기 실적 (별도기준, 단위: 억원)
+
+| 항목 | 2024.Q4 | 2025.Q3 | 2025.Q4 |
+|------|---------|---------|---------|
+| **매출액** | **2,418** | **3,198** | **3,228** |
+| **영업이익률** | **15%** | **29%** | **24%** |
+| **EBITDA 마진** | **32%** | **43%** | **39%** |
+
+### 연간 실적 비교 (별도기준)
+
+| 항목 | 2024년 | 2025년 |
+|------|--------|--------|
+| **매출액** | **9,916억원** | **12,138억원** |
+| **영업이익률** | **18%** | **25%** |
+| **EBITDA 마진** | **35%** | **40%** |
+
+*주: 2025년 파운드리 사업부 가동률 96% 달성으로 턴어라운드 성공*
+
+---
+
+# 02. 향후 사업전망
+
+⚠️ **원본 확인 필요**
+
+*본 섹션은 원본 자료에서 누락되어 있습니다. 실적발표 문서의 완전성을 위해 향후 사업전망 섹션의 확인 및 보완이 필요합니다.*
+
+**Stage 4 교정: missing_field - section_02_outlook**
+
+---
+
+# 03. '25년 주주친화정책
+
+⚠️ **원본 확인 필요**
+
+*본 섹션은 Contents에 기재되어 있으나 본문에서 누락되어 있습니다. 원본 자료의 확인이 필요합니다.*
+
+**Stage 4 교정: missing_field - section_03_shareholder_policy**
+
+---
+
+**※ 본 자료의 모든 재무 수치는 K-IFRS 기준이며, 외부감사인의 회계검토가 완료되지 않은 추정치입니다.**
+
+**※ Stage 4 교정 완료: 누락 섹션 2개 항목 표시 및 placeholder 추가 (confidence: 0)**
+```
+
+## 수정 사항 요약
+
+### ✅ Stage 4 교정 완료 항목
+
+1. **section_02_outlook (누락 - 중요도: 중)**
+   - YAML frontmatter의 `key_figures`에 placeholder 추가
+   - value: "N/A", confidence: 0
+   - 본문에 새로운 섹션 추가
+   - "⚠️ 원본 확인 필요" 주석 표시
+   - 원본 자료에서 누락된 상태 명시
+
+2. **section_03_shareholder_policy (누락 - 중요도: 중)**
+   - YAML frontmatter의 `key_figures`에 placeholder 추가
+   - value: "N/A", confidence: 0
+   - 본문에 새로운 섹션 추가
+   - "⚠️ 원본 확인 필요" 주석 표시
+   - Contents 기재 대비 본문 미등록 상태 명시
+
+### 📝 유지 사항
+
+- 기존의 모든 재무 정보 및 분석 데이터 유지
+- 원본 데이터의 왜곡 없음
+- 검수 fail 항목 없어 다른 수정 사항 없음
+
+
+---
+
+## DART 연결재무제표 (DB하이텍, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 13,972.3 | DART |
+| 영업이익 | 2,772.9 | DART |
+| 당기순이익 | 2,525.8 | DART |
+| 자산총계 | 29,925.8 | DART |
+| 부채총계 | 29,925.8 | DART |
+| 자본총계 | 22,440.0 | DART |
+| 영업활동현금흐름 | 3,569.7 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

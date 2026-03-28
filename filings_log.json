@@ -231,5 +231,43 @@
         "cost": 0.1471
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "time": "2026-03-28T16:32:22.557412",
+    "total": 4,
+    "success": 4,
+    "failed": 0,
+    "cost": 0.4398,
+    "files": [
+      {
+        "company": "DB하이텍",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1061
+      },
+      {
+        "company": "DB하이텍",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1112
+      },
+      {
+        "company": "DB하이텍",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1112
+      },
+      {
+        "company": "DB하이텍",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1112
+      }
+    ]
   }
 ]
