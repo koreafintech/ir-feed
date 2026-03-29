@@ -1914,5 +1914,99 @@
         "cost": 0.1305
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T18:54:31.578341",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.3823,
+    "files": [
+      {
+        "company": "BGF리테일",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1069
+      },
+      {
+        "company": "BGF리테일",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1329
+      },
+      {
+        "company": "BGF리테일",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.136
+      },
+      {
+        "company": "BGF리테일",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1353
+      },
+      {
+        "company": "GS리테일",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1213
+      },
+      {
+        "company": "GS리테일",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1213
+      },
+      {
+        "company": "농심",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1059
+      },
+      {
+        "company": "농심",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1104
+      },
+      {
+        "company": "농심",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1323
+      },
+      {
+        "company": "농심",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1102
+      },
+      {
+        "company": "하이트진로",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0939
+      },
+      {
+        "company": "하이트진로",
+        "doc_type": "실적발표",
+        "period": "",
+        "status": "ok",
+        "cost": 0.076
+      }
+    ]
   }
 ]

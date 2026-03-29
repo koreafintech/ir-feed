@@ -1,0 +1,359 @@
+```yaml
+---
+title: "BGF리테일 2025년 1분기 실적발표"
+company: "BGF리테일"
+doc_type: "실적발표"
+publish_date: "2025-04-30"
+fiscal_year: 2025
+fiscal_quarter: "Q1"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T09:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "90,612.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,539.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "1,952.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "35,561.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "22,431.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "13,130.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "20,165"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "전년동기 대비 3.2% 증가"
+  gross_profit:
+    value: "3,696"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "전년동기 대비 2.4% 증가"
+  operating_profit:
+    value: "226"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "전년동기 대비 30.7% 감소"
+  net_income:
+    value: "134"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "전년동기 대비 42.7% 감소"
+  total_assets:
+    value: "33,467"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "전분기 대비 소폭 감소"
+  total_equity:
+    value: "11,274"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q FY25"
+    confidence: 0.98
+    note: "자본금 173억원"
+  store_count:
+    value: "18,458"
+    unit: "개"
+    basis: "단독"
+    period: "2024년말 기준"
+    confidence: 0.98
+    note: "국내 점포 수"
+
+english_summary:
+  title: "BGF Retail Q1 2025 Earnings Results"
+  one_liner: "Revenue KRW 2.0T (+3.2% YoY), Operating profit KRW 0.02T (-30.7% YoY)"
+  highlights:
+    - "Revenue grew 3.2% YoY to KRW 2.0 trillion despite challenging weather conditions and social issues"
+    - "Operating profit declined 30.7% to KRW 22.6 billion due to increased fixed costs amid slower sales growth"
+    - "Net income decreased 42.7% to KRW 13.4 billion in Q1 2025"
+    - "Total store count reached 18,458 stores nationwide as of end-2024"
+  key_figures_en:
+    revenue: "KRW 2.0 trillion (consolidated, +3.2% YoY)"
+    operating_profit: "KRW 22.6 billion (-30.7% YoY)"
+    net_income: "KRW 13.4 billion (-42.7% YoY)"
+    total_assets: "KRW 3.3 trillion"
+    store_count: "18,458 stores nationwide"
+  outlook: "Company focuses on differentiated products expansion and promotional activities to drive customer traffic growth for mid-to-long term growth foundation."
+---
+
+# 2025 1Q Financial Results
+
+## KOREAN
+
+Life Network Company
+
+**BGFretail**
+
+---
+
+# Disclaimer
+
+본 자료는 투자자의 이해를 증진시키고 투자판단에 참고가 되는 각종 정보를 제공할 목적으로 작성되었으며, 일부 미래에 대한 예측 정보를 포함하고 있습니다. 이러한 예측 정보는 실제 결과와 향후 차이가 발생할 수 있음을 양지하시기 바랍니다.
+
+본 자료의 재무 정보는 한국채택국제회계기준(K-IFRS)에 따라 작성되었으며, 외부 감사인의 회계감사가 완료되지 않은 상태에서 작성된 자료이므로 최종 재무 정보는 회계감사 과정에서 변경될 수 있습니다.
+
+어떠한 경우에도 본 자료는 투자자의 투자결과에 대한 법적 책임소재의 인증 자료로 사용될 수 없으며, 회사는 본 자료에서 제공되는 정보에 의거하여 발생되는 투자결과에 대해 어떠한 책임이나 손해 또는 피해에 대한 보상책임을 지지 않음을 알려드립니다.
+
+---
+
+# 1. Highlights
+
+## 매출액 (단위: 억원, 연결기준)
+| 구분 | 1Q FY24 | 1Q FY25 |
+|------|---------|---------|
+| 매출액 | 19,538 | 20,165 |
+
+**19,538억원** → **20,165억원** *(+3.2% YoY)*
+
+## 영업이익 (단위: 억원, 연결기준)
+| 구분 | 1Q FY24 | 1Q FY25 |
+|------|---------|---------|
+| 영업이익 | 326 | 226 |
+
+**326억원** → **226억원** *(-30.7% YoY)*
+
+## 당기순이익 (단위: 억원, 연결기준)
+| 구분 | 1Q FY24 | 1Q FY25 |
+|------|---------|---------|
+| 당기순이익 | 234 | 134 |
+
+**234억원** → **134억원** *(-42.7% YoY)*
+
+### 주요 설명
+
+- **매 출 액**: 기상 환경 악화와 사회적 이슈, 대내외 경기 요인 등으로 매출 소폭 성장
+
+- **영 업 이 익**: 고정비 증가 안정화에도 비수기 매출 증가 둔화에 따라 감소
+
+---
+
+# 2. 경영실적 요약
+
+## 경영실적 (단위: 억원, %, 연결기준)
+
+| 구분 | 1Q FY25 | 1Q FY24 | YoY |
+|------|---------|---------|-----|
+| 매출액 | 20,165 | 19,538 | 3.2 |
+| 매출총이익 | 3,696 | 3,611 | 2.4 |
+| 영업이익 | 226 | 326 | -30.7 |
+| 세전이익 | 173 | 309 | -44.0 |
+| 당기순이익 | 134 | 234 | -42.7 |
+
+*주석: 매출총이익률 18.3% (전년동기 18.5%), 영업이익률 1.1% (전년동기 1.7%)*
+
+## 재무상태표 (단위: 억원, 연결기준)
+
+### 자산
+
+| 구분 | 1Q FY25 | FY24 |
+|------|---------|------|
+| 자산 | 33,467 | 34,026 |
+| 유동자산 | 9,772 | 10,518 |
+| 현금및현금성자산 | 2,255 | 3,248 |
+| 당기손익금융자산 | 200 | 200 |
+| 기타금융자산 | 2,354 | 2,398 |
+| 재고자산 | 1,920 | 2,123 |
+| 비유동자산 | 23,695 | 23,508 |
+| 기타금융자산 | 3,371 | 3,311 |
+| 유형자산 | 8,405 | 8,337 |
+| 무형자산 | 782 | 786 |
+| 사용권자산 | 9,378 | 9,306 |
+
+*주석: 현금및현금성자산 993억원 감소, 재고자산 203억원 감소*
+
+### 부채
+
+| 구분 | 1Q FY25 | FY24 |
+|------|---------|------|
+| 부채 | 22,193 | 22,185 |
+| 유동부채 | 12,893 | 12,962 |
+| 매입채무및기타채무 | 5,528 | 6,116 |
+| 기타금융부채 | 5,807 | 5,336 |
+| 리스부채 | 2,873 | 2,800 |
+| 단기차입금 | 24 | 32 |
+| 비유동부채 | 9,300 | 9,223 |
+| 기타금융부채 | 8,885 | 8,809 |
+| 리스부채 | 5,861 | 5,827 |
+| 자본 | 11,274 | 11,841 |
+| 자본금 | 173 | 173 |
+
+*주석: 부채비율 196.8% (전분기 187.3%), 자본 567억원 감소*
+
+---
+
+# 3. 기타 실적
+
+## 연도별 국내 점포 수
+
+**연도별 점포 추이 (2014-2024)**
+
+| 연도 | 점포 수 (개) |
+|------|------------|
+| 2014 | 8,408 |
+| 2015 | 9,409 |
+| 2016 | 10,857 |
+| 2017 | 12,503 |
+| 2018 | 13,169 |
+| 2019 | 13,877 |
+| 2020 | 14,923 |
+| 2021 | 15,855 |
+| 2022 | 16,787 |
+| 2023 | 17,762 |
+| 2024 | 18,458 |
+
+*주석: 연평균 점포 증가율 8.2% (2014-2024)*
+
+## 상품 MIX (단위: %, 매출 구성비)
+
+| 구분 | 1Q FY25 | 1Q FY24 | FY24 | FY23 | FY22 |
+|------|---------|---------|------|------|------|
+| 신선식품 | 13.7 | 13.6 | 13.2 | 13.3 | 12.8 |
+| 가공식품 | 43.0 | 43.0 | 44.5 | 43.5 | 42.8 |
+| 담배 | 38.2 | 38.1 | 37.1 | 37.3 | 37.8 |
+| 비식품 | 5.1 | 5.3 | 5.2 | 5.9 | 6.6 |
+
+### 주석
+
+- 신선식품: FF(Fresh Food), HMR(Home Meal Replacement)
+- 가공식품: 우유, 스낵, 유제품 등
+- 비식품: OTC drug, 잡화 등
+
+*주석: 신선식품 비중 지속 증가, 비식품 비중 감소 추세*
+
+---
+
+# 4. 1분기 리뷰 및 향후 계획
+
+중장기 성장을 위한 기반 마련 및 객수 확대를 위한 차별화 상품 확대와 행사 강화
+
+## 1분기 Review
+
+**비우호적인 업황환경(기상 등) 지속에 따른 동절기 역성장**
+
+*[차트 설명: 전국 평균 기온 편차와 편의점 동절기 성장률 비교]*
+- 파란색: 전국 평균 기온 편차  
+- 초록색: 편의점 동절기 성장률
+
+*편의점 동절기 성장률은 전국 편의점 기준*
+
+**고물가 시대 대표 간식 상품인 자체 상품 매출 대폭 성장 지속**
+
+*[차트 설명: 분기별 저가격 상품 매출 증가 추이]*
+- 초록색: 저가격 상품 매출 성장률
+
+*주석: 1Q25 자체상품(PB) 매출 성장률 두 자릿수 기록*
+
+## 향후 계획
+
+**[단기] 자체 상품(간식, 뷰티 등) 및 음료, 주류 등 카테고리 강화**
+
+*[이미지 설명: 다양한 자체상품 라인업]*
+- BTS 타이니핀 선크림
+- 단백질음료(3,900원)  
+- 커피 제품
+- 소주 트렌딩
+- 더체별 셰이크
+- 음료, 주류 차별화 등
+
+**[중기] 2025년 기업가치 제고 계획 목표설정 및 이행**
+
+| 항목 | 내용 |
+|------|------|
+| 동일점 성장 | 지속 증가 체계 유지 |
+| 업계 최고 수준 ROE | 지속 가능 경영 강화 |
+| 연결 매출액 | 10조원 이상 (2028년) |
+| 연결 영업이익 | 3,000억원 이상 (2028년) |
+| 주주 환원율 | 40% 지향 (점진적 확대) |
+
+*주석: 2028년 목표 기준 연평균 매출 성장률 약 12% 필요*
+
+---
+
+# Appendix 1
+
+## 손익계산서 (단위: 억원, 연결기준)
+
+| 구분 | 1Q FY25 | 4Q FY24 | 3Q FY24 | 2Q FY24 | 1Q FY24 | 4Q FY23 | 3Q FY23 | 2Q FY23 | 1Q FY23 |
+|------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| 매출액 | 20,165 | 22,165 | 23,256 | 22,029 | 19,538 | 20,402 | 22,068 
+
+
+---
+
+## DART 연결재무제표 (BGF리테일, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 90,612.2 | DART |
+| 영업이익 | 2,539.5 | DART |
+| 당기순이익 | 1,952.6 | DART |
+| 자산총계 | 35,561.7 | DART |
+| 부채총계 | 22,431.1 | DART |
+| 자본총계 | 13,130.6 | DART |
+| 영업활동현금흐름 | 7,707.9 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
