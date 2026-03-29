@@ -727,5 +727,43 @@
         "cost": 0.1356
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T10:46:41.040775",
+    "total": 4,
+    "success": 4,
+    "failed": 0,
+    "cost": 0.5028,
+    "files": [
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1051
+      },
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1315
+      },
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1316
+      },
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1346
+      }
+    ]
   }
 ]
