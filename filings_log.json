@@ -1726,5 +1726,99 @@
         "cost": 0.1333
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T18:15:24.070358",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.3409,
+    "files": [
+      {
+        "company": "DL이앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0798
+      },
+      {
+        "company": "DL이앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.0976
+      },
+      {
+        "company": "DL이앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1234
+      },
+      {
+        "company": "DL이앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1228
+      },
+      {
+        "company": "HDC현대산업개발",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1048
+      },
+      {
+        "company": "HDC현대산업개발",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1114
+      },
+      {
+        "company": "HDC현대산업개발",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1091
+      },
+      {
+        "company": "HDC현대산업개발",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.139
+      },
+      {
+        "company": "대우건설",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1035
+      },
+      {
+        "company": "대우건설",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.119
+      },
+      {
+        "company": "대우건설",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.113
+      },
+      {
+        "company": "대우건설",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1175
+      }
+    ]
   }
 ]
