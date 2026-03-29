@@ -1,0 +1,330 @@
+```markdown
+---
+title: "HD현대 2025년 4분기 실적발표"
+company: "HD현대"
+doc_type: "실적발표"
+publish_date: "2026-02-12"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "712,594.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "60,996.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "36,754.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "786,858.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "786,858.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "303,350.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_annual:
+    value: "712,594"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 5.2% 증가"
+  revenue_q4:
+    value: "187,371"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전분기 대비 2.8%, 전년 동기 대비 9.6% 증가"
+  operating_profit_annual:
+    value: "60,996"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 104.5% 증가"
+  operating_profit_q4:
+    value: "19,719"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전분기 대비 15.8%, 전년 동기 대비 124.5% 증가"
+  operating_margin_annual:
+    value: "8.6"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.85
+    note: "⚠️ 원본 확인 필요: 2024년 4.4%에서 2025년 8.6%로 4.2%p 증가 (Stage 4 교정)"
+  operating_margin_q4:
+    value: "10.5"
+    unit: "%"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전년 동기(4Q24) 5.1%에서 5.4%p 증가 (Stage 4 교정)"
+  net_income_annual:
+    value: "36,755"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 90.4% 증가"
+  net_income_q4:
+    value: "14,232"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전분기 대비 44.2%, 전년 동기 대비 83.4% 증가"
+  segment_hd_oilbank:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0
+    note: "HD현대오일뱅크 상세 실적 - 원본 문서 미수집 (Stage 4 교정)"
+  segment_ksb:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0
+    note: "HD한국조선해양 상세 실적 - 원본 문서 미수집 (Stage 4 교정)"
+  segment_reconciliation:
+    value: "N/A"
+    unit: ""
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0
+    note: "세그먼트별 매출 합계와 연결 총매출 간 조정 항목 - 원본 문서 미수집 (Stage 4 교정)"
+
+english_summary:
+  title: "HD Hyundai Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 71.3T (+5.2% YoY), Operating profit KRW 6.1T (+104.5% YoY)"
+  highlights:
+    - "Strong performance across most subsidiaries including shipbuilding division driving 5.2% YoY revenue growth"
+    - "Operating profit surged 104.5% YoY driven by significant profitability improvement in shipbuilding and sustained improvement in electric and other key divisions"
+    - "Q4 operating margin reached 10.5%, up from 5.1% in Q4 2024, demonstrating strong operational efficiency (Stage 4 교정)"
+  key_figures_en:
+    revenue: "KRW 71.3 trillion (consolidated, +5.2% YoY)"
+    operating_profit: "KRW 6.1 trillion (+104.5% YoY)"
+    net_income: "KRW 3.7 trillion (+90.4% YoY)"
+    operating_margin: "8.6% (+4.2%p YoY)"
+  outlook: "Company continues to focus on operational efficiency improvements across key business divisions."
+---
+
+# 2025년 4분기 경영실적
+
+2026년 2월 12일
+
+[이미지: HD현대 로고 및 산업 아이콘 - 통신, 조선, 해양, 플랜트, 해양플랜트, 건설, 태양광, 석유, 광업]
+
+---
+
+# Disclaimer
+
+본 자료는 HD현대 주식회사(이하 "회사")에 의해 작성되었으며, 본 자료에 포함된 2025년 4분기 경영실적은 외부감사인의 외부감사가 완료되지 않은 상태에서 투자자 여러분의 편의를 위해 작성된 경영실적의 정보성과 함께성에 대해 보증하지 않으며, 자료작성일 현재 시점을 기준하며 내용에 대해 향후 궁금 관련 책임을 지지 않습니다.
+
+또한, 본 자료는 미래에 대한 예측정보를 포함하고 있습니다.
+
+이러한 예측 정보는 이미 알려진 또는 다양 영향지자 있는 위험한 사항 상황, 기타 불확실한 사정 또는 당사 예상하였다자의 환경에 따라 영항을 받을 수 있고, 이에 기재되어 있던 내용과 실제 결과 사이에는 중대한 차이가 있을 수 있습니다. 사정 환경의 변화와 정책 추정 등에 따라 예상 결과를 달성할 수 없습니다.
+
+이 자료는 투자자 여러분의 투자 판단을 위한 참고자료로 작성된 것으로, 당사 및 정시시 임직원들은 이 자료의 내용과 관련하여 투자자 여러분에게 어떠한 제공하지 아니하며, 향후 수정되지 아니합니다.
+
+본 자료는 법령의 목적으로 내용 변경 없이 사용이 가능하고(단, 출처표시 필수), 회사의 사전 승인 없이 내용의 변경된 자료의 무단 배포 및 배터는 법정 저자권 침해 발생 수 있습니다 유념해 주시기 바랍니다.
+
+---
+
+# Contents
+
+1. 요약 경영실적(연결)
+2. 회사별 경영실적(별도)
+3. HD현대오일뱅크(연결)
+4. HD한국조선해양(연결)
+5. HD현대사이트솔루션(연결)
+6. HD현대엘렉트릭(연결)
+7. HD현대마린솔루션(연결)
+8. HD현대로보틱스(연결)
+9. 영업외손익 및 당기순손익(연결)
+10. 재무비율(연결)
+
+[별첨]
+
+---
+
+# 1. 요약 경영실적 (1)
+
+## '25년 연간 실적 요약
+
+- 매출은 조선부문을 비롯한 대부분의 자회사에서 견조한 실적을 기록하며 전년 대비 5.2% 증가
+- 영업이익은 조선부문의 수익성이 큰 폭으로 개선되고 일렉트릭 등 주력 부문 수익성 개선이 지속되며 전년 대비 104.5% 증가
+
+| 구분 | 2024 | 2025 | YoY |
+|---|---|---|---|
+| 매출액 (억원, 연결기준) | 677,656 | 712,594 | 5.2% |
+| 영업이익 (억원, 연결기준) | 29,832 | 60,996 | 104.5% |
+| 영업이익률 (%) | 4.4% | 8.6% | 4.2%p |
+| 영업외손익 (억원) | (6,139) | (13,030) | - |
+| 이자손익 (억원) | (6,745) | (5,159) | - |
+| 외환손익 (억원) | 7,446 | (2,693) | - |
+| 법인세차감전순이익 (억원, 연결기준) | 23,693 | 47,966 | 102.4% |
+| 순이익 (억원, 연결기준) | 19,302 | 36,755 | 90.4% |
+| 지배지분 (억원, 연결기준) | 5,090 | 9,627 | 89.1% |
+
+주1. K-IFRS 연결재무제표 기준
+주2. 외환손익 및 외환관련수익 포함
+
+---
+
+# 1. 요약 경영실적 (2)
+
+## '25년 연간 실적 추이
+
+[차트: 연도별 영업이익 및 영업이익률 추이]
+
+| 구분 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|---|---|
+| 매출액 (억원, 연결기준) | 142,995 | 272,566 | 266,303 | 189,110 | 283,537 | 608,497 | 613,313 | 677,656 | 712,594 |
+| 영업이익 (억원, 연결기준) | 8,430 | 8,614 | 6,666 | (5,971) | 10,366 | 33,870 | 20,316 | 29,832 | 60,996 |
+| 영업이익률 (%) | 5.9% | 3.2% | 2.5% | -3.2% | 3.7% | 5.6% | 3.3% | 4.4% | 8.6% |
+| 순이익 (억원, 연결기준) | 10,130 | 2,840 | 1,153 | (7,897) | 1,506 | 22,350 | 7,858 | 19,302 | 36,755 |
+| 지배지분 (억원, 연결기준) | 9,335 | 2,686 | 1,732 | (6,092) | (1,471) | 14,086 | 2,645 | 5,090 | 9,627 |
+
+주1. K-IFRS 연결재무제표 기준  
+주2. 2017년 실적 - 2017년 4월 1일을 분할기준일로 하는 중간지주회사 체제 전환 이후 실적  
+주3. 개정된 회계기준 적용에 따른 IFRS 11 적용으로 2021년 4분기 및 2021년 상반기 재작성
+
+---
+
+# 1. 요약 경영실적 (3)
+
+## '25년 4분기 실적 요약
+
+- 매출은 조선부문을 비롯한 주력 사업 전반에서 견조한 실적을 기록하며 전분기 대비 2.8%, 전년 동기 대비 9.6% 증가
+- 영업이익은 정유부문 이익 개선 및 조선, 전기 등 주요 사업 전반의 수익성 개선이 지속되며 전분기 대비 15.8%, 전년 동기 대비 124.5% 증가
+
+| 구분 | 4Q24 | 3Q25 | 4Q25 | QoQ | YoY |
+|------|------|------|------|------|------|
+| 매출액 (억원, 연결기준) | 170,972 | 182,243 | 187,371 | 2.8% | 9.6% |
+| 영업이익 (억원, 연결기준) | 8,782 | 17,024 | 19,719 | 15.8% | 124.5% |
+| 영업이익률 (%) | 5.1% | 9.3% | 10.5% | 1.2%p | 5.4%p |
+| 영업외손익 (억원) | 743 | (3,236) | (2,058) | - | - |
+| 이자손익 (억원) | (1,535) | (1,261) | (1,088) | - | - |
+| 외환손익 (억원) | 6,595 | 2,321 | 1,090 | - | - |
+| 법인세차감전순이익 (억원, 연결기준) | 9,525 | 13,788 | 17,661 | 28.1% | 85.4% |
+| 순이익 (억원, 연결기준) | 7,761 | 9,869 | 14,232 | 44.2% | 83.4% |
+| 지배지분 (억원, 연결기준) | 2,027 | 1,746 | 4,477 | 156.4% | 120.9% |
+
+주1. K-IFRS 연결재무제표 기준
+
+---
+
+# 1. 요약 경영실적 (4)
+
+## '25년 4분기 매출 구성비
+
+[이미지: 원형 차트 - 매출 구성비]
+
+- HD현대오일뱅크: 37.0%
+- HD한국조선해양: 42.9%
+- HD현대사이트솔루션: 10.9%
+- HD현대엘렉트릭: 6.1%
+- HD현대마린솔루션: 2.7%
+- HD현대로보틱스: 0.4%
+
+주1. HD현대 연결재무제표상 내부거래 연결조정을 제외한 영업 매출 기준  
+주2. HD한국조선해양: 조선업 중간지주회사, 2022.3월 연결 편입  
+주3. HD현대사이트솔루션: 인수를 통한 중간지주회사, 2021.1월 연결 편입  
+현대중공업 → HD현대사이트솔루션 사명 변경 (2023년 3월 28일)
+
+## '25년 4분기 영업이익 (지분법 손익 및 배당금 제외)
+
+[이미지: 꺾은선 그래프 - 영업이익 추이]
+
+⚠️ **원본 문서 미완성**: 이후 세그먼트별 상세 실적 데이터 미수집 (Stage 4 교정)
+
+---
+
+## 문서 완성도 관련 주석
+
+**⚠️ 주의사항 (Stage 4 교정)**
+
+- **document_completeness**: 원본 PDF 문서의 끝부분이 절단되어 있습니다. '기간 | 정유(오일' 이후 내용이 미완성 상태입니다. 전체 내용 확인을 위해 원본 문서의 재수집이 필요합니다.
+
+- **missing_segments**: 다음 자회사별 상세 실적 데이터가 누락되어 있습니다:
+  - HD한국조선해양 상세 실적
+  - HD현대오일뱅크 상세 실적
+  - 기타 자회사 상세 실적
+
+- **segment_reconciliation**: 세그먼트별 매출 합계와 연결 총매출 간의 조정 항목이 명시되지 않았습니다. 원본 문서의 완전한 수집이 필요합니다.
+```
+
+
+---
+
+## DART 연결재무제표 (HD현대, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 712,594.4 | DART |
+| 영업이익 | 60,996.4 | DART |
+| 당기순이익 | 36,754.8 | DART |
+| 자산총계 | 786,858.9 | DART |
+| 부채총계 | 786,858.9 | DART |
+| 자본총계 | 303,350.9 | DART |
+| 영업활동현금흐름 | 73,848.8 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

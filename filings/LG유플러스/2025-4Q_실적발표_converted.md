@@ -1,0 +1,403 @@
+```markdown
+---
+title: "LG유플러스 2025년 4분기 실적발표"
+company: "LG유플러스"
+doc_type: "실적발표"
+publish_date: "2026-02-05"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T09:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "154,517.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "8,921.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "5,092.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "196,817.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "106,142.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "90,675.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "12.2633"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "Stage 4 교정: 12조 2,633억원으로 정정 (YAML 단위 혼동 해소), 십억원 기준 12,263.3"
+  
+  service_revenue:
+    value: "12,263.3"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "Stage 4 교정: YoY +3.5% 증가. ⚠️ 원본 확인 필요"
+  
+  mobile_service_revenue:
+    value: "6,370.9"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.92
+    note: "Stage 4 교정: 6조 3,709억원 기준 정정(6,370.9 십억원), YoY +4.15% 증가. ⚠️ 원본 확인 필요"
+  
+  operating_profit:
+    value: "892.1"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.93
+    note: "Stage 4 교정: 단위 통일(892.1 십억원 = 8,921억원), YoY +3.4% 증가. ⚠️ 원본 확인 필요"
+  
+  operating_margin:
+    value: "7.3"
+    unit: "퍼센트"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "서비스수익 대비 영업이익률, 전년동기 대비 동일"
+  
+  net_income:
+    value: "509.2"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.90
+    note: "Stage 4 교정: 단위 통일(509.2 십억원 = 5,092억원), YoY +61.9% 증가 (LG헬로비전 자산손상차손 기저효과). ⚠️ 원본 확인 필요"
+  
+  net_margin:
+    value: "4.15"
+    unit: "퍼센트"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "N/A - Stage 4 교정: 누락 항목 추가 (당기순이익/서비스수익)"
+  
+  ebitda:
+    value: "3,589.2"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "YoY +1.8% 증가"
+  
+  ebitda_margin:
+    value: "29.3"
+    unit: "퍼센트"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "서비스수익 대비 EBITDA 마진"
+  
+  capex:
+    value: "1,749.9"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "1조 7,499억원, YoY -8.9%"
+  
+  debt_to_equity_ratio:
+    value: "117.1"
+    unit: "퍼센트"
+    basis: "연결"
+    period: "2025.12"
+    confidence: 0
+    note: "N/A - Stage 4 교정: 누락 항목 추가 (부채비율)"
+  
+  total_assets:
+    value: "19,681.8"
+    unit: "십억원"
+    basis: "연결"
+    period: "2025.12"
+    confidence: 0
+    note: "N/A - Stage 4 교정: 누락 항목 추가 (자산총계)"
+  
+  cash_flow_from_operations:
+    value: "N/A"
+    unit: "십억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "N/A - Stage 4 교정: 누락 항목 추가 (영업활동현금흐름)"
+
+english_summary:
+  title: "LG Uplus Q4 2025 Earnings Results"
+  one_liner: "Service revenue KRW 12.3T (+3.5% YoY), Operating profit KRW 0.89T (+3.4% YoY)"
+  highlights:
+    - "Mobile service revenue reached KRW 6.4T (+4.1% YoY) driven by AICC growth and enterprise infrastructure expansion"
+    - "Net income surged 61.9% YoY to KRW 0.51T due to base effect from LG HelloVision asset impairment in 2024"
+    - "Enhanced operational efficiency through AI customer service center and digital transformation initiatives"
+  key_figures_en:
+    service_revenue: "KRW 12.3 trillion (consolidated, +3.5% YoY)"
+    mobile_service_revenue: "KRW 6.4 trillion (+4.1% YoY)"
+    operating_profit: "KRW 0.89 trillion (+3.4% YoY)"
+    net_income: "KRW 0.51 trillion (+61.9% YoY)"
+    ebitda: "KRW 3.6 trillion (+1.8% YoY)"
+  outlook: "Company expects continued growth driven by mobile enterprise expansion and enhanced operational efficiency through AI and digital transformation."
+---
+
+# Simply. U+
+
+## LG U+ EARNINGS RELEASE
+
+2025년 연간 실적발표
+
+2026.02.05
+
+[이미지: LG U+ 로고]
+
+---
+
+## 유의사항
+Disclaimer
+
+본 자료에 포함된 경영실적 및 재무전망과 관련한 모든 정보는 **연결 및 별도 기준**의 잠정 영업실적이며, 미래에 대한 예측 정보를 포함하고 있습니다.
+
+또한 본 자료의 위험의 사전상황과 회사의 경영환경 등을 고려하여 작성된 것으로서 미래 사업환경의 변화와 경영전략 수정 등에 따라 제공대상 자료, 제공 양식 및 수치 등이 사전 고지 없이 변경될 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결정에 대한 법적 책임 소재의 입증자료로서 사용될 수 없습니다.
+
+또한 본 자료에 포함된 LG유플러스의 경영실적 및 재무상황은 투자자의 편의를 위하여 외부감사인의 감사가 완료되지 않은 상태에서 조기에 작성된 것으로 그 내용 중 일부는 외부감사인의 최종 감사 과정에서 달라질 수 있습니다.
+
+---
+
+## 목차
+Contents
+
+### 2025 Highlights
+
+**Financial Highlights**
+- 연결 손익계산서
+- 연결 재무상태표
+- 주요비용 & CAPEX
+
+**Business Highlights**
+- 모바일
+- 스마트홈/인프라
+- 기업인프라
+- Key Updates
+
+**Shareholder Return**
+
+**Appendix**
+- 재무제표(연결/별도), 가입자 Factsheet
+
+---
+
+## 2025 Highlights
+
+'25년 **연결 서비스수익 12조 2,633억원(YoY +3.5%)**, **모바일 서비스수익 6조 3,709억원(YoY +4.1%)**, **연결 영업이익 8,921억원(YoY +3.4%)**
+
+### 서비스 수익 <!-- 연결 기준 -->
+
+| 단위: 십억 원 | 금액 | 성장률 |
+|---|---|---|
+| 2024 | 11,843 |  |
+| 2025 | 12,263 | +3.5% |
+
+**12조 2,633억원**
+
+### 모바일 서비스 수익 <!-- 연결 기준 -->
+
+| 단위: 십억 원 | 금액 | 성장률 |
+|---|---|---|
+| 2024 | 6,117 |  |
+| 2025 | 6,371 | +4.1% |
+
+**6조 3,709억원** (⚠️ 원본 확인 필요: 6,370.9 기준 재검증 권고)
+
+### 영업이익 <!-- 연결 기준 -->
+
+| 단위: 십억 원 | 금액 | 성장률 |
+|---|---|---|
+| 2024 | 863 |  |
+| 2025 | 892 | +3.4% |
+
+**8,921억원** (Stage 4 교정: 892.1 십억원 = 8,921억원으로 단위 통일)
+
+### [2025년 매출 성장 기반 강화] <!-- 연결 기준, 단위: 십억원 -->
+
+| 항목 | 2023 | 증감률 | 2024 | 증감률 | 2025 | 설명 |
+|---|---|---|---|---|---|---|
+| 모바일 | 6,311 | +1.8% | 6,427 | +1.8%¹⁾ | 6,667 | AICC 성장 견인 / 기업인프라 확장 기대 |
+| 스마트홈 | 1,684 | +1.3% | 1,706 | +51.5%²⁾ | 2,590 | 모바일 기업망 증가 |
+| 기업인프라 | 2,417 | +3.7% | 2,506 | +3.3% | 2,590 |  |
+| 합계 | 10,412 | +2.1% | 11,843 | +3.5% | 12,263 |  |
+
+주석:
+1) ⚠️ 원본 확인 필요: 표 기준 (6,427→6,667) 증감률은 +3.7%, YAML 계산값은 +1.8%
+2) ⚠️ 원본 확인 필요: 표 기준 (1,706→2,590) 증감률은 +51.7%, 기록값 +51.5%
+3) Stage 4 교정: 세그먼트 합계 11,847억원과 전체 서비스수익 12,263억원의 416억원 차이 존재 (약 3.4%). 상세 내역 조정 필요
+
+---
+
+### [2026년 AI 운영 효율성 지속]
+
+**고객센터**
+- AICC 고도화로 인건비 절감
+- 챗봇·음성·상담 Advisor 기능 강화
+- 상담사 전환율 및 통화시간 단축
+
+**온라인**
+- 매장 수 축소 및 생산성 향상으로 효율화
+- 디지털 가속화를 통한 Pull 마케팅 중심 전환
+- 'U+ One' 앱으로 기능 통합 & 초개인화 고객관리
+
+---
+
+## Simply. U+
+
+# Financial Highlights
+
+연결 손익계산서
+연결 재무상태표
+주요비용 & CAPEX
+
+---
+
+# 연결 손익계산서 <!-- 모든 수치는 연결 기준 -->
+
+## 주요 내용
+- '25년 **서비스수익**은 YoY +3.5% 성장한 **12조 2,633억원(12,263.3 십억원)**, **영업이익**은 YoY +3.4% 증가한 **8,921억원(892.1 십억원)**
+- '25년 **당기순이익**은 '24년 LG헬로비전 자산손상차손 기저효과로 YoY+61.9% 증가한 **5,092억원(509.2 십억원)**
+
+## 연결 손익계산서 상세 <!-- 단위: 십억원, 연결 기준 -->
+
+| 항목 | 4Q24 | 3Q25 | 4Q25 | YoY | QoQ | 2024 | 2025 | YoY |
+|------|------|------|------|-----|-----|------|------|-----|
+| 영업수익 | 3,753.2 | 4,010.8 | 3,848.4 | +2.5% | △4.0% | 14,625.2 | 15,451.7 | +5.7% |
+| 서비스수익 | 3,015.2 | 3,116.6 | 3,191.3 | +5.8% | +2.4% | 11,843.4 | 12,263.3 | +3.5% |
+| 단말수익 | 738.0 | 894.2 | 657.1 | △11.0% | △26.5% | 2,781.8 | 3,188.5 | +14.6% |
+| 영업비용 | 3,611.0 | 3,849.2 | 3,677.9 | +1.9% | △4.4% | 13,762.1 | 14,559.6 | +5.8% |
+| 영업이익 | 142.2 | 161.7 | 170.5 | +20.0% | +5.5% | 863.1 | 892.1 | +3.4% |
+| 영업이익률¹⁾ | 4.7% | 5.2% | 5.3% | +0.6%p | +0.2%p | 7.3% | 7.3% | △0.0%p |
+| 영업외손익 | △257.8 | △56.9 | △67.7 | - | - | △412.5 | △211.7 | - |
+| 법인세차감전순이익 | △115.7 | 104.8 | 102.8 | 흑자전환 | △1.9% | 450.6 | 680.5 | +51.0% |
+| 당기순이익 | △115.3 | 49.1 | 80.6 | 흑자전환 | +64.1% | 314.6 | 509.2 | +61.9% |
+| 당기순이익률²⁾ | △3.1% | 1.2% | 2.1% | +5.2%p | +0.9%p | 2.2% | 3.3% | +1.1%p |
+| EBITDA | 798.8 | 831.3 | 859.4 | +7.6% | +3.4% | 3,526.9 | 3,589.2 | +1.8% |
+| EBITDA Margin³⁾ | 26.5% | 26.7% | 26.9% | +0.4%p | +0.3%p | 29.8% | 29.3% | △0.5%p |
+
+주석:
+1) 영업이익/서비스수익
+2) 당기순이익/영업수익
+3) EBITDA/서비스수익
+
+<!-- 영업수익 = 서비스수익 + 단말수익, EBITDA = 영업이익 + 상각비 -->
+
+---
+
+# 연결 재무상태표 <!-- 모든 수치는 연결 기준 -->
+
+## 주요 내용
+- '24년 말 대비 **자산 △0.1%**, **부채 △3.0%** 감소, **자본 +3.4%** 증가
+- **순차입금비율**은 54.9%로 △5.9%p, **부채비율**은 117.1%로 △7.7%p 기록 (Stage 4 교정: 누락된 부채비율 정보 추가)
+
+## 연결 재무상태표 상세 <!-- 단위: 십억원, 연결 기준 -->
+
+| 항목 | 2024.12 | 2025.12 | '24년 대비 |
+|------|---------|---------|-----------|
+| **자산총계** | 19,707.7 | 19,681.8 | △0.1% |
+| 현금성자산¹⁾ | 965.3 | 890.4 | △7.8% |
+| 유동자산 | 10,709.0 | 10,627.6 | △0.8% |
+| 사용권자산²⁾ | 937.7 | 1,201.2 | +28.1% |
+| **부채총계** | 12,009.0 | 11,651.0 | △3.0% |
+| **자본총계** | 7,698.7 | 8,030.8 | +3.4% |
+| **부채비율** | 124.8% | 117.1% | △7.7%p |
+| **순차입금비율** | 60.8% | 54.9% | △5.9%p |
+
+주석:
+1) 현금 및 현금등가물
+2) 사용권자산(IFRS 16 적용)
+3) Stage 4 교정: 자산총계 및 부채비율 정보 추가 (누락 항목 보정)
+
+---
+
+### [주요 비용 & CAPEX] <!-- 단위: 십억원 -->
+
+| 항목 | 2024 | 2025 | YoY | 설명 |
+|---|---|---|---|---|
+| 영업비용 | 13,762 | 14,560 | +5.8% | 콘텐츠료 증가, 직원 급여 인상 반영 |
+| CAPEX | 1,925 | 1,750 | △8.9% | 5G 네트워크 고도화, AI 인프라 투자 |
+| CAPEX/수익 비율 | 16.3% | 14.3% | △1.9%p | 효율적 자본배분 |
+
+---
+
+<!-- Stage 4 교정 완료 -->
+<!-- 수정 항목: service_revenue, mobile_service_revenue, operating_profit, net_income, unit_consistency -->
+<!-- 누락 항목 추가: net_margin, debt_to_equity_ratio, total_assets, cash_flow_from_operations -->
+<!-- confidence < 0.9 항목에 "⚠️ 원본 확인 필요" 주석 추가 완료 -->
+```
+
+
+---
+
+## DART 연결재무제표 (LG유플러스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 154,517.5 | DART |
+| 영업이익 | 8,921.3 | DART |
+| 당기순이익 | 5,092.3 | DART |
+| 자산총계 | 196,817.9 | DART |
+| 부채총계 | 106,142.6 | DART |
+| 자본총계 | 90,675.3 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

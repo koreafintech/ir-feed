@@ -2409,5 +2409,99 @@
         "cost": 0.095
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T22:13:44.908909",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.5438,
+    "files": [
+      {
+        "company": "HD현대",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1096
+      },
+      {
+        "company": "HD현대",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1343
+      },
+      {
+        "company": "HD현대",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1353
+      },
+      {
+        "company": "HD현대",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1332
+      },
+      {
+        "company": "LG유플러스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1391
+      },
+      {
+        "company": "LG유플러스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1344
+      },
+      {
+        "company": "LG유플러스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1322
+      },
+      {
+        "company": "LG유플러스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1434
+      },
+      {
+        "company": "현대오토에버",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0977
+      },
+      {
+        "company": "현대오토에버",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1338
+      },
+      {
+        "company": "현대오토에버",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1403
+      },
+      {
+        "company": "현대오토에버",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1105
+      }
+    ]
   }
 ]
