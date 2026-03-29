@@ -2273,5 +2273,141 @@
         "cost": 0.1196
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T21:44:38.572001",
+    "total": 18,
+    "success": 18,
+    "failed": 0,
+    "cost": 2.2782,
+    "files": [
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1338
+      },
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1106
+      },
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1355
+      },
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.135
+      },
+      {
+        "company": "두산",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1078
+      },
+      {
+        "company": "두산",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1072
+      },
+      {
+        "company": "두산",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1287
+      },
+      {
+        "company": "두산",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1313
+      },
+      {
+        "company": "코스맥스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1305
+      },
+      {
+        "company": "코스맥스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1372
+      },
+      {
+        "company": "코스맥스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1347
+      },
+      {
+        "company": "코스맥스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1363
+      },
+      {
+        "company": "코스맥스",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.0811
+      },
+      {
+        "company": "한국타이어앤테크",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1439
+      },
+      {
+        "company": "한국타이어앤테크",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.145
+      },
+      {
+        "company": "한국타이어앤테크",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1467
+      },
+      {
+        "company": "한국타이어앤테크",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1376
+      },
+      {
+        "company": "한국타이어앤테크",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.095
+      }
+    ]
   }
 ]

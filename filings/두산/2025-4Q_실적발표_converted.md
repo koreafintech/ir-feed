@@ -1,0 +1,347 @@
+```markdown
+---
+title: "두산 2025년 4분기 실적발표"
+company: "두산"
+doc_type: "실적발표"
+publish_date: "2025-01-XX"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-XX"
+
+key_figures:
+  dart_revenue_annual:
+    value: "197,841.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "10,627.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "2,495.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "329,277.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "206,934.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "122,343.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "197,841"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년대비 +9.1% 증가"
+  operating_profit:
+    value: "10,627"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년대비 +5.9% 증가, 영업이익률 5.4%"
+  net_income:
+    value: "2,495"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년대비 -527억원 감소"
+  debt_ratio:
+    value: "169.1"
+    unit: "%"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "전분기 164.1% 대비 증가"
+  net_debt:
+    value: "40,711"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "전분기 56,777억원 대비 감소"
+  doosan_standalone_fy2025_revenue:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "⚠️ Stage 4 교정 - 원본 문서 미완성으로 인한 누락 데이터 (Chapter 2 미수록)"
+  doosan_standalone_fy2025_operating_profit:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "⚠️ Stage 4 교정 - 원본 문서 미완성으로 인한 누락 데이터 (Chapter 2 미수록)"
+  electronics_bg_high_end_product_ratio:
+    value: "N/A"
+    unit: "%"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0
+    note: "⚠️ Stage 4 교정 - 원본 문서 미완성으로 인한 누락 데이터 (Chapter 2 미수록)"
+  segment_reconciliation_verification:
+    value: "N/A"
+    unit: ""
+    basis: ""
+    period: ""
+    confidence: 0
+    note: "⚠️ Stage 4 교정 - 원본 문서 미완성으로 인한 누락 데이터 (연결-별도 재조정 항목 미수록)"
+
+english_summary:
+  title: "Doosan Corporation Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 19.8T (+9.1% YoY), Operating profit KRW 1.1T (+5.9% YoY)"
+  highlights:
+    - "Annual revenue reached KRW 19.8 trillion, driven by improved performance from major subsidiaries"
+    - "Doosan Enerbility achieved record order backlog of KRW 14.7 trillion (+107% YoY) including Czech nuclear project"
+    - "Doosan Bobcat maintained steady operations despite tariff impacts, with US manufacturing PMI entering expansion territory"
+  key_figures_en:
+    revenue: "KRW 19.8 trillion (consolidated, +9.1% YoY)"
+    operating_profit: "KRW 1.1 trillion (+5.9% YoY)"
+    net_income: "KRW 0.25 trillion (-0.05 trillion YoY)"
+    debt_ratio: "169.1% (Q4 2025)"
+  outlook: "Continued focus on high-margin businesses including nuclear and gas turbine sectors for mid-to-long term profitability improvement."
+  
+document_status:
+  completeness: "⚠️ INCOMPLETE"
+  issue: "문서가 'Chapter 2' 시작 부분에서 미완성으로 중단됨. (주)두산 자체사업 실적 데이터 누락"
+  affected_sections:
+    - "'25년 4분기/연간 (주)두산 자체사업 실적"
+    - "'25년 4분기/연간 전자BG 실적 및 High-end 제품 비중 변화"
+  note: "Stage 4 교정 - 원본 확인 필요"
+---
+
+# DOOSAN CORPORATION
+
+## 2025년 4분기/연간 경영실적
+
+[이미지: 두산 발전소, 건설장비, 제조 시설, 데이터 센터, 로봇, 반도체 칩 등 다양한 사업 분야를 보여주는 사진 모음]
+
+---
+
+# Disclaimer
+
+본 자료의 실적은 투자자 여러분들의 편의를 위하여 작성된 자료로서, 내용 중 일부는 외부감사 결과에 따라 변동될 수 있음을 양지하시기 바랍니다.
+
+본 자료는 투자자 여러분의 투자판단을 위한 참고자료로 작성된 것이며, 당사는 이 자료의 내용에 대하여 투자자 여러분에게 어떠한 보증을 제공하거나 책임을 부담하지 않습니다. 또한 당사는 투자자 여러분의 투자자산의 독단적이고 독립적인 판단에 의하여 이루어질 것으로 신뢰합니다.
+
+본 자료의 재무자료는 **IFRS 연결 및 IFRS 별도 기준**입니다.
+
+---
+
+# Chapter 1.
+
+## '25년 4분기/연간 실적 (연결기준 및 계열사)
+
+- '25년 4분기/연간 실적 (연결기준)
+- 주요 계열사 4분기 및 연간실적 - 두산에너빌리티(관리연결 기준)
+- 주요 계열사 4분기 및 연간실적 - 두산밧켓
+
+---
+
+## '25년 4분기/연간 실적 (연결기준)
+
+### 주요 내용
+
+- **'25년 매출액과 영업이익**은 주요 계열사의 실적 개선으로 전년대비 증가
+- **당기순이익**은 계열사 영업외비용 증가로 전년대비 감소
+- **부채비율**은 전분기 대비 상승 추세이며, **순차입금**은 4분기 영업 수금 등에 따른 현금 유입으로 전분기 대비 감소
+
+### ['25년 4분기 및 연간실적] <!-- 단위: 억원, 연결기준 -->
+
+| 구분 | 25.3Q | 25.4Q | QoQ | 2024 | 2025 | YoY |
+|---|---|---|---|---|---|---|
+| **매출액** | 44,524 | 56,867 | +27.7% | 181,329 | 197,841 | +9.1% |
+| **영업이익** | 2,313 | 2,752 | +19.0% | 10,038 | 10,627 | +5.9% |
+| **(%)** | 5.2% | 4.8% | -0.4%p | 5.5% | 5.4% | -0.1%p |
+| **당기 순이익** | 1,115 | -1,064 | 적자전환 | 3,022 | 2,495 | -527 |
+
+*단위: 억원, %, 연결기준*  
+*주: 4분기 당기순이익 적자전환은 일시적 영업외비용 증가로 분석됨*
+
+### [부채비율 및 순차입금 추이] <!-- 연결기준 -->
+
+**부채비율**
+
+| 구분 | '23 | '24 | '25.3Q | '25.4Q |
+|---|---|---|---|---|
+| **부채비율** | 152.4% | 153.5% | 164.1% | 169.1% |
+
+**순차입금**
+
+| 구분 | '23 | '24 | '25.3Q | '25.4Q |
+|---|---|---|---|---|
+| **순차입금** | 32,085 | 43,626 | 56,777 | 40,711 |
+
+*단위: 억원, %, 연결기준*  
+*주: 4분기 순차입금 감소(-16,066억원)는 영업활동 현금흐름 개선으로 분석됨*
+
+---
+
+## 주요 계열사 4분기/연간 실적 - 두산에너빌리티 (관리연결 기준)
+
+### 주요 내용
+
+- **'25년 수주**는 체코 원전, 북미 가스터빈 및 북합 EPC 등으로 전년대비 +107% 증가한 **14.7조원** 달성
+- **'25년 매출액과 영업이익**은 북합화력 PJT 공정진도 및 핵심사업(원자력, 가스) 비중 증가 영향으로 전년대비 성장
+- 향후 원자력 및 가스 등 고수익 사업 중심 전환을 지속적으로 추진하여 중장기 수익성 개선 기반 마련 예정
+
+### ['25년 4분기 및 연간실적] <!-- 두산에너빌리티 관리연결기준 -->
+
+| 구분 | 25.3Q | 25.4Q | QoQ | 2024 | 2025 | YoY |
+|---|---|---|---|---|---|---|
+| **수주** | 16,330 | 93,377 | +471.8% | 71,314 | 147,280 | +106.5% |
+| **매출액** | 16,783 | 23,597 | +40.6% | 73,668 | 78,813 | +7.0% |
+| **영업이익** | 434 | 1,679 | +1,245 | 2,436 | 3,023 | +587 |
+| **(%)** | 2.6% | 7.1% | +4.5%p | 3.3% | 3.8% | +0.5%p |
+| **당기 순이익** | -833 | 4,644 | +5,477 | -1,148 | 4,025 | +5,173 |
+
+*단위: 억원, %, 두산에너빌리티 관리연결기준*  
+*주: 4분기 수주 급증은 주요 대형 프로젝트 수주 집중으로 분석됨*
+
+### [수주 실적 및 전망] <!-- 단위: 조원 -->
+
+*단위: 조원, %*
+
+| 구분 | '24 | '25 | '26(P) | '30(P) |
+|---|---|---|---|---|
+| **원자력** | 6.8 | 14.7 | - | 7.7 |
+| **가스/수소** | 0.9, 1.3 | 13.3, 4.9 | 3.2, 2.9 | - |
+| **북합EPC** | 3.6, 3.4 | 1.1, 3.0 | 1.2, 2.8 | - |
+| **신재생** | 1.6, 2.2 | 0.9 | - | - |
+| **기타** | - | - | - | 1.0 |
+
+*주 1) 원자력 : 대형원전 주기, 원전자교, 서비스, SMR*  
+*2) 가스/수소 : 가스터빈 지자체, 가스터빈 서비스, 북합 EPC, 북합 STG(가스터빈별 경기)*  
+*3) 신재생 : 폐열이용열(지자체, EPC, 서비스, 연료전지, 수직 등*  
+*4) 기타 : 토목/건축, 기타 등*
+
+---
+
+# 주요 계열사 4분기/연간 실적 - 두산밧켓
+
+## 핵심 요약
+
+- **'25년 매출액**은 소폭 증가했으나, **영업이익**은 관세영향 등으로 전년대비 감소
+- **美 산업생산**은 견조한 가운데 **제조업 구매관리지수(PMI)**는 1년 만에 경기 확장 국면 진입
+- **'26년 주요시장 수요**는 소폭 감소 전망이나 딜러 재고 최적화 및 점유율 확대로 매출 성장 계획
+
+## ['25년 4분기 및 연간실적] <!-- 두산밧켓 연결기준 -->
+
+| 구분 | 25.3Q | 25.4Q | QoQ | 2024 | 2025 | YoY |
+|------|-------|-------|-----|------|------|-----|
+| **매출액** | 21,152<br/>$1,529M | 23,772<br/>$1,641M | +12.4%<br/>+7.3% | 85,512<br/>$6,269M | 87,919<br/>$6,182M | +2.8%<br/>-1.4% |
+| **영업이익** | 1,337<br/>$98M | 1,483<br/>$102M | +11.0%<br/>+4.2% | 8,714<br/>$639M | 6,861<br/>$488M | -21.3%<br/>-24.5% |
+| **(%)** | 6.3% | 6.2% | -0.1%p | 10.2% | 7.8% | -2.4%p |
+| **당기 순이익** | 819 | 854 | +35 | 5,634 | 4,023 | -1,611 |
+
+*단위: 억원/$백만, 두산밧켓 연결기준*  
+*주1) 평균 환율(원-달러) 2024: 1,363.98원, 2025: 1,422.22원*  
+*주2) 달러 기준 매출액 감소는 환율 영향으로 분석됨*
+
+## [미국 산업생산 및 제조업 PMI]
+
+*단위: pt*
+
+[이미지: 2015년 1월부터 2025년 1월까지의 Industrial Production(L)과 US Manufacturing PMI(R) 추이를 보여주는 라인 차트. Industrial Production은 대략 100pt 주변에서 변동하며, US Manufacturing PMI는 35pt에서 65pt 범위에서 변동. 2020년 3월 급락 후 회복하는 패턴을 보여줌]
+
+*주: PMI 50pt 이상 시 경기 확장, 이하 시 경기 수축 의미*
+
+---
+
+# Chapter 2. (주)두산 자체사업 실적
+
+⚠️ **문서 미완성 구간**
+
+본 장은 원본 문서가 미완성으로 중단되어 상세 내용을 수록하지 못합니다.
+
+- '25년 4분기/연간 (주)두산 자체사업 실적 *(원본 미수록)*
+- '25년 4분기/연간 전자BG 실적 및 High-end 제품 비중 변화 *(원본 미수록)*
+
+---
+
+## '25년 4분기/연간 (주)두산 자체사업 실적
+
+### 핵심 요약 *(원본 미완성)*
+
+**Stage 4 교정 참고사항:**
+- (주)두산 자체사업 매출액 (FY2025) : 데이터 미수록 (confidence: 0)
+- (주)두산 자체사업 영업이익 (FY2025) : 데이터 미수록 (confidence: 0)
+- 전자BG High-end 제품 비중 : 데이터 미수록 (confidence: 0)
+- 연결-별도 재조정 항목 : 데이터 미수록 (confidence: 0)
+
+⚠️ **원본 확인 필요** - 문서의 Chapter 2 이후 부분이 원본에서 미완성 상태로 제공되었습니다. 정확한 데이터는 공식 발표 원본 또는 업체 확인을 통해 보충이 필요합니다.
+
+---
+
+**문서 처리 이력:**
+- Stage 3 검수: 문서 미완성 상태 적발 (confidence: 0.99)
+- Stage 4 교정: 누락 항목에 placeholder 추가, 원본 확인 필요 주석 삽입
+- 수정 일시: 2025-01-XX
+```
+
+
+---
+
+## DART 연결재무제표 (두산, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 197,841.4 | DART |
+| 영업이익 | 10,627.1 | DART |
+| 당기순이익 | 2,495.1 | DART |
+| 자산총계 | 329,277.9 | DART |
+| 부채총계 | 206,934.7 | DART |
+| 자본총계 | 122,343.2 | DART |
+| 영업활동현금흐름 | 9,819.1 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
