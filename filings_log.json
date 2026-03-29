@@ -1820,5 +1820,99 @@
         "cost": 0.1175
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T18:40:34.733028",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.6321,
+    "files": [
+      {
+        "company": "GS리테일",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1213
+      },
+      {
+        "company": "GS리테일",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1213
+      },
+      {
+        "company": "롯데쇼핑",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1339
+      },
+      {
+        "company": "롯데쇼핑",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.134
+      },
+      {
+        "company": "롯데쇼핑",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1299
+      },
+      {
+        "company": "롯데쇼핑",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.138
+      },
+      {
+        "company": "롯데쇼핑",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1375
+      },
+      {
+        "company": "이마트",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1437
+      },
+      {
+        "company": "이마트",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.149
+      },
+      {
+        "company": "이마트",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1472
+      },
+      {
+        "company": "이마트",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1458
+      },
+      {
+        "company": "이마트",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1305
+      }
+    ]
   }
 ]
