@@ -1,0 +1,347 @@
+```markdown
+---
+title: "휴젤 2025년 4분기 실적발표"
+company: "휴젤"
+doc_type: "실적발표"
+publish_date: "2026-02-12"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T09:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "4,251.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,008.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "1,469.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "10,768.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "10,768.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "9,801.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "1,191"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전년동기대비 21.3% 증가"
+  
+  annual_revenue:
+    value: "4,251"
+    unit: "억원"
+    basis: "연결"
+    period: "2025"
+    confidence: 0.98
+    note: "전년대비 13.9% 증가"
+  
+  operating_profit:
+    value: "586"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전년동기대비 26.2% 증가, 영업이익률 49.2%"
+  
+  annual_operating_profit:
+    value: "2,016"
+    unit: "억원"
+    basis: "연결"
+    period: "2025"
+    confidence: 0.98
+    note: "전년대비 21.3% 증가, 영업이익률 47.4%"
+  
+  net_income:
+    value: "368"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.95
+    note: "전년동기대비 -11.1% 감소 (지배기업소유주지분 기준 -10.7%), 순이익률 30.9% | ⚠️ Stage 4 교정: YoY 재계산 결과 -11.1% 적용 (원본 표기 -77.0%는 오류)"
+  
+  annual_net_income:
+    value: "1,440"
+    unit: "억원"
+    basis: "연결"
+    period: "2025"
+    confidence: 0.98
+    note: "전년대비 0.6% 증가, 순이익률 33.9%"
+  
+  gross_profit_margin:
+    value: "80.8%"
+    unit: "퍼센트"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "전년동기대비 3.7%p 증가"
+
+english_summary:
+  title: "HUGEL Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 119.1B (+21.3% YoY), Operating profit KRW 58.6B (+26.2% YoY)"
+  highlights:
+    - "Strong botulinum toxin segment growth of 34.5% YoY in Q4 with 60% revenue mix"
+    - "International sales surge 37% YoY driven by North & South America region (+309% YoY)"
+    - "Maintained high profitability with gross margin of 80.8% (+3.7%p YoY)"
+  key_figures_en:
+    revenue: "KRW 119.1B (consolidated, +21.3% YoY)"
+    operating_profit: "KRW 58.6B (+26.2% YoY, 49.2% margin)"
+    net_income: "KRW 36.8B (-11.1% YoY)"
+    annual_revenue: "KRW 425.1B (+13.9% YoY)"
+  outlook: "Strong momentum in botulinum toxin business with significant international expansion, particularly in Americas region."
+---
+
+# 4Q25 Earnings Release
+
+February 12th, 2026
+
+[이미지: HUGEL 로고]
+
+---
+
+## Disclaimer
+
+본 자료는 한국채택국제회계기준(K-IFRS)에 따라 작성한 휴젤 주식회사의 연결재무제표입니다.
+
+본 자료에 포함된 재무실적 및 영업성과는 투자자 편의를 위하여 외부감사인의 감사가 완료되지 않은 상태에서 작성된 것으로 향후 외부감사인의 감사결과에 따라 변경될 수 있음을 양지하시기 바랍니다.
+
+The financial information in this document are consolidated earnings results based on K-IFRS.
+
+This document is provided for the convenience of investors only, before the external audit on our financial results is completed. The audit outcomes may cause some parts of this document to change.
+
+---
+
+## 1. 4Q25 실적요약
+## 4Q25 Financial Summary
+
+**(단위: 십억원, 연결기준) | (Unit: KRWbn, Consolidated)**
+
+| | 4Q24 | 1Q25 | 2Q25 | 3Q25 | 4Q25 | YoY | 2025 | YoY |
+|---|---|---|---|---|---|---|---|---|
+| 매출액 / Net Sales | 98.2 | 89.8 | 110.3 | 105.9 | **119.1** | **+21.3%** | **425.1** | **+13.9%** |
+| 매출원가 / COGS | 22.5 | 20.8 | 23.6 | 24.2 | 22.9 | +1.9% | 91.6 | +6.6% |
+| 매출총이익 / Gross Profit | 75.7 | 69.0 | 86.6 | 81.7 | **96.2** | **+27.1%** | **333.5** | **+16.7%** |
+| (%) | 77.1% | 76.8% | 78.6% | 77.1% | **80.8%** | **+3.7%p** | **78.5%** | **+1.5%p** |
+| 판매비와관리비 / SG&A | 29.3 | 30.1 | 30.0 | 34.3 | 37.6 | +28.5% | 131.9 | +9.0% |
+| 영업이익 / Operating Profit | 46.5 | 39.0 | 56.7 | 47.4 | **58.6** | **+26.2%** | **201.6** | **+21.3%** |
+| (%) | 47.3% | 43.4% | 51.4% | 44.8% | **49.2%** | **+1.9%p** | **47.4%** | **+2.9%p** |
+| 법인세비용차감전손익 / Pre-tax Income | 35.3 | 41.1 | 53.3 | 51.1 | 52.1 | +47.5% | 197.5 | +19.6% |
+| 순이익 / Net Income | 41.4 | 30.9 | 38.2 | 38.0 | **36.8** | **-11.1%** | **144.0** | **+0.6%** |
+| (%) | 42.2% | 34.4% | 34.7% | 35.9% | **30.9%** | **-11.2%p** | **33.9%** | **-4.5%p** |
+| 지배기업소유주지분순이익 / Net Income (Controlling Interest) | 40.0 | 29.1 | 36.4 | 36.8 | 35.7 | -10.7% | 138.0 | +1.6% |
+
+*주: 4Q25 순이익은 전년동기 41.4억원 대비 36.8억원으로 -11.1% 감소 (지배기업소유주지분 기준 -10.7%) | Stage 4 교정: YoY 계산값 재확인 (36.8-41.4)/41.4 = -11.1%*
+
+---
+
+## 2. 부문별 매출의 전년동기대비 성장률
+## Sales YoY Growth Rate by Segment
+
+### 보툴리눔 톡신 **(716억원, 연결기준)**
+### Botulinum Toxin
+**+35%**
+**(60% Mix)**
+
+- Botulax®
+- Letybo®
+
+### 필러 & 스킨부스터 **(309억원, 연결기준)**
+### Filler & Skinbooster
+**-3%**
+**(26% Mix)**
+
+- THE CHAEUM®
+- REVOLAX™
+- BYRYZN
+
+### 코스메틱 및 기타 **(166억원, 연결기준)**
+### Cosmetics & Others
+**+27%**
+**(14% Mix)**
+
+- WELLAGE
+- BYRYZN
+- blue rose
+- Licellvi
+
+### HUGEL **(총 1,191억원, 연결기준)**
+
+**+21%**
+
+**Korea Sales**
+**-4%**
+**(32% Mix)**
+
+**International Sales**
+**+39%**
+**(68% Mix)**
+
+*주: 보툴리눔 톡신이 매출의 60%를 차지하며 가장 큰 성장 동력*
+
+---
+
+## 3. 지역별 톡신 & 필러 합산 매출의 전년동기대비 성장률
+## Sales YoY Growth Rate of Toxin & Filler by Region
+
+**(4Q25 기준, 십억원, 연결기준) | Regional Toxin & Filler Sales (4Q25, KRWbn, Consolidated)**
+
+| 지역별 톡신 & 필러 합산 매출 Regional Toxin & Filler Sales | **102.6억원** (100%) |
+|---|---|
+| 국내 / Korea | 25.0 (24%) |
+| 아시아 태평양 / APAC | 33.0 (32%) |
+| 북남미 / North & South America | 29.2 (29%) |
+| 유럽 및 기타 / EU & Others | 15.3 (15%) |
+
+[이미지: 세계 지도 - 지역별 성장률 표시]
+
+**유럽 및 기타**
+**EU & Others**
+**+26%**
+
+**국내**
+**Korea**
+**-12%**
+
+**아시아 태평양**
+**APAC**
+**-12%**
+
+**북남미**
+**North & South America**
+**+309%**
+
+*주: 북남미 지역의 폭발적 성장(+309%)이 국제사업 확장의 핵심 동력*
+
+---
+
+# 4. Appendix: Revenue Breakdown (4Q25)
+
+## 부문별 / By Segment
+
+**(단위: 십억원, 연결기준) | (Unit: KRWbn, Consolidated)**
+
+| | 4Q24 | 1Q25 | 2Q25 | 3Q25 | 4Q25 | YoY | 2025 | YoY |
+|---|---|---|---|---|---|---|---|---|
+| Botulinum Toxin | 53.2 | 40.7 | 61.2 | 60.2 | **71.6** | **+34.5%** | **233.8** | **+15.0%** |
+| Filler & Skinbooster | 31.9 | 34.4 | 34.1 | 30.2 | 30.9 | -3.1% | 129.7 | +7.7% |
+| Cosmetics & Others | 13.0 | 14.7 | 14.9 | 15.5 | 16.6 | +27.2% | 61.6 | +45.9% |
+| **Total** | **98.2** | **89.8** | **110.3** | **105.9** | **119.1** | **+21.3%** | **425.1** | **+13.9%** |
+
+## 지역별 / By Region
+
+**(단위: 십억원, 연결기준) | (Unit: KRWbn, Consolidated)**
+
+### Toxin & Filler **(합산 1,026억원)**
+
+| | 4Q24 | 1Q25 | 2Q25 | 3Q25 | 4Q25 | YoY | 2025 | YoY |
+|---|---|---|---|---|---|---|---|---|
+| Korea | 28.5 | 26.7 | 25.5 | 17.8 | 25.0 | -12% | 94.9 | -14.5% |
+| International | 56.7 | 48.5 | 69.8 | 72.6 | **77.6** | **+37%** | **268.5** | **+22.2%** |
+| Asia Pacific | 37.4 | 30.2 | 41.8 | 36.1 | 33.0 | -12% | 141.1 | +9.7% |
+| North & South America | 7.1 | 3.8 | 13.4 | 21.5 | **29.2** | **+309%** | **67.9** | **+105.1%** |
+| EU & Others | 12.1 | 14.5 | 14.6 | 15.1 | 15.3 | +26% | 59.5 | +2.6% |
+| **Total** | **85.2** | **75.2** | **95.3** | **90.4** | **102.6** | **+20%** | **363.5** | **+9.9%** |
+
+*지역 구분: 아시아 태평양: 중국, 태국, 호주 및 기타 아시아 국가 포함 | 유럽 및 기타: EU 및 기타 해외 국가 포함 | 북남미: 브라질, 캐나다 및 기타 중남미 국가 포함*
+
+*Asia Pacific: including China, Thailand, Australia and other Asian countries | EU & Others: including EU and other international countries | North & South America: including Brazil, Canada, and other LATAM countries*
+
+*주: 해외사업 비중이 76%(268.5억원/363.5억원)로 글로벌 사업 확장 성공*
+
+---
+
+# End of Document
+
+**Contact point**
+ir@hugel.co.kr
+
+Page 6
+```
+
+## 수정 요약 (Stage 4 교정)
+
+### 변경사항:
+1. **net_income_yoy_4q25 YoY 재계산**: -77.0% → **-11.1%** 
+   - 계산: (36.8 - 41.4) / 41.4 = -11.1%
+   - 원본 값은 오류로 판정되어 표의 -10.7% (지배기업소유주지분 기준)과 일치하는 -11.1%로 수정
+
+2. **key_figures.net_income** 필드 업데이트:
+   - `note`: YoY 값과 오류 사항 명기 + "⚠️ Stage 4 교정" 표시
+   - `confidence`: 0.98 → **0.95** (검수 confidence 값 반영)
+
+3. **english_summary.key_figures_en** 업데이트:
+   - net_income YoY: -77.0% → **-11.1%**
+
+4. **실적요약 테이블** (1번 섹션):
+   - 순이익 YoY: -77.0% → **-11.1%**
+   - 주석 추가: 정확한 계산값과 지배기업소유주지분 기준값(-10.7%) 명기
+
+
+---
+
+## DART 연결재무제표 (휴젤, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 4,251.1 | DART |
+| 영업이익 | 2,008.5 | DART |
+| 당기순이익 | 1,469.7 | DART |
+| 자산총계 | 10,768.4 | DART |
+| 부채총계 | 10,768.4 | DART |
+| 자본총계 | 9,801.6 | DART |
+| 영업활동현금흐름 | 1,500.6 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
