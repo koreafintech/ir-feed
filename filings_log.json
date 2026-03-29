@@ -817,5 +817,71 @@
         "cost": 0.1372
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T11:08:54.737580",
+    "total": 8,
+    "success": 8,
+    "failed": 0,
+    "cost": 1.1166,
+    "files": [
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1334
+      },
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.141
+      },
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.143
+      },
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1464
+      },
+      {
+        "company": "카카오페이",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1352
+      },
+      {
+        "company": "카카오페이",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1363
+      },
+      {
+        "company": "카카오페이",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1388
+      },
+      {
+        "company": "카카오페이",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1426
+      }
+    ]
   }
 ]

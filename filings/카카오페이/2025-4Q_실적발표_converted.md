@@ -1,0 +1,434 @@
+```yaml
+---
+title: "카카오페이 2025년 4분기 실적발표"
+company: "카카오페이"
+doc_type: "실적발표"
+publish_date: "2025-01-31"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-31T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "9,583.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "503.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "53,395.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "53,395.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "19,509.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  tpv_annual:
+    value: "185.6"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "Stage 4 교정: 전체 거래액(TPV). YoY +11% 증가 (절대값 표기 제거, 비율로 수정)"
+  
+  tpv_annual_yoy:
+    value: "+11.0%"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "Stage 4 교정: (185.6-167.3)/167.3 = +11.0% YoY (전년 167.3조원 대비)"
+  
+  revenue_tpv_annual:
+    value: "53.6"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "수익 기여 TPV, 전년 대비 10% 증가"
+  
+  revenue_annual:
+    value: "9,584"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연간 매출, 전년 대비 25% 증가"
+  
+  operating_profit_annual:
+    value: "504"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "첫 흑자 달성"
+  
+  operating_profit_q4:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0
+    note: "누락 항목: 4분기 영업이익 수치 필요"
+  
+  net_income_annual:
+    value: "657"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "당기순이익"
+  
+  net_income_q4:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0
+    note: "누락 항목: 4분기 당기순이익 수치 필요"
+  
+  ebitda_annual:
+    value: "833"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "EBITDA"
+  
+  revenue_q4:
+    value: "2,698"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "4분기 영업수익, 전년동기 대비 24% 증가"
+  
+  dau:
+    value: "6.68"
+    unit: "백만명"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "일 평균 이용자 수"
+  
+  dau_yoy:
+    value: "+6.35%"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.92
+    note: "Stage 4 교정: (6.7-6.3)/6.3 = +6.35% YoY (테이블 기준값으로 수정, 전년 6.3백만명 대비). ⚠️ 원본 확인 필요"
+  
+  arpu:
+    value: "29,524"
+    unit: "원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "이용자 당 평균 매출, 전년 대비 31% 증가"
+  
+  segment_revenue_payment:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "누락 항목: 결제서비스 세부 매출액"
+  
+  segment_revenue_financial:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "누락 항목: 금융서비스 세부 매출액"
+  
+  segment_revenue_platform:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "누락 항목: 플랫폼서비스 세부 매출액"
+
+english_summary:
+  title: "KakaoPay Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 958.4B (+25% YoY), Operating profit KRW 50.4B (first-ever profit)"
+  highlights:
+    - "Annual TPV reached KRW 185.6T (+11% YoY), with revenue-contributing TPV at KRW 53.6T (+10% YoY)"
+    - "Achieved first-ever annual operating profit of KRW 50.4B and net income of KRW 65.7B"
+    - "Strong growth across all business segments: Payment (+12% YoY), Financial services (+59% YoY), Platform (+63% YoY)"
+    - "DAU increased to 6.68M (+6.35% YoY) with improved ARPU of KRW 29,524 (+31% YoY)"
+  key_figures_en:
+    annual_revenue: "KRW 958.4B (consolidated, +25% YoY)"
+    operating_profit: "KRW 50.4B (first-ever profit)"
+    net_income: "KRW 65.7B"
+    tpv: "KRW 185.6T (+11% YoY)"
+    dau: "6.68M users (+6.35% YoY)"
+  outlook: "Company focuses on sustained profitability and expansion across payment, financial, and platform services."
+---
+
+# 카카오페이 2025년 4분기 실적발표
+
+## 유의사항
+
+본 자료의 2025년 4분기 재무정보는 한국채택국제회계기준에 따라 작성된 연결 기준으로 작성되었습니다.
+
+본 자료는 외부감사인의 회계 감사가 완료되지 않은 상태에서 투자자 정보제공을 위해 작성된 자료이므로, 감사 결과에 따라 내용이 달라질 수 있습니다.
+
+이에 카카오페이는 본 자료에 서술된 재무정보 및 영업성과의 정확성과 완전성에 대해 보장하지 않으며, 자료 작성시점 이후 사정 변화를 반영한 내용에 대해 향후 업데이트 책임을 지지 않습니다.
+
+또한, 본 자료 상에 회사가 예상한 결과 또는 사정이 실현되지 않거나, 회사가 당초에 예상하지 못한 위험이 발생할 수도 있습니다. 본 자료에 기재된 예측정보는 본 자료 작성시점을 기준으로 작성된 것이며, 회사가 이러한 위험 요인이나 예측정보를 업데이트할 의무가 없음을 명시합니다.
+
+마지막으로, 본 자료는 투자자들의 투자 결정에 대한 법적 책임 소재의 입증자료로서 사용될 수 없습니다. 카카오페이는 본 자료에서 제공되는 정보에 의거한 투자 결정에 대해 어떠한 책임도 지지 않음을 알려드립니다.
+
+---
+
+## 목차
+
+| 구분 | 페이지 |
+|---|---|
+| Executive Summary | 4 |
+| 1. 거래액(TPV) | 6 |
+| 2. 영업수익(매출) | 7 |
+| 3. 영업이익 | 8 |
+| 4. 손익 | 9 |
+| 5. 주요성과 | 11 |
+| 6. ESG | 17 |
+| 7. 2026 전략 | 18 |
+
+**Appendix**
+| 구분 | 페이지 |
+|---|---|
+| 핵심지표 | 19 |
+| 재무제표 | 20 |
+
+---
+
+## Executive Summary
+### 2025 수익성 지표 Highlights
+
+**TPV**
+- 2025년 연간 TPV **185.6조원** (연결 기준) 달성, YoY **+11.0%** 증가
+- Revenue TPV YoY **+10%** 증가 **53.6조원** (연결 기준) 기록
+
+**REVENUE**
+- 2025년 연간 매출 YoY **+25%** 증가하여 **9,584억원** (연결 기준) 달성
+- 전 사업 부문의 고른 성장세에 힘입어 고정비 대비 높은 매출 증가 실현
+- 금융 YoY **+59%**로 고성장을 지속하며 전체 매출의 **40%** 비중 차지
+- 플랫폼 매출 또한 YoY **+63%** 증가하여 확장성 입증
+
+**EARNING**
+- 2025년 연간 영업이익 **504억원** (연결 기준)으로 첫 흑자 달성
+- 당기순이익 **657억원** (연결 기준), EBITDA **833억원** (연결 기준)
+
+| 구분 | 2024 (연결 기준) | 2025 (연결 기준) | 증감률 |
+|---|---|---|---|
+| TPV | 167.3조원 | 185.6조원 | +11.0% |
+| Revenue TPV | 48.8조원 | 53.6조원 | +10% |
+| REVENUE | 7,660억원 | 9,584억원 | +25% |
+
+*주) EBITDA=영업이익+감가상각비+무형자산상각비+기타조정항목으로 계산하였습니다.*
+
+---
+
+### 2025 사업성 지표 Highlights
+
+**DAU**
+- DAU **668만 명** (연결 기준) 기록, YoY **+6.35%** 성장
+- 전체 MAU 대비 **27.6%**로 우수한 stickiness 지속
+
+**ATPU**
+- 연간 ATPU **209회** (연결 기준), YoY **+44%** 증가
+- 전 사업 부문 이용자 활동성 증가가 ATPU 상승에 기여
+
+**ARPU**
+- 연간 ARPU YoY **+31%** 증가 **29,524원** (연결 기준) 기록
+- 전 사업 부문 고른 성장과 금융서비스의 본격적 성장이 ARPU 상승을 견인
+
+| 지표 | 2024 (연결 기준) | 2025 (연결 기준) | 증감률 |
+|---|---|---|---|
+| DAU (백만 명) | 6.3 | 6.7 | +6.35% |
+| ATPU (회) | 145 | 209 | +44% |
+| ARPU (원) | 22,488 | 29,524 | +31% |
+
+*주1) 수치 기준: 연말 기준 (2025년 12월)*  
+*주2) 카카오페이는 선불한 상품 상태 및 계좌(신용)을 포함하여 영업 구조 전체 거래와 서비스 이용에 따른 활동을 포함합니다*  
+*주3) ATPU: Average Transaction Per User, 이용자 1인당 월평균 거래 건수*  
+*주4) DAU: Daily Active User, 일 평균 이용자 수*  
+*주5) ARPU: Average Revenue Per User, 이용자 1인당 평균 매출*
+
+---
+
+# 1. 거래액(TPV¹⁾)
+
+## 주요 내용
+
+- **4Q 전체 TPV**는 YoY **+14%** 증가한 **49.3조원** (연결 기준) 기록
+
+- **Revenue TPV**는 **14.2조원** (연결 기준)으로 YoY **+15%** 증가, 전체 TPV의 **29%** 차지
+
+- **결제 및 송금서비스** TPV 지속적 증가세 유지
+  - **결제서비스**: YoY **+18%**, 인앱 등 온라인 수요 증가
+  - **온라인 결제**는 YoY **+11%** 증가, 성수기 마케팅 효과와 Non-captive 거래액 증가로 **오프라인 결제** YoY **+43%** 증가
+  - **해외 결제**는 YoY **+21%** 증가, 해외 여행객 증가 및 NFC 등 편의성 개선으로 해외 소비 결제 수요 증가
+
+- **대출서비스**는 잔액의 고도화된 리스크 관리 정책에 따라 거래액 YoY 감소했으나 QoQ 증가
+
+- **신용 포트폴리오** 다각화와 건전성 강화에 따라 신규여신 확대보다는 안정성 중시
+
+- **주식거래액**은 YoY **+159%** 급증하여 **4.5조원** (연결 기준) 기록, 분기 최대 규모 실적 달성
+
+- **송금서비스**는 YoY **+14%** 증가, 송금 이용자 기반 확대에 따른 거래액 증가 지속
+
+- **카카오페이 미니** 출시 효과로 **2,859억원** (연결 기준) 기록
+  - *주: 미니 관련 거래액은 Total Payment Volume에 포함되어 별도 집계하지 않음*
+  - *주: MTS거래액은 금융서비스 TPV에 포함*
+
+| 구분 | 4Q24 | 1Q25 | 2Q25 | 3Q25 | 4Q25 | YoY | QoQ |
+|---|---|---|---|---|---|---|---|
+| **전체 TPV** (조원) | 43.2 | 44.0 | 45.7 | 47.1 | 49.3 | **+14%** | **+5%** |
+| Revenue TPV 비중 | 29% | 28% | 29% | 30% | 29% | - | - |
+
+*주1) TPV: Total Payment Volume, 전체 거래액을 의미*
+
+---
+
+# 2. 영업수익(매출)
+
+## 주요 내용
+
+- **4Q 영업수익(매출)** YoY **+24%** 증가한 **2,698억원** (연결 기준) 기록
+
+- **결제, 금융, 플랫폼** 전 서비스 부문에 걸쳐 두 자릿수 YoY 매출 성장 시현
+
+- **결제서비스 매출**
+  - YoY **+12%** 증가, 프리미엄 해외결제 등 매출 성장 기여
+  - 상세 구성: [누락 항목 보완 필요]
+
+- **금융서비스 매출**은 보험서비스 도입 등 성장으로 전체 매출의 **42%** 차지
+  - 대출 리스크 관리하에 보험서비스 등을 통해 YoY **+43%** 증가
+  - 상세 구성: [누락 항목 보완 필요]
+
+- **플랫폼서비스**
+  - 토스링 거래액 증가 및 ISA 출시로 인해 YoY **+39%** 증가
+  - 상세 구성: [누락 항목 보완 필요]
+
+*주) Stage 4 교정: segment_revenue_details 누락으로 결제/금융/플랫폼 세부 매출액 수치는 본문 미완성. 추가 정보 필요.*
+
+---
+
+# 3. 영업이익
+
+## 주요 내용
+
+**4분기 영업이익**
+
+[⚠️ 원본 확인 필요: 4분기 영업이익(operating_profit_q4) 수치 누락]
+
+**연간 영업이익**
+- 2025년 연간 영업이익 **504억원** (연결 기준)으로 첫 흑자 달성
+- 매출 성장과 비용 관리의 균형으로 수익성 개선 실현
+
+---
+
+# 4. 손익
+
+## 주요 내용
+
+**4분기 당기순이익**
+
+[⚠️ 원본 확인 필요: 4분기 당기순이익(net_income_q4) 수치 누락]
+
+**연간 당기순이익**
+- 2025년 당기순이익 **657억원** (연결 기준)
+- EBITDA **833억원** (연결 기준)
+
+---
+
+## 검수 이력
+
+**Stage 4 교정 사항:**
+
+1. **tpv_annual_yoy 수정**
+   - 오류: YAML에서 절대값 "18.3조원 증가"로 기술
+   - 수정: "+11.0% YoY"로 수정 (테이블 계산값 기준: (185.6-167.3)/167.3 = +11.0%)
+   - 신규 key_figure 추가: tpv_annual_yoy
+
+2. **dau_yoy 수정**
+   - 오류: YAML에서 "+5%" 기술, 테이블에서 "+6.8%" 표기 혼재
+   - 수정: "+6.35% YoY"로 통일 (정확한 계산값: (6.7-6.3)/6.3 = +6.35%)
+   - confidence: 0.92 (1.35%p 불일치로 원본 확인 필요 주석 추가)
+
+3. **누락 항목 처리**
+   - operating_profit_q4: N/A 추가 (confidence: 0)
+   - net_income_q4: N/A 추가 (confidence: 0)
+   - segment_revenue_payment, segment_revenue_financial, segment_revenue_platform: N/A 추가 (confidence: 0)
+   - 본문에 "[누락 항목 보완 필요]" 주석 추가
+
+4. **DAU 단위 명확화**
+   - "668만 명" → "6.68 백만명"으로 일관성 강화
+   - 테이블 기준값과 통일
+
+5. **Executive Summary 수정**
+   - TPV 증감률 "18.3조원" 절대값 제거, "+11.0%" 비율로 수정
+   - DAU YoY "+5%" → "+6.35%" 수정
+```
+
+
+---
+
+## DART 연결재무제표 (카카오페이, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 9,583.7 | DART |
+| 영업이익 | 503.7 | DART |
+| 자산총계 | 53,395.8 | DART |
+| 부채총계 | 53,395.8 | DART |
+| 자본총계 | 19,509.1 | DART |
+| 영업활동현금흐름 | 1,186.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
