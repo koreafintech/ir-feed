@@ -1,0 +1,352 @@
+---
+title: "HMM 2025년 2분기 실적발표"
+company: "HMM"
+doc_type: "실적발표"
+publish_date: "2025-08-13"
+fiscal_year: 2025
+fiscal_quarter: "Q2"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-28T09:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "108,914.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "14,612.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "18,787.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "335,631.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "69,918.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "265,712.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "54,774"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 1H"
+    confidence: 0.98
+    note: "상반기 매출액, 전년 동기 대비 9.7% 증가"
+  
+  revenue_q2:
+    value: "26,227"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 2Q"
+    confidence: 0.98
+    note: "2분기 매출액"
+
+  operating_profit:
+    value: "8,471"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 1H"
+    confidence: 0.98
+    note: "상반기 영업이익, 전년 동기 대비 19.4% 감소"
+  
+  operating_profit_q2:
+    value: "2,332"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 2Q"
+    confidence: 0.98
+    note: "2분기 영업이익"
+
+  net_income:
+    value: "12,111"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 1H"
+    confidence: 0.98
+    note: "상반기 당기순이익, 전년 동기 대비 5.7% 증가"
+  
+  net_income_q2:
+    value: "4,713"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 2Q"
+    confidence: 0.98
+    note: "2분기 당기순이익"
+
+  total_assets:
+    value: "322,464"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 1H말"
+    confidence: 0.98
+    note: "자산총계, FY2024말 대비 4.7% 감소"
+
+  total_equity:
+    value: "263,955"
+    unit: "억원"
+    basis: "연결"
+    period: "2025년 1H말"
+    confidence: 0.98
+    note: "자본총계, FY2024말 대비 5.2% 감소"
+
+  operating_margin_1h:
+    value: "15.5"
+    unit: "%"
+    basis: "연결"
+    period: "2025년 1H"
+    confidence: 0.98
+    note: "상반기 영업이익률, 전년 동기 대비 5.6%p 하락"
+
+english_summary:
+  title: "HMM Q2 2025 Earnings Results"
+  one_liner: "Revenue KRW 5.48T (+9.7% YoY), Operating profit KRW 0.85T (-19.4% YoY) in H1 2025"
+  highlights:
+    - "H1 2025 revenue increased 9.7% YoY to KRW 5.48 trillion driven by volume growth"
+    - "Operating profit declined 19.4% YoY to KRW 0.85 trillion due to freight rate decline and cost increases"
+    - "Net income grew 5.7% YoY to KRW 1.21 trillion in H1 2025"
+    - "Container segment operating profit decreased 20.0% despite 3.4% volume growth due to 11.8% freight rate decline"
+  key_figures_en:
+    revenue: "KRW 5.48 trillion (consolidated, +9.7% YoY in H1)"
+    operating_profit: "KRW 0.85 trillion (-19.4% YoY in H1)"
+    net_income: "KRW 1.21 trillion (+5.7% YoY in H1)"
+    operating_margin: "15.5% (-5.6%p YoY in H1)"
+  outlook: "Facing challenges from freight rate decline and rising costs despite volume growth."
+---
+
+# HMM주식회사
+
+## 2025년 상반기 실적 발표
+
+2025년 8월 13일
+
+[이미지: 바다 위의 화물선 두 척]
+
+---
+
+## 안 내
+
+본 자료의 재무정보는 한국채택국제회계기준(K-IFRS)에 따라 작성된 영업실적입니다.
+
+본 자료는 정보 제공을 목적으로 작성되었으며, 본 자료의 내용 전체나 일부를 당사의 사전 동의 없이 반출 및 복사, 타인에게 제배포하는 행위는 금지됩니다.
+
+본 자료에 포함된 예측 정보는 당사의 내부적인 시장전망 및 사업환경 분석에 기초한 추정으로서 경영환경 및 사업여건의 변화 등으로 변경될 수 있습니다.
+
+당사는 본 자료에 포함된 정보의 신뢰성 확보를 위해 최선의 노력을 다하였으나, 그러한 정보의 정확성을 담보하지 않으며, 본 자료에 포함된 정보의 사용으로 인하여 발생된 결과에 대하여 책임을 부담하지 않습니다.
+
+또한 당사는 본 자료의 내용을 보완, 수정할 책임이 없음을 양지하시기 바랍니다.
+
+---
+
+## 2025년 상반기 실적 발표
+
+### CONTENTS
+
+#### Ⅰ. 2025년 상반기 실적 발표
+
+1. 상반기 하이라이트
+2. 상반기 실적 상세
+3. 상반기 손익 분석
+4. 상반기 재무상태 분석
+
+#### Ⅱ. 부록
+
+1. 하반기 전망 및 전략
+2. 선대현황
+3. 요약 재무정보
+4. HMM 기업가치 제고 계획
+5. HMM ESG Highlights
+6. HMM Now
+7. Container Market Monitor
+
+---
+
+## 1. 상반기 하이라이트
+
+### 재무 실적 요약 (연결 기준, 단위: 억원)
+
+| 손익계산서(IS) | 2025년 1H | 2024년 1H | YoY |
+|---|---|---|---|
+| 매출액 | 54,774 | 49,933 | 9.7% |
+| 영업이익 | 8,471 | 10,514 | -19.4% |
+| 당기순이익 | 12,111 | 11,458 | 5.7% |
+
+*주: 매출액은 9.7% 증가했으나 매출원가 상승으로 영업이익률은 전년 동기 21.1%에서 15.5%로 하락*
+
+| 재무상태표(BS) | 2025년 1H말 | FY2024말 | vs FY2024말 |
+|---|---|---|---|
+| 자산총계 | 322,464 | 338,486 | -4.7% |
+| 부채총계 | 58,509 | 59,930 | -2.4% |
+| 자본총계 | 263,955 | 278,555 | -5.2% |
+
+### 상반기 영업이익 8,471억원 (2분기 영업이익 2,332억원)
+전년 동기 대비 **2,043억원 감소**
+
+[차트: 상반기 영업이익 비교]
+- 2025 1H: 8,471억원
+- 2024 1H: 10,514억원
+
+### 상반기 당기순이익 12,111억원 (2분기 당기순이익 4,713억원)
+전년 동기 대비 **652억원 증가**
+
+[차트: 상반기 당기순이익 비교]
+- 2025 1H: 12,111억원
+- 2024 1H: 11,458억원
+
+### 주요 포인트
+
+- **2025년 2분기 실적**: 매출액 2조 6,227억원 / 영업이익 2,332억원 / 당기순이익 4,713억원
+- **2025년 상반기 실적**: 매출액 5조 4,774억원 / 영업이익 8,471억원 / 당기순이익 1조 2,111억원
+
+---
+
+## 1. 상반기 하이라이트_ 매출원가율 79.8%
+
+### 매출원가율 변화 분석 (연결 기준)
+
+**2023 1H: 84.7%**
+- 임차원비*: 49.5%
+- 용선료**: 22.3%
+- 인건비: 15.4%
+- 항만장비: 9.1%
+- 기타***: 3.8%
+
+**2024 1H: 74.5%**
+- 용선료**: 45.0%
+- 인건비: 23.2%
+- 임차원비*: 18.3%
+- 항만장비: 8.9%
+- 기타***: 4.6%
+
+**2025 1H: 79.8%**
+- 임차원비*: 48.2%
+- 인건비: 21.1%
+- 항만장비: 16.4%
+- 기타***: 9.0%
+- 용선료**: 5.3%
+
+*임차원비: 임차원비, 차량 선적/차입/운송비 등  
+**용선료: 2019년 리스회계기준 변경 이후 1년 이상 선적의 용선료+1년 이상 선적의 OPEX + 선박메인테넌스를 의미  
+***기타: 선박비/기타선비/선용품비/보험료/수리비
+
+**매출 전년 동기 대비 9.7% 증가; 매출원가는 전년 동기 대비 17.5% 증가함으로써 매출원가율 증가**
+
+**단가/환율 상승 및 물량 증대 등으로 임차원비 전년 동기 대비 26.4% 상승**
+
+---
+
+## 1. 상반기 하이라이트_ 영업이익률 15.5%
+
+### 영업이익률 추이 (연결 기준, 단위: 억원)
+
+| 기간 | FY2020 | FY2021 | FY2022 | FY2023 | 2024 1Q | 2Q | 3Q | 4Q | 2025 1Q | 2Q |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 영업이익 | 9,808 | 73,775 | 99,516 | 5,849 | 4,070 | 6,444 | 14,614 | 10,001 | 6,139 | 2,332 |
+| 영업이익률 | 15.3% | 53.5% | 53.6% | 7.0% | 17.5% | 24.2% | 41.1% | 31.7% | 21.5% | 8.9% |
+
+*주: 2021-2022년 해운시황 호황기 대비 정상화 추세*
+
+### 2025년 상반기 영업이익률: 15.5%
+
+| | 2025 1H | 2024 1H | YoY |
+|---|---|---|---|
+| 영업이익률 | 15.5% | 21.1% | -5.6%p |
+
+*주: 운임률 하락과 원가 상승으로 수익성 둔화*
+
+---
+
+## 2. 상반기 실적 상세
+
+### 매출액 (연결 기준, 단위: 억원)
+
+| 부문별 | 2025 1H | 2024 1H | YoY |
+|---|---|---|---|
+| 매출총계 | 54,774 | 49,933 | +9.7% |
+| 컨테이너 | 46,359 | 41,902 | +10.6% |
+| 벌크 | 7,323 | 6,878 | +6.5% |
+| 기타 | 1,092 | 1,154 | -5.4% |
+
+**총 매출액 5조 4,774억원**  
+전년 동기 대비 9.7% (4,841억원) 증가
+
+### 영업이익 (연결 기준, 단위: 억원)
+
+| 부문별 | 2025 1H | 2024 1H | YoY |
+|---|---|---|---|
+| 영업이익 총계 | 8,471 | 10,514 | -19.4% |
+| 컨테이너 | 7,658 | 9,568 | -20.0% |
+| 벌크 | 685 | 875 | -21.7% |
+| 기타 | 128 | 71 | +80.3% |
+
+**총 영업이익 8,471억원**  
+전년 동기 대비 19.4% (2,043억원) 감소
+
+### 부문별 분석
+
+**컨테이너 부문**: 수송량 전년 동기 대비 3.4% 증가했으나, 운임률 하락(-11.8%) 및 매출원가 상승으로 영업이익 20.0% 감소
+
+**벌크 부문**: 부정기선 및 유조선 시황 하락에 따른 수익성 감소로 영업이익 21.7% 감소
+
+
+---
+
+## DART 연결재무제표 (HMM, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 108,914.4 | DART |
+| 영업이익 | 14,612.0 | DART |
+| 당기순이익 | 18,787.3 | DART |
+| 자산총계 | 335,631.3 | DART |
+| 부채총계 | 69,918.6 | DART |
+| 자본총계 | 265,712.8 | DART |
+| 영업활동현금흐름 | 33,051.3 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
