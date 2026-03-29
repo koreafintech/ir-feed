@@ -1172,5 +1172,134 @@
         "cost": 0.1478
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T15:37:42.202193",
+    "total": 17,
+    "success": 17,
+    "failed": 0,
+    "cost": 2.0993,
+    "files": [
+      {
+        "company": "CJ제일제당",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1129
+      },
+      {
+        "company": "CJ제일제당",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1165
+      },
+      {
+        "company": "CJ제일제당",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.0853
+      },
+      {
+        "company": "CJ제일제당",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1165
+      },
+      {
+        "company": "OCI홀딩스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1283
+      },
+      {
+        "company": "OCI홀딩스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1314
+      },
+      {
+        "company": "OCI홀딩스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1317
+      },
+      {
+        "company": "OCI홀딩스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1408
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1468
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1502
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1232
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1284
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-1Q",
+        "status": "ok",
+        "cost": 0.1339
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.1055
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-3Q",
+        "status": "ok",
+        "cost": 0.106
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-4Q",
+        "status": "ok",
+        "cost": 0.1254
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1165
+      }
+    ]
   }
 ]

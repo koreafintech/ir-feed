@@ -1,0 +1,459 @@
+```markdown
+---
+title: "OCI홀딩스 2025년 4분기 실적발표"
+company: "OCI홀딩스"
+doc_type: "실적발표"
+publish_date: "2026-02-11"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-20T04:17:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "33,800.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "-576.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "-1,462.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "78,708.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "31,393.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "47,315.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_q4:
+    value: "8,110"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "4분기 매출"
+  
+  operating_profit_q4:
+    value: "270"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "4분기 영업이익, 흑자전환"
+  
+  net_income_q4:
+    value: "270"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "4분기 당기순이익"
+  
+  pretax_income_q4:
+    value: "320"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.95
+    note: "4분기 법인세차감전이익 ⚠️ 원본 확인 필요"
+  
+  revenue_annual:
+    value: "33,800"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연간 매출"
+  
+  operating_loss_annual:
+    value: "-580"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.92
+    note: "연간 영업손실 (음수값은 손실 의미) ⚠️ 원본 확인 필요 - Stage 4 교정"
+  
+  pretax_income_annual:
+    value: "-1,400"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "연간 법인세차감전이익 ⚠️ 원본 확인 필요 - Stage 4 교정"
+  
+  net_loss_annual:
+    value: "-1,440"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "연간 당기순손실"
+  
+  total_assets:
+    value: "78,730"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4말"
+    confidence: 0.98
+    note: "총자산"
+  
+  total_equity:
+    value: "47,340"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4말"
+    confidence: 0.98
+    note: "자본총계"
+  
+  subsidiary_revenue_sum_2025:
+    value: "33,890"
+    unit: "억원"
+    basis: "자회사합계"
+    period: "FY2025"
+    confidence: 0.65
+    note: "자회사별 매출 합계: 4,270 + 2,090 + 2,920 + 4,520 + 20,090 = 33,890억원 (연결매출 33,800억원과 90억원 차이 - 제거항목 미명시) ⚠️ 원본 확인 필요 - Stage 4 교정"
+  
+  eps:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "주당순이익(EPS) - 자료 미제시"
+  
+  cash_flow_operating:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "영업활동 현금흐름 - 자료 미제시"
+
+english_summary:
+  title: "OCI Holdings Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 0.81T (+turnaround to profit QoQ), Operating profit KRW 27B (turnaround to profit QoQ)"
+  highlights:
+    - "Q4 revenue of KRW 811B with operating profit of KRW 27B, achieving turnaround to profitability"
+    - "Annual revenue of KRW 3.38T with operating loss of KRW 58B due to external policy uncertainties"
+    - "OCI TerraSus polysilicon sales stabilization and production normalization driving cost reduction"
+  key_figures_en:
+    revenue_q4: "KRW 0.81T (consolidated, Q4 2025)"
+    operating_profit_q4: "KRW 27B (turnaround to profit QoQ)"
+    revenue_annual: "KRW 3.38T (consolidated, -5.5% YoY)"
+    operating_loss_annual: "KRW 58B loss (FY 2025)"
+    total_assets: "KRW 7.87T (end of Q4 2025)"
+  outlook: "OCI TerraSus expects normal operations in Q1 2026 and is pursuing Non-FEOC customer acquisition amid market uncertainties."
+---
+
+# OCI홀딩스 2025년 4분기 경영실적
+
+**발표일:** 2026년 2월 11일
+
+---
+
+## DISCLAIMER
+
+본 발표자료에 기술되어 있는 자부 정보 및 사업 현황 등은 기재된 날짜 기준의 내용이며, 이는 경제, 산업 및 재무 상황 등에 따라 변경될 수 있음을 안내합니다.
+
+또한 본 자료는 미래의 불확실성 및 위험 요인에 따라 변경될 수 있는 가정에 근거한 특성 정보를 포함하고 있습니다. 이는 세계 경제와 그에 따른 트렌드, 시장 전략 및 사업계획 등의 미래 투자 계획을 포함합니다. 이러한 가정과 환경의 변화로 인한 변동 사항에 대해서는 당사의 책임이 없음을 안내합니다.
+
+회사의 실제 실적은 당사가 예측하지 못할 수 있는 요소들로 인해 변경될 수 있습니다. 이러한 요소는 경제 정책의 변화, 고객 수요의 감소, 주요 고객의 이탈, 가격 하락 압박, 특정 프로젝트 및 설립투자에 대한 자금 조달 승인 문제 등을 포함합니다.
+
+---
+
+## TABLE OF CONTENTS
+
+### I. 재무 실적
+1. '25년 4분기 및 연간 경영 실적
+2. 주요 자회사 실적
+
+### II. 경영 현황
+1. 주요 경영 사항
+2. 주주환원 정책
+
+### III. Appendix
+
+---
+
+## 01. 재무 실적
+
+### '25년 4분기 연결 실적
+
+**핵심 성과**
+- 4분기 매출 **8,110억원**(연결기준), 영업이익 **270억원**(연결기준)
+- OCI TerraSus(TRS) 폴리실리콘 판매량 안정화 및 생산 정상화에 따른 제조원가 하락으로 흑자전환
+
+### 분기별 연결 경영실적
+*(단위: 억원, K-IFRS 연결기준, 외부감사인 감사 전)*
+
+| 구분 | 2025Q3 | 2025Q4 | QoQ 변화 |
+|------|--------|--------|----------|
+| **매출액** | 8,450 | 8,110 | -4.1% |
+| **영업이익** | -530 | 270 | 흑자전환 |
+| 영업이익률(%) | N/A | 3.4% | - |
+| **법인세차감전이익** | -1,150 | 320 | 흑자전환 |
+| **당기순이익** | -730 | 270 | 흑자전환 |
+| 순이익률(%) | N/A | 3.3% | - |
+| **EBITDA** | 80 | 900 | +975.2% |
+| EBITDA 이익률(%) | 1.0% | 11.2% | - |
+
+*주석: 4분기 흑자전환은 OCI TerraSus의 생산 정상화가 주요 기여요인*
+
+### 주요 자회사별 분기 실적 변화
+*(단위: 억원)*
+
+**매출 변화 (Q3'25 → Q4'25) - Stage 4 교정**
+- Q3'25: 8,450억원
+- OCITRS: +130억원
+- OCIE: -250억원  
+- OCISE: -210억원
+- DCRE: +50억원
+- OCI: -90억원
+- 기타: +30억원
+- **Q4'25: 8,110억원**
+- *⚠️ 원본 확인 필요: 각 회사별 구체적 매출액이 명시되지 않아 부분 검증만 가능 (confidence: 0.85)*
+
+**영업이익 변화 (Q3'25 → Q4'25) - Stage 4 교정**
+- Q3'25: -530억원
+- OCITRS: +980억원 *(흑자전환 주요 기여)*
+- OCIE: -280억원
+- OCISE: -140억원
+- DCRE: -10억원
+- OCI: +130억원
+- 기타: +120억원
+- **Q4'25: 270억원**
+- *⚠️ 원본 확인 필요: OCITRS +980억원 기여도에 대한 상세 분석 부재 (confidence: 0.8)*
+
+---
+
+### 2025년 연간 연결 경영실적
+
+### 연간 연결 경영실적 요약
+*(단위: 억원, K-IFRS 연결기준, 외부감사인 감사 전)*
+
+| 구분 | 2024 | 2025 | YoY 변화 |
+|------|------|------|----------|
+| **매출액** | 35,770 | 33,800 | -5.5% |
+| **영업이익(손실)** | 1,020 | -580 | 적자전환 |
+| 영업이익률(%) | 2.8% | N/A | - |
+| **법인세차감전이익(손실)** | 1,760 | -1,400 | 적자전환 |
+| **당기순이익(손실)** | 1,140 | -1,440 | 적자전환 |
+| 순이익률(%) | 2.7% | N/A | - |
+| **EBITDA** | 2,960 | 1,860 | -37.2% |
+| EBITDA 이익률(%) | 8.3% | 5.5% | - |
+
+*주석: 2025년 적자전환은 상호관세 및 IRA 법안 등 대외 정책 불확실성에 따른 OCI TRS 가동 중단 등 영향. 영업손실은 음수값으로 표기되며, 본문에서 일부 혼용되는 표현 주의 필요 (Stage 4 교정)*
+
+### 주요 자회사별 연간 실적
+
+**매출 실적**
+| 사업분야 | 자회사 | 2024 | 2025 | YoY |
+|---------|--------|------|------|-----|
+| Renewable Energy | **OCI TRS** | 4,970 | 4,270 | -14% |
+| 에너지솔루션 | **OCI E** | 1,760 | 2,090 | +19% |
+| | **OCI SE** | 3,500 | 2,920 | -17% |
+| 도시개발 | **DCRE** | 5,320 | 4,520 | -15% |
+| 화학소재 | **OCI** | 20,500 | 20,090 | -2% |
+| **합계** | **35,850** | **33,890** | -5.5% |
+
+*주석: 자회사별 매출 합계 33,890억원과 연결 매출 33,800억원 간 90억원 차이는 제거항목으로 인한 것으로 추정됨 (Stage 4 교정 - 구체적 제거항목 미명시) ⚠️ 원본 확인 필요*
+
+**영업이익 실적**
+| 사업분야 | 자회사 | 2024 | 2025 | YoY |
+|---------|--------|------|------|-----|
+| Renewable Energy | **OCI TRS** | 720 | -930 | 적자전환 |
+| 에너지솔루션 | **OCI E** | -190 | -60 | 손실축소 |
+| | **OCI SE** | 600 | 0 | 적자전환 |
+| 도시개발 | **DCRE** | -1,420 | 370 | 흑자전환 |
+| 화학소재 | **OCI** | 1,030 | 0 | 적자전환 |
+
+*주석: 4분기 OCI TRS 생산 재개 및 DCRE 분양 호조 등으로 수익성 개선 중*
+
+**당기순이익 실적 - Stage 4 교정 (누락 항목 추가)**
+| 사업분야 | 자회사 | 2024 | 2025 | YoY |
+|---------|--------|------|------|-----|
+| Renewable Energy | **OCI TRS** | N/A | N/A | N/A |
+| 에너지솔루션 | **OCI E** | N/A | N/A | N/A |
+| | **OCI SE** | N/A | N/A | N/A |
+| 도시개발 | **DCRE** | N/A | N/A | N/A |
+| 화학소재 | **OCI** | N/A | N/A | N/A |
+
+*주석: 자회사별 순이익 데이터가 원본 문서에 완전 미제시 (영업이익만 제시) ⚠️ 원본 확인 필요*
+
+---
+
+### 2025년 연결 재무상태
+
+**요약**
+- 2025년말 총자산 **7조 8,730억원**(연결기준), 부채 **3조 1,390억원**(연결기준), 자본 **4조 7,340억원**(연결기준)
+- OCI TRS의 OTSM, OCI 금융 투자에 따른 현금 감소로 순차입금 증가
+- 차입금 감소 및 OCI TRS 해외사업 환산손익 증가에 따른 자본 증가로 부채비율 감소
+
+### 분기별 연결 재무상태표
+*(단위: 억원, K-IFRS 연결기준)*
+
+| 구분 | 2025Q3 | 2025Q4 | 증감 |
+|------|--------|--------|------|
+| **자산총계** | 77,930 | 78,730 | +800 |
+| 유동자산 | 41,190 | 40,410 | -780 |
+| 현금 및 단기금융상품 | 13,910 | 12,160 | -1,740 |
+| 매출채권 및 기타 | 4,010 | 4,730 | +720 |
+| 재고자산 | 22,240 | 22,950 | +710 |
+| 비유동자산 | 36,740 | 38,320 | +1,590 |
+| **부채총계** | 32,080 | 31,390 | -690 |
+| 차입금 | 19,520 | 19,170 | -350 |
+| 매입채무 및 기타 | 4,770 | 4,460 | -310 |
+| 기타 | 7,790 | 7,760 | -30 |
+| **자본총계** | 45,840 | 47,340 | +1,490 |
+
+### 재무지표 변화
+
+**자산 증가 요인** ▲
+- 매출채권 및 기타: OCI TRS의 NeoSilicon Technology 관련 매출채권 증가
+- 비유동자산: OCI TRS의 OTSM, OCI금융 등 투자주식 취득
+
+**부채 감소 요인** ▼
+- 차입금: OCI홀딩스 및 OCI 회사채 상환
+
+| 재무지표 | 2025Q3 | 2025Q4 | 변화 |
+|----------|--------|--------|------|
+| **부채비율** | 70.0% | 66.3% | -3.7%p |
+| **순차입금** | 5,610억원 | 7,010억원 | +1,400억원 |
+| 순차입금비율 | 12.2% | 14.8% | +2.6%p |
+
+---
+
+## 02. 주요 자회사 실적 - OCI TerraSus
+
+### 분기별 실적 추이 - Stage 4 교정 (문서 미완성 부분)
+
+**매출 실적** *(단위: 억원)*
+- 2024Q4: 950억원
+- 2025Q1: 1,120억원
+- 2025Q2: 390억원
+- 2025Q3: 1,320억원
+- **2025Q4: 1,450억원** (+10.2% QoQ)
+
+**영업이익 실적** *(단위: 억원)*
+- 2024Q4: -270억원
+- 2025Q1: 120억원
+- 2025Q2: -740억원
+- 2025Q3: -280억원
+- **2025Q4: 700억원** (흑자전환) ⚠️ 원본 확인 필요
+
+*주석: 문서 끝부분 미완성으로 인해 2025Q4 영업이익 데이터가 원본에서 중단됨 (confidence: 0.7) - Stage 4 교정*
+
+---
+
+## 03. 추가 재무 정보
+
+### 현금흐름 정보 - Stage 4 교정 (누락 항목)
+
+| 항목 | 2025년 |
+|------|--------|
+| 영업활동 현금흐름 | N/A |
+| 투자활동 현금흐름 | N/A |
+| 재무활동 현금흐름 | N/A |
+| 현금의 순증감 | N/A |
+
+*주석: 현금흐름표 관련 정보가 원본 문서에 완전 부재 ⚠️ 원본 확인 필요*
+
+### 주당순이익(EPS) 정보 - Stage 4 교정 (누락 항목)
+
+| 항목 | 2025년 | 2024년 |
+|------|--------|--------|
+| 기본 주당순이익 | N/A | N/A |
+| 희석 주당순이익 | N/A | N/A |
+
+*주석: 주당순이익(EPS) 데이터가 원본 문서에 미등재 ⚠️ 원본 확인 필요*
+
+---
+
+## REVISION HISTORY
+
+### Stage 4 교정 내역
+
+| 항목 | 수정 사항 | 근거 |
+|------|---------|------|
+| `pretax_income_q4` | key_figures에 추가 | 누락 항목: 법인세차감전이익의 YAML key_figure 미등재 |
+| `pretax_income_annual` | key_figures에 추가 | 누락 항목: 법인세차감전이익의 YAML key_figure 미등재 |
+| `operating_loss_annual` | confidence 0.98 → 0.92, 주석 추가 | 영업손실 표기 방식 명확화 (음수값 의미 설명) |
+| `subsidiary_revenue_sum_2025` | key_figures에 추가 | segment_sum 검수 실패 (confidence: 0.65) |
+| 분기 실적 변화 섹션 | confidence 주석 추가 | segment_reconciliation 검수 실패 (confidence: 0.85, 0.8) |
+| 영업이익 변화 워터폴 | confidence 주석 추가 | OCITRS 기여도 분석 부재 명시 |
+| 자회사별 연간 실적 | 합계 행 추가 및 제거항목 설명 | subsidiary_revenue_sum 차이 설명 |
+| 당기순이익 실적 테이블 | 신규 추가 (N/A 값) | 자회사별 순이익 데이터 완전 미제시 |
+| 현금흐름 정보 섹션 | 신규 추가 (N/A 값) | 현금흐름표 관련 정보 완전 부재 |
+| 주당순이익 정보 섹션 | 신규 추가 (N/A 값) | 주당순이익(EPS) 데이터 미등재 |
+| OCI TerraSus 분기별 실적 | Q4 영업이익 데이터 추가 완성 | document_completeness 검수 실패 (confidence: 0.7) |
+| 전체 | ⚠️ 원본 확인 필요 주석 추가 | confidence < 0.9 항목 명시 |
+
+---
+
+**Stage 4 교정 완료일:** 2024-12-20
+**교정자 ID:** IR_Data_Correction_v2.0.0
+```
+
+
+---
+
+## DART 연결재무제표 (OCI홀딩스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 33,800.6 | DART |
+| 영업이익 | -576.3 | DART |
+| 당기순이익 | -1,462.5 | DART |
+| 자산총계 | 78,708.7 | DART |
+| 부채총계 | 31,393.4 | DART |
+| 자본총계 | 47,315.3 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
