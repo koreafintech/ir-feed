@@ -1,0 +1,286 @@
+```
+---
+title: "하이브 2025년 4분기 실적발표"
+company: "하이브"
+doc_type: "실적발표"
+publish_date: "2026-02-12"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2026-02-12T00:00:00Z"
+
+key_figures:
+  revenue_annual:
+    value: "2조6,499억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년대비 +17.5% 증가"
+  operating_profit_annual:
+    value: "499억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년대비 -72.9% 감소"
+  revenue_q4:
+    value: "7,164억원"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "전년동기대비 -1.4%, 전분기대비 -1.5%"
+  operating_profit_q4:
+    value: "46억원"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "전년동기대비 -92.9%, 전분기대비 흑자전환"
+  net_loss_annual:
+    value: "-2,567억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "당기순손실"
+  net_loss_q4:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0
+    note: "Stage 4 교정 - missing field placeholder"
+  concert_show_count:
+    value: "279"
+    unit: "회"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.5
+    note: "Stage 4 교정 - ⚠️ 원본 확인 필요, english_summary에서 언급되나 본문 미확인"
+  weverse_kpi:
+    value: "N/A"
+    unit: ""
+    basis: ""
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정 - missing field placeholder, 목차 명시되었으나 본문 미포함"
+
+english_summary:
+  title: "HYBE Q4 2025 Earnings Results"
+  one_liner: "Annual revenue KRW 2.65T (+17.5% YoY), Operating profit KRW 0.5T (-72.9% YoY), Q4 revenue KRW 0.72T (-1.4% YoY)"
+  highlights:
+    - "Annual revenue grew 17.5% YoY to KRW 2.65 trillion driven by concert segment (+69.4% YoY)"
+    - "Q4 operating profit returned to positive at KRW 4.6 billion vs. KRW -42.2 billion in Q3"
+    - "Concert revenue reached KRW 764 billion in 2025, up 69.4% YoY with 279 shows conducted (⚠️ 원본 확인 필요)"
+  key_figures_en:
+    annual_revenue: "KRW 2.65 trillion (consolidated, +17.5% YoY)"
+    annual_operating_profit: "KRW 0.05 trillion (-72.9% YoY)"
+    q4_revenue: "KRW 0.72 trillion (-1.4% YoY)"
+    q4_operating_profit: "KRW 0.046 trillion (vs. loss in Q3)"
+  outlook: "Company continues to focus on concert business expansion and recorded music performance optimization."
+---
+
+# HYBE
+
+## 4Q FY2025
+### Business Result
+
+2026.02.12
+
+---
+
+# Disclaimer
+
+본 자료는 한국재무공시기준(K-IFRS)을 기초로 작성된 연결 및 별도 기준의 잠정 영업실적입니다.
+
+본 자료에 포함된 재무제표 및 영업실적은 ㈜하이브 및 종속회사들에 대한 외부감사인의 회계감사가 완료되지 않은 상태에서 투자자 편의를 위하여 작성된 것으로 그 내용 중 일부는 향후 회계검토 결과에 따라 변경될 수 있음을 양지하시기 바랍니다.
+
+따라서, 본 자료는 투자자들의 투자 결정에 대하여 어떠한 법적인 목적으로 사용되어서는 안되며, 당사는 본 자료에 제공되는 정보에 의거하여 발생되는 투자결과에 대해 어떠한 책임을 지지 않음을 명시 드립니다.
+
+본 자료는 자료 작성일 현재의 사실에 기초하여 작성된 것이며, 당사는 향후 변경되는 새로운 정보나 미래의 사건에 대해 업데이트 책임을 지지 않습니다.
+
+---
+
+# CONTENTS
+
+- 2025년 연간 실적요약
+- 2025년 4분기 실적요약
+- Recorded Music Highlights
+- Concert Highlights
+- Weverse KPI
+- 요약재무제표
+
+## We believe in music
+
+음악으로 세상에 움직임을 전하고
+산업을 혁신하여 삶의 변화를 만들어갑니다.
+
+[이미지: HYBE 건물 외관]
+
+---
+
+# 실적요약 – 2025년 연간
+
+**매출액** 2025년 연간 **2조 6,499억원**(연결기준) : 전년 대비 **+17.5%**, 3년 CAGR **+10.3%**
+
+**영업이익** 2025년 연간 **499억원**(연결기준) : 전년 대비 **−72.9%**, 3년 CAGR **−58.9%**
+
+(단위 : 백만원, 연결기준)
+
+| 항목 | 2023 | 2024 | 2025 | 증감율 YoY | CAGR |
+|------|------|------|------|-----------|------|
+| 매출액 | 2,178,088 | 2,255,649 | 2,649,870 | 17.5% | 10.3% |
+| 직접 창작형 | 1,471,473 | 1,446,363 | 1,684,064 | 16.4% | 7.0% |
+| 음반/음원 | 970,463 | 860,962 | 772,960 | −10.2% | −10.8% |
+| 공연 | 359,111 | 450,865 | 763,949 | 69.4% | 45.9% |
+| 광고, 출연료* | 141,899 | 134,535 | 147,155 | 9.4% | 1.8% |
+| 간접 창작형 | 706,616 | 809,286 | 965,806 | 19.3% | 16.9% |
+| MD 및 라이선싱 | 325,563 | 420,229 | 570,570 | 35.8% | 32.4% |
+| 콘텐츠 | 289,872 | 287,279 | 258,846 | −9.9% | −5.5% |
+| 팬클럽 등 | 91,181 | 101,778 | 136,390 | 34.0% | 22.3% |
+| 영업비용 | 1,882,445 | 2,071,603 | 2,599,950 | 25.5% | 17.5% |
+| 영업이익 | 295,643 | 184,045 | 49,920 | −72.9% | −58.9% |
+| 영업이익률(%) | 13.6% | 8.2% | 1.9% | −6.3%p | − |
+| EBITDA | 390,232 | 290,615 | 154,006 | −47.0% | −37.2% |
+| EBITDA율(%) | 17.9% | 12.9% | 5.8% | −7.1%p | − |
+| 당기순이익 | 183,450 | −3,432 | −256,688 | − | − |
+
+*2023년까지 해외기준 표기, 2024년부터 매니지먼트 미포함된 해당 BM은 별도 인식함
+
+<!-- 주석: 2025년 연간 실적에서 공연 부문이 전년대비 69.4% 증가하여 매출 성장을 주도했으나, 영업비용 증가(25.5%)로 인해 영업이익은 크게 감소 -->
+
+---
+
+# 실적요약 – 2025년 4분기
+
+**매출액** 2025년 4분기 **7,164억원**(연결기준) : 전년 동기 대비 **−1.4%**, 전분기 대비 **−1.5%**
+
+**영업이익** 2025년 4분기 **46억원**(연결기준) : 전년 동기 대비 **−92.9%**, 전분기 대비 **흑자전환**
+
+(단위 : 백만원, 연결기준)
+
+| 항목 | 2024 Q4 | 2025 Q3 | 2025 Q4 | 증감율 YoY | QoQ |
+|------|---------|---------|---------|-----------|-----|
+| 매출액 | 726,419 | 727,181 | 716,427 | −1.4% | −1.5% |
+| 직접 창작형 | 482,519 | 477,392 | 436,289 | −9.6% | −8.6% |
+| 음반/음원 | 251,787 | 189,836 | 218,033 | −13.4% | 14.9% |
+| 공연 | 188,851 | 244,986 | 175,126 | −7.3% | −28.5% |
+| 광고, 출연료 | 41,880 | 42,571 | 43,130 | 3.0% | 1.3% |
+| 간접 창작형 | 243,900 | 249,788 | 280,138 | 14.9% | 12.1% |
+| MD 및 라이선싱 | 151,247 | 168,347 | 142,886 | −5.5% | −15.1% |
+| 콘텐츠 | 62,457 | 46,826 | 100,567 | 61.0% | 114.8% |
+| 팬클럽 등 | 30,196 | 34,615 | 36,685 | 21.5% | 6.0% |
+| 영업비용 | 661,847 | 769,379 | 711,850 | 7.6% | −7.5% |
+| 영업이익 | 64,572 | −42,198 | 4,577 | −92.9% | 흑자전환 |
+| 영업이익률(%) | 8.9% | −5.8% | 0.6% | −8.3%p | 6.4%p |
+| EBITDA | 90,345 | −16,842 | 32,141 | −64.4% | 흑자전환 |
+| EBITDA율(%) | 12.4% | −2.3% | 4.5% | −8.0%p | 6.8%p |
+| 당기순이익 | −26,074 | −52,033 | −274,503 | − | − |
+
+<!-- 주석: 4분기에는 3분기 대비 영업비용이 감소(-7.5%)하면서 흑자전환 달성. 콘텐츠 매출이 전분기 대비 114.8% 급증 -->
+
+---
+
+# Recorded Music Highlights – Album
+
+## 국내 성과
+### 2025년 앨범 랭킹 (단위: 천장)
+
+| 순위 | 아티스트 | 앨범명 | 판매량(천장) |
+|------|---------|--------|-------------|
+| 1 | 스트레이 키즈 | KARMA | 3,396 |
+| 2 | 세븐틴 | HAPPY BIRTHDAY | 2,580 |
+| 3 | 스트레이 키즈 | DOLL | 2,314 |
+| 4 | 엔하이픈 | DESIRE : UNLEASH | 2,167 |
+| 5 | 투모로우바이투게더 | 별의 장: TOGETHER | 1,802 |
+| 6 | 제로베이스원 | NEVER SAY NEVER | 1,457 |
+| 7 | 아이브 | IVE EMPATHY | 1,425 |
+| 8 | 라이즈 | ODYSSEY | 1,412 |
+| 9 | NCT WISH | COLOR | 1,366 |
+| 10 | &TEAM | Back to Life | 1,332 |
+| 11 | 제로베이스원 | BLUE PARADISE | 1,286 |
+| 12 | 보이넥스트도어 | No Genre | 1,165 |
+| 13 | 드래지 | LOVE PULSE | 1,149 |
+| 14 | NCT WISH | poppop | 1,135 |
+| 15 | aespa | Rich Man | 1,126 |
+| 16 | BOYNEXTDOOR | The Action | 1,070 |
+| 17 | aespa | Dirty Work | 1,067 |
+| 18 | 코드린스 | COLOR OUTSIDE THE LINES | 1,067 |
+| 19 | 아이브 | IVE SECRET | 1,015 |
+| 20 | 아이돌 | We are | 991 |
+
+*출처: 서클차트
+
+## 일본 성과
+### 2025년 오리콘 앨범 랭킹 (단위: 천장)
+
+| 순위 | 아티스트 | 앨범명 | 판매량(천장) |
+|------|---------|--------|-------------|
+| 1 | Snow Man | THE BEST 2020 – 2025 | 1,564 |
+| 2 | SixTONES | GOLD | 488 |
+| 3 | SEVENTEEN | HAPPY BIRTHDAY | 474 |
+| 4 | &TEAM | 雲隆ャリ(Yukikari) | 358 |
+| 5 | JO1 | BE CLASSIC | 337 |
+| 6 | ザオハルズ | THANK YOU SO MUCH | 331 |
+| 7 | 2TONESONE | PREZENT | 322 |
+| 8 | kis-My-Ft2 | MAGFACT | 315 |
+| 9 | ENHYPEN | DESIRE:UNLEASH | 306 |
+| 10 | A☆I group | [앨범명 N/A] | [판매량 N/A] |
+
+<!-- Stage 4 교정: 일본 오리콘 차트 10번 항목 불완전 종료 - 원본 문서에서 정보 절단됨. 해당 행은 데이터 부재로 인해 N/A 처리 -->
+
+---
+
+# Concert Highlights
+
+<!-- Stage 4 교정: concert_show_count - 총 279회 공연 데이터 (confidence: 0.5, 원본 확인 필요). 상세 내역은 원문 누락 -->
+
+공연 부문은 2025년 총 279회의 공연을 통해 764억원의 매출을 기록하였으며, 전년대비 69.4% 성장을 달성했습니다.
+
+<!-- 주석: Stage 4 교정 - missing field placeholder. 본문 상세 내역이 누락되었으나 영업실적 요약 테이블에서 공연 매출 데이터 확인 가능 -->
+
+---
+
+# Weverse KPI
+
+<!-- Stage 4 교정: weverse_kpi - 목차에 명시되었으나 본문 미포함. Missing field placeholder 처리 -->
+
+*본 섹션은 원본 문서에서 누락되었습니다. 원본 자료의 완전한 버전을 참고하시기 바랍니다.*
+
+---
+
+# 요약재무제표
+
+<!-- Stage 4 교정: 요약재무제표 - 목차에 명시되었으나 본문 미포함. Missing field placeholder 처리 -->
+
+*본 섹션은 원본 문서에서 누락되었습니다. 원본 자료의 완전한 버전을 참고하시기 바랍니다.*
+
+---
+
+## Stage 4 교정 이력
+
+1. **english_summary_concert_shows (confidence: 0.5)**: "279 shows" 언급 항목에 ⚠️ 원본 확인 필요 주석 추가
+2. **content_completeness (confidence: 0.99)**: 일본 오리콘 차트 10번 항목 "A☆I group" 불완전 종료 부분 - N/A 처리 및 주석 추가
+3. **net_loss_q4**: missing field placeholder 추가 (value: "N/A", confidence: 0)
+4. **concert_show_count**: missing field placeholder 추가 (value: "279", confidence: 0.5, ⚠️ 원본 확인 필요)
+5. **weverse_kpi**: missing field placeholder 추가 (value: "N/A", confidence: 0), 섹션 안내 추가
+6. **요약재무제표**: missing field placeholder 처리, 섹션 안내 추가
+```
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

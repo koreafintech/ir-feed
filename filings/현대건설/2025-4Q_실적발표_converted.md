@@ -1,0 +1,455 @@
+```markdown
+---
+title: "현대건설 2025년 4분기 실적발표"
+company: "현대건설"
+doc_type: "실적발표"
+publish_date: "2026-02-01"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "310,629.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "6,530.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "5,590.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "277,917.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "277,917.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "101,128.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "31.0629"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 4.9% 감소, 연간 가이던스 30.4조 대비 102% 달성"
+  
+  operating_profit:
+    value: "6530"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 -12,634억원에서 흑자 전환, 영업이익률 2.1%"
+  
+  operating_margin:
+    value: "2.1"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "Stage 4 교정: 누락 항목 추가"
+  
+  net_income:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 원본 확인 필요"
+  
+  net_margin:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 원본 확인 필요"
+  
+  new_orders:
+    value: "33.4394"
+    unit: "조원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "⚠️ 원본 확인 필요 - Stage 4 교정: HDEC(255,151) + HEC(70,895) = 326,046억원인데, 연결 합계 334,394억원과 차이 8,348억원 발생. 기타 사업 또는 미공개 부문 존재 가능성"
+  
+  new_orders_hdec:
+    value: "25.5151"
+    unit: "조원"
+    basis: "HDEC"
+    period: "FY2025"
+    confidence: 0.98
+    note: "Stage 4 교정: 세부 부문 추가"
+  
+  new_orders_hec:
+    value: "7.0895"
+    unit: "조원"
+    basis: "HEC"
+    period: "FY2025"
+    confidence: 0.98
+    note: "Stage 4 교정: 세부 부문 추가"
+  
+  order_backlog:
+    value: "95.0896"
+    unit: "조원"
+    basis: "연결"
+    period: "2025Q4"
+    confidence: 0.98
+    note: "전년 대비 0.9% 감소, 약 3.5년치 매출 확보"
+  
+  q4_revenue:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 당기 분기 수치 원본 확인 필요"
+  
+  q4_operating_profit:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 당기 분기 수치 원본 확인 필요"
+  
+  operating_cash_flow:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 원본 확인 필요"
+  
+  investing_cash_flow:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 원본 확인 필요"
+  
+  financing_cash_flow:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 누락 항목 - 원본 확인 필요"
+
+english_summary:
+  title: "Hyundai E&C Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 31.1T (-4.9% YoY), Operating profit KRW 0.65T (turnaround from loss)"
+  highlights:
+    - "New orders reached KRW 33.4T, exceeding annual guidance (KRW 31.1T) by 107.4% (⚠️ segment reconciliation variance noted)"
+    - "Operating profit turned positive to KRW 0.65T from KRW -1.26T loss in 2024, with 2.1% margin"
+    - "Order backlog stands at KRW 95.1T, securing approximately 3.5 years of revenue"
+  key_figures_en:
+    revenue: "KRW 31.1 trillion (consolidated, -4.9% YoY)"
+    operating_profit: "KRW 0.65 trillion (turnaround from -1.26T loss), margin 2.1%"
+    new_orders: "KRW 33.4 trillion (+9.5% YoY, HDEC 25.5T + HEC 7.1T)"
+    order_backlog: "KRW 95.1 trillion (-0.9% YoY)"
+  outlook: "Strong order intake performance with record-high HDEC orders positioning for future growth. Net income and cash flow statements pending."
+---
+
+# '25년 연간실적 및 '26년 경영계획
+
+'26.02
+
+---
+
+## 유의사항
+
+본 자료의 재무정보는 한국채택국제회계기준(K-IFRS)에 따라
+작성된 **연결 기준**의 2025년 4분기 누적 영업실적입니다.
+
+본 자료는 외부 감사인의 회계감사 완료 전에 투자자의 편의를 위해
+제공된 자료이므로, 그 내용이 회계감사 과정에서 달라질 수 있음을
+유의하시기 바랍니다.
+
+---
+
+# Contents
+
+| | |
+|---|---|
+| 01 | '25년 실적 Highlight |
+| 02 | 실적 상세 |
+| 03 | '26년 경영계획 |
+| 04 | 요약 재무제표 |
+
+---
+
+# 01
+
+## '25년 실적 Highlight
+
+---
+
+## 실적 Highlight
+
+### 수주
+
+**연간 가이던스(31.1조원) 107% 달성**
+
+(단위: 억원, 연결기준)
+
+| 구분 | '24.FY | '25.FY | 증감률 |
+|---|---|---|---|
+| 국내 | 214,252 | 244,554 | +14.2% |
+| 해외 | 91,029 | 89,840 | -1.3% |
+| **합계** | **305,281** | **334,394** | **+9.5%** |
+
+*주: 수주 총액 33조 4,394억원으로 전년 대비 9.5% 증가*
+
+⚠️ **Stage 4 교정**: HDEC(255,151억원) + HEC(70,895억원) = 326,046억원인데, 연결 합계 334,394억원과의 차이 8,348억원에 대한 세부 확인 필요 (기타 사업 또는 미공개 부문 존재 가능성)
+
+### 매출
+
+**연간 가이던스(30.4조원) 102% 달성**
+
+(단위: 억원, 연결기준)
+
+| 구분 | '24.FY | '25.FY | 증감률 |
+|---|---|---|---|
+| 국내 | 193,951 | 187,642 | -3.3% |
+| 해외 | 132,752 | 122,987 | -7.4% |
+| **합계** | **326,703** | **310,629** | **-4.9%** |
+
+*주: 매출 총액 31조 629억원으로 전년 대비 4.9% 감소*
+
+### 영업이익
+
+**영업이익 흑자 전환**
+
+(단위: 억원, 연결기준)
+
+| 구분 | '24.FY | '25.FY |
+|---|---|---|
+| 영업이익 | -12,634 | 6,530 |
+| 영업이익률 | -3.9% | 2.1% |
+
+*주: 영업손실 -1조 2,634억원에서 영업이익 6,530억원으로 흑자 전환*
+
+### 당기순이익
+
+⚠️ **Stage 4 교정: 누락 항목** - 원본 확인 필요
+
+(당기순이익 및 당기순이익률 정보 미포함)
+
+---
+
+# 02 실적 상세
+
+---
+
+## 수주
+
+**2025년 연간 수주 : (연결)33조 4,394억원 [연간 가이던스(31.1조원) 107.4% 달성]**
+
+### 연결 (단위: 억원)
+
+| 구분 | '24.FY | '25.FY | 증감률 |
+|------|-------|-------|--------|
+| 국내 | 214,252 | 244,554 | +14.2% |
+| 해외 | 91,029 | 89,840 | -1.3% |
+| **합계** | **305,281** | **334,394** | **+9.5%** |
+
+⚠️ **Stage 4 교정**: 세부 부문(HDEC + HEC) 합계와의 불일치 확인 필요
+
+### HDEC (현대건설) 
+
+**(단위: 억원)**
+
+**< 연간 최대 수주 실적 달성 >**
+**[ 255,151억원 (국내: 200,972억원 / 해외: 54,179억원) ]**
+
+◇ 주요 수주 실적
+- 이촌5구역 정비사업(2Q, 2조원), 개포우성5-6,7단지(2Q, 1.5조원), 부산 우동3구역(1Q, 1.3조원), 신반포우성아파트(4Q, 0.7조원)
+
+| 부문 | '24.FY | '25.FY |
+|------|-------|-------|
+| 토목·건축/주택 | 131,148 | 179,073 |
+| 플랜트·에너지 | 24,629 | 22,829 |
+| 기타 | 28,334 | 53,249 |
+| **합계** | **184,111** | **255,151** |
+
+*주: HDEC 수주 총액이 전년 대비 38.6% 증가*
+
+### HEC (현대엔지니어링건설)
+
+**(단위: 억원)**
+
+**[ 70,895억원 (국내: 35,800억원 / 해외: 35,095억원) ]**
+
+◇ 주요 수주 실적
+- 미국 LG배터리 해외계약 공장(1Q, 0.7조원), 미국 LG 배터리 공장 VO(1Q, 0.6조원)
+
+| 부문 | '24.FY | '25.FY |
+|------|-------|-------|
+| 플랜트/인프라 | 78,633 | 49,338 |
+| 건축/주택 | 28,900 | 8,206 |
+| 기타 | 12,487 | 13,351 |
+| **합계** | **120,020** | **70,895** |
+
+*주: HEC 수주 총액이 전년 대비 40.9% 감소*
+
+---
+
+## 수주잔고
+
+**2025년 4분기 수주잔고 : (연결) 95조 896억원 [약 3.5년치 매출 확보]**
+
+### 연결 (단위: 억원)
+
+| 구분 | '24.4Q | '25.4Q | 증감률 |
+|------|--------|--------|--------|
+| 국내 | 259,610 | 207,074 | -20.2% |
+| 해외 | 699,637 | 743,821 | +6.3% |
+| **합계** | **959,247** | **950,896** | **-0.9%** |
+
+*주: 수주잔고 기준 약 3.5년치 매출 확보*
+
+### HDEC (현대건설)
+
+**(단위: 억원)**
+
+**[ HDEC : 697,355억원 ]**
+
+**(수주잔고비율: 6.0년치)**
+
+| 구분 | 금액 | 비율 |
+|------|------|------|
+| **국내** | **553,989** | **79%** |
+| - 주택(6.3년치) | 375,667 | - |
+| **해외** | **143,366** | **21%** |
+
+※ 수주잔고비율: 2024년 실적 매출 기준  
+※ 국내 주택 분양권 포함시(수주잔고 미포함): 581,397억원
+
+### HEC (현대엔지니어링건설)
+
+**(단위: 억원)**
+
+**[ HEC : 246,761억원 ]**
+
+**(수주잔고비율: 3.2년치)**
+
+| 구분 | 금액 | 비율 |
+|------|------|------|
+| **국내** | **183,000** | **74%** |
+| - 주택(6.2년치) | 116,924 | - |
+| **해외** | **63,761** | **26%** |
+
+※ 수주잔고비율: 2024년 실적 매출 기준  
+※ 국내 주택 분양권 포함시(수주잔고 미포함): 167,997억원
+
+---
+
+## Q4 분기 실적
+
+⚠️ **Stage 4 교정: 누락 항목** - 당기 분기 실적 수치 원본 확인 필요
+
+(Q4 2025 매출, 영업이익 등 분기 당기 수치 미포함)
+
+---
+
+## 현금흐름
+
+⚠️ **Stage 4 교정: 누락 항목** - 원본 확인 필요
+
+(영업활동 현금흐름, 투자활동 현금흐름, 재무활동 현금흐름 등 현금흐름표 미포함)
+
+---
+
+*페이지: 5, 7, 8*
+```
+
+## 수정 요약
+
+**Stage 4 교정 사항:**
+
+1. **검수 실패 항목 처리 (confidence 0.95)**
+   - `new_orders` 필드에 `⚠️ 원본 확인 필요` 주석 추가
+   - 세부 부문합 불일치(8,348억원) 설명 추가
+
+2. **누락 항목 처리 (5개)**
+   - `net_income`: N/A, confidence 0 추가
+   - `net_margin`: N/A, confidence 0 추가
+   - `q4_revenue`: N/A, confidence 0 추가
+   - `q4_operating_profit`: N/A, confidence 0 추가
+   - `operating_cash_flow`, `investing_cash_flow`, `financing_cash_flow`: N/A, confidence 0 추가
+
+3. **마크다운 본문 수정**
+   - 수주 섹션에 세부 확인 필요 주석 추가
+   - "당기순이익", "Q4 분기 실적", "현금흐름" 섹션 신규 추가
+   - 모든 교정 사항에 "Stage 4 교정" 표시
+
+4. **원본 데이터 왜곡 방지**
+   - 기존 수치는 유지하고 주석만 추가
+   - missing_fields는 "N/A" placeholder로 표시
+
+
+---
+
+## DART 연결재무제표 (현대건설, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 310,629.1 | DART |
+| 영업이익 | 6,530.1 | DART |
+| 당기순이익 | 5,590.7 | DART |
+| 자산총계 | 277,917.1 | DART |
+| 부채총계 | 277,917.1 | DART |
+| 자본총계 | 101,128.6 | DART |
+| 영업활동현금흐름 | -7,482.6 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

@@ -1001,5 +1001,176 @@
         "cost": 0.103
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T15:08:46.564240",
+    "total": 23,
+    "success": 23,
+    "failed": 0,
+    "cost": 2.8559,
+    "files": [
+      {
+        "company": "HLB",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1097
+      },
+      {
+        "company": "HLB",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1159
+      },
+      {
+        "company": "롯데케미칼",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1098
+      },
+      {
+        "company": "롯데케미칼",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1338
+      },
+      {
+        "company": "롯데케미칼",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1363
+      },
+      {
+        "company": "롯데케미칼",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1383
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1334
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1337
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1098
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1286
+      },
+      {
+        "company": "하이브",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1075
+      },
+      {
+        "company": "하이브",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1291
+      },
+      {
+        "company": "하이브",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1436
+      },
+      {
+        "company": "하이브",
+        "doc_type": "실적발표",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1139
+      },
+      {
+        "company": "현대건설",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0929
+      },
+      {
+        "company": "현대건설",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1054
+      },
+      {
+        "company": "현대건설",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1108
+      },
+      {
+        "company": "현대건설",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1026
+      },
+      {
+        "company": "현대건설",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1148
+      },
+      {
+        "company": "현대글로비스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1421
+      },
+      {
+        "company": "현대글로비스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1489
+      },
+      {
+        "company": "현대글로비스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1472
+      },
+      {
+        "company": "현대글로비스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1478
+      }
+    ]
   }
 ]

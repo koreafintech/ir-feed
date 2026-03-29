@@ -1,0 +1,376 @@
+```yaml
+---
+title: "현대글로비스 2025년 1분기 실적발표"
+company: "현대글로비스"
+doc_type: "실적발표"
+publish_date: "2025-01-01"
+fiscal_year: 2025
+fiscal_quarter: "Q1"
+ticker: "N/A"
+ticker_us: "N/A"
+english_name: "Hyundai Glovis Co., Ltd."
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-01-01T00:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "295,664.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "20,730.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "17,347.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "185,872.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "185,872.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "103,884.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "7,223.4"
+    unit: "십억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 전년동기 대비 9.7% 증가"
+  operating_profit:
+    value: "501.9"
+    unit: "십억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 전년동기 대비 30.4% 증가"
+  operating_margin:
+    value: "6.9"
+    unit: "%"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 전년동기 5.8%에서 개선"
+  net_income:
+    value: "399.2"
+    unit: "십억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 당기순이익, 전년동기 대비 30.0% 증가"
+  ebitda:
+    value: "678.1"
+    unit: "십억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 전년동기 대비 25.6% 증가"
+  ticker:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 한국/글로벌 티커 미입력 - 원본 확인 필요"
+
+english_summary:
+  title: "Hyundai Glovis Q1 2025 Earnings Results"
+  one_liner: "Revenue KRW 7.22T (+9.7% YoY), Operating profit KRW 0.50T (+30.4% YoY)"
+  highlights:
+    - "Strong operating profit growth of 30.4% YoY driven by improved profitability across all business segments"
+    - "Operating margin expanded to 6.9% from 5.8% in Q1 2024"
+    - "Logistics segment maintained stable performance with overseas logistics revenue up 11.2% YoY"
+  key_figures_en:
+    revenue: "KRW 7.22 trillion (consolidated, +9.7% YoY)"
+    operating_profit: "KRW 0.50 trillion (+30.4% YoY)"
+    net_income: "KRW 0.40 trillion (+30.0% YoY)"
+    operating_margin: "6.9% (vs 5.8% in Q1 2024)"
+  outlook: "Company maintains positive outlook with stable performance across logistics, shipping, and distribution segments."
+---
+
+# Global Smart SCM Solution Provider
+
+## HYUNDAI GLOVIS
+
+### 2025년 1분기 경영실적
+
+---
+
+# Global Smart SCM Solution Provider
+
+## Disclaimer
+
+본 자료에 포함된 현대글로비스의 경영실적 및 자문사과와 관련한 모든 정보는 현재까지 입수한 정보에 기초하고 있습니다.
+
+본 자료는 미래에 대한 예측 정보를 포함하고 있습니다.
+
+위 예측정보는 향후 경영환경의 변화 등에 따라 영향을 받으며 분석적으로 분석성을 내포하고 있는 바 이러한 불확실성으로 인하여 실제 미래실적은 예측정보에 기재되어나 암시된 내용과 중대한 차이가 있을 수 있습니다.
+
+또한 향후 자산 및 현재의 시장상황과 의사의 경영방침 등을 고려하여 것으로서 향후 시장환경의 변화의 경영전략 수정 등에 따라 제공되지 자주로, 제공 앆전 및 수치 등이 어떠한 사전 고지 없이 변경될 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결정에 대한 법적 책임 소재의 의무증식기로서 사용될 수 없습니다.
+
+또한 본 자료에 포함된 현대글로비스의 경영실적 및 재무정과는 투자자의 의의의 판이을 위하여 의무공시의에 검토 또는 확인되지 않은 상태에서 조기에 작성된 것으로 그 내용 중 일부는 외부감시인의 최종 검토 과정에서 달라질 수 있습니다.
+
+## Contents
+
+- **경영실적**
+  - 2025년 1Q 경영실적 ..................... 3
+  - 부문별 실적 .......................... 4
+
+- **사업내용**
+  
+  【물류】
+  - 국내물류 ............................. 5
+  - 해외물류 ............................. 6
+  
+  【해운】
+  - 완성차해상운송 ....................... 7
+  - 벌크해상운송 ......................... 8
+  
+  【유통】
+  - CKD사업 .............................. 9
+  - 오토비즈/기타유통 .................... 10
+
+- **첨부**
+  - 매출/영업이익 추이 ................... 11
+  - 요약 재무상태표 ...................... 12
+  - 요약 손익계산서 ...................... 13
+
+---
+
+# Global Smart SCM Solution Provider
+
+## 2025년 1Q 경영실적
+
+| (단위: 십억원, %) | 1Q24 | 4Q24 | 1Q25 | YoY | QoQ |
+|---|---|---|---|---|---|
+| **매출액** | 6,586.4 | 7,287.9 | 7,223.4 | 9.7 | -0.9 |
+| **매출총이익** | 537.2 | 649.4 | 677.2 | 26.1 | 4.3 |
+| **영업이익** | 384.8 | 459.7 | 501.9 | 30.4 | 9.2 |
+| **영업이익률** | 5.8 | 6.3 | 6.9 | - | - |
+| **EBITDA** | 539.8 | 638.9 | 678.1 | 25.6 | 6.1 |
+| **법인세차감순이익** | 429.7 | 209.4 | 514.6 | 19.8 | 145.8 |
+| **당기순이익** | 306.2 | 96.6 | 399.2 | 30.0 | 312.3 |
+
+*주: 모든 재무수치는 연결기준*
+
+### 영업외손익 분석 (단위: 십억원)
+
+**금융손익**
+- 1Q24: 6.7
+- 4Q24: -1.8
+- 1Q25: -1.0
+
+**기타손익**
+- 1Q24: -7.9
+- 4Q24: -105.5
+- 1Q25: 19.4
+
+**지분법손익**
+- 1Q24: -143.2
+- 4Q24: -143.2
+- 1Q25: -5.7
+
+*주: 지분법손익 개선이 당기순이익 증가에 기여*
+
+### 투자현황 (단위: 십억원)
+
+| 구분 | 2023 | 2024 | 2025 YTD |
+|---|---|---|---|
+| **지분투자** | 176.4 | 694.3 | 210.7 |
+| **자본** | 70.7 | 103.4 | 21.0 |
+| **기타1** | 71.9 | 205.5 | - |
+| **기타2** | 42.3 | 137.6 | - |
+| **기타3** | - | 1,140.8 | - |
+
+*주: 투자현황 세부항목은 원본 확인 필요*
+
+---
+
+# Global Smart SCM Solution Provider
+
+## 부문별 실적
+
+### 물류 사업부문
+
+**매출액** (단위: 십억원, %)
+- 1Q24: 2,274.8 → 1Q25: 2,458.0 (YoY +8.1%, QoQ -6.3%)
+- 2024년 분기별: 2Q 2,434.4 / 3Q 2,582.6 / 4Q 2,622.2
+
+**영업이익률** (%)
+- 1Q24: 8.0 → 1Q25: 8.1 (YoY 0.0%p, QoQ -0.9%p)
+- 2024년 분기별: 2Q 8.3 / 3Q 8.2 / 4Q 9.0
+
+### 해운 사업부문
+
+**매출액** (단위: 십억원, %)
+- 1Q24: 1,151.1 → 1Q25: 1,257.0 (YoY +9.2%, QoQ -7.1%)
+- 2024년 분기별: 2Q 1,287.8 / 3Q 1,328.9 / 4Q 1,353.1
+
+**영업이익률** (%)
+- 1Q24: 7.2 → 1Q25: 10.9 (YoY +3.7%p, QoQ +3.7%p)
+- 2024년 분기별: 2Q 6.1 / 3Q 8.1 / 4Q 7.2
+
+*주: 해운부문 수익성 크게 개선*
+
+### 유통 사업부문
+
+**매출액** (단위: 십억원, %)
+- 1Q24: 3,160.5 → 1Q25: 3,508.4 (YoY +11.0%, QoQ +5.9%)
+- 2024년 분기별: 2Q 3,342.2 / 3Q 3,557.2 / 4Q 3,312.6
+
+**영업이익률** (%)
+- 1Q24: 3.8 → 1Q25: 4.7 (YoY +0.9%p, QoQ +0.8%p)
+- 2024년 분기별: 2Q 4.7 / 3Q 4.2 / 4Q 3.9
+
+*주: 유통부문 매출 및 수익성 모두 개선*
+
+---
+
+# Global Smart SCM Solution Provider
+
+## 물류_국내물류
+
+### 매출현황 (단위: 십억원, %)
+
+- 1Q24: 479.8 → 1Q25: 462.2 (YoY -3.7%, QoQ -5.9%)
+- 2024년 분기별: 2Q 491.8 / 3Q 494.8 / 4Q 491.3
+
+### 현대차·기아 내수, 수출 판매 현황 (단위: 천대)
+
+| 분기 | 현대차·기아 내수판매 | 현대차·기아 수출판매 |
+|---|---|---|
+| 1Q23 | 591 | 333 |
+| 2Q23 | 601 | 356 |
+| 3Q23 | 508 | 301 |
+| 4Q23 | 576 | 337 |
+| 1Q24 | 562 | 298 |
+| 2Q24 | 615 | 324 |
+| 3Q24 | 523 | 295 |
+| 4Q24 | 558 | 330 |
+| 1Q25 | 564 | 301 |
+
+*주: 1Q25 내수판매는 전년동기 수준 유지, 수출판매는 소폭 증가*
+
+### 실적분석
+
+**유관산업 전망**
+- 자동차 생산 및 하이브리드 상장에 따른 내수판매 증가 기대
+- 무역분쟁 등에 따른 글로벌 무역환경 불확실성 심화
+
+**철강**
+- 중국산 철강재 덤핑에 따른 국내 시장 가격 하락 및 경쟁 심화, 인건비 가격 상승 등으로 인한 여건 불투명
+
+**유통**
+- 글로벌 무역 분쟁에 따른 경기둔화 및 소비 심리 위축 우려
+
+### 비계열 매출 및 비중(국내물류 부문) (단위: 십억원, %)
+
+| 구분 | 매출액 | 비중 |
+|---|---|---|
+| 1Q23 | 161 | 33.5 |
+| 2Q23 | 172 | 34.9 |
+| 3Q23 | 157 | 31.8 |
+| 4Q23 | 156 | 31.7 |
+| 1Q24 | 160 | 33.3 |
+| 2Q24 | 167 | 34.0 |
+| 3Q24 | 156 | 31.5 |
+| 4Q24 | 159 | 32.4 |
+| 1Q25 | 141 | 30.5 |
+
+*주: 비계열 매출 비중이 전년동기 33.3%에서 30.5%로 감소*
+
+---
+
+# Global Smart SCM Solution Provider
+
+## 물류_해외물류
+
+### 매출 현황 (단위: 십억원, %)
+
+| 구분 | 1Q24 | 2Q24 | 3Q24 | 4Q24 | 1Q25 |
+|------|------|------|------|------|------|
+| 매출 | 1,795.0 | 1,942.6 | 2,087.8 | 2,130.9 | 1,995.8 |
+| YoY | - | - | - | - | +11.2 |
+| QoQ | - | - | - | - | -6.3 |
+
+### 실적 분석
+- 해외 완성차 내륙운송 및 부품 수출입물류 매출 증가
+- 우호적 환율 효과
+
+### 유관산업 전망
+- 해외 주요시장 완성차 판매 견조함 지속
+```
+
+## 수정 사항 요약
+
+**Stage 4 교정 적용:**
+
+1. **ticker 필드 수정** (누락 항목)
+   - `ticker: ""` → `ticker: "N/A"` (confidence: 0)
+   - `ticker_us: ""` → `ticker_us: "N/A"` (confidence: 0)
+   - `english_name: ""` → `english_name: "Hyundai Glovis Co., Ltd."`
+
+2. **key_figures에 ticker placeholder 추가**
+   - 새로운 항목: `ticker` (value: "N/A", confidence: 0)
+   - note: "Stage 4 교정: 한국/글로벌 티커 미입력 - 원본 확인 필요"
+
+3. **기존 key_figures note에 "Stage 4 교정" 표시 추가**
+   - 모든 key_figures 항목의 note에 "Stage 4 교정:" 접두사 추가
+
+
+---
+
+## DART 연결재무제표 (현대글로비스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 295,664.1 | DART |
+| 영업이익 | 20,730.1 | DART |
+| 당기순이익 | 17,347.0 | DART |
+| 자산총계 | 185,872.2 | DART |
+| 부채총계 | 185,872.2 | DART |
+| 자본총계 | 103,884.5 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
