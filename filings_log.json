@@ -1538,5 +1538,99 @@
         "cost": 0.1321
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T17:25:09.132038",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.3712,
+    "files": [
+      {
+        "company": "GS",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1134
+      },
+      {
+        "company": "GS",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1303
+      },
+      {
+        "company": "GS",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.11
+      },
+      {
+        "company": "GS",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.11
+      },
+      {
+        "company": "금호석유화학",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.0879
+      },
+      {
+        "company": "GS",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1258
+      },
+      {
+        "company": "금호석유화학",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.105
+      },
+      {
+        "company": "금호석유화학",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1091
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1167
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1177
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1349
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1105
+      }
+    ]
   }
 ]
