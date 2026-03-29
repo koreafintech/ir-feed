@@ -682,5 +682,50 @@
         "cost": 0.1362
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T10:36:35.988569",
+    "total": 5,
+    "success": 4,
+    "failed": 1,
+    "cost": 0.4761,
+    "files": [
+      {
+        "company": "LG이노텍",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "LG이노텍",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "LG이노텍",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1135
+      },
+      {
+        "company": "LG이노텍",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "LG이노텍",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1356
+      }
+    ]
   }
 ]
