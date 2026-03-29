@@ -1632,5 +1632,99 @@
         "cost": 0.1105
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T18:02:35.990960",
+    "total": 12,
+    "success": 12,
+    "failed": 0,
+    "cost": 1.436,
+    "files": [
+      {
+        "company": "GS건설",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.0978
+      },
+      {
+        "company": "GS건설",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1308
+      },
+      {
+        "company": "GS건설",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.117
+      },
+      {
+        "company": "GS건설",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1119
+      },
+      {
+        "company": "효성첨단소재",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1069
+      },
+      {
+        "company": "효성첨단소재",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1327
+      },
+      {
+        "company": "효성첨단소재",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1335
+      },
+      {
+        "company": "효성첨단소재",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1358
+      },
+      {
+        "company": "효성티앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.115
+      },
+      {
+        "company": "효성티앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1148
+      },
+      {
+        "company": "효성티앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1065
+      },
+      {
+        "company": "효성티앤씨",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1333
+      }
+    ]
   }
 ]

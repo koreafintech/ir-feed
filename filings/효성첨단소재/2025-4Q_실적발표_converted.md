@@ -1,0 +1,344 @@
+```yaml
+---
+title: "효성첨단소재 2025년 4분기 실적발표"
+company: "효성첨단소재"
+doc_type: "실적발표"
+publish_date: "2025-01-15"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: "HS Hyosung Advanced Materials"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-15T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "32,830.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "1,574.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "156.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "39,034.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "30,769.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "8,265.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "7,855"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "타이어보강재/산업용섬유 6,787억원, 스판덱스/필름 1,068억원 포함"
+  
+  operating_profit:
+    value: "303"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "영업이익률 3.9%, QoQ 57.0% 증가"
+  
+  net_income:
+    value: "76"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "세전이익 158억원에서 당기순이익 76억원"
+  
+  ebitda:
+    value: "883"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "QoQ 18.0% 증가"
+
+  gross_profit:
+    value: "812"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 누락된 매출총이익 추가"
+
+  gross_profit_margin:
+    value: "10.3"
+    unit: "%"
+    basis: "연결"
+    period: "4Q25"
+    confidence: 0.98
+    note: "Stage 4 교정: 누락된 매출총이익률 추가 (812억원 / 7,855억원)"
+
+english_summary:
+  title: "HS Hyosung Advanced Materials Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 785.5B ⚠️ (English summary shows 0.79T, original value 785.5B = 7,855억원, -2.3% YoY), Operating profit KRW 30.3B ⚠️ (Stage 4 교정: 단위 명확화, 303억원 = KRW 30.3B)"
+  highlights:
+    - "Tire reinforcement/industrial fiber segment: KRW 678.7B revenue, 3.1% operating margin"
+    - "Spandex/film segment: KRW 106.8B revenue, 8.6% operating margin"
+    - "Operating profit recovered 57.0% QoQ despite YoY decline"
+    - "EBITDA KRW 88.3B, up 18.0% QoQ"
+    - "Gross profit KRW 81.2B, up 17.9% QoQ (Stage 4 교정: 누락된 매출총이익 추가)"
+  key_figures_en:
+    revenue: "KRW 785.5B (consolidated, -2.3% YoY, -1.9% QoQ) ⚠️ 원본 확인 필요"
+    operating_profit: "KRW 30.3B = 303억원 (-34.1% YoY, +57.0% QoQ) ⚠️ 원본 확인 필요 (Stage 4 교정: 단위 명확화)"
+    net_income: "KRW 7.6B (-68.1% YoY)"
+    ebitda: "KRW 88.3B (-11.3% YoY, +18.0% QoQ)"
+    gross_profit: "KRW 81.2B (+17.9% QoQ) (Stage 4 교정: 누락된 항목 추가)"
+  outlook: "Company continues to focus on sustainability initiatives including carbon neutrality by 2030 and various ESG certifications."
+---
+
+# HS HYOSUNG ADVANCED MATERIALS
+
+## 2025년 4분기 경영실적
+## 4th Quarter 2025
+
+---
+
+## What's Inside
+
+| 항목 | 내용 |
+|------|------|
+| Introduction | Sustainability / 사업부 소개 |
+| Financial Data | 손익현황 / 재무현황 / 현금흐름표 |
+| 사업현황 | |
+| Appendix | 사업부문별 실적표 / 원재료 동향 |
+| Fact Sheet | |
+
+**Disclaimer**
+
+본 자료에 포함된 경영계획, 전망, 기업 전략과정은 '미래에 관한 표현'으로 실제 결과가 다를 수 있습니다. 이에 대한 투자자의 주의를 요청합니다. 본 자료는 업계 관계자의 일반정보 제공을 목적으로 작성되었으며 정확성을 고의적으로 보장하지 않습니다. 본 자료에 포함된 정보에 거의 의존하여 어떠한 투자 결정을 해서는 안 되며 본 자료에 포함된 내용 자체는 직접적인 사업영향은 미치지 않습니다. 또한, 본 자료는 투자자의 투자판단에 필요한 모든 정보를 제공하지는 않습니다. 따라서 본 자료에 포함된 어떠한 내용도 투자의 권유가 아닙니다.
+
+---
+
+## 지속가능경영
+
+HS효성첨단소재는 다양한 이해관계자의 요구와 기대에 부응하기 위해 기업의 경제, 사회, 환경적 책임을 다하고 지속가능한 기업으로 나아가기 위해 노력하며, 이러한 노력의 인정으로 최고경영진이 직접 참여하는 의사결정기구를 포함하여 체계적인 지속가능경영 운영체계를 수립하고 있습니다.
+
+또한 고객, 임직원, 협력사 등 다양한 이해관계자의 의견과 글로벌 지속가능경영 이니셔티브, 기업의 경영활동을 고려하여 경제, 사회, 환경 측면의 주요 이슈를 도출하여 유형별 대응과 성과를 지속가능경영 보고서를 통해 투명하게 공개하고 있습니다.
+
+### Zero Fatality | Zero Waste | Zero Emission | Zero Impact
+
+무재해 사업장으로 지속가능경영 운영 - [https://sustainability.hyosungadvancedmaterials.com/kr]
+
+---
+
+## 이니셔티브
+
+### UNGC
+HS효성첨단소재는 UNGC (UN Global Compact) 회원사로서 인권, 노동, 환경 분야의 10대 원칙에 따른 기업의 사회적 책임에 동참하고 있습니다. Communication on Progress (CoP)를 통해 이행 성과를 공개하며 투명한 경영을 추진하고 있습니다.
+
+### TCFD
+기후변화 관련 재무정보 공개 태스크포스(Task Force on Climate-related Financial Disclosures, TCFD)에 따라 기후관련 재무 영향을 공개합니다. 당사는 TCFD 지침에 따른 거버넌스, 전략, 위험 관리를 통해 기후변화에 대응하고 있습니다.
+
+### CDP
+CDP (Carbon Disclosure Project)는 기업의 기후변화 대응 수준을 평가하여 공개하는 이니셔티브로 당사는 매년 참여하고 있습니다. 당사는 Scope 3까지 공개하며 2025년도 기업평가 점수 향상에 집중할 계획입니다.
+
+### SBTi
+과학기반 감축목표 이니셔티브(Science Based Target Initiative, SBTi)를 통해 과학 기반의 탄소중립 감축목표를 공개하고 있습니다. 당사는 2050년 탄소중립을 목표로 2030년 감축목표를 설정하였으며 SBTi 인증을 취득하였습니다.
+
+---
+
+## 외부평가
+
+### MSCI
+국제 ESG 평가기관 MSCI에서 업계 최우수 등급 평가를 받았습니다.
+
+### 한국ESG기준원
+한국ESG기준원의 평가에서 2024년 등급이 상향 조정되었습니다.
+
+### Dow Jones Sustainability Indices
+당사는 Dow Jones Sustainability Indices (DJSI)에 편입되어 있습니다.
+
+### Sustainalytics
+Sustainalytics 평가에서 2024년 HS효성첨단소재는 Low Risk 등급을 받았습니다.
+
+### EcoVadis
+EcoVadis 평가에서 2024년 'Platinum Medal'을 수상하였습니다.
+
+### S&P Global
+S&P Global ESG 평가에서 2024년 67/100점을 획득하였습니다.
+
+---
+
+# 손익현황
+
+## 연결 매출액 **(연결 기준, 억원)**
+
+**7,855억원**
+
+| 항목 | 값 |
+|------|-----|
+| 매출총이익 | 812억원 |
+| 매출총이익률 | 10.3% |
+| 영업이익 | 303억원 |
+| 영업이익률 | 3.9% |
+
+### 타이어보강재 / 산업용섬유 **(연결 기준, 억원)**
+
+| 항목 | 매출액 | 영업이익 | 영업이익률 |
+|------|--------|---------|-----------|
+| | 6,787억원 | 211억원 | 3.1% |
+
+### 스판덱스 / 필름 등 **(연결 기준, 억원)**
+
+| 항목 | 매출액 | 영업이익 | 영업이익률 |
+|------|--------|---------|-----------|
+| | 1,068억원 | 92억원 | 8.6% |
+
+*주: 매출액 합계 7,855억원 = 타이어보강재/산업용섬유 6,787억원 + 스판덱스/필름 1,068억원*
+
+## 분기별 실적 **(연결 기준, 억원)**
+
+| 항목 | 4Q24 | 3Q25 | 4Q25 | YoY | QoQ |
+|------|------|------|------|-----|-----|
+| 매출액 | 8,044 | 8,010 | 7,855 | (2.3%) | (1.9%) |
+| 매출총이익 | 1,004 | 689 | 812 | (19.1%) | 17.9% |
+| 매출총이익률 | 12.5% | 8.6% | 10.3% | (2.2%p) | 1.7%p |
+| 영업이익 | 460 | 193 | 303 | (34.1%) | 57.0% |
+| 금융수익(비용) | (217) | (198) | (203) | (6.5%) | 2.5% |
+| 세전이익 | 398 | 29 | 158 | (60.3%) | 444.8% |
+| 당기순이익 | 238 | (35) | 76 | (68.1%) | 적자전환 |
+| 지배지분순이익 | 151 | (136) | (9) | 적자전환 | 93.4% |
+| EBITDA | 995 | 748 | 883 | (11.3%) | 18.0% |
+
+*주: QoQ는 전분기 대비 증감률, YoY는 전년동기 대비 증감률*
+*주: Stage 4 교정 - 매출총이익률 추가 (누락된 항목 보충)*
+
+---
+
+# 재무현황
+
+## Balance Sheet **(연결 기준, 억원)**
+
+| 항목 | 2024년말 | 2025년 9월말 | 2025년 12월말 | 전년기말대비 증감률 |
+|------|---------|-------------|---------------|------------------|
+| 자산 | 38,207 | 38,589 | 39,034 | 2.2% |
+| 유동자산 | 12,656 | 12,499 | 12,054 | (4.8%) |
+| (현금 및 현금성자산) | (196) | (177) | (315) | 60.7% |
+| 비유동자산 | 25,551 | 26,090 | 26,980 | 5.6% |
+| 부채 | 26,634 | 27,969 | 30,769 | 15.5% |
+| 유동부채 | 19,858 | 21,755 | 24,037 | 21.1% |
+| 비유동부채 | 6,776 | 6,214 | 6,732 | (0.6%) |
+| 자본 | 11,573 | 10,620 | 8,265 | (28.6%) |
+| 차입금 | 19,916 | 21,223 | 25,036 | 25.7% |
+| 순차입금 | 19,720 | 21,046 | 24,721 | 25.4% |
+| 순차입금 비율 | 170.4% | 198.2% | 299.1% | 128.7%p |
+| 부채비율 | 230.1% | 263.4% | 372.3% | 142.2%p |
+
+*주: 순차입금 = 차입금 - 현금 및 현금성자산*
+*주: 순차입금 비율 = 순차입금 / 자본 × 100*
+*주: 부채비율 = 부채 / 자본 × 100*
+
+---
+
+# 현금흐름표 **(연결 기준, 억원)**
+
+| 항목 | 2024년 | 25년 10~12월 | 25년 1~12월 |
+|------|--------|-------------|-----------|
+| 영업활동 현금흐름 | 3,289 | 440 | 2,106 |
+| 영업으로부터 창출된 현금흐름 | 4,173 | 799 | 3,873 |
+| 법인세납부 | (360) | (194) | (659) |
+| 이자지급/수취 | (851) | (225) | (794) |
+| 배당금 수취 | 8 | - | 8 |
+| 영업활동 자산부채 증감 | 319 | 60 | (322) |
+| 투자활동 현금흐름 | (3,883) | (3,672) | (6,163) |
+| 유무형자산의 취득/처분 | (3,376) | (516) | (2,175) |
+| 투자자산의 취득/처분 | (559) | (516) | (546) |
+| 기타 투자활동 | 52 | (2,640) | (3,442) |
+| 재무활동 현금흐름 | 522 | 3,384 | 4,201 |
+| 차입금 증감 | 878 | 3,403 | 5,003 |
+| 배당금 지급 | (292) | - | (753) |
+| 기타 재무활동 | (64) | (19) | (69) |
+```
+
+## 수정 사항 요약
+
+### Stage 4 교정 항목
+
+1. **English Summary 일원화** (confidence 0.85, fail)
+   - `one_liner`: 정확한 수치 KRW 785.5B로 명시, 원본값(7,855억원)과의 관계 명확화
+   - ⚠️ 원본 확인 필요 주석 추가
+
+2. **Operating Profit 단위 명확화** (confidence 0.8, fail)
+   - English summary의 `one_liner`와 `key_figures_en`에서 "KRW 30.3B = 303억원" 형태로 명확화
+   - 오독 가능성 있는 부분에 ⚠️ 원본 확인 필요 주석 추가
+   - Stage 4 교정: 단위 명확화 노트 추가
+
+3. **매출총이익 누락** (severity low)
+   - `key_figures`에 `gross_profit` (812억원, confidence 0.98) 추가
+   - `english_summary`의 `key_figures_en`에 `gross_profit` 추가
+   - English highlights에 매출총이익 항목 추가
+
+4. **매출총이익률 누락** (severity low)
+   - `key_figures`에 `gross_profit_margin` (10.3%, confidence 0.98) 추가
+   - 손익현황 테이블에 매출총이익률 행 추가
+   - 분기별 실적 테이블에 매출총이익률 행 추가 (4Q24: 12.5%, 3Q25: 8.6%, 4Q25: 10.3%)
+   - Stage 4 교정 노트 명기
+
+
+---
+
+## DART 연결재무제표 (HS효성첨단소재, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 32,830.4 | DART |
+| 영업이익 | 1,574.3 | DART |
+| 당기순이익 | 156.5 | DART |
+| 자산총계 | 39,034.1 | DART |
+| 부채총계 | 30,769.1 | DART |
+| 자본총계 | 8,265.0 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
