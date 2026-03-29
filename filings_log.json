@@ -765,5 +765,57 @@
         "cost": 0.1346
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T10:55:43.885241",
+    "total": 6,
+    "success": 6,
+    "failed": 0,
+    "cost": 0.8203,
+    "files": [
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1359
+      },
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.134
+      },
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1377
+      },
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1384
+      },
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1372
+      },
+      {
+        "company": "메리츠금융지주",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1372
+      }
+    ]
   }
 ]
