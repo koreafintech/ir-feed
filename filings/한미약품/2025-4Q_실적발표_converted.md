@@ -1,0 +1,338 @@
+---
+title: "한미약품 2025년 4분기 실적발표"
+company: "한미약품"
+doc_type: "실적발표"
+publish_date: "2025-01-20"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-20T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "15,475.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,578.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "1,871.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "21,376.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "7,147.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "14,228.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_2024:
+    value: "14,955"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2024"
+    confidence: 0.95
+    note: "전년대비 +0.3% YoY"
+  
+  operating_profit_2024:
+    value: "2,162"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2024"
+    confidence: 0.95
+    note: "전년대비 -2.0% YoY"
+  
+  operating_margin_2024:
+    value: "14.5"
+    unit: "%"
+    basis: "연결"
+    period: "FY2024"
+    confidence: 0.95
+    note: "전년 14.8%에서 0.3%p 하락"
+
+  revenue_standalone_2024:
+    value: "11,141"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "한미약품 단독 매출"
+
+  operating_profit_standalone_2024:
+    value: "1,327"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "한미약품 단독 영업이익"
+
+  rosujet_sales_2024:
+    value: "2,103"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2024"
+    confidence: 0.95
+    note: "로수젯 원외처방 매출, 전년대비 +17.6%"
+
+english_summary:
+  title: "Hanmi Pharmaceutical Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 1.50T (+0.3% YoY), Operating profit KRW 0.22T (-2.0% YoY)"
+  highlights:
+    - "Consolidated revenue reached KRW 1.50 trillion with stable growth momentum"
+    - "RosuZet achieved top market position in domestic prescription market with KRW 210.3B sales (+17.6% YoY)"
+    - "Maintained double-digit operating margin at 14.5% despite slight decline from previous year"
+  key_figures_en:
+    revenue: "KRW 1.50 trillion (consolidated, +0.3% YoY)"
+    operating_profit: "KRW 0.22 trillion (-2.0% YoY)"
+    operating_margin: "14.5% (vs 14.8% in 2023)"
+    rosujet_sales: "KRW 210.3 billion (+17.6% YoY)"
+  outlook: "Strong performance of key value-added products expected to drive sustainable growth."
+---
+
+# Hanmi Investor Relations 4Q 2025
+
+© Hanmi Pharm Co., Ltd. All rights reserved.
+
+---
+
+## 투자자 유의사항
+
+- 본 자료의 재무 정보는 한국채택국제회계기준(K-IFRS)에 따라 작성된 **연결 기준**의 영업실적입니다.
+
+- 본 자료는 투자자의 편의를 위해 외부감사인의 회계감사가 완료되지 않은 상태에서 작성된 것으로, 내용 중 일부는 최종 회계감사 과정에서 달라질 수 있습니다. 따라서 당사는 본 자료에서 서술된 재무실적 및 영업성과의 정확성과 완벽성에 대해 보장하지 않으며, 자료 작성일 현재의 사실을 기술한 내용에 대해 향후 업데이트 책임을 지지 않습니다.
+
+- 본 자료는 미래에 대한 예상, 전망, 계획, 기대 등의 예측 정보를 포함하고 있으며, 이는 당사에서 합리적 근거 또는 가정에 의해 성실하게 작성하였습니다. 이러한 '예측 정보'는 그 성격 상 불확실성으로 인해 회사의 실제 미래와 중대한 차이가 있을 수 있으며, 따라서 본 자료는 투자 결과에 대한 법적 책임소재의 입증자료로 사용될 수 없습니다. 내재된 불확실성과 위험성에는 R&D와 관련된 불확실성, 전반적인 경영환경의 변화, 금융 시장의 변동, 관련 법규 및 제도의 변경 등이 포함됩니다.
+
+- **K-IFRS 기준 연결회사**
+  : 북경한미약품유한공사 73.68%, 한미정밀화학(주) 63.00%
+
+---
+
+## Contents
+
+| 순서 | 구분 |
+|------|------|
+| 1 | 기업 개요 |
+| 2 | Hanmi R&D |
+| 3 | 경영 실적 |
+| 4 | 참고 자료 |
+
+---
+
+## 01. 기업 개요
+
+## 기업 지배구조
+
+(2025.09. 기준)
+
+### 008930KS
+
+**한미사이언스(주)**
+- 설립: 1973년 / 임직원: 497명
+
+41.42% 지분보유 ↓
+
+### 128940KS
+
+**한미약품(주)**
+- 설립: 2010년 / 임직원: 2,400명
+
+73.7% | 63.0% 지분보유
+
+**북경한미유한공사**
+- 설립: 1996년 / 임직원: 1,238명
+
+**한미정밀화학**
+- 설립: 1984년 / 임직원: 266명
+
+### 054950KQ
+
+**제이브이엠**
+- 설립: 1977년 / 임직원: 321명
+- (Automated Drug Packaging System Company)
+
+39.2% 지분보유
+
+100% 지분보유
+
+**온라인팜**
+- 설립: 2011년 / 임직원: 414명
+
+100% 지분보유
+
+**한미 JAPAN**
+
+100% 지분보유
+
+**한미 EUROPE**
+
+---
+
+# 01. 기업 개요
+
+## 최근 5개년 연간 실적 추이 (연결 기준)
+
+- 2024년 매출 **1조 4,955억원** (+0.3% YoY), 영업이익 **2,162억원** (-2.0% YoY)
+
+### 연결 기준 5개년 실적 추이
+
+| 연도 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|------|------|------|------|------|------|
+| 매출액(억원) | 10,759 | 12,032 | 13,315 | 14,909 | 14,955 |
+| 영업이익(억원) | 490 | 1,254 | 1,581 | 2,207 | 2,162 |
+| 영업이익률(%) | 4.6% | 10.4% | 11.9% | 14.8% | 14.5% |
+
+*주석: 매출액과 영업이익은 연결 기준이며, 영업이익률은 매출액 대비 영업이익 비율*
+
+### 매출 구성 비율*
+
+**2024년 연결기준**
+- 한미약품: 69.3% (10,368억원)
+- 북경한미: 24.0% (3,589억원)
+- 한미정밀화학: 6.8% (1,017억원)
+
+(*내부 거래 제거 전 한미약품 및 자회사 매출 단순 합산 기준 매출 비중)
+
+---
+
+# 01. 기업 개요
+
+## 연간 매출 분석 (한미약품 별도 기준)
+
+### 2024년 매출 구성 비율
+
+| 구분 | 비율 |
+|------|------|
+| 처방의약품 | 77.5% (8,635억원) |
+| 일반의약품 | 4.3% (479억원) |
+| 수출 | 17.5% (1,950억원) |
+| 기술수출 수익 | 0.7% (78억원) |
+
+*주석: 별도기준 총 매출 11,141억원 기준 구성 비율*
+
+### 원외처방 매출 상위 품목*
+
+| 구분 | 품목명 | 2024년(억원) | 비중 | YoY |
+|------|--------|-------------|------|-----|
+| 순환기용 | 로수젯 | 2,103 | 19.6% | +17.6% |
+| 순환기용 | 아모잘탄패밀리 | 1,467 | 13.7% | +3.3% |
+| 소화기관용 | 에소메졸패밀리 | 652 | 6.1% | +1.5% |
+| 비뇨기 | 한미탁스/오디 | 456 | 4.3% | +12.7% |
+| 비뇨기 | 팔알 | 421 | 3.9% | -0.8% |
+| NSAIDs | 낙소졸 | 258 | 2.4% | -3.9% |
+| 순환기용 | 아모디핀 | 254 | 2.4% | +2.2% |
+| 비뇨기 | 구로 | 235 | 2.2% | +8.3% |
+| **전체 원외처방 매출** | | **10,709** | **100%** | **+6.6%** |
+
+*(출처: UBIST 데이터)*
+
+### 주요 품목 견조한 성장 속 영업이익률 두 자릿수 퍼센티지 유지
+
+**한미약품 별도기준 5개년 실적 추이**
+
+| 연도 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|------|------|------|------|------|------|
+| 매출액(억원) | 8,720 | 9,170 | 9,820 | 10,969 | 11,141 |
+| 영업이익(억원) | 262 | 616 | 791 | 1,296 | 1,327 |
+| 영업이익률(%) | 3.0% | 6.7% | 8.1% | 11.8% | 11.9% |
+
+*주석: 별도 기준 영업이익률 11.9% 유지, 연평균 성장률(CAGR) 매출 6.3%, 영업이익 50.2%*
+
+---
+
+# 01. 기업 개요
+
+## 핵심 Value-added 품목 RosuZet (이상지질혈증 치료제)
+
+국내 원외처방 1위 달성, **로수젯**
+
+✓ 근거중심 마케팅을 통한 견조한 내수 성장세
+
+✓ 지속적인 연구를 통한 효능 및 안전성 확장
+
+✓ 데이터 기반 의료진 신뢰 구축
+
+### 로수젯 연간 처방 매출액
+
+**CAGR 21.72% (2019-2024)**
+
+| 연도 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|------|------|------|------|------|------|------|
+| 매출액(억원) | 787 | 1,024 | 1,278 | 1,499 | 1,788 | 2,103 |
+
+*주석: 로수젯은 한미약품의 대표적인 복합제 제품으로 6년간 연평균 21.7% 성장*
+
+### 로수젯 기반 RACING 연구 '톱저널' 등재
+
+| 저널 | 게재일 | 주요 내용 |
+|------|--------|----------|
+| THE LANCET | '22.07.18 | [RACING 연구] Long-term efficacy and safety of moderate-intensity statin with ezetimibe combination therapy versus high-intensity statin monotherapy in patients with ASCVD |
+| eClinicalMedicine (Part of THE LANCET Discovery Science) | '23.04.04 | [RACING 연구의 부분석 결과] Efficacy and safety of moderate-intensity statin with ezetimibe combination therapy in patients after percutaneous coronary intervention |
+| European Heart Journal | '22.12.19 | [RACING 연구의 부분석 결과] Moderate-intensity statin with ezetimibe vs. high-intensity statin in patients with diabetes and ASCVD |
+| JAMA Cardiology | '23.08.02 | [RACING 연구의 부분석 결과] Moderate-Intensity Statin With Ezetimibe Combination Therapy vs. High-Intensity Statin Monotherapy in Patients at Very High risk of ASCVD |
+| JACC | '23.04.03 | [RACING 연구의 부분석 결과] Combination Moderate-Intensity Statin and Ezetimibe Therapy for Elderly Patients With Atherosclerosis |
+| CARDIOVASCULAR DIABETOLOGY | '24.11.05 | [NODM 위험 연구] Efficacy and diabetes risk of moderate-intensity statin plus ezetimibe versus high-intensity statin after percutaneous coronary intervention |
+
+*주석: RACING 연구는 로수젯의 임상적 근거를 확립한 대규모 임상연구로, 국제적 권위 의학저널에 다수 게재*
+
+
+---
+
+## DART 연결재무제표 (한미약품, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 15,475.3 | DART |
+| 영업이익 | 2,578.0 | DART |
+| 당기순이익 | 1,871.4 | DART |
+| 자산총계 | 21,376.0 | DART |
+| 부채총계 | 7,147.4 | DART |
+| 자본총계 | 14,228.5 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

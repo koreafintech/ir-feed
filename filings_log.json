@@ -914,5 +914,92 @@
         "cost": 0.0901
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T14:14:58.354329",
+    "total": 11,
+    "success": 11,
+    "failed": 0,
+    "cost": 1.3141,
+    "files": [
+      {
+        "company": "유한양행",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1226
+      },
+      {
+        "company": "유한양행",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1201
+      },
+      {
+        "company": "유한양행",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1105
+      },
+      {
+        "company": "유한양행",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1621
+      },
+      {
+        "company": "유한양행",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1405
+      },
+      {
+        "company": "유한양행",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.0984
+      },
+      {
+        "company": "한미약품",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1236
+      },
+      {
+        "company": "한미약품",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1034
+      },
+      {
+        "company": "한미약품",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1248
+      },
+      {
+        "company": "한미약품",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1052
+      },
+      {
+        "company": "한미약품",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.103
+      }
+    ]
   }
 ]
