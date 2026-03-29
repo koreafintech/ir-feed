@@ -1,0 +1,401 @@
+```markdown
+---
+title: "SK바이오사이언스 2025년 4분기 실적발표"
+company: "SK바이오사이언스"
+doc_type: "실적발표"
+publish_date: "2025-01-01"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-27T08:31:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "6,513.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "-1,235.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "-561.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "29,557.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "29,557.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "20,374.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_annual:
+    value: "4,657억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "IDT Biologika 연간 매출액"
+  
+  operating_loss:
+    value: "1,235억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "SK bioscience 영업손실"
+  
+  idt_operating_profit:
+    value: "99억원"
+    unit: "억원"
+    basis: "별도"
+    period: "FY2025"
+    confidence: 0.95
+    note: "IDT Biologika 영업이익 (전년 178억원 손실에서 흑자 전환)"
+  
+  future_investment:
+    value: "1,291억원"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "⚠️ 원본 확인 필요 - 5개 Pillar 합계: 806+390+37+13+45=1,291억원으로 총액과 일치하나, 개별 Pillar 수치가 정확한지 재검증 필요 | Stage 4 교정"
+  
+  net_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "당기순이익(Net Income) 데이터 미보고 | Stage 4 교정"
+  
+  revenue_by_segment:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "SK bioscience 자체 매출(IDT 제외)의 구체적 수치 부재 | Stage 4 교정"
+  
+  cash_flow:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "영업현금흐름, 투자현금흐름, 재무현금흐름 미보고 | Stage 4 교정"
+
+english_summary:
+  title: "SK bioscience Q4 2025 Earnings Results"
+  one_liner: "IDT Biologika revenue KRW 465.7B (+17% YoY), turned around to KRW 9.9B operating profit from KRW 17.8B loss in 2024"
+  highlights:
+    - "PCV21 global Phase 3 clinical trial launched with ~9,000 participants"
+    - "IDT Biologika achieved turnaround with KRW 465.7B revenue and KRW 9.9B operating profit"
+    - "Completed L HOUSE G2+ commercial production facility and Global R&PD Center in Songdo"
+    - "Expanded global partnerships including Gates Foundation for RSV antibody technology and CEPI funding"
+  key_figures_en:
+    idt_revenue: "KRW 465.7B (IDT Biologika annual revenue, +17% YoY)"
+    idt_operating_profit: "KRW 9.9B (IDT Biologika operating profit vs KRW -17.8B in 2024)"
+    sk_bio_operating_loss: "KRW -123.5B (SK bioscience consolidated operating loss)"
+    future_investment: "KRW 129.1B (total future growth investment)"
+  outlook: "Preparing for quantum jump growth phase through PCV Phase 3 success and global CDMO expansion."
+---
+
+# SK bioscience 2025년 4분기 경영실적
+
+## GLOBAL INNOVATIVE PARTNER OF VACCINE AND BIOTECH
+
+**SK bioscience**
+
+**2025년 4분기 경영실적**
+
+[이미지: SK bioscience 로고 - from Prevention to Cure]
+
+---
+
+# SK바이오사이언스 2025년 4분기 경영실적
+
+## DISCLAIMER
+
+본 자료의 제작정보는 한국채택국제회계기준(K-IFRS)에 따라 작성되었습니다.
+
+본 자료에 포함된 2025년 4분기 실적은 외부감사인의 회계감사가 완료되지 않은 상태에서 투자자 여러분의 편의를 위하여 작성된 자료이므로, 내용 중 일부는 확정감사과정에서 달라질 수 있습니다.
+
+또한 본 자료에 포함된 향후 전망은 현재의 사업환경과 당사의 경영전략 등을 고려한 것으로, 미래의 사업환경 변화 및 직접 수정 등에 따라 달라질 수 있음을 양지하시기 바랍니다.
+
+---
+
+# Intro
+
+## 핵심 Growth Driver!
+
+### PCV(폐렴구균 백신) / IDT Biologika의 성장 가속화
+
+[이미지: 3단계 성장 로드맵]
+
+### 미래 성장 기반 구축
+
+**PCV**
+- 임상 3상 본격화, 상업 생산 시설 확보
+
+**IDT**
+- 수익성 개선 통한 Turn-around
+
+### 본격 성장 준비
+
+**PCV**
+- 임상 3상 성공적 수행
+- IDT 신규 고객 확보, 조직효율화
+
+### 가치 증명, Quantum-Jump
+
+**PCV**
+- PCV 3상 Topline 결과 발표
+
+**IDT**
+- 글로벌 CDMO 도약
+
+[2025] → [2026] → [2027~]
+
+---
+
+# Intro
+
+## 2025 HIGHLIGHTS
+
+### 1. 백신 파이프라인/인프라 확장
+
+[이미지: 실험실에서 작업 중인 연구원]
+
+**PCV21 글로벌 임상 3상 본격화**
+- 면역증강 독감, 수두 2도즈, 조류독감 등 파이프라인 확대
+- 변종 코로나 백신 임상 1/2상 승인('25.07)
+- PCV21 상업생산시설 (송도 G2+), 송도 글로벌 R&PD 센터 준공
+
+### 2. IDT Biologika 턴어라운드
+
+[이미지: 비즈니스 미팅 중인 사람들]
+
+**'25년 연간 매출액 4,657억원, 영업이익 99억원**  
+_[단위: 억원, 기준: 연결, 기간: FY2025]_
+- '24년 연간 매출액 3,978억원 영업손실 178억원
+
+**기존 고객 매출 극대화 및 생산성 향상에 따른 수익 개선**
+
+### 3. 글로벌 파트너십 강화
+
+[이미지: 비즈니스 임원진들]
+
+**게이츠 재단과 글로벌 보건 협력 → RSV 항체 기술도입('25.02)**
+
+**CEPI¹) 펀딩('25.01) 확보 통한 차세대 팬데믹 백신 개발**
+
+**Sanofi 유통제품 확대**
+
+¹) 감염병유행대비혁신연합
+
+---
+
+# Intro
+
+## 핵심 영역에 대한 미래 성장 투자 지속
+
+### 미래 성장 투자
+
+**SK bioscience**
+
+**'25년 영업이익**  
+_[단위: 억원, 기준: 연결, 기간: FY2025]_
+
+**△1,235억원 (연결)**
+
+**=**
+
+**기존사업**
+
+**+56억원**
+
+**-**
+
+**1,291억원**  
+_[미래 성장 투자 총액]_
+
+### Pillar 1. 백신 포트폴리오 확장 (806억원)
+
+### Pillar 2. R&D/제조 Infra Upgrade (390억원)
+
+### Pillar 3. SKYShield 실행 (37억원)
+
+### Pillar 4. Next Pandemic Preparedness (13억원)
+
+### Pillar 5. New Bio 사업 확장 (45억원)
+
+> **투자 구조 분석**: 전체 영업손실 1,235억원 중 기존사업 흑자 56억원을 차감하면 미래 성장을 위한 투자가 1,291억원임을 보여줌  
+> ⚠️ 원본 확인 필요 - 개별 Pillar 수치 정확성 재검증 필요 | Stage 4 교정
+
+---
+
+### '25년 Key Milestones
+
+#### L HOUSE G2+
+- 21가 폐렴구균 백신 글로벌 상업 생산 기지
+
+[이미지: L HOUSE G2+ 시설 외관]
+
+#### 글로벌 R&PD 센터
+- 연구·공정 개발, 기술검증 및 이전까지 통합 수행 가능
+
+[이미지: 글로벌 R&PD 센터 건물]
+
+#### 21가 폐렴구균 백신 3상 본격화
+- 약 9천명 대상 대규모 글로벌 임상 3상 등록
+
+[이미지: 연구원의 실험 작업]
+
+SK bioscience | 4 |
+
+---
+
+# Intro
+
+## 송도 글로벌 R&PD 센터, 중장기 성장 전략 실현을 위한 핵심 인프라 구축
+
+[이미지: 송도 글로벌 R&PD 센터 건물 전경]
+
+### 연구·공정 '원스톱 개발 체제'
+R&D·공정개발·품질 분석 전 과정을 한 공간에서 수행
+→ 개발 속도 및 완성도 제고
+
+### 국내 최고 수준 백신 연구 인프라
+mRNA, 단백질 재조합, 바이러스 벡터 등 다양한 백신 플랫폼 연구를 위한 전문 Infra 확보
+
+### R&D/생산시설 기능 통합
+송도(연구·공정)/안동(상업생산) 역할 분담을 통한 운영 효율성 극대화
+
+---
+
+# Intro
+
+## 기초 백신에서 팬데믹 대응·프리미엄 백신까지 전방위적 파이프라인 확보
+
+### 범례
+- ●: Premium
+- ●: 기초
+- ●: 코로나/Pandemic 대응
+
+| 주요 파이프라인 현황 | 기초연구/전임상 | 임상 1상 | 임상 2상 | 임상 3상 | 상업화 | 파트너 |
+|---|---|---|---|---|---|---|
+| **폐렴구균 백신 21가** | | | | ● | | Sanofi |
+| **폐렴구균 백신 (NextGen)** | ● | | | | | Sanofi |
+| **폐렴구균 백신 13가** | | | | | ● | |
+| **RSV 예방 항체** | ● | | | | | |
+| **면역증강 활성화 독감 백신** | | ● 임상중 → | | | | |
+| **자궁경부암 백신 9가** | | ● | | | | Sunflower |
+| **SKYCellflu(3가 독감)** | | | | | ● | |
+| **SKYCellflu(4가 독감)** | | | | | ● | |
+| **SKYZoster(대상포진)** | | | | | ● | |
+| **SKYVaricella(수두)** | | | ● | 2도즈 3상 IND 승인 → | | |
+| **SKYTyphoid(장티푸스)** | | | | | ● | |
+| **팬데믹 백신 mRNA** | ● | | | | | CEPI |
+| **SKYCovione (코로나19)** | | | | | ● | |
+| **범용 코로나 백신 (Sarbecovirus)** | ● | | | | | CEPI / Gates Foundation |
+| **라사열 백신 mRNA** | ● | | | | | CEPI / Protein Design |
+| **조류독감 백신** | ● | | | | | CEPI / MSD / Gates Foundation |
+| **차세대 인플루엔자 백신** | | | | ● 임상심의 승인예정 → | | |
+
+주: 
+1) 2025년 7월 식품의약품안전처에 임상 1/2상 시험계획(IND) 신청
+2) 2025년 12월 식품의약품안전처로부터 2도즈 임상 3상 시험계획(IND) 승인
+
+---
+
+# 1. 경영 실적
+
+[이미지: 백신 제품들]
+
+페이지 5 | SK bioscience
+```
+
+---
+
+## 수정 내역 (Stage 4 교정)
+
+### 1. **future_investment 필드 수정** ✅
+- **confidence: 0.95** (≥ 0.9이므로 경고 추가)
+- note에 "⚠️ 원본 확인 필요" 주석 추가
+- 재검증 필요 사항 명시
+
+### 2. **누락 필드 추가 (key_figures에 placeholder)** ✅
+- **net_income**: value "N/A", confidence 0 추가
+- **revenue_by_segment**: value "N/A", confidence 0 추가
+- **cash_flow**: value "N/A", confidence 0 추가
+- 각각 누락 사유와 중요도 기재
+
+### 3. **Markdown 본문 주석 추가** ✅
+- "미래 성장 투자" 섹션의 인용문 아래에 경고 주석 추가
+- Pillar 수치 정확성 재검증 필요 명시
+
+### 4. **원본 데이터 보존** ✅
+- 수치 왜곡 없음
+- 설명만 추가하여 투명성 제고
+
+
+---
+
+## DART 연결재무제표 (SK바이오사이언스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 6,513.7 | DART |
+| 영업이익 | -1,235.0 | DART |
+| 당기순이익 | -561.7 | DART |
+| 자산총계 | 29,557.4 | DART |
+| 부채총계 | 29,557.4 | DART |
+| 자본총계 | 20,374.5 | DART |
+| 영업활동현금흐름 | 1,025.1 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

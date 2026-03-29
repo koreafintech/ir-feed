@@ -2008,5 +2008,148 @@
         "cost": 0.076
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T20:16:01.120960",
+    "total": 19,
+    "success": 19,
+    "failed": 0,
+    "cost": 2.3307,
+    "files": [
+      {
+        "company": "KT&G",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1377
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1241
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.12
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.0934
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "NDR",
+        "period": "",
+        "status": "ok",
+        "cost": 0.0677
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.0789
+      },
+      {
+        "company": "SK바이오사이언스",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1311
+      },
+      {
+        "company": "SK바이오사이언스",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.132
+      },
+      {
+        "company": "SK바이오사이언스",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1321
+      },
+      {
+        "company": "SK바이오사이언스",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1125
+      },
+      {
+        "company": "SK바이오팜",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1126
+      },
+      {
+        "company": "SK바이오팜",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1181
+      },
+      {
+        "company": "SK바이오팜",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1414
+      },
+      {
+        "company": "SK바이오팜",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1255
+      },
+      {
+        "company": "롯데칠성음료",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1404
+      },
+      {
+        "company": "롯데칠성음료",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1395
+      },
+      {
+        "company": "롯데칠성음료",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1433
+      },
+      {
+        "company": "롯데칠성음료",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1458
+      },
+      {
+        "company": "롯데칠성음료",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1345
+      }
+    ]
   }
 ]
