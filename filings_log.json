@@ -1301,5 +1301,120 @@
         "cost": 0.1165
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "time": "2026-03-29T15:58:24.162234",
+    "total": 15,
+    "success": 15,
+    "failed": 0,
+    "cost": 1.9868,
+    "files": [
+      {
+        "company": "LG생활건강",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1152
+      },
+      {
+        "company": "LG생활건강",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1369
+      },
+      {
+        "company": "LG생활건강",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1122
+      },
+      {
+        "company": "LG생활건강",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1352
+      },
+      {
+        "company": "LG생활건강",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.108
+      },
+      {
+        "company": "대한항공",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1374
+      },
+      {
+        "company": "대한항공",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1364
+      },
+      {
+        "company": "대한항공",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1325
+      },
+      {
+        "company": "대한항공",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1324
+      },
+      {
+        "company": "대한항공",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1384
+      },
+      {
+        "company": "아모레퍼시픽",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1449
+      },
+      {
+        "company": "아모레퍼시픽",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1447
+      },
+      {
+        "company": "아모레퍼시픽",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1226
+      },
+      {
+        "company": "아모레퍼시픽",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1498
+      },
+      {
+        "company": "아모레퍼시픽",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1402
+      }
+    ]
   }
 ]

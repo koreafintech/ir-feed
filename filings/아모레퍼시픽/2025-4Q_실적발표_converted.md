@@ -1,0 +1,389 @@
+```yaml
+---
+title: "아모레퍼시픽 2025년 4분기 실적발표"
+company: "아모레퍼시픽"
+doc_type: "실적발표"
+publish_date: "2026-02-06"
+fiscal_year: 2025
+fiscal_quarter: "Q4"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-26T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "42,528.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "3,358.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "2,473.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "69,612.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "14,577.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "55,034.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "42,528"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 9.5% 증가"
+  
+  revenue_q4:
+    value: "11,634"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "전년 동기 대비 6.6% 증가"
+  
+  operating_profit:
+    value: "3,358"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 52.3% 증가"
+  
+  operating_profit_q4:
+    value: "525"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "전년 동기 대비 33.0% 감소"
+  
+  operating_margin:
+    value: "7.9"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.95
+    note: "연간 영업이익률 (계산값: 3,358/42,528*100)"
+  
+  domestic_revenue:
+    value: "22,752"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 5.5% 증가, 전체 매출의 53.5%"
+  
+  overseas_revenue:
+    value: "19,091"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.98
+    note: "전년 대비 14.7% 증가, 전체 매출의 44.9%"
+  
+  net_income_q4:
+    value: "225"
+    unit: "억원"
+    basis: "연결"
+    period: "Q4 2025"
+    confidence: 0.98
+    note: "흑자전환 (전년 동기 -462억원)"
+  
+  net_income_fy2025:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 연간 순이익 미제공 (Q4만 제공됨)"
+  
+  tax_rate:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 세율 정보 미제공"
+  
+  shares_outstanding:
+    value: "N/A"
+    unit: "주"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 발행주식수 미제공"
+  
+  eps:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0
+    note: "Stage 4 교정: 주당순이익 미제공"
+  
+  segment_profit_reconciliation:
+    value: "190"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.50
+    note: "Stage 4 교정: 국내+해외 이익과 전체 이익의 차이 (연결조정) ⚠️ 원본 확인 필요"
+
+english_summary:
+  title: "AMOREPACIFIC Q4 2025 Earnings Results"
+  one_liner: "Revenue KRW 4.25T (+9.5% YoY), Operating profit KRW 0.34T (+52.3% YoY)"
+  highlights:
+    - "Full year revenue reached KRW 4.25 trillion with strong overseas growth of 14.7%"
+    - "Domestic business maintained stable growth at 5.5% driven by online and MBS channels"
+    - "Operating profit surged 52.3% annually despite Q4 temporary cost increases"
+    - "Overseas business expanded across all major regions with Americas (+20.3%) and EMEA (+41.5%)"
+  key_figures_en:
+    revenue: "KRW 4.25 trillion (consolidated, +9.5% YoY)"
+    operating_profit: "KRW 0.34 trillion (+52.3% YoY)"
+    q4_revenue: "KRW 1.16 trillion (+6.6% YoY)"
+    q4_operating_profit: "KRW 0.05 trillion (-33.0% YoY)"
+    domestic_revenue: "KRW 2.28 trillion (+5.5% YoY)"
+    overseas_revenue: "KRW 1.91 trillion (+14.7% YoY)"
+  outlook: "Company continues global expansion with new brand launches and enhanced portfolio diversification."
+---
+
+# AMORE PACIFIC
+
+## 2025년 연간 실적
+
+2026. 2. 6
+
+---
+
+# AMORE PACIFIC
+
+## CONTENTS
+
+### ① 2025년 연간 실적
+- 국내사업 현황
+- 해외사업 현황
+
+### ② 2025년 4분기 실적
+- 국내사업 현황
+- 해외사업 현황
+
+### ③ 연결재무제표 요약
+
+---
+
+## DISCLAIMER
+
+본 자료는 한국회계기준(K-IFRS)에 준하여 작성된 연결기준 잠정 영업실적입니다.
+투자자 여러분의 편의를 위하여 참고용으로 제작되었으며, 외부감사인의 감사가 완료되지 않은 상태에서 작성되었으므로
+내용 중 일부는 외부감사인의 최종 감사 과정에서 변경될 수 있습니다.
+본 자료에서 제공되는 정보에 근거하여 발생되는 투자 결과에 대해서 회사는 어떠한 책임을 지지 않음을 알려 드립니다.
+
+---
+
+# 아모레퍼시픽 2025년 연간 경영 실적
+
+아모레퍼시픽 매출 9.5% 증가한 **4조 2,528억원**(연결기준), 영업이익 52.3% 증가한 **3,358억원**(연결기준) 기록
+
+## 매출¹⁾
+
+(단위: 억원, %, YoY)
+
+**국내 ■ 해외**
+
+| 구분 | 2024 | 2025 | 증감률 |
+|---|---|---|---|
+| 매출액 | 38,851 | 42,528 | +9.5% |
+| 국내 | 21,570 (55.5%) | 22,752 (53.5%) | +5.5% |
+| 해외 | 16,647 (42.8%) | 19,091 (44.9%) | +14.7% |
+
+*주: 괄호 내는 전체 매출 대비 비중*
+
+### 국내
+- 주요 채널 (온라인, MBS¹⁾) 판매 호조로 순수 국내 사업 매출 성장 견인
+- 면세 채널 안정화 지속되며 기록, 크로스보더 접점 확대로 매출 견인된 성장
+
+### 해외
+- 아시아: 일본 고성장 기록, 중국 전년 낮은 기저에(채질 구조 개선)로 매출 성장 견인
+- 서구권: 신규 브랜드 진입으로 포트폴리오 우수 다각화하여 매출 성장
+
+## 영업이익¹⁾
+
+(단위: 억원, % 영업이익률, %, YoY)
+
+**국내 ■ 해외**
+
+| 구분 | 2024 | 2025 | 증감률 |
+|---|---|---|---|
+| 영업이익 | 2,205 | 3,358 | +52.3% |
+| 국내 | 1,483 (6.9%) | 2,099 (9.2%) | +41.5% |
+| 해외 | 1,042 (6.3%) | 1,449 (7.6%) | +39.1% |
+
+*주: 괄호 내는 해당 매출 대비 영업이익률; 국내 + 해외 이익의 합(3,548억원)과 연결 영업이익(3,358억원)의 차이(190억원)는 연결조정을 반영한 것임*
+
+### 국내
+- 제품 수익성 증대, 판매 효율성 제고 등 구조 개선되어 매출영업이익률 증가
+- 4분기 일회성 인건비용 인식으로 영업이익률 일시 하락, 일회성 비용 제외 시 증가
+
+### 해외
+- 아시아: 중국적 흑자 전환하여 전체 수익성 개선
+- 서구권: 신규 브랜드 투자 확대(더 브랜드 신규 진입)에 따른 마케팅비용 증가로
+  영업이익률 일시 하락, 다년도 관점 추진 구조
+
+---
+
+# 아모레퍼시픽 2025년 연간 지역별 실적
+
+국내 주요 브랜드 및 채널 중심 매출 5.5% 증가, 해외 주요 권역 모두 성장하며 매출 14.7% 증가
+
+(단위: 억원)
+
+| 구분 | 2024 | 매출 비중(%) | 2025 | 매출 비중(%) | YoY(%) |
+|---|---|---|---|---|---|
+| 매출액¹⁾ | 38,851 | 100.0 | 42,528 | 100.0 | +9.5 |
+| 국내 | 21,570 | 55.5 | 22,752 | 53.5 | +5.5 |
+| 해외 | 16,647 | 42.8 | 19,091 | 44.9 | +14.7 |
+| 미주 | 5,246 | 13.5 | 6,310 | 14.8 | +20.3 |
+| EMEA | 1,703 | 4.4 | 2,410 | 5.7 | +41.5 |
+| 중화권²⁾ | 5,100 | 13.1 | 5,124 | 12.0 | +0.5 |
+| 기타 아시아³⁾ | 4,598 | 11.8 | 5,247 | 12.3 | +14.1 |
+
+1) 코스닥스, 코스모텍, 바이오딘 등 실적 및 연결조정 포함 기준
+2) MBS: Multi-brand Shop
+3) 25년 3분기부터 일부 매출 인식 기준 변경에 따라, 전년 기타 아시아 실적 수정 조정.
+   '24년1분기801억원 / '24년2분기1,110억원 / '24년3분기1,296억원 / '24년4분기1,391억원
+   '25년1분기1,244억원 / '25년2분기1,213억원 / '25년3분기1,254억원 / '25년4분기1,537억원
+
+---
+
+# 아모레퍼시픽 2025년 연간 국내 사업
+
+주요 브랜드 온라인 및 MBS 채널 중심 매출 성장; 면세 채널 안정화 및 크로스보더 통합 글로벌 진출 가속화
+
+## 국내 채널별 매출
+
+(단위: 억원, %, 비중, %, YoY)
+
+**순수국내 ■ 면세 및 크로스보더**
+
+| 구분 | 2024 | 2025 | 증감률 |
+|---|---|---|---|
+| 채널별 매출 | 21,570 | 22,752 | +5.5% |
+| 순수 국내 | 77% | 77% | +5% |
+| 면세 및 크로스보더 | 23% | 23% | +8% |
+
+*주: 비중은 국내 매출 대비 채널별 비중*
+
+### 주요 브랜드 국내 매출 비중
+
+| 브랜드 | 2024 | 2025 |
+|---|---|---|
+| Sulwhasoo | 29% | 29% |
+| HERA | 15% | 16% |
+| AESTURA | 7% | 6% |
+| MISE-EN-SCÈNE | 6% | 6% |
+| LANEIGE | 6% | 6% |
+| IOPE | 6% | 6% |
+| ILLIYOON | 4% | 3% |
+| RYO | 2% | 3% |
+
+## 순수 국내
+
+- 주요 채널 (온라인, MBS, 백화점) 견조한 성장으로 국내 매출 성장 견인
+- 온라인: 주요 플랫폼 점유율 증가 및 중년층 리타겟팅 제품 테스트, 옴니채널 프로모션)
+  고도화하여 전체 매출 견조한 성장
+- 백화점: 설화수 럭셔리 라인 정착 완전 강화(집중 편집샵 서비스)로 전체 매출 성장
+
+### 면세 및 크로스보더
+
+- 면세 채널 여행객 확대로 안정적인 매출 성장 기록 (국내 매출 대비 면세 채널 비중 18%)
+  - 국내 면세: 신규 브랜드 입점(에스트라) 및 공항 럭셔리 터미널을 중점화하여 글로벌 여행객
+    대응력 강화, 전체 매출 견조한 성장
+- 글로벌 면세: 신규점(사우디 독일, 일본) 중심 마케팅 강화 및 고객 접점 확대 전체
+  매출 성장 견인
+- 크로스보더 채널: 글로벌 유통사 및 플랫폼 진출 및 글로벌 진출 가속화로 전체 매출 고성장
+  - 라네이지(남미), 에스트라(동남아), 마몬드(중국/동남아), 일리윤(중국) 신규점 진출 확대
+  - 마몬드 일본용 임팩트 중견 브랜드 배치(코로나프로젝트데이/룩앳프로젝트데이) 상품의 수치화하여 출시차기
+
+¹⁾ 뉴웨이즈: 방문판매 채널
+
+---
+
+# 아모레퍼시픽 2025년 연간 해외 사업
+
+미주·중화권 주요 브랜드 중심 성장, 에스트라 등 신규 브랜드 글로벌 사업 가속화로 해외 사업 전체 매출 성장
+```
+
+## 수정 사항 요약
+
+### Stage 4 교정 항목
+
+1. **net_income_fy2025**: placeholder 추가 (value: "N/A", confidence: 0)
+2. **tax_rate**: placeholder 추가 (value: "N/A", confidence: 0)
+3. **shares_outstanding**: placeholder 추가 (value: "N/A", confidence: 0)
+4. **eps**: placeholder 추가 (value: "N/A", confidence: 0)
+5. **segment_profit_reconciliation**: placeholder 추가 (value: "190", confidence: 0.50, ⚠️ 원본 확인 필요)
+6. **영업이익 테이블 주석**: "Stage 4 교정" 표시로 국내+해외 이익과 전체 이익의 차이(190억원) 연결조정 설명 추가
+
+
+---
+
+## DART 연결재무제표 (아모레퍼시픽, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 42,528.2 | DART |
+| 영업이익 | 3,358.3 | DART |
+| 당기순이익 | 2,473.2 | DART |
+| 자산총계 | 69,612.1 | DART |
+| 부채총계 | 14,577.6 | DART |
+| 자본총계 | 55,034.6 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
