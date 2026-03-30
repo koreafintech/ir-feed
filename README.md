@@ -2,7 +2,7 @@
 
 > **Korean listed company IR data, AI-ready. Finally.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/koreafintech/ir-feed-data?style=flat-square)](https://github.com/koreafintech/ir-feed-data)
+[![GitHub Stars](https://img.shields.io/github/stars/koreafintech/ir-feed?style=flat-square)](https://github.com/koreafintech/ir-feed)
 [![X Follow](https://img.shields.io/twitter/follow/IRAIFeed?style=flat-square)](https://x.com/IRAIFeed)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -157,10 +157,10 @@ curl https://api.irfeed.dev/v1/filings \
 
 ```bash
 # Clone this repo
-git clone https://github.com/koreafintech/ir-feed-data.git
+git clone https://github.com/koreafintech/ir-feed.git
 
 # Or fetch raw MD
-curl https://raw.githubusercontent.com/koreafintech/ir-feed-data/main/filings/005930_삼성전자/2025/Q4.md
+curl https://raw.githubusercontent.com/koreafintech/ir-feed/main/filings/005930_삼성전자/2025/Q4.md
 ```
 
 ---
@@ -190,20 +190,6 @@ This repository is optimized for AI search engines. Queries this data answers:
 → [Get API access at irfeed.dev](https://www.irfeed.dev)
 
 ---
-
-
-## Update Policy
-
-| Data | Status | Next Update |
-|------|--------|-------------|
-| 2025 Q4 (this repo) | ✅ Live | Permanent archive |
-| 2025 Q1~Q3 | 💰 Paid API | Available via [irfeed.dev](https://www.irfeed.dev) |
-| 2026 Q1 | 🔜 Coming | May 2026 (after earnings season) |
-| 2026 Q2 | 🔜 Coming | August 2026 |
-
-**Update frequency**: Quarterly, following Korean earnings seasons (Mar/May/Aug/Nov)
-
-**Company index**: See [companies.csv](./companies.csv) or [index.json](./index.json) for full list.
 
 ## Disclaimer
 
