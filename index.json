@@ -1,0 +1,873 @@
+{
+  "service": "IRFeed",
+  "website": "https://www.irfeed.dev",
+  "description": "Korean listed company IR data, AI-ready",
+  "total_companies": 66,
+  "total_filings": 67,
+  "free_tier": "Q4 2025 MD files + english_summary",
+  "paid_tier": "Q1~Q3 full history + REST API + MCP server",
+  "last_updated": "2026-03-30",
+  "next_update": "2026-05 (Q1 2026 filings)",
+  "companies": [
+    {
+      "ticker_krx": "000100",
+      "name_kr": "유한양행",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000100_유한양행"
+    },
+    {
+      "ticker_krx": "000120",
+      "name_kr": "CJ대한통운",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000120_CJ대한통운"
+    },
+    {
+      "ticker_krx": "000150",
+      "name_kr": "두산",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000150_두산"
+    },
+    {
+      "ticker_krx": "000660",
+      "name_kr": "SK하이닉스",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000660_SK하이닉스"
+    },
+    {
+      "ticker_krx": "000720",
+      "name_kr": "현대건설",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000720_현대건설"
+    },
+    {
+      "ticker_krx": "000880",
+      "name_kr": "한화",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000880_한화"
+    },
+    {
+      "ticker_krx": "000990",
+      "name_kr": "DB하이텍",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/000990_DB하이텍"
+    },
+    {
+      "ticker_krx": "002380",
+      "name_kr": "KCC",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/002380_KCC"
+    },
+    {
+      "ticker_krx": "003490",
+      "name_kr": "대한항공",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/003490_대한항공"
+    },
+    {
+      "ticker_krx": "004370",
+      "name_kr": "농심",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/004370_농심"
+    },
+    {
+      "ticker_krx": "004800",
+      "name_kr": "효성",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/004800_효성"
+    },
+    {
+      "ticker_krx": "005300",
+      "name_kr": "롯데칠성음료",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/005300_롯데칠성음료"
+    },
+    {
+      "ticker_krx": "005380",
+      "name_kr": "현대자동차",
+      "sector": "Auto/Battery/Defense",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/005380_현대자동차"
+    },
+    {
+      "ticker_krx": "005930",
+      "name_kr": "삼성전자",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/005930_삼성전자"
+    },
+    {
+      "ticker_krx": "006280",
+      "name_kr": "녹십자",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/006280_녹십자"
+    },
+    {
+      "ticker_krx": "006360",
+      "name_kr": "GS건설",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/006360_GS건설"
+    },
+    {
+      "ticker_krx": "006400",
+      "name_kr": "삼성SDI",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/006400_삼성SDI"
+    },
+    {
+      "ticker_krx": "007070",
+      "name_kr": "GS리테일",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/007070_GS리테일"
+    },
+    {
+      "ticker_krx": "009150",
+      "name_kr": "삼성전기",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/009150_삼성전기"
+    },
+    {
+      "ticker_krx": "009830",
+      "name_kr": "한화솔루션",
+      "sector": "Other",
+      "filings_available": [
+        "2026/Q4"
+      ],
+      "years": [
+        "2026"
+      ],
+      "has_free_q4": false,
+      "github_path": "filings/009830_한화솔루션"
+    },
+    {
+      "ticker_krx": "010060",
+      "name_kr": "OCI홀딩스",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/010060_OCI홀딩스"
+    },
+    {
+      "ticker_krx": "010950",
+      "name_kr": "에스오일",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/010950_에스오일"
+    },
+    {
+      "ticker_krx": "011070",
+      "name_kr": "LG이노텍",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/011070_LG이노텍"
+    },
+    {
+      "ticker_krx": "011170",
+      "name_kr": "롯데케미칼",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/011170_롯데케미칼"
+    },
+    {
+      "ticker_krx": "011200",
+      "name_kr": "HMM",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/011200_HMM"
+    },
+    {
+      "ticker_krx": "017670",
+      "name_kr": "SK텔레콤",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/017670_SK텔레콤"
+    },
+    {
+      "ticker_krx": "018260",
+      "name_kr": "삼성SDS",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/018260_삼성SDS"
+    },
+    {
+      "ticker_krx": "023530",
+      "name_kr": "롯데쇼핑",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/023530_롯데쇼핑"
+    },
+    {
+      "ticker_krx": "028260",
+      "name_kr": "삼성물산",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/028260_삼성물산"
+    },
+    {
+      "ticker_krx": "030200",
+      "name_kr": "KT",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2024/Q4",
+        "2025/Q4"
+      ],
+      "years": [
+        "2024",
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/030200_KT"
+    },
+    {
+      "ticker_krx": "032640",
+      "name_kr": "LG유플러스",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/032640_LG유플러스"
+    },
+    {
+      "ticker_krx": "033780",
+      "name_kr": "KT&G",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/033780_KT&G"
+    },
+    {
+      "ticker_krx": "035420",
+      "name_kr": "Naver",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/035420_Naver"
+    },
+    {
+      "ticker_krx": "035720",
+      "name_kr": "카카오",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/035720_카카오"
+    },
+    {
+      "ticker_krx": "036570",
+      "name_kr": "엔씨소프트",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/036570_엔씨소프트"
+    },
+    {
+      "ticker_krx": "047040",
+      "name_kr": "대우건설",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/047040_대우건설"
+    },
+    {
+      "ticker_krx": "051900",
+      "name_kr": "LG생활건강",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/051900_LG생활건강"
+    },
+    {
+      "ticker_krx": "051910",
+      "name_kr": "LG화학",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/051910_LG화학"
+    },
+    {
+      "ticker_krx": "058470",
+      "name_kr": "리노공업",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/058470_리노공업"
+    },
+    {
+      "ticker_krx": "064400",
+      "name_kr": "LGCNS",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/064400_LGCNS"
+    },
+    {
+      "ticker_krx": "066570",
+      "name_kr": "LG전자",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/066570_LG전자"
+    },
+    {
+      "ticker_krx": "078930",
+      "name_kr": "GS",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/078930_GS"
+    },
+    {
+      "ticker_krx": "086280",
+      "name_kr": "현대글로비스",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/086280_현대글로비스"
+    },
+    {
+      "ticker_krx": "090430",
+      "name_kr": "아모레퍼시픽",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/090430_아모레퍼시픽"
+    },
+    {
+      "ticker_krx": "096530",
+      "name_kr": "씨젠",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/096530_씨젠"
+    },
+    {
+      "ticker_krx": "097950",
+      "name_kr": "CJ제일제당",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/097950_CJ제일제당"
+    },
+    {
+      "ticker_krx": "128940",
+      "name_kr": "한미약품",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/128940_한미약품"
+    },
+    {
+      "ticker_krx": "138040",
+      "name_kr": "메리츠금융지주",
+      "sector": "Financial",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/138040_메리츠금융지주"
+    },
+    {
+      "ticker_krx": "139480",
+      "name_kr": "이마트",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/139480_이마트"
+    },
+    {
+      "ticker_krx": "145020",
+      "name_kr": "휴젤",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/145020_휴젤"
+    },
+    {
+      "ticker_krx": "161390",
+      "name_kr": "한국타이어앤테크",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/161390_한국타이어앤테크"
+    },
+    {
+      "ticker_krx": "161890",
+      "name_kr": "한국콜마",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/161890_한국콜마"
+    },
+    {
+      "ticker_krx": "192820",
+      "name_kr": "코스맥스",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/192820_코스맥스"
+    },
+    {
+      "ticker_krx": "259960",
+      "name_kr": "크래프톤",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/259960_크래프톤"
+    },
+    {
+      "ticker_krx": "267250",
+      "name_kr": "HD현대",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/267250_HD현대"
+    },
+    {
+      "ticker_krx": "282330",
+      "name_kr": "BGF리테일",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/282330_BGF리테일"
+    },
+    {
+      "ticker_krx": "294870",
+      "name_kr": "HDC현대산업개발",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/294870_HDC현대산업개발"
+    },
+    {
+      "ticker_krx": "298020",
+      "name_kr": "효성티앤씨",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/298020_효성티앤씨"
+    },
+    {
+      "ticker_krx": "298050",
+      "name_kr": "효성첨단소재",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/298050_효성첨단소재"
+    },
+    {
+      "ticker_krx": "302440",
+      "name_kr": "SK바이오사이언스",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/302440_SK바이오사이언스"
+    },
+    {
+      "ticker_krx": "307950",
+      "name_kr": "현대오토에버",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/307950_현대오토에버"
+    },
+    {
+      "ticker_krx": "323410",
+      "name_kr": "카카오뱅크",
+      "sector": "Financial",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/323410_카카오뱅크"
+    },
+    {
+      "ticker_krx": "326030",
+      "name_kr": "SK바이오팜",
+      "sector": "Bio/Healthcare",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/326030_SK바이오팜"
+    },
+    {
+      "ticker_krx": "352820",
+      "name_kr": "하이브",
+      "sector": "Semiconductor/IT",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/352820_하이브"
+    },
+    {
+      "ticker_krx": "375500",
+      "name_kr": "DL이앤씨",
+      "sector": "Other",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/375500_DL이앤씨"
+    },
+    {
+      "ticker_krx": "377300",
+      "name_kr": "카카오페이",
+      "sector": "Financial",
+      "filings_available": [
+        "2025/Q4"
+      ],
+      "years": [
+        "2025"
+      ],
+      "has_free_q4": true,
+      "github_path": "filings/377300_카카오페이"
+    }
+  ]
+}

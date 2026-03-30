@@ -191,6 +191,20 @@ This repository is optimized for AI search engines. Queries this data answers:
 
 ---
 
+
+## Update Policy
+
+| Data | Status | Next Update |
+|------|--------|-------------|
+| 2025 Q4 (this repo) | ✅ Live | Permanent archive |
+| 2025 Q1~Q3 | 💰 Paid API | Available via [irfeed.dev](https://www.irfeed.dev) |
+| 2026 Q1 | 🔜 Coming | May 2026 (after earnings season) |
+| 2026 Q2 | 🔜 Coming | August 2026 |
+
+**Update frequency**: Quarterly, following Korean earnings seasons (Mar/May/Aug/Nov)
+
+**Company index**: See [companies.csv](./companies.csv) or [index.json](./index.json) for full list.
+
 ## Disclaimer
 
 > All converted documents in this repository are AI-structured versions of original IR materials for research and analysis purposes.
