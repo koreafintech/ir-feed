@@ -58,8 +58,8 @@ This repository contains **Q4 2025 filings + English summaries** for KOSPI 200 c
 
 | What's free | What's paid |
 |-------------|-------------|
-| Q4 MD files (KOSPI 200) | Q1~Q3 full history |
-| english_summary | Real-time API access |
+| Q4 MD files (IR PDF companies) | Q1~Q3 full history |
+| english_summary (in Q4.md) | Real-time API access |
 | key_figures JSON | MCP server |
 | DART-verified financials | Webhook notifications |
 
@@ -84,20 +84,20 @@ This repository contains **Q4 2025 filings + English summaries** for KOSPI 200 c
 ```
 filings/
 ├── 005930_삼성전자/
-│   ├── 2025/
-│   │   └── Q4.md          ← Free (this repo)
-│   └── en_summary.md      ← Free (this repo)
+│   └── 2025/
+│       └── Q4.md          ← Free (this repo, includes english_summary)
 ├── 000660_SK하이닉스/
-│   ├── 2025/
-│   │   └── Q4.md
-│   └── en_summary.md
+│   └── 2025/
+│       └── Q4.md
 └── ...
 ```
 
 Each MD file contains:
-- **YAML frontmatter** — metadata, key_figures, english_summary
+- **YAML frontmatter** — metadata, key_figures, english_summary (영문 요약 포함)
 - **Structured body** — tables, charts, management commentary
 - **Disclaimer** — source attribution
+
+> english_summary is embedded in Q4.md frontmatter, not a separate file.
 
 ---
 
