@@ -2503,5 +2503,106 @@
         "cost": 0.1105
       }
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "time": "2026-04-01T08:35:51.719637",
+    "total": 13,
+    "success": 0,
+    "failed": 13,
+    "cost": 0.0,
+    "files": [
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2024-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "삼성SDS",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-1Q",
+        "status": "fail",
+        "cost": 0.0
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "fail",
+        "cost": 0.0
+      }
+    ]
   }
 ]
