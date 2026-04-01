@@ -2604,5 +2604,154 @@
         "cost": 0.0
       }
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "time": "2026-04-01T21:21:03.176251",
+    "total": 13,
+    "success": 13,
+    "failed": 0,
+    "cost": 2.0569,
+    "files": [
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.2049
+      },
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.2049
+      },
+      {
+        "company": "KT&G",
+        "doc_type": "밸류업",
+        "period": "",
+        "status": "ok",
+        "cost": 0.1197
+      },
+      {
+        "company": "LGCNS",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1764
+      },
+      {
+        "company": "KT",
+        "doc_type": "실적발표",
+        "period": "2024-4Q",
+        "status": "ok",
+        "cost": 0.1304
+      },
+      {
+        "company": "삼성SDS",
+        "doc_type": "실적발표",
+        "period": "2025-2Q",
+        "status": "ok",
+        "cost": 0.1458
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2025-1Q",
+        "status": "ok",
+        "cost": 0.1284
+      },
+      {
+        "company": "에스오일",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.2165
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1366
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.22
+      },
+      {
+        "company": "카카오뱅크",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1464
+      },
+      {
+        "company": "한화솔루션",
+        "doc_type": "실적발표",
+        "period": "2026-1Q",
+        "status": "ok",
+        "cost": 0.1165
+      },
+      {
+        "company": "효성",
+        "doc_type": "실적발표",
+        "period": "2025-3Q",
+        "status": "ok",
+        "cost": 0.1105
+      }
+    ]
+  },
+  {
+    "date": "2026-04-01",
+    "time": "2026-04-01T22:02:01.869427",
+    "total": 2,
+    "success": 2,
+    "failed": 0,
+    "cost": 0.456,
+    "files": [
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.2434
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.2126
+      }
+    ]
+  },
+  {
+    "date": "2026-04-01",
+    "time": "2026-04-01T22:08:38.698664",
+    "total": 2,
+    "success": 2,
+    "failed": 0,
+    "cost": 0.3237,
+    "files": [
+      {
+        "company": "KCC",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1455
+      },
+      {
+        "company": "카카오",
+        "doc_type": "실적발표",
+        "period": "2025-4Q",
+        "status": "ok",
+        "cost": 0.1782
+      }
+    ]
   }
 ]
