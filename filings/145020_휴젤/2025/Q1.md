@@ -1,0 +1,226 @@
+```yaml
+---
+title: "휴젤 2025년 1분기 실적발표"
+company: "휴젤"
+doc_type: "실적발표"
+publish_date: "2025-05-08"
+fiscal_year: 2025
+fiscal_quarter: "Q1"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "HUGEL"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-27T00:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "4,251.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "2,008.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "1,469.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "10,768.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "10,768.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "9,801.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "898"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "전년동기대비 20.9% 증가"
+  
+  operating_profit:
+    value: "390"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "영업이익률 43.4%, 전년동기대비 62.6% 증가"
+  
+  net_income:
+    value: "309"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "순이익률 34.4%, 전년동기대비 35.9% 증가"
+  
+  gross_profit_margin:
+    value: "76.8"
+    unit: "%"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0.98
+    note: "전년동기와 동일한 수준 유지"
+
+english_summary:
+  title: "HUGEL Q1 2025 Earnings Results"
+  one_liner: "Revenue KRW 89.8bn (+20.9% YoY), Operating profit KRW 39.0bn (+62.6% YoY)"
+  highlights:
+    - "Strong revenue growth of 20.9% YoY driven by international expansion"
+    - "Operating margin improved to 43.4% from 32.2% in Q1 2024"
+    - "Botulinum toxin and dermal filler segments showing robust performance"
+    - "Asia Pacific region recorded 39.5% YoY growth"
+  key_figures_en:
+    revenue: "KRW 89.8bn (consolidated, +20.9% YoY)"
+    operating_profit: "KRW 39.0bn (operating margin 43.4%, +62.6% YoY)"
+    net_income: "KRW 30.9bn (net margin 34.4%, +35.9% YoY)"
+    gross_margin: "76.8% (maintained from Q1 2024)"
+  outlook: "Company maintains strong fundamentals with expanding international presence, particularly in Asia Pacific markets."
+---
+
+# 1Q25 Earnings Release
+
+May 08, 2025
+
+---
+
+## Disclaimer
+
+본 자료는 한국자택국제회계기준(K-IFRS)에 따라 작성한 휴젤 주식회사의 연결재무설명입니다.
+
+본 자료에 포함된 재무실적 및 영업성과는 투자자 편의를 위하여 외부감사인의 감사가 완료되지 않은 상태에서 작성된 것으로 향후 외부감사인의 감사결과에 따라 변경될 수 있음을 양지하시기 바랍니다.
+
+The financial information in this document are consolidated earnings results based on K-IFRS.
+
+This document is provided for the convenience of investors only, before the external audit on our financial results is completed. The audit outcomes may cause some parts of this document to change.
+
+---
+
+## 1. 실적요약 / Financial Summary (1Q25)
+
+*(단위: 십억원, K-IFRS 연결기준)*
+
+| 항목 | 1Q24 | 4Q24 | 1Q25 | YoY 증감률 |
+|---|---|---|---|---|
+| **매출액** | **74.3억원** | **98.2억원** | **89.8억원** | **+20.9%** |
+| 매출원가 | 17.2억원 | 22.4억원 | 20.8억원 | +20.8% |
+| **매출총이익** | **57.1억원** | **75.8억원** | **69.0억원** | **+20.9%** |
+| (매출총이익률) | 76.8% | 77.2% | 76.8% | - |
+| 판관비 | 33.1억원 | 29.2억원 | 30.1억원 | -9.3% |
+| **영업이익** | **24.0억원** | **46.6억원** | **39.0억원** | **+62.6%** |
+| (영업이익률) | 32.2% | 47.4% | 43.4% | +11.1%p |
+| 세전순이익 | 29.4억원 | 35.3억원 | 41.1억원 | +39.7% |
+| **당기순이익** | **22.7억원** | **40.7억원** | **30.9억원** | **+35.9%** |
+| (당기순이익률) | 30.6% | 41.4% | 34.4% | +3.8%p |
+
+*주석: 모든 수치는 K-IFRS 연결기준이며, 전년동기(1Q24) 대비 매출액과 영업이익 모두 큰 폭 증가*
+
+---
+
+## 2. 제품 및 지역별 매출 / Revenue Breakdown (1Q25)
+
+### 제품별 매출 / By Product
+
+*(단위: 십억원, K-IFRS 연결기준)*
+
+| 제품군 | 1Q24 | 4Q24 | 1Q25 | YoY 증감률 |
+|---|---|---|---|---|
+| **보툴리눔 독소** | **34.3억원** | **53.2억원** | **40.7억원** | **+18.8%** |
+| **더말 필러** | **29.3억원** | **31.9억원** | **34.4억원** | **+17.7%** |
+| 화장품 | 9.5억원 | 11.7억원 | 13.2억원 | +39.3% |
+| 실 | 1.3억원 | 1.3억원 | 1.5억원 | +13.2% |
+| **전체 합계** | **74.3억원** | **98.2억원** | **89.8억원** | **+20.9%** |
+
+*주석: 보툴리눔 독소와 더말 필러가 전체 매출의 83.7%를 차지하는 주력 제품군*
+
+### 지역별 매출 / By Region
+*(보툴리눔 독소 + 더말 필러 기준)*
+
+*(단위: 십억원, K-IFRS 연결기준)*
+
+| 지역 | 1Q24 | 4Q24 | 1Q25 | YoY 증감률 |
+|---|---|---|---|---|
+| **국내** | **23.5억원** | **28.5억원** | **26.7억원** | **+13.4%** |
+| **해외 전체** | **40.0억원** | **56.7억원** | **48.5억원** | **+21.7%** |
+| - 아시아 태평양 | 21.6억원 | 37.4억원 | 30.2억원 | +39.5% |
+| - 남북미 | 4.2억원 | 7.1억원 | 3.8억원 | -10.7% |
+| - 유럽 및 기타 | 14.2억원 | 12.1억원 | 14.5억원 | +2.5% |
+| **합계** | **63.5억원** | **85.2억원** | **75.2억원** | **+18.3%** |
+
+*주석: 해외 매출이 전체의 64.5%를 차지하며, 아시아 태평양 지역이 가장 큰 성장률을 기록*
+
+**지역 설명:**
+- 아시아 태평양: 중국, 태국, 호주 및 기타 아시아 국가 포함
+- 유럽 및 기타: 유럽 국가 및 기타 해외 국가 포함  
+- 남북미: 미국, 브라질, 캐나다 및 기타 중남미 국가 포함
+
+*Asia Pacific: including China, Thailand, Australia and other Asian countries*
+*EU & Others: including EU and other international countries*  
+*North & South America: including the U.S., Brazil, Canada, and other LATAM countries*
+
+---
+
+**End of Document**
+
+**Contact point**  
+ir@hugel.co.kr
+
+
+---
+
+## DART 연결재무제표 (휴젤, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 4,251.1 | DART |
+| 영업이익 | 2,008.5 | DART |
+| 당기순이익 | 1,469.7 | DART |
+| 자산총계 | 10,768.4 | DART |
+| 부채총계 | 10,768.4 | DART |
+| 자본총계 | 9,801.6 | DART |
+| 영업활동현금흐름 | 1,500.6 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

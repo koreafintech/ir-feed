@@ -1,0 +1,276 @@
+```yaml
+---
+title: "크래프톤 2025년 1분기 실적발표"
+company: "크래프톤"
+doc_type: "실적발표"
+publish_date: "2025-04-29"
+fiscal_year: 2025
+fiscal_quarter: "Q1"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-11T12:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "33,265.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "10,543.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "7,337.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "94,336.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "22,495.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "71,841.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  consolidated_revenue:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 재무 수치 미포함"
+  consolidated_operating_income:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 재무 수치 미포함"
+  consolidated_net_income:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 재무 수치 미포함"
+  revenue_yoy_growth:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: YoY 데이터 누락"
+  operating_income_yoy_growth:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: YoY 데이터 누락"
+  net_income_yoy_growth:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: YoY 데이터 누락"
+  segment_breakdown:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 세그먼트별 매출 분석 미포함"
+  ebitda:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: EBITDA 데이터 미포함"
+  eps:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: EPS 데이터 미포함"
+  cash_flow_data:
+    value: "N/A"
+    confidence: 0
+    note: "Stage 4 교정: 현금흐름 데이터 미포함"
+  
+english_summary:
+  title: "KRAFTON Q1 2025 Earnings Results - PUBG IP Franchise Strategy"
+  one_liner: "Strategy presentation focusing on PUBG IP franchise expansion and future roadmap"
+  highlights:
+    - "Core strategy: Investment in content and services evolution for all fans"
+    - "IP collaborations expanding beyond gaming into automotive, fashion, and cultural experiences"
+    - "PUBG 2.0 gameplay platform evolution with UE5 updates and community activation"
+    - "New challenges across diverse genres, platforms, and regions"
+    - "Production pipeline includes extraction shooter, console battle royale, and top-down tactical shooter"
+  key_figures_en:
+    note: "⚠️ 본 프레젠테이션은 PUBG IP 프랜차이즈 전략에 중점을 둔 자료로, 구체적인 재무 수치는 포함되지 않음"
+  outlook: "Continued commitment to delivering unique PUBG experiences for fans while contributing to KRAFTON's growth."
+---
+
+# 2025년 1분기 실적발표
+
+## KRAFTON
+2025. 4. 29.
+
+---
+
+# 유의사항
+
+주식회사 크래프톤(이하 "크래프톤")의 재무 정보는 **한국채택국제회계기준(K-IFRS)에 따라 작성**되었으며, **크래프톤 및 종속회사를 포함한 연결 기준** 재무제표입니다.
+
+본 자료는 주주 및 투자자 편의를 위해 **외부감사인의 검토가 완료되지 않은 상태**에서 작성되었으며, 이에 본 자료에 포함된 경영 실적 및 재무 정보는 외부감사인의 검토 결과에 따라 변경될 수 있습니다.
+
+본 자료의 경영 실적, 재무제표 및 예측을 포함한 정보는 현재 시점을 기준으로 작성되었고, 이에 정보의 정확성과 완벽성에 대해 보장하지 않으며, 회사는 향후 변경되는 새로운 정보나 업데이트 책임을 지지 않습니다.
+
+따라서, 본 자료는 투자자들의 투자 결과에 대하여 어떠한 법적인 책임을 지지 않으며, 크래프톤은 본 자료에서 제공되는 정보에 의거하여 발생되는 투자 결과에 대해 어떠한 책임 또는 손해를 지지 않습니다.
+
+---
+
+# PUBG IP FRANCHISE, 팬과 함께 하는 미래
+
+**KRAFTON**  
+Head of PUBG IP Franchise & PUBG STUDIOS, 장태석
+
+[이미지: PUBG 게임 화면 - 배틀그라운드 게임 플레이 장면]
+
+---
+
+# 지역과 세대를 넘어 팬들에게 오래도록 사랑받는 프랜차이즈 IP
+
+[이미지: PUBG 로고 - 전투 중인 캐릭터 배경]
+
+---
+
+## Core : 핵심 서비스
+
+**모든 팬들이 즐길 수 있는 콘텐츠와 서비스 진화를 위한 투자**
+
+### IP 콜라보레이션 기반의 문화적 경험
+
+**음악, 자동차, 패션 등 게임 이상의 문화적 경험**
+
+[이미지: 다양한 IP 콜라보레이션 - 자동차, 패션, 게임 캐릭터 이미지]
+
+- 서구권 중심 및 새로운 세대가 관심하는 IP
+- 동시대적 IP를 제공할 수 있는 콘텐츠에 투자
+
+### 코어 콘텐츠 공유를 통한 시너지 강화
+
+**맵, 모드 등 Franchise 내 핵심 자산 공유**
+
+**STARBREEZE × KRAFTON**
+
+[이미지: PUBG 관련 게임 콘텐츠]
+
+**BATTLEGROUNDS | PUBG BATTLEGROUNDS | PUBG MOBILE**
+
+PC와 모바일 프로덕트 간 콘텐츠 및 플레이 경험 공유
+
+### PUBG 2.0, 게임플레이 플랫폼 진화
+
+**PUBG PC**
+- 코어 강화 (UE5 업데이트)
+- 플레이 경험 다양화 (Well-made 모드)
+- 커뮤니티 활성화 (UGC 기반 서비스)
+
+**→ 게임플레이 플랫폼**
+
+---
+
+# New : 도전
+
+**다양한 장르, 플랫폼, 지역에서의 새로운 도전 지속하여 Franchise 성장 도모**
+
+## Production
+
+**철저한 검증과 테스트를 통한 "반복 도전"**
+
+- **Black Budget**
+  - Extraction Shooter
+- **Valor**
+  - Console Battle Royale
+- **Blindspot**
+  - Top-Down Tactical Shooter
+
+## Incubating
+
+**다양한 장르, 플랫폼, 지역 도전 확대**
+
+- 다양한 장르
+- 콘솔·모바일
+- 신흥 시장
+
+[중앙: **PUBG 잠재 팬들을 위한 신작 도전**]
+
+---
+
+# EVERGREEN IP
+
+**팬들에게 PUBG만의 즐거운 경험을 지속 선사하기 위한 고민과 실행**
+
+**동시에 크래프톤의 성장에도 기여할 수 있다는 믿음**
+
+---
+
+# 2025년 1분기 Highlights
+
+## KRAFTON
+
+CFO, 배동근
+
+[이미지: KRAFTON 게임 화면 및 로고]
+
+<!-- 주석: Stage 4 교정 - 본 프레젠테이션은 PUBG IP 프랜차이즈 전략에 중점을 둔 자료로, ⚠️ 원본 확인 필요 - 구체적인 재무 수치는 이후 CFO 발표 자료에서 별도 제공될 것으로 예상됨 -->
+
+---
+
+## 재무 정보 (⚠️ 본 문서에 미포함)
+
+본 1분기 실적발표 자료는 PUBG IP 프랜차이즈 전략에 대한 프레젠테이션으로, 구체적인 재무 수치가 포함되지 않았습니다. 다음 정보는 별도 CFO 발표 자료 또는 공시 자료에서 확인 가능합니다:
+
+- 분기별 연결 매출액 (Consolidated Revenue)
+- 영업이익 및 당기순이익
+- 세그먼트별 매출 분석
+- 전년동기 대비 증감률 (YoY Growth)
+- 전분기 대비 증감률 (QoQ Growth)
+- EBITDA, EPS, 현금흐름 등 주요 재무지표
+
+**Stage 4 교정 완료: key_figures에 placeholder 추가, 누락 항목 명시**
+```
+
+
+---
+
+## DART 연결재무제표 (크래프톤, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 33,265.5 | DART |
+| 영업이익 | 10,543.8 | DART |
+| 당기순이익 | 7,337.0 | DART |
+| 자산총계 | 94,336.5 | DART |
+| 부채총계 | 22,495.0 | DART |
+| 자본총계 | 71,841.4 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

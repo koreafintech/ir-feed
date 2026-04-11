@@ -1,0 +1,371 @@
+```markdown
+---
+title: "SK바이오사이언스 2025년 2분기 실적발표"
+company: "SK바이오사이언스"
+doc_type: "실적발표"
+publish_date: "2025-07-16"
+fiscal_year: 2025
+fiscal_quarter: "Q2"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "6,513.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "-1,235.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "-561.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "29,557.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "29,557.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "20,374.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "1,619"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "IDT Biologika 인수 효과로 전년 대비 대폭 증가"
+  
+  operating_loss:
+    value: "374"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "적자, SKBS 347억원 + IDT 27억원 손실"
+  
+  net_loss:
+    value: "168"
+    unit: "억원"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "당기순손실. Stage 4 교정: 1H 당기순손실 -209억원에서 YoY 42억원 개선 (실제값: -209-(-251)=42)"
+  
+  gross_margin_rate:
+    value: "7.3"
+    unit: "%"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "매출총이익률 (119/1,619). Stage 4 교정: 누락된 지표 추가"
+  
+  operating_margin_rate:
+    value: "-23.1"
+    unit: "%"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "영업이익률 (-374/1,619). Stage 4 교정: 누락된 지표 추가"
+  
+  earnings_per_share:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0
+    note: "주당순이익(EPS) 정보 미제시"
+  
+  cash:
+    value: "1.10"
+    unit: "조원"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0.98
+    note: "현금 및 현금성자산"
+  
+  debt_ratio_2025Q2:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "2025Q2"
+    confidence: 0
+    note: "부채비율 - 본문 테이블 구간 종료로 수치 확인 불가능"
+
+english_summary:
+  title: "SK bioscience Q2 2025 Earnings Results"
+  one_liner: "Revenue KRW 1.6T (+505% YoY), Operating loss KRW 374B"
+  highlights:
+    - "Significant revenue growth driven by IDT Biologika acquisition (+KRW 1.29T)"
+    - "21-valent pneumococcal vaccine received CTA approval for China clinical trials"
+    - "Andong pneumococcal vaccine production facility construction completed"
+  key_figures_en:
+    revenue: "KRW 1.6 trillion (consolidated, +505% YoY)"
+    operating_loss: "KRW 374 billion (SKBS: KRW 347B loss, IDT: KRW 27B loss)"
+    net_loss: "KRW 168 billion"
+    gross_margin_rate: "7.3% (KRW 119B / KRW 1,619B)"
+    operating_margin_rate: "-23.1% (KRW -374B / KRW 1,619B)"
+    cash: "KRW 1.1 trillion"
+  outlook: "Targeting KRW 410B+ revenue and operating profit turnaround for FY2025."
+---
+
+# SK bioscience 2025년 2분기 경영실적
+
+## GLOBAL INNOVATIVE PARTNER OF VACCINE AND BIOTECH
+
+SK bioscience
+
+from Prevention to Cure
+
+---
+
+# SK바이오사이언스 2025년 2분기 경영실적
+
+## DISCLAIMER
+
+본 자료의 제작정보는 한국채택국제회계기준(K-IFRS)에 따라 작성되었습니다.
+
+본 자료에 포함된 2025년 2분기 실적은 외부감사인의 회계 검토가 완료되지 않은 상태에서 투자자 여러분의 편의를 위하여 작성된 자료이므로, 내용 중 일부는 최종감사과정에서 달라질 수 있습니다.
+
+또한 본 자료에 포함된 향후 전망은 현재의 사업환경과 당사의 경영전략 등을 고려한 것으로, 미래의 사업환경 변화 및 계획 수정 등에 따라 달라질 수 있음을 양지하시기 바랍니다.
+
+---
+
+# Key Highlights
+
+## 1. 안동 펜럼구군 백신 생산시설 준공식 개최
+
+- 안동 펜럼구군 백신 생산시설 준공식 개최
+- Sanofi 우호 임원진 내방, 전략적 파트너십 확대
+
+## 2. 21가 펜럼구군 백신, 중국 임상시험계획(CTA) 승인
+
+- 중국 임상 1상 및 3상 임상시험계획 승인
+- 전략적으로 중요한 글로벌 시장인 중국 진출을 향한 행보
+
+## 3. IDT Biologika BIO USA 2025 참가
+
+- SK 인수 이후 전략변화, 개발방향 및 확장전략 소개
+- '25년 매출 4,100억+, 영업이익 흑자전환 목표
+
+---
+
+# Intro 미래 성장을 위한 흔들림 없는 투자 지행
+
+## '25년 상반기
+
+SK bioscience
+
+### 영업이익(연결)
+**△525억원** *(연결기준, 영업손실)*
+
+### 기초사업
+**+41억원** *(SKBS 단독 기준)*
+
+### 미래 성장 투자
+**566억원** *(기초사업 흑자 41억원 + 영업손실 525억원)*
+
+---
+
+## 미래 성장 투자 내역
+
+### 1. 백신 포트폴리오 확장 : **337억원**
+
+- PCV21 / NextGen PCV 개발 및 상업화 준비
+- mRNA 플랫폼 및 파이프라인 개발
+- 범사베코바이러스 백신, 면역증강제 활용 독감백신 등 신규 백신 개발
+
+### 2. 인프라 투자 : **111억원**
+
+- 송도 R&D 센터 건설 및 안동 cGMP upgrade
+- IT/DT Infra 투자 등
+
+### 3. 추가 사업 확장 : **118억원**
+
+- 바이오 사업 확장 검토
+- 태국 JV 설립 추진 등
+
+---
+
+# Intro 지속적인 R&D 투자를 통해 다수의 Pipeline을 보유하고 있으며, 대규모 글로벌 시장을 목표로 Blockbuster Pipeline 성과 기대
+
+## 파이프라인 현황
+
+| 백신 종류 | 기초연구/전임상 | 임상 1상 | 임상 2상 | 임상 3상 | 상업화 |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **폐렴구균 백신 21가** | ✓ | ✓ | ✓ | ✓ | 글로벌 |
+| **폐렴구균 백신(NextGen)** | ✓ | | | | |
+| **RSV 백신** | ✓ | ✓¹⁾ | | | |
+| **자가조립 대상포진 백신** | ✓ | ✓²⁾ | | | |
+| **자궁경부암백신 9가** | ✓ | | | | |
+| **면역증강제 활용 독감 백신** | ✓ | | | | |
+| **폐렴구균 백신 13가** | | | | | ✓ |
+| **SKYCellflu(3가 독감)** | | | | | ✓ |
+| **SKYCellflu(4가 독감)** | | | | | ✓ |
+| **SKYZoster(대상포진)** | | | | | ✓ |
+| **SKYVaricella(수두)** | | | | | ✓ |
+| **SKYTyphoid(장티푸스)** | | | | | ✓ |
+| **자가조립뇌염백신 4가** | ✓ | | | | |
+| **로타바이러스 백신** | ✓ | | | | |
+| **일본뇌염 백신 mRNA** | ✓ | | | | |
+| **수족구병 백신** | ✓ | | | | |
+| **A형 간염 백신, 기타 등** | ✓ | | | | |
+| **SKYCovione(코로나19)** | | | | | ✓ |
+| **범종 코로나 백신(Sarbecovirus)** | | ✓ | ✓ | | |
+| **라이어사티브 백신 mRNA** | ✓ | | | | |
+| **Nasal Spray** | ✓ | | | | |
+
+**주석:**
+- **Premium** (빨강) : 폐렴구균 백신 21가
+- **기초 백신** (주황) : 기타 항목들
+- **코로나/Pandemic 대응** (회색) : 코로나 관련 항목들
+
+**Partners:** Sanofi, Sunflower, Gates Foundation, CEPI, Protein Design
+
+**1) 2025년 4월 14일 식품의약품안전처로부터 임상시험계획(IND) 승인**
+
+**2) 2025년 7월 16일 식품의약품안전처로부터 임상1/2상 시험계획(IND) 신청**
+
+---
+
+# 1
+## 경영 실적
+
+---
+
+# Chapter 1
+## 경영 실적
+
+### (1) 실적 요약(연결기준)
+*자체 백신 매출 확대, IDT 매출 증가로 전년 대비 큰 폭의 매출 상승*
+
+| 손익계정 | '24년 2Q<br/>(억원) | '25년 2Q<br/>(억원) | YoY<br/>(억원) | '24년 1H<br/>(억원) | '25년 1H<br/>(억원) | YoY<br/>(억원) |
+|---|---:|---:|---:|---:|---:|---:|
+| **매출액** | **268** | **1,619** | **1,351** | **490** | **3,164** | **2,674** |
+| - SKBS¹⁾ | 268 | 326 | 58 | 490 | 688 | 198 |
+| ㆍ독감 | 1 | 39 | 38 | 30 | 77 | 47 |
+| ㆍ대상포진 | 88 | 116 | 28 | 229 | 237 | 8 |
+| ㆍ수두 | 81 | 36 | (45) | 105 | 85 | (20) |
+| ㆍ유통 등 | 98 | 135 | 37 | 126 | 289 | 163 |
+| - IDT²⁾ | - | 1,293 | 1,293 | - | 2,476 | 2,476 |
+| **매출총이익** | **181** | **119** | **(62)** | **235** | **380** | **145** |
+| **판관비** | **381** | **493** | **112** | **716** | **906** | **190** |
+| ㆍ판매비/관리비 | 170 | 291 | 121 | 332 | 584 | 252 |
+| ㆍ연구비 | 211 | 202 | (9) | 384 | 322 | (62) |
+| **영업이익** | **(199)** | **(374)** | **(175)** | **(480)** | **(525)** | **(45)** |
+| - SKBS¹⁾ | (199) | (347) | (148) | (480) | (610) | (130) |
+| - IDT²⁾ | - | (27) | (27) | - | 85 | 85 |
+| **영업외손익** | **30** | **22** | **(8)** | **113** | **36** | **(77)** |
+| **세전이익** | **(169)** | **(352)** | **(183)** | **(367)** | **(490)** | **(123)** |
+| - SKBS¹⁾ | (169) | (309) | (140) | (367) | (545) | (178) |
+| - IDT²⁾ | - | (43) | (43) | - | 55 | 55 |
+| **당기순이익** | **(114)** | **(168)** | **(54)** | **(251)** | **(209)** | **42** |
+
+*1) SKBS : 분사, 미국법인, 연결조정*  
+*2) IDT : IDT, TEW*
+
+**⚠️ 원본 확인 필요: 1H 당기순이익이 -209로 표기되었으나 YoY 칸에 '42'로 양수 기재. 실제 YoY 계산: -209-(-251) = 42(개선)로 산술적으로는 정확하나 표기 방식이 혼동될 수 있습니다. Stage 4 교정: 산술 검증 완료**
+
+#### SKBS 부문
+
+**2Q 주요내용**
+
+**[YoY 증가 요인]**
+- 독감 백신 태국, 말레이시아 등 수출 확대 *(38억원 증가)*
+- 대상포진 백신 지자체 예방접종 Coverage 확대 *(28억원 증가)*
+- 사노피 백신 유통 매출 지속적인 증가세 *(37억원 증가)*
+
+**[YoY 감소 요인]**
+- 수두 백신 '25~'27 PAHO 공급 5월부터 개시된 영향, 3분기부터 매출 본격화 예정 *(45억원 감소)*
+
+| 연구비 구성 | '24년 2Q<br/>(억원) | '25년 2Q<br/>(억원) | YoY<br/>(억원) |
+|---|---:|---:|---:|
+| 연구비 총액 | 298 | 407 | 109 |
+| 정부지원금 등 | △87 | △205 | △118 |
+| **연구비 (판관비 반영)** | **211** | **202** | **△9** |
+
+*주석: 연구비는 정부지원금을 차감한 순액 기준*
+
+#### IDT Biologika 부문
+
+**2Q 주요내용**
+
+- 생산성 개선, 추가 용량 수주 등으로 매출 확대 *(1,293억원 신규 매출)*
+- 생산 초기 원활화 비용 발생하여 영업이익 감소 *(27억원 영업손실)*
+
+---
+
+# Chapter 1
+## 경영 실적
+
+### (2) 재무 상태
+
+#### 연결기준
+| 재무지표 | '24년 4Q | '25년 1Q | '25년 2Q |
+|---|---:|---:|---:|
+| **현금 및 현금성자산** | **1.16조원** | **1.18조원** | **1.10조원** |
+| **부채비율** | **40.6%** | ⚠️ 원본 확인 필요 | ⚠️ 원본 확인 필요 |
+
+```
+
+
+---
+
+## DART 연결재무제표 (SK바이오사이언스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 6,513.7 | DART |
+| 영업이익 | -1,235.0 | DART |
+| 당기순이익 | -561.7 | DART |
+| 자산총계 | 29,557.4 | DART |
+| 부채총계 | 29,557.4 | DART |
+| 자본총계 | 20,374.5 | DART |
+| 영업활동현금흐름 | 1,025.1 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

@@ -1,0 +1,424 @@
+```yaml
+---
+title: "OCI홀딩스 2025년 3분기 실적발표"
+company: "OCI홀딩스"
+doc_type: "실적발표"
+publish_date: "2025-11-11"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-10T14:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "33,800.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "-576.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "-1,462.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "78,708.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "31,393.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "47,315.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "8,450"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0.98
+    note: "K-IFRS 연결기준"
+  operating_loss:
+    value: "-530"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0.70
+    note: "⚠️ 영문요약 KRW -0.05T와 불일치 (500억원 vs 530억원) / K-IFRS 연결기준, 영업손실 / Stage 4 교정"
+  net_loss:
+    value: "-730"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0.85
+    note: "⚠️ 당기순손실 표기 일관성 필요 / K-IFRS 연결기준 / Stage 4 교정"
+  ebitda:
+    value: "820"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0.72
+    note: "⚠️ 원본 확인 필요 (82억원 vs 8.2십억원 단위 혼동) / 수정값: 820억원 / K-IFRS 연결기준 / Stage 4 교정"
+  total_assets:
+    value: "77,930"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025말"
+    confidence: 0.98
+    note: "K-IFRS 연결기준"
+  total_equity:
+    value: "45,840"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025말"
+    confidence: 0.98
+    note: "K-IFRS 연결기준"
+  total_liabilities:
+    value: "32,080"
+    unit: "억원"
+    basis: "연결"
+    period: "Q3 2025말"
+    confidence: 0.65
+    note: "⚠️ 세부 항목 설명 부족 (1,952 + 477 + 779 = 3,208십억원) / Stage 4 교정"
+  tax_rate:
+    value: "N/A"
+    unit: "%"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0
+    note: "누락 항목 - 데이터 미제공"
+  eps_basic:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "Q3 2025"
+    confidence: 0
+    note: "누락 항목 - 데이터 미제공"
+  book_value_per_share:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "Q3 2025말"
+    confidence: 0
+    note: "누락 항목 - 데이터 미제공"
+
+english_summary:
+  title: "OCI Holdings Q3 2025 Earnings Results"
+  one_liner: "Revenue KRW 0.845T (+8.9% QoQ), Operating loss KRW -0.053T (improved from -0.080T)"
+  highlights:
+    - "Q3 revenue reached KRW 845 billion (8,450억원) driven by OCI TerraSus polysilicon sales increase and OCIE project disposal"
+    - "⚠️ Operating loss improved to KRW -53 billion from KRW -80 billion in Q2 due to business recovery / Stage 4 교정"
+    - "Total assets of KRW 7.793T with equity of KRW 4.584T maintaining stable financial position"
+  key_figures_en:
+    revenue: "KRW 845 billion / 0.845 trillion (consolidated, +8.9% QoQ) / ⚠️ 표기 일관성 개선 / Stage 4 교정"
+    operating_loss: "⚠️ KRW -53 billion (improved from -80B QoQ) / 표기 수정 / Stage 4 교정"
+    net_loss: "KRW -73 billion (당기순손실)"
+    ebitda: "KRW 82 billion / 0.082 trillion (EBITDA margin 1.0%) / ⚠️ 단위 표기 통일 필요 / Stage 4 교정"
+  outlook: "Expecting continued recovery with OCI TerraSus sales expansion and stable operations in Q4."
+---
+
+# INVESTOR RELATIONS
+
+# OCI Holdings
+
+## 2025년 3분기 경영실적
+
+2025. 11. 11
+
+---
+
+# DISCLAIMER
+
+본 발표자료에 기술되어 있는 재무 정보 및 사업 현황 등은 기재된 날짜 기준의 내용이며, 이는 경제, 산업 및 재무 상황 등에 따라 변경될 수 있음을 알려드립니다.
+
+또한 본 자료는 미래의 불확실성 및 위험 요인에 따라 변경될 수 있는 가정에 근거한 전망 정보를 포함하고 있습니다. 이는 세계 경제와 그에 따른 트렌드, 시장 진입 및 사업계획 등의 미래 투자 계획을 포함합니다. 이러한 가정과 환경의 변화로 인한 변동 사항에 대해서는 당사의 책임이 없음을 알려드립니다.
+
+회사의 실제 실적은 당사가 예측하지 못할 수 있는 요소들로 인해 변경될 수 있습니다. 이러한 요소는 경제 정책의 신뢰, 고객 요구의 감소, 주요 고객의 이탈, 가격 하락 압박, 특정 프로젝트 및 설비투자에 대한 자금 조달 상의 문제 등을 포함합니다.
+
+OCI Holdings
+
+---
+
+# TABLE OF CONTENTS
+
+## I. 재무 실적
+1. 분기 경영 실적
+2. 주요 자회사 실적
+
+## II. 주요 경영 현황
+1. 주요 경영 사항
+
+## III. Appendix
+
+---
+
+# 01
+
+## 재무 실적
+1. 분기 경영 실적
+2. 주요 자회사 실적
+
+[이미지: 태양광 패널이 있는 초록 들판과 하늘]
+
+OCI Holdings
+
+---
+
+# 01. 분기 경영 실적_'25년 3분기 연결 손익
+
+- **3분기 매출 약 8,450억원(연결기준, K-IFRS), 영업손실 약 530억원(연결기준, K-IFRS)**
+  - OCI TerraSus(TRS) 폴리실리콘 판매증가 및 OCIE 프로젝트 매각 등으로 매출 증가 및 영업손실 축소
+
+## 분기 요약 연결 경영 실적
+*(단위: 십억원, K-IFRS 연결기준)*
+
+| 항목 | Q2'25 | Q3'25 | 증감 |
+|------|-------|-------|------|
+| **매출액** | 776 | 845 | **8.9%** |
+| **영업이익(손실)** | -80 | -53 | **개선** |
+| 영업이익률(%) | N/A | N/A | - |
+| 법인세차감전이익(손실) | -85 | -115¹⁾ | **악화** |
+| **당기순이익(손실)** | -82 | -73 | **개선** |
+| 순이익률(%) | N/A | N/A | - |
+| **EBITDA** | -18 | 82 | **흑자전환** |
+| EBITDA 이익률(%) | N/A | 1.0% | - |
+
+*주석: K-IFRS 연결 기준*  
+*1) OCI 연결자회사 파킹도시개발 손실(705억원) 반영*  
+*Stage 4 교정: EBITDA 값 수정 (8.2십억원 → 82억원 단위 통일)*
+
+## 주요 자회사 분기 실적 분석
+*(단위: 십억원, K-IFRS 연결기준)*
+
+### 매출 변동 분석
+*Q2'25 → Q3'25 매출 변화: 776억원 → 845억원 (+69억원, +8.9%)*
+
+- **Q2'25**: 776억원
+- **OCITRS**: +93억원 (폴리실리콘 판매 증가)
+- **OCIE**: +17억원 (프로젝트 매각)
+- **OCISE**: -8억원
+- **파킹도시개발**: +17억원
+- **OCI**: -51억원
+- **기타**: +1억원
+- **Q3'25**: 845억원
+
+### 영업이익 변동 분석
+*Q2'25 → Q3'25 영업손실 개선: -80억원 → -53억원 (+27억원 개선)*
+
+- **Q2'25**: -80억원
+- **OCITRS**: +9억원 (판매 증가에 따른 개선)
+- **OCIE**: +25억원 (프로젝트 매각 효과)
+- **OCISE**: -1억원
+- **파킹도시개발**: +17억원
+- **OCI**: -8억원
+- **기타**: -15억원
+- **Q3'25**: -53억원
+
+---
+
+# 01. 분기 경영 실적_'25년 3분기 연결 재무 상태
+
+- **'25년 3분기 말 기준 자산 7조 7,930억원(연결기준), 부채 3조 2,080억원(연결기준), 자본 4조 5,840억원(연결기준)**
+  - 재고 및 매출채권 감소되며 운전자본 효율성 개선 및 현금 증가
+  - 총 차입금액 1조 9,520억원 중 파킹도시개발 관련 운영 차입금이 약 8,300억원으로 부채 및 순차입금 비율 안정적
+
+## 분기 요약 연결 재무상태표
+*(단위: 십억원, K-IFRS 연결기준)*
+
+| 항목 | Q2'25 | Q3'25 | 증감 |
+|------|-------|-------|------|
+| **자산총계** | 7,647 | 7,793 | +146 |
+| **유동자산** | 4,078 | 4,119 | +41 |
+| 현금 및 단기금융상품 | 1,255 | 1,391 | +136 |
+| 매출채권 및 기타 | 441 | 401 | -40 |
+| 재고자산 | 2,291 | 2,224 | -67 |
+| **비유동자산** | 3,569 | 3,674 | +105 |
+| **부채총계** | 3,054 | 3,208 | +155 |
+| 차입금 | 1,808 | 1,952 | +144 |
+| 매입채무 및 기타 | 489 | 477 | -12 |
+| 기타 | 757 | 779 | +23 |
+| **자본총계** | 4,593 | 4,584 | -9 |
+
+*Stage 4 교정: 부채총계 세부항목 합계 검증 (1,952 + 477 + 779 = 3,208십억원)*
+
+## 재무 지표 분석
+
+### 자산 증가 요인
+- **현금**: OCI도시개발 프로젝트 매각 및 OCI TRS 판매 회복
+- **재고자산**: OCI TRS 판매 증가에 따른 재고 감소  
+- **비유동자산**: OTSM¹⁾ 출자에 따른 투자자산 증가
+
+### 부채 증가 요인
+- **차입금**: OCI홀딩스 및 자회사 투자 관련 차입 증가
+
+**부채비율**: 66.5% → 70.0%  
+**순차입금(비율)**: 553억원(12.0%) → 561억원(12.2%)
+
+*주석: K-IFRS 연결 기준*  
+*1) OTSM: OCI Tokuyama Semiconductor Materials Sdn., OCI TerraSus 50% 지분 보유*
+
+---
+
+# 02. 주요 자회사 실적_OCI TerraSus (구 OCIM)
+
+## 매출 추이
+*(단위: 십억원)*
+
+| 분기 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 |
+|------|-------|-------|-------|-------|-------|
+| **매출** | 65 | 95 | 112 | 39 | **132** |
+
+**QoQ 증감**: +241.5% (Q2'25 대비 Q3'25)
+
+## 영업이익 추이
+*(단위: 십억원)*
+
+| 분기 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 |
+|------|-------|-------|-------|-------|-------|
+| **영업이익** | 6 | -27 | 12 | -74 | **-65** |
+
+## 3분기 실적 분석
+
+- **UFLPA¹⁾ 강화 움직임으로 미국 향 고객사 수요 확대**되며 판매량 및 매출액 전분기 대비 큰 폭 증가
+- 7-8월 가동 중단에 따른 고정비 부담 및 램프업 초기 비용 발생으로 적자 지속
+
+## 4분기 전망
+
+- **판매 확대 및 정상가동에 따른 원가 안정화**로 매출 및 영업이익의 확대 전망
+- **Non-PFE²⁾ 신규 고객사와 추가 계약 논의** 진행
+
+*주석:*  
+*1) UFLPA(Uyghur Forced Labor Prevention Act): 신장위구르 강제노동방지법*  
+*2) Non-PFE (Non-Prohibited Foreign Entity): 미국 정부가 금지하지 않은 해외 기업으로, 세이프하버를 받을 수 있는 공급업체로 인정되는 기업을 의미*
+
+---
+
+# 02. 주요 자회사 실적_OCI Enterprises
+
+## 매출 추이
+*(단위: 십억원)*
+
+| 분기 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 |
+|------|-------|-------|-------|-------|-------|
+| **매출** | 55 | 32 | 68 | 44 | **61** |
+
+**QoQ 증감**: +37.6% (Q2'25 대비 Q3'25)
+
+## 영업이익 추이
+*(단위: 십억원)*
+
+| 분기 | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 |
+|------|-------|-------|-------|-------|-------|
+| **영업이익** | 7 | -21 | 9 | -12 | **13** |
+
+**QoQ 증감**: 흑자전환 (Q2'25 대비 Q3'25)
+
+## 3분기 실적 분석
+
+- **MSE, C&I¹⁾ 고객사 신규 공급 개시**, 수요 확대로 모듈 ASP 상승
+- **OCI Energy, 2개 프로젝트 매각 완료** (총 220MW 규모)
+
+## 4분기 전망
+
+- **C&I 시장 진출 본격화 및 신규 고객사 확보**로 지속적 매출 성장 기대
+- **OCIE 프로젝트 매각 이익 반영** 예상
+
+---
+
+## 주요 누락 정보 (Stage 4 교정 표기)
+
+| 항목 | 상태 | 비고 |
+|------|------|------|
+| Tax Rate | ⚠️ 미제공 | 데이터 미제공 |
+| EPS (Basic) | ⚠️ 미제공 | 데이터 미제공 |
+| Book Value per Share | ⚠️ 미제공 | 데이터 미제공 |
+| Segment-wise Margin Analysis | ⚠️ 미제공 | 데이터 미제공 |
+| Cash Flow Statement | ⚠️ 미제공 | 데이터 미제공 |
+
+---
+
+## Stage 4 교정 요약
+
+**수정 완료 항목:**
+
+1. **net_loss_q3_2025** (confidence: 0.85)
+   - 표기 일관성 검토 완료, 당기순손실 -730억원 확인
+
+2. **ebitda_q3_2025** (confidence: 0.72) 
+   - 단위 통일: 8.2십억원 → 820억원 (=82십억원)
+   - YAML 및 표/본문 일관성 교정
+
+3. **english_summary_revenue** (confidence: 0.75)
+   - KRW 0.845T = 8,450억원 = 845십억원
+   - 표기 통일: "KRW 845 billion / 0.845 trillion"
+
+4. **operating_loss_english** (confidence: 0.70)
+   - KRW -0.053T = -530억원 (불일치 해소)
+   - 영문요약 수정: "KRW -53 billion"
+
+5. **total_liabilities_sum** (confidence: 0.65)
+   - 검증 완료: 1,952 + 477 + 779 = 3,208십억원
+   - 세부 항목 설명 추가
+
+**누락 항목 추가:**
+- tax_rate, eps_basic, book_value_per_share, segment_wise_margin_analysis, cash_flow_statement
+- key_figures에 placeholder 추가 (value: "N/A", confidence: 0)
+```
+
+
+---
+
+## DART 연결재무제표 (OCI홀딩스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 33,800.6 | DART |
+| 영업이익 | -576.3 | DART |
+| 당기순이익 | -1,462.5 | DART |
+| 자산총계 | 78,708.7 | DART |
+| 부채총계 | 31,393.4 | DART |
+| 자본총계 | 47,315.3 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

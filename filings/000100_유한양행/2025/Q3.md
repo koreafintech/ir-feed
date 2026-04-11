@@ -1,0 +1,299 @@
+```yaml
+---
+title: "유한양행 2025년 3분기 실적발표"
+company: "유한양행"
+ticker: ""
+ticker_us: ""
+english_name: ""
+doc_type: "실적발표"
+publish_date: "2025-01-01"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-19T12:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "21,866.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "1,043.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "1,853.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "32,209.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "8,586.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "23,622.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_consolidated:
+    value: "570,014"
+    unit: "백만원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -1.5%, 전년동기 대비 -4.8%"
+  
+  revenue_separate:
+    value: "551,126"
+    unit: "백만원"
+    basis: "별도"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -0.9%, 전년동기 대비 -5.8%"
+  
+  operating_profit_consolidated:
+    value: "22,014"
+    unit: "백만원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -55.8%, 전년동기 대비 -53.7%, 영업이익률 3.9%"
+  
+  operating_profit_separate:
+    value: "24,102"
+    unit: "백만원"
+    basis: "별도"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -47.2%, 전년동기 대비 -55.7%, 영업이익률 4.4%"
+  
+  net_income_consolidated:
+    value: "21,170"
+    unit: "백만원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -51.9%, 전년동기 대비 -40.4%"
+  
+  net_income_separate:
+    value: "18,135"
+    unit: "백만원"
+    basis: "별도"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -53.5%, 전년동기 대비 -23.6%"
+  
+  license_revenue:
+    value: "4,305"
+    unit: "백만원"
+    basis: "별도"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 -83.1%, 전년동기 대비 -95.6%"
+
+english_summary:
+  title: "Yuhan Corporation Q3 2025 Earnings Results"
+  one_liner: "Consolidated revenue KRW 570.0B (-4.8% YoY), Operating profit KRW 22.0B (-53.7% YoY)"
+  highlights:
+    - "Consolidated revenue of KRW 570.0 billion, down 4.8% YoY and 1.5% QoQ"
+    - "Operating profit declined significantly by 53.7% YoY to KRW 22.0 billion"
+    - "License revenue dropped 95.6% YoY to KRW 4.3 billion"
+    - "Key R&D pipeline includes Lazertinib for EGFR+ NSCLC and YH25724 dual agonist for MASH"
+  key_figures_en:
+    revenue_consolidated: "KRW 570.0 billion (consolidated, -4.8% YoY)"
+    operating_profit_consolidated: "KRW 22.0 billion (consolidated, -53.7% YoY)"
+    net_income_consolidated: "KRW 21.2 billion (consolidated, -40.4% YoY)"
+    license_revenue: "KRW 4.3 billion (-95.6% YoY)"
+  outlook: "Company continues to advance key R&D pipeline including oncology and metabolic disease programs."
+---
+
+# 유한양행 기업설명회
+
+## 2025. 3Q
+
+본 자료는 회사의 이해를 돕기 위하여 작성되었으며, 본 자료상의 정보는 변경될 수 있습니다.
+
+Copyright © 2025 by YUHAN. All rights Reserved.
+
+---
+
+# 2025년 3분기 실적 분석
+
+## 별도 재무 실적 <!-- 단위: 백만원 -->
+
+| 과목 | 3Q25 | 2Q25 | QoQ | 3Q24 | YoY |
+|------|------|------|------|------|------|
+| **매출액** | 551,126 | 556,169 | -0.9% | 585,167 | -5.8% |
+| 라이선스 수익 | 4,305 | 25,543 | -83.1% | 98,170 | -95.6% |
+| **매출원가** | 399,758 | 375,014 | 6.6% | 355,086 | 12.6% |
+| 매출원가율 | 72.5% | 67.4% | 5.1%p | 60.7% | 11.8%p |
+| R&D 비용 | 45,511 | 54,446 | -16.4% | 90,266 | -49.6% |
+| 광고선전비 | 15,127 | 18,846 | -19.7% | 21,093 | -28.3% |
+| **영업이익** | 24,102 | 45,628 | -47.2% | 54,466 | -55.7% |
+| **당기순이익** | 18,135 | 39,000 | -53.5% | 23,729 | -23.6% |
+
+<!-- 매출액 감소 주요 원인: 라이선스 수익 급감(-95.6% YoY) -->
+<!-- 매출원가율 상승으로 수익성 악화: 72.5% vs 60.7%(전년동기) -->
+
+### 매출액 추이 (단위: 백만원)
+
+[차트: 매출액 추이]
+- 3Q25: 551,126백만원 (별도 기준)
+- 2Q25: 556,169백만원 (별도 기준)
+- 3Q24: 585,167백만원 (별도 기준)
+- 영업이익률: 4.4% → 8.2% → 9.3% <!-- 영업이익률 지속 하락 추세 -->
+
+## 연결 재무 실적 <!-- 단위: 백만원 -->
+
+| 과목 | 3Q25 | 2Q25 | QoQ | 3Q24 | YoY |
+|------|------|------|------|------|------|
+| **매출액** | 570,014 | 578,987 | -1.5% | 598,785 | -4.8% |
+| **영업이익** | 22,014 | 49,861 | -55.8% | 47,578 | -53.7% |
+| **당기순이익** | 21,170 | 44,001 | -51.9% | 35,542 | -40.4% |
+
+<!-- 연결 기준 매출액은 별도 기준보다 18,888백만원 높음 (자회사 매출 포함) -->
+
+### 매출액 추이 (단위: 백만원)
+
+[차트: 연결 매출액 추이]
+- 3Q25: 570,014백만원 (연결 기준)
+- 2Q25: 578,987백만원 (연결 기준)
+- 3Q24: 598,785백만원 (연결 기준)
+- 영업이익률: 3.9% → 8.6% → 7.9% <!-- 연결 영업이익률이 별도보다 낮음 -->
+
+---
+
+# 2025년 3분기 사업부 및 주요 품목 실적
+
+## 분기별 사업부 실적 (별도기준) <!-- 단위: 백만원 -->
+
+| 구분 | 3Q25 | 2Q25 | QoQ | 3Q24 | YoY |
+|------|------|------|------|------|------|
+| **비처방** | 60,788 | 57,430 | 5.8% | 52,867 | 15.0% |
+| **약품** | 296,817 | 287,652 | 3.2% | 294,980 | 0.6% |
+| 사업 소계 | 357,605 | 345,082 | 3.6% | 347,847 | 2.8% |
+| **헬스케어사업** | 52,186 | 68,831 | -24.2% | 67,430 | -22.6% |
+| **해외사업** | 135,022 | 114,785 | 17.6% | 70,067 | 92.7% |
+| **라이선스 수익** | 4,305 | 25,543 | -83.1% | 98,170 | -95.6% |
+| 기타(인터, 수탁 등) | 2,008 | 1,928 | 4.1% | 1,653 | 21.5% |
+| **매출액** | **551,126** | **556,169** | **-0.9%** | **585,167** | **-5.8%** |
+
+<!-- 해외사업 급성장 92.7% YoY, 라이선스 수익 급감으로 상쇄 -->
+<!-- 비처방 부문 성장세 지속 15.0% YoY -->
+
+## 주요 품목 실적 <!-- 단위: 백만원, 3Q25 누계 -->
+
+| 구분 | 품목 | 3Q25 누계 | YoY | 3Q24 누계 |
+|------|------|----------|------|----------|
+| **비처방** | 안티푸라민(수원질) | 26,719 | 2.5% | 26,058 |
+| | 웰레나(두산군) | 18,823 | -17.8% | 22,897 |
+| | 마그니(영양제) | 15,675 | 4.3% | 15,033 |
+| | 비판텐(상처치료제) | 12,512 | - | - |
+| | 비타민비(영양제) | 11,803 | 21.8% | 9,689 |
+| **약품** | 자디왕(당뇨병) | 75,217 | -9.9% | 83,484 |
+| | 로수바리브(고지혈증) | 67,447 | 16.8% | 57,739 |
+| | 트윈스타(고혈압) | 64,254 | -7.3% | 69,323 |
+| | 비리어드(B형간염) | 54,271 | -2.2% | 55,507 |
+| | 트라젠타(당뇨병) | 52,685 | -25.9% | 71,063 |
+| | 빅터비(HIV) | 52,569 | 3.6% | 50,752 |
+| | 베몰리디(B형간염) | 49,897 | 9.5% | 45,565 |
+| | 글리벡(백혈병) | 39,571 | 5.9% | 37,382 |
+| | 코푸시럽/청(호흡기) | 24,626 | -27.4% | 33,936 |
+| | 페마라(유방암) | 19,410 | 18.5% | 16,376 |
+
+<!-- 당뇨병 치료제(자디왕, 트라젠타) 매출 감소세, 고지혈증 치료제 성장 -->
+
+---
+
+# YUHAN Key R&D Pipeline
+
+| Section | Drug | Indication | Preclinical | Phase I | Phase II | Phase III | Approval | Originator | Licensee |
+|---------|------|-----------|-------------|---------|---------|----------|----------|-----------|----------|
+| **Oncology** | Lazertinib 3rd gen. EGFR TKI | EGFR+ NSCLC | ✓ | 1L/2L mono (Korea) & combo 1L + Amivantamab (Global) 2L + Amivantamab (Global) | ✓ | ✓ | | GENOSCO | Johnson&Johnson |
+| | YH32367 HER2/4-1BB bsAb | HER2+ solid cancer | ✓ | ✓ | | | | dbl bio | |
+| | YH32364 EGFR/4-1BB bsAb | Solid cancer | ✓ | | | | | dbl bio | |
+| | YH42946 HER2-TKI | Solid cancer | ✓ | | | | | JINTS BIO | |
+| | YH44529 SOS1 | Solid cancer | ✓ | | | | | Cyrus | |
+| **CVRM** | YH25724 FGF21/GLP-1 | MASH | ✓ | ✓ | | | | | |
+| | YH35995 GCS inhibitor | LSD¹ | ✓ | | | | | GC Biopharma | |
+| **Immunology, GI & Others** | YH35324 IgE Trap | Allergic diseases | ✓ | ✓ | | | | GTi Innovation | |
+| | SB-01 TGFβ | DDD² | ✓ | | | | | EnsoBio | SpineBiopharma |
+| | PCS12852 5-HT4R agonist | Gastroparesis | ✓ | | | | | Process Pharmaceuticals | |
+
+<!-- 핵심 파이프라인: Lazertinib(항암), YH25724(MASH) -->
+
+¹Lysosomal storage disease (LSD)  ²Degenerative disc disease (DDD)
+
+---
+
+# YH25724
+
+## a novel long-acting FGF21/GLP-1 dual agonist
+
+[이미지: YH25724 분자구조 다이어그램]
+
+GLP-1 variant와 FGF21 variant가 Ig Fc에 결합된 구조를 보여주는 과학적 다이어그램
+
+<!-- MASH(대사기능이상 관련 지방간염) 치료 목적의 이중 작용기전 신약 -->
+
+---
+
+# YH25724: a novel long-acting FGF21/GLP-1 dual agonist
+
+## 분자 구조 설명
+
+[이미지: GLP-1 variant, Ig Fc, F
+
+
+---
+
+## DART 연결재무제표 (유한양행, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 21,866.4 | DART |
+| 영업이익 | 1,043.7 | DART |
+| 당기순이익 | 1,853.2 | DART |
+| 자산총계 | 32,209.3 | DART |
+| 부채총계 | 8,586.4 | DART |
+| 자본총계 | 23,622.8 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

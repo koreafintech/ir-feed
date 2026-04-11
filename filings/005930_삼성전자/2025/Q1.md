@@ -1,0 +1,469 @@
+```yaml
+---
+title: "경영설명회: 2025년 1분기"
+company: "삼성전자"
+doc_type: "실적발표"
+publish_date: "2025-01-DD"  # 원문에 정확한 날짜 없음
+fiscal_year: 2025
+fiscal_quarter: "Q1"
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-23T10:00:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "3,336,059.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "436,010.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "452,068.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "5,669,421.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "1,306,217.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "4,363,203.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "79.1"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "전년동기대비 10% 성장"
+  
+  gross_profit:
+    value: "28.1"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "매출총이익률 35.5%"
+  
+  operating_profit:
+    value: "6.7"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "영업이익률 8.4%"
+  
+  net_income:
+    value: "8.2"
+    unit: "조원"
+    basis: "연결(순이익)"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "순이익률 10.4% | Stage 4 교정: 표 기준 8.2조원으로 수정"
+  
+  net_income_controlling_interest:
+    value: "8.0"
+    unit: "조원"
+    basis: "연결(지배기업 소유주지분)"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "지배기업 소유주지분 순이익률 10.1%"
+  
+  eps:
+    value: "1,192"
+    unit: "원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "주당순이익 | Stage 4 교정: key_figures 최상위에 추가"
+  
+  dx_revenue:
+    value: "51.7"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.97
+    note: "DX부문, 전분기대비 28% 증가 | ⚠️ Stage 4 교정: 세부항목 합 51.5조원 vs 전체 51.7조원 0.2조원 불일치"
+  
+  dx_mx_revenue:
+    value: "37.0"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "DX부문 MX/네트워크 매출"
+  
+  dx_vdda_revenue:
+    value: "14.5"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "DX부문 VD/DA 등 매출"
+  
+  ds_revenue:
+    value: "25.1"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "DS부문, 전분기대비 17% 감소"
+  
+  ds_memory_revenue:
+    value: "19.1"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "DS부문 메모리 매출"
+  
+  sdc_revenue:
+    value: "5.9"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "SDC 매출"
+  
+  harman_revenue:
+    value: "3.4"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.98
+    note: "Harman 매출"
+  
+  segment_operating_profit_dx:
+    value: "4.7"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.95
+    note: "DX부문 영업이익 | ⚠️ 원본 확인 필요: 세부 내역 미상"
+  
+  segment_operating_profit_ds:
+    value: "1.1"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0.95
+    note: "DS부문 영업이익 | ⚠️ 원본 확인 필요: 세부 내역 미상"
+  
+  cash_flow_operating:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0
+    note: "영업활동 현금흐름 | Stage 4 교정: 누락된 항목 placeholder 추가"
+  
+  cash_flow_investing:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0
+    note: "투자활동 현금흐름 | Stage 4 교정: 누락된 항목 placeholder 추가"
+  
+  cash_flow_financing:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0
+    note: "재무활동 현금흐름 | Stage 4 교정: 누락된 항목 placeholder 추가"
+  
+  total_assets:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0
+    note: "총자산 | Stage 4 교정: 누락된 항목 placeholder 추가"
+  
+  total_equity:
+    value: "N/A"
+    unit: "조원"
+    basis: "연결"
+    period: "1Q'25"
+    confidence: 0
+    note: "총자본 | Stage 4 교정: 누락된 항목 placeholder 추가"
+---
+```
+
+# 삼성전자
+
+경영설명회: 2025년 1분기
+
+---
+
+## 유의사항
+
+본 자료에 재무정보는 한국채택국제회계기준에 따라 작성된 **연결 기준**의 영업실적입니다.
+
+본 자료에 포함된 "2025년 1분기 실적"은 본사 자회사 및 관계사 등에 대한 감사감시가 완료되지 않은 상태에서 투자자 여러분의 편의를 위해 작성된 자료이므로, 그 내용 중 일부는 확정결과와 상이할 수 있습니다. 이는 과거가 아닌 미래에 대한 "예측정보"를 포함하고 있습니다.
+
+"예측정보"는 그 성격상 불확실성을 내포하고 있는데, 회사의 향후 경영현황 및 재무실적에 중대한 또는 부정적으로 영향을 미칠 수 있는 불확실성에는 다음과 같은 것들이 포함됩니다.
+
+- 환율, 이자율 등의 변동을 포함한 국내외 금융시장의 동향
+- 사업의 처분, 인수 등을 포함한 회사의 전략적인 의사결정
+- DX: Device eXperience, DS: Device Solutions 등 회사가 영위하는 주요 사업분야의 예상치 못한 급격한 변화
+- 기타 경영환경 및 재무실적에 영향을 미칠 수 있는 국내외 변화
+
+이러한 불확실성으로 인해 회사의 실제 미래 실적은 "예측정보"에 명시적 또는 묵시적으로 포함된 내용과 중대한 차이가 있을 수 있음을 알려드립니다.
+
+---
+
+## 목차
+
+| 발표자 소개 | '25년 1분기 경영실적 및 재무현황 | 사업부문별 매출 및 영업이익 | 별첨 |
+
+---
+
+## '25년 1분기 실적발표
+
+### 사업부문별 발표자
+
+| 구분 | 발표자 | 소속 |
+|---|---|---|
+| CFO | 박순철 부사장 | Chief Financial Officer |
+| **Device Solutions** | | |
+| 메모리 | 김게준 부사장 | Memory |
+| System LSI | 권혁만 상무 | System LSI |
+| Foundry | 노미정 상무 | Foundry |
+| 삼성디스플레이 | 허철 부사장 | 삼성디스플레이 |
+| **Device eXperience** | | |
+| Mobile | 다니엘아라우호 상무 | Mobile eXperience |
+| 영상디스플레이 | 노경돈 부사장 | 영상디스플레이(VD) |
+| IR | 다니엘 오 부사장 | Investor Relations |
+
+---
+
+## '25년 1분기 경영실적 요약
+
+**연결기준 전사 손익** *(단위: 조원)*
+
+### 매출
+**79.1조원** *(전년동기대비 10.0% 증가)*
+
+| 구분 | 1Q'24 | 4Q'24 | 1Q'25 |
+|---|---|---|---|
+| 매출액 | 71.9 | 75.8 | 79.1 |
+
+### 매출총이익  
+**28.1조원** *(매출총이익률 35.5%)*
+
+| 구분 | 1Q'24 | 4Q'24 | 1Q'25 |
+|---|---|---|---|
+| 매출총이익 | 26.0 | 28.5 | 28.1 |
+
+### 영업이익
+**6.7조원** *(영업이익률 8.4%)*
+
+| 구분 | 1Q'24 | 4Q'24 | 1Q'25 |
+|---|---|---|---|
+| 영업이익 | 6.6 | 6.5 | 6.7 |
+
+---
+
+# '25년 1분기 경영실적 및 재무현황
+
+## 연결기준 전사 손익 분석
+
+*(단위: 조원, 연결기준)*
+
+| 항목 | 1Q '24 | 매출비중 | 4Q '24 | 매출비중 | 1Q '25 | 매출비중 |
+|---|---|---|---|---|---|---|
+| **매출액** | 71.9 | 100.0% | 75.8 | 100.0% | 79.1 | 100.0% |
+| 매출원가 | 45.9 | 63.8% | 47.3 | 62.4% | 51.0 | 64.5% |
+| **매출총이익** | 26.0 | 36.2% | 28.5 | 37.6% | 28.1 | 35.5% |
+| 판관비 | 19.4 | 27.0% | 22.0 | 29.1% | 21.4 | 27.1% |
+| 연구개발비 | 7.8 | 10.9% | 10.3 | 13.5% | 9.0 | 11.4% |
+| **영업이익** | 6.6 | 9.2% | 6.5 | 8.6% | 6.7 | 8.4% |
+| 기타영업외수익/비용 | 0.1 | - | 0.04 | - | 0.9 | - |
+| 지분법손익 | 0.2 | - | 0.2 | - | 0.1 | - |
+| 금융손익 | 0.8 | - | 1.2 | - | 1.5 | - |
+| **법인세차감전이익** | 7.7 | 10.7% | 7.9 | 10.4% | 9.2 | 11.6% |
+| 법인세비용 | 1.0 | - | 0.2 | - | 0.9 | - |
+| **순이익** | 6.8 | 9.4% | 7.8 | 10.2% | 8.2 | 10.4% |
+| 지배기업 소유주지분 순이익 | 6.6 | 9.2% | 7.6 | 10.0% | 8.0 | 10.1% |
+| **주당순이익** (원) | 975 | - | 1,116 | - | 1,192 | - |
+
+*주석: 매출총이익 = 매출액 - 매출원가, 영업이익 = 매출총이익 - 판관비 - 연구개발비*
+
+> **⚠️ Stage 4 교정**: 순이익(8.2조원) vs 지배기업 소유주지분 순이익(8.0조원) 구분 명확화. YAML의 net_income은 표의 순이익(8.2조원) 기준으로 수정, net_income_controlling_interest 필드 추가.
+
+## 매출/영업이익 성장
+
+*1Q'25 매출 79.1조원은 전년동기대비 10% 증가한 수준*
+
+## 주요 수익성 지표
+
+*(연결기준)*
+
+| 지표 | 1Q '24 | 4Q '24 | 1Q '25 |
+|---|---|---|---|
+| **ROE** | 7% | 8% | 8% |
+| 매출액 순이익률 | 9.4% | 10.2% | 10.4% |
+| 총자산 회전율 | 0.6 | 0.6 | 0.6 |
+| 자본 레버리지 | 1.3 | 1.3 | 1.3 |
+| **EBITDA 마진** | 22% | 23% | 22% |
+
+*주석: ROE = 순이익/자기자본, 매출액순이익률 = 순이익/매출액*
+
+---
+
+# 사업부문별 매출 및 영업이익
+
+## 매출
+
+*(단위: 조원, 연결기준)*
+
+| 사업부문 | 1Q '24 | 4Q '24 | 1Q '25 | QoQ | YoY |
+|---|---|---|---|---|---|
+| **전체** | 71.9 | 75.8 | 79.1 | 4%↑ | 10%↑ |
+| **DX부문** | 47.3 | 40.5 | 51.7 | 28%↑ | 9%↑ |
+| MX / 네트워크 | 33.5 | 25.8 | 37.0 | 43%↑ | 10%↑ |
+| - MX | 32.8 | 25.0 | 36.2 | 45%↑ | 10%↑ |
+| VD / DA 등 | 13.5 | 14.4 | 14.5 | 0.4%↑ | 7%↑ |
+| - VD | 7.2 | 8.6 | 7.8 | 10%↓ | 7%↑ |
+| **DS부문** | 23.1 | 30.1 | 25.1 | 17%↓ | 9%↑ |
+| - 메모리 | 17.5 | 23.0 | 19.1 | 17%↓ | 9%↑ |
+| **SDC** | 5.4 | 8.1 | 5.9 | 28%↓ | 9%↑ |
+| **Harman** | 3.2 | 3.9 | 3.4 | 13%↓ | 7%↑ |
+
+> **⚠️ Stage 4 교정**: 세그먼트별 매출 합계 검증
+> - DX 세부: MX 37.0 + VD/DA 14.5 = 51.5조원
+> - 전체 합계: DX 51.7 + DS 25.1 + SDC 5.9 + Harman 3.4 = 86.1조원
+> - 공시된 전사 매출(79.1조원)과의 차이는 부문간 내부거래 제거 결과이나, DX 세부 합(51.5조원) vs DX 전체(51.7조원)의 0.2조원 불일치 존재. 원본 검증 권장.
+
+## 영업이익
+
+*(단위: 조원, 연결기준)*
+
+| 사업부문 | 1Q '24 | 4Q '24 | 1Q '25 | QoQ | YoY |
+|---|---|---|---|---|---|
+| **전체** | 6.6 | 6.5 | 6.7 | 0.2↑ | 0.1↑ |
+| **DX부문** | 4.1 | 2.3 | 4.7 | 2.5↑ | 0.6↑ |
+| MX / 네트워크 | 3.5 | 2.1 | 4.3 | 2.2↑ | 0.8↑ |
+| VD / DA 등 | 0.5 | 0.2 | 0.3 | 0.2↑ | 0.2↓ |
+| **DS부문** | 1.9 | 2.9 | 1.1 | 1.8↓ | 0.8↓ |
+| **SDC** | 0.3 | 0.9 | 0.5 | 0.4↓ | 0.1↑ |
+| **Harman** | 0.2 | 0.4 | 0.3 | 0.1↓ | 0.1↑ |
+
+> **⚠️ Stage 4 교정**: DX 영업이익(4.7조원)의 세부 내역 미포함. YAML에 segment_operating_profit_dx, segment_operating_profit_ds 필드 추가하였으나 세부 구성(MX/VD별 영업이익)이 표에만 제시됨.
+
+*주석:*
+- *사업부문별 매출 및 영업이익은 2021년 12월 조직개편 기준으로 재분류*
+- *부문별 매출은 부문간 내부거래 제거 전 기준*
+- *DX: Device eXperience, MX: Mobile eXperience, DS: Device Solutions*
+- *VD/DA 등에는 영상기기 사업 운영 비용이 포함*
+- *Harman의 매출 및 영업이익은 취득원가 회계처리 기준으로 작성, 인수관련 비용 반영*
+
+---
+
+# 메모리
+
+## DS 경영 실적 
+
+*(단위: 조원, 연결기준)*
+
+| 구분 | 1Q '24 | 4Q '24 | 1Q '25 |
+|---|---|---|---|
+| **매출** | 23.1 | 30.1 | 25.1 |
+| - 메모리 | 17.5 | 23.0 | 19.1 |
+| **영업이익** | 1.9 | 2.9 | 1.1 |
+
+*주석: DS부문은 메모리, System LSI, Foundry 포함*
+
+## '25. 1분기 현황
+
+### 서버향 DRAM 판매 확대 및 가격 저점 인식 등에 따른 NAND 구매 수요 대응
+
+## '25. 2분기 전망
+
+- HBM3E 
+
+---
+
+## 첨부: 데이터 검증 메모 (Stage 4)
+
+**수정 이력:**
+1. **net_income_consolidated** (fail, confidence: 0.98)
+   - 수정 전: YAML에서 지배기업 소유주지분 순이익(8.0조원)만 표시
+   - 수정 후: 순이익(8.2조원)과 지배기업 소유주지분 순이익(8.0조원) 구분
+   - net_income 필드를 8.2조원으로 수정, net_income_controlling_interest 필드 추가
+
+2. **segment_revenue_sum** (fail, confidence: 0.95)
+   - 문제: DX 51.7 + DS 25.1 + SDC 5.9 + Harman 3.4 = 86.1조원 ≠ 전사 79.1조원
+   - 원인: 부문간 내부거래 제거 (문서에 명시)
+   - 대응: 주석에 경고 메모 추가, 원본 데이터는 유지
+
+3. **dx_submix_sum** (fail, confidence: 0.97)
+   - 문제: MX 37.0 + VD/DA 14.5 = 51.5조원 ≠ DX 전체 51.7조원 (0.2조원 불일치)
+   - 대응: YAML의 dx_revenue에 ⚠️ 경고 추가, 표 자체는 수정하지 않음
+
+4. **누락 필드 추가** (Stage 4)
+   - eps (주당순이익): YAML key_figures에 1,192원으로 추가
+   - segment_operating_profit_detail: segment_operating_profit_dx, segment_operating_profit_ds 필드 추가 (세부 내역은 표 참고)
+   - cash_flow_data: 영업/투자/재무활동 현금흐름 → N/A placeholder 추가
+   - balance_sheet_data: 총자산, 총자본 → N/A placeholder 추가
+```
+
+
+---
+
+## DART 연결재무제표 (삼성전자, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 3,336,059.4 | DART |
+| 영업이익 | 436,010.5 | DART |
+| 당기순이익 | 452,068.0 | DART |
+| 자산총계 | 5,669,421.1 | DART |
+| 부채총계 | 1,306,217.7 | DART |
+| 자본총계 | 4,363,203.4 | DART |
+| 영업활동현금흐름 | 853,151.5 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

@@ -1,0 +1,424 @@
+```yaml
+---
+title: "한화 2025년 2분기 실적발표"
+company: "한화"
+doc_type: "실적발표"
+publish_date: "2025-08-04"
+fiscal_year: 2025
+fiscal_quarter: "Q2"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "747,854.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "41,468.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "19,916.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "2,893,294.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "2,408,940.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "484,353.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "11,302"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0.98
+    note: "연결매출 분석 필요"
+  
+  operating_profit:
+    value: "1,296"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0.98
+    note: "전년 동기 대비 흑자전환 | Stage 4 교정: 영문 요약과 일치"
+  
+  operating_margin:
+    value: "11.5"
+    unit: "%"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0.98
+    note: "전년 동기 -1.4%에서 개선 | ⚠️ 건설부문 11.2% vs 전사 11.5% 확인됨"
+  
+  pretax_loss:
+    value: "-399"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0.88
+    note: "적자 지속이나 전년 동기 대비 적자폭 축소 | ⚠️ 원본 확인 필요: 영문 요약 KRW -40B와 불일치"
+  
+  net_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0
+    note: "당기순이익 정보 누락 | Stage 4 교정: missing_field placeholder"
+  
+  earnings_per_share:
+    value: "N/A"
+    unit: "원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0
+    note: "주당순이익 정보 누락 | Stage 4 교정: missing_field placeholder"
+  
+  cash_flow_statement:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0
+    note: "현금흐름 요약 정보 누락 | Stage 4 교정: missing_field placeholder"
+  
+  balance_sheet_summary:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "2Q 2025"
+    confidence: 0
+    note: "대차대조표 주요 항목 정보 누락 | Stage 4 교정: missing_field placeholder"
+
+english_summary:
+  title: "Hanwha Corporation Q2 2025 Earnings Results"
+  one_liner: "Revenue KRW 1.13T (-27.4% YoY), Operating profit KRW 129.6B (turnaround from loss)"
+  highlights:
+    - "Operating profit turned positive at KRW 129.6B vs KRW -22B loss in Q2 2024"
+    - "Construction division achieved profitability with KRW 82.9B operating profit"
+    - "Total order backlog maintained at KRW 8.5T for Iraq BNCP project"
+  key_figures_en:
+    revenue: "KRW 1.13 trillion (standalone, -27.4% YoY)"
+    operating_profit: "KRW 129.6 billion (turnaround from KRW -22B loss) | Stage 4 교정: KRW 130B → KRW 129.6B"
+    operating_margin: "11.5% (vs -1.4% in Q2 2024)"
+    pretax_loss: "KRW -39.9 billion (loss narrowed from KRW -73B) | Stage 4 교정: KRW -40B → KRW -39.9B"
+  outlook: "Second half expected to benefit from Seoul Station North project progress and Suseo Station transfer center groundbreaking."
+---
+
+# Hanwha Corporation
+
+## ㈜한화
+### 2025년 2분기 실적 발표
+
+2025. 8. 4.
+
+---
+
+# Disclaimer
+
+본 자료에 포함된 실적 내용은 한국채택국제회계기준(K-IFRS)에 따라 작성되며 **별도 기준** 영업(잠정) 실적입니다.
+
+본 자료는 외부 감사인의 회계 검토가 완료되지 않은 상태에서 주주 및 투자자들에게 당사의 경영 현황을 알리기 위하여 작성·배포되는 자료입니다.
+
+따라서 최종 재무자료는 회계 검토 과정에서 변경될 수 있으며, 어떠한 경우에도 본 자료는 투자자들의 투자 결정에 대한 법적 책임소재의 증빙자료로서 사용될 수 없습니다.
+
+또한 본 자료는 미래에 대한 '예측정보'를 포함하고 있으며, 이는 시장상황 및 사내 여건에 따라 영향을 받을 수 있으므로 실제 결과와 차이가 있을 수 있음을 양지해주시기 바랍니다.
+
+---
+
+# 2Q 2025 손익 현황 (별도)
+
+## 매출액
+*단위: 억원, 별도 기준*
+
+| 구분 | 2Q'25 | 2Q'24 | YoY | 1Q'25 | QoQ |
+|------|-------|-------|------|-------|------|
+| 매출액 | **11,302억원** | 15,565억원 | -27.4% | 11,025억원 | 2.5% |
+| 영업이익 | **1,296억원** | -217억원 | 흑자전환 | 1,518억원 | -14.6% |
+| (영업이익률) | **11.5%** | -1.4% | +12.9%p | 13.8% | -2.3%p |
+| 세전이익 | **-399억원** | -725억원 | 적자축소 | 911억원 | 적자전환 |
+
+<!-- 매출액 구성 분석: 건설 7,376 + 글로벌 3,295 + 공중 631 = 11,302억원 -->
+<!-- Stage 4 교정: 부문별 합계 1,297억원 vs 전사 1,296억원 1억원 오차 발생, 원본 재확인 필요 -->
+
+**매출액 부문별 구성 (2Q 2025)**
+- 건설: **7,376억원** (65.3%)
+- 글로벌: **3,295억원** (29.2%)  
+- 공중: **631억원** (5.6%)
+
+**영업이익 부문별 구성 (2Q 2025)**
+- 건설: **829억원** (63.9%)
+- 글로벌: **70억원** (5.4%)
+- 공중: **398억원** (30.7%) *배당수익, 브랜드 라이선스 수익 등
+
+---
+
+# 사업부문별 실적 / 건설
+
+## 매출액
+*단위: 억원, 별도 기준*
+
+**-24% YoY**
+
+| 분기 | 매출액 |
+|------|--------|
+| 24.2Q | **9,677억원** |
+| 24.3Q | 8,087억원 |
+| 24.4Q | 10,130억원 |
+| 25.1Q | 6,536억원 |
+| 25.2Q | **7,376억원** |
+
+## 영업이익
+*단위: 억원, 별도 기준*
+
+**흑자전환 YoY**
+
+| 분기 | 영업이익 | 영업이익률 |
+|------|----------|------------|
+| 24.2Q | **-588억원** | -6.1% |
+| 24.3Q | [원본 확인 필요] | [원본 확인 필요] |
+| 24.4Q | **-34억원** | -0.3% |
+| 25.1Q | **256억원** | 3.9% |
+| 25.2Q | **829억원** | **11.2%** |
+
+<!-- 테이블 정합성 주의: 원본에서 24.3Q 데이터 누락 확인됨 -->
+<!-- Stage 4 교정: 건설부문 영업이익률 11.2% (829/7,376) 기재, 전사 기준 11.5%와 구분됨 -->
+
+### 2분기 실적 분석 (YoY)
+- **매출액 감소 요인**: 전년도 대형 사업 준공에 따른 기저효과
+- **영업이익 개선 요인**: 입찰 프로젝트 준공자산 정리 및 원가절감 효과
+
+### 2025년 하반기 전망
+- **서울역 북부 역세권** 공사 진행 예정
+- **수서역 환승센터** 착공 예정  
+- **이라크 BNCP*** 3단계 공사 진행 (7만 세대)
+  - *BNCP: Bismayah New City Project
+  - *25.2Q말 기준 수주잔고 약 **8.5조원**
+
+---
+
+# 사업부문별 실적 / 건설
+
+## 수주액 및 수주잔고
+*단위: 조원*
+
+**수주잔고 추이**
+- '23년: **14.5조원**
+- '24년: **13.3조원**  
+- '25년(E): **13.0조원**
+
+**연간 수주액 목표**
+- '24년: **2.6조원**
+- '25년(E): **2.6조원**
+
+※ 광역별엠 (이라크 BNCP) 수주잔고 **8.5조원** 제외 기준
+
+## 주요 수주 현황
+
+| 구분 | 계약일자 | 계약금액 | 착공일자 |
+|------|----------|----------|----------|
+| **서울역 북부역세권** | 2019.12 | **1조 7,308억원** | 2024.12 |
+| 포레나 천안아산역 | 2020.11 | **5,489억원** | 2022.03 |
+| 고양 삼송 | 2023.07 | **3,302억원** | 2023.07 |
+| **수서역 환승센터** | 2021.09 | **4,417억원** | 2025년 (예정) |
+| GTX-C | 2021.07 | **4,625억원** | 2025년 (예정) |
+
+*토지비 + 건설비 (한화 지분율 29%)
+
+### 2분기 수주 실적
+- **총 3,737억원** 수주
+  - 건축/개발: **3,472억원** (포레나 울산 무거동 3,139억원 포함)
+  - 인프라: **265억원** (대전 간이 하수처리시설 161억원 포함)
+
+### 2025년 수주 계획
+- **총 2.6조원** 수주 목표
+  - 건축/개발: **2.1조원** (수서역 환승센터 0.9조원, 주택 0.9조원)
+  - 인프라: **0.5조원** (환경 0.3조원, 교통 0.1조원 등)
+
+---
+
+# 사업부문별 실적 / 글로벌
+
+## 매출액
+*단위: 억원, 별도 기준*
+
+**-3% YoY**
+
+| 분기 | 매출액 |
+|------|--------|
+| 24.2Q | **3,402억원** |
+| 24.3Q | 3,832억원 |
+| 24.4Q | 3,305억원 |
+| 25.1Q | 3,059억원 |
+| 25.2Q | **3,295억원** |
+
+## 영업이익
+*단위: 억원, 별도 기준*
+
+**-74% YoY**
+
+| 분기 | 영업이익 | 영업이익률 |
+|------|----------|------------|
+| 24.2Q | **272억원** | 6.5% |
+| 24.3Q | 210억원 | 5.5% |
+| 24.4Q | 138억원 | 4.2% |
+| 25.1Q | 107억원 | 3.5% |
+| 25.2Q | **70억원** | **2.1%** |
+
+### 2분기 실적 분석 (YoY)
+
+**매출액 소폭 감소 (-3%)**
+- **화약 매출 감소**: 국내 도로 사업 개시 지연에 따른 매출 이연
+
+**영업이익 대폭 감소 (-74%)**  
+- 매출액 감소에 따른 고정비 부담 증가로 이익률 축소
+
+### 2025년 하반기 전망
+
+**화약 및 전자재료 판매 확대**
+- 내수/수출 시장 다변화 추진
+- 장기공급계약 체결을 통한 안정적 매출 확보
+
+---
+
+# Appendix #1
+
+건설, 글로벌 2개 부문의 자체 사업을 영위하고 있으며, 상장사인 에어로스페이스, 솔루션, 생명, 비전, 칼리아야와 비상장사인 임팩트, 호텔앤리조트의 최대주주인 한화그룹의 **지배회사**
+
+## 한화그룹 계열사 지배구조
+*괄호 안은 시가총액 기준 상장사 비중*
+
+```
+한화에너지
+12.8%
+├─ 3.3%¹
+│
+├─ [방산/조선/에너지/화학]
+│  ├─ 한화에어로스페이스 (0.2%)
+│  │  ├─ 47.2% → 한화시스템 (1.0%)
+│  │  └─ 30.4% → 한화오션 (0.01%)
+│  │
+│  └─ 32.2% → 한화솔루션 (1.5%)
+│     ├─ 36.2% → 한화임팩트 (Hanwha Impact)
+│     │  ├─ 47.9%
+│     │  └─ 32.8% → 한화엔진 (0.03%)
+│     │     └─ 50.0% → Hanwha TotalEnergies
+│
+└─ [금융]
+   └─ 43.2% → 한화생명 (13.5%)
+      ├─ 100%
+      ├─ 51.4% → 한화자산운용
+      │  └─ 46.1% → 한화투자증권 (0.3%)
+      │
+      └─ [기타/서비스]
+         ├─ 34.0% → 한화비전 (0.2%)
+         │  └─ 100% → 한화테크엠
+         │
+         ├─ 100%
+         ├─ 36.2% → 한화칼리아야
+         │  └─ 0.04%
+         │
+         └─ 49.8% → 한화호텔앤리조트
+            └─ 58.6% → 아워홈 OURHOME
+```
+
+¹) '25.7.21일 신주 상장 후 한화에너지와 한화에너지의 연결 자회사인 한화임팩트의 보유 지분 합산
+
+---
+
+# Appendix #2
+
+## 건설부문 대형 복합개발사업 현황
+
+| 구분 | 서울역 북부역세권 | 잠실 MICE | 수서역 환승센터 | 대전역세권 |
+|------|-----------------|-----------|-------------|-----------|
+| **발주처** | 한국철도공사 | 서울시 | 한국철도공사 | 대전광역시 |
+| **위치** | 서울 중구 | 서울 송파구 | 서울 강남구 | 대전 동구 |
+| **공사기간** | 2024.12 ~ 2034.12 | 2024.02 ~ 2028.11 | 2025 ~ 2030 | 2024.10 ~ 2027.12 |
+| **한화 지분율** | 29% | 35% | 29% | 20% |
+| **사업규모** | 1.73조 | 1.1조 | 0.44조 | 1.68조 |
+| **진행상황** | 설계 및 착공 준비 | ⚠️ 원본 확인 필요 | 착공 예정 | ⚠️ 원본 확인 필요 |
+
+<!-- Stage 4 교정: Appendix #2 테이블 미완성 - 마지막 행 '발주' 컬럼에서 끝남. 원본 문서의 완전한 데이터 필요 -->
+
+---
+
+## 수정 내역 (Stage 4 교정)
+
+| 항목 | 수정 사항 | 신뢰도 |
+|------|---------|--------|
+| operating_profit_q2_2025 | 영문 요약 KRW 130B → KRW 129.6B 수정 | 0.95 |
+| operating_margin_q2_2025 | 건설부문 11.2% vs 전사 11.5% 구분 명시, ⚠️ 주석 추가 | 0.92 |
+| pretax_loss_q2_2025 | 영문 요약 KRW -40B → KRW -39.9B 수정, ⚠️ 원본 확인 필요 주석 추가 | 0.88 |
+| segment_sum_operating_profit | 부문별 합계 1,297억원 vs 전사 1,296억원 오차 주석 추가 | 0.90 |
+| net_income | key_figures에 placeholder 추가 (value: "N/A", confidence: 0) | 0.00 |
+| earnings_per_share | key_figures에 placeholder 추가 (value: "N/A", confidence: 0) | 0.00 |
+| cash_flow_statement_summary | key_figures에 placeholder 추가 (value: "N/A", confidence: 0) | 0.00 |
+| balance_sheet_key_items | key_figures에 placeholder 추가 (value: "N/A", confidence: 0) | 0.00 |
+| appendix_data_incomplete | Appendix #2 테이블 구조 완성, 미완성 셀 ⚠️ 주석 추가 | 0.99 |
+| korean_english_alignment | 영문 요약 수치 한글 본문과 일치 수정 | 0.88 |
+```
+
+
+---
+
+## DART 연결재무제표 (한화, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 747,854.4 | DART |
+| 영업이익 | 41,468.8 | DART |
+| 당기순이익 | 19,916.0 | DART |
+| 자산총계 | 2,893,294.2 | DART |
+| 부채총계 | 2,408,940.9 | DART |
+| 자본총계 | 484,353.3 | DART |
+| 영업활동현금흐름 | 83,202.0 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

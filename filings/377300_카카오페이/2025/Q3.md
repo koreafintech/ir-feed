@@ -1,0 +1,380 @@
+```yaml
+---
+title: "카카오페이 2025년 3분기 실적발표"
+company: "카카오페이"
+doc_type: "실적발표"
+publish_date: "2025-10-XX"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2025-01-27T14:30:00+09:00"
+
+key_figures:
+  dart_revenue_annual:
+    value: "9,583.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "503.7"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "53,395.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "53,395.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "19,509.1"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  tpv:
+    value: "47.1"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "전년동기대비 +12% 증가"
+  
+  revenue_tpv:
+    value: "13.4"
+    unit: "조원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "전체 TPV의 29% 차지, YoY +8%"
+  
+  revenue:
+    value: "2,383.5"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전년동기대비 +28% 증가, 역대 최고 실적 | Stage 4 교정: 238,350백만원 기준으로 수정"
+  
+  operating_profit:
+    value: "158"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "역대 최고 분기 실적 | ⚠️ 원본 확인 필요: one_liner에서 15.8억원으로 표기되어 10배 불일치 존재"
+  
+  operating_profit_3q24:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q24"
+    confidence: 0
+    note: "비교기준치 누락 | Stage 4 교정: placeholder 추가"
+  
+  net_income:
+    value: "19"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "흑자 전환 | ⚠️ 원본 확인 필요: one_liner에서 1.9억원으로 표기되어 10배 불일치 존재"
+  
+  net_income_3q24:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q24"
+    confidence: 0
+    note: "비교기준치 누락 | Stage 4 교정: placeholder 추가"
+  
+  ebitda:
+    value: "241"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.90
+    note: "비표준 성과지표 | ⚠️ 원본 확인 필요: 본문에서 검증 불가"
+  
+  ebitda_3q24:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q24"
+    confidence: 0
+    note: "비교기준치 누락 | Stage 4 교정: placeholder 추가"
+  
+  financial_revenue:
+    value: "119"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.90
+    note: "금융수익 기록"
+
+english_summary:
+  title: "KakaoPay Q3 2025 Earnings Results"
+  one_liner: "Revenue KRW 238.35B (+28% YoY), Operating profit KRW 158B (record quarterly high) | ⚠️ Stage 4 교정: 본문과 일치하도록 수정"
+  highlights:
+    - "TPV reached KRW 47.1T (+12% YoY), with Revenue TPV at KRW 13.4T (+8% YoY)"
+    - "Financial services revenue share reached 40%, driven by securities and insurance growth"
+    - "Achieved record quarterly operating profit of KRW 158B and positive net income of KRW 19B"
+  key_figures_en:
+    tpv: "KRW 47.1 trillion (consolidated, +12% YoY)"
+    revenue: "KRW 238.35 billion (consolidated, +28% YoY)"
+    operating_profit: "KRW 158 billion (record quarterly high)"
+    net_income: "KRW 19 billion (turnaround to profitability)"
+  outlook: "Strong growth momentum continues with expanding financial services portfolio."
+---
+
+# Q3 2025 카카오페이 실적발표
+
+## 유의사항
+
+본 자료의 2025년 3분기 재무정보는 한국채택국제회계기준에 따라 작성된 실적에 대한 수정치이며, 별도 재무제표를 제외한 모든 재무정보와 영업성과는 종속회사를 포함한 **연결 기준**으로 작성되었습니다.
+
+본 자료는 외부감사인의 감사 검토가 완료되지 않은 상태에서 투자자 편의를 위해 작성된 자료이므로, 내용 중 일부는 최종 검토 과정에서 달라질 수 있습니다.
+
+이에 카카오페이는 본 자료에 서술된 재무정보 및 영업성과의 정확성과 완벽성에 대해 보장하지 않으며, 자료 작성일 현재의 사실을 기준한 내용에 대한 향후 변경에 대한 책임을 지지 않습니다.
+
+---
+
+## 목차
+
+| 항목 | 페이지 |
+|------|--------|
+| Executive Summary | 4 |
+| 1. 거래액(TPV) | 6 |
+| 2. 영업수익(매출) | 7 |
+| 3. 영업비용 | 8 |
+| 4. 손익 | 9 |
+| 5. 주요성과 | 11 |
+| 6. ESG | 17 |
+
+## Appendix
+
+| 항목 | 페이지 |
+|------|--------|
+| 유저활동성지표 | 18 |
+| 재무제표 | 19 |
+
+---
+
+# Executive Summary
+## 3Q 2025 수익성 지표 Highlights
+
+### TPV (Total Payment Volume)
+- 3Q 2025, TPV는 **47.1조원** 기록 (YoY +12%)
+- Revenue TPV는 **13.4조원** 기록 (YoY +8%)
+
+### 매출 (Revenue)
+- 3Q 2025, 매출 **2,383.5억원** 달성 (YoY +28%) | Stage 4 교정: 238,350백만원 기준으로 수정
+- 금융서비스 매출 비중 40% 기록
+
+### 수익성 (Earnings)
+- 3Q 영업이익 **158억원**으로 역대 최고 분기 실적 달성
+- 당기순이익 **19억원**, EBITDA **241억원** 기록
+- 금융수익 **119억원** 기록
+
+### 재무 성과 요약표
+
+**TPV & Revenue TPV** (단위: 조원)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| TPV | 42.2 | 47.1 | +12% |
+| Revenue TPV | 12.4 | 13.4 | +8% |
+
+*주: TPV = 총 거래액, Revenue TPV = 수수료 발생 거래액*
+
+**매출 및 수익성** (단위: 억원)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| 영업수익(매출) | 1,862 | 2,383.5 | +28% |
+| 영업이익 | N/A | 158 | - |
+| 당기순이익 | N/A | 19 | - |
+| EBITDA | N/A | 241 | - |
+
+*주1) EBITDA는 비표준 성과지표*  
+*주2) 금융수익 119억원 별도 기록*  
+*주3) 3Q24 영업이익, 당기순이익, EBITDA는 원본 문서에 비교기준치 누락 | Stage 4 교정: 누락 항목 표시*
+
+---
+
+# Executive Summary
+## 3Q 2025 사업성 지표 Highlights
+
+### DAU (일일활성사용자)
+- DAU는 **656만 명** 기록 (YoY +6%)
+- 전체 MAU 대비 27.8%로 유저 stickiness 증가세 지속
+
+### ATPU (사용자당 평균 거래 수)
+- **75건** 기록 (YoY +43%)
+- 결제, 송금, 보험, 금융증권 등 주요 서비스 영역에서 유저 활동 증가
+
+### ARPU (사용자당 평균 매출)
+- ARPU **10,103원** 기록, 1만원대 돌파 (YoY +33%)
+- 금융서비스 매출 확대가 ARPU 증가에 기여
+
+### 사용자 지표 요약
+
+**DAU** (단위: 만명)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| DAU | 620 | 656 | +6.2% |
+
+**DAU/MAU 비율** (단위: %)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| 비율 | 25.3% | 27.8% | +2.5%p |
+
+**ATPU** (단위: 건)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| ATPU | 53 | 75 | +43% |
+
+**ARPU** (단위: 원)
+
+| 구분 | 3Q24 | 3Q25 | 변화 |
+|------|------|------|------|
+| ARPU | 7,620 | 10,103 | +33% |
+
+*주1) DAU: Daily Active User, MAU: Monthly Active User*  
+*주2) ATPU: Average Transaction Per User, 로그인 유저 거래 건수 기준*  
+*주3) ARPU: Average Revenue Per User, 월간 영업수익을 서비스 MAU로 나누어 산정*
+
+---
+
+# 1. 거래액(TPV)
+
+## 3Q 2025 TPV 성과
+
+- 3Q TPV는 **47.1조원** 기록 (YoY +12%)
+- Revenue TPV는 전체 TPV의 29% 차지, **13.4조원** 기록 (YoY +8%)
+
+## 서비스별 TPV 성장
+
+### 결제서비스 TPV (YoY +14%)
+- **온라인 결제**: YoY +6% 증가
+  - 여행 관련 프로모션 혜택으로 non-captive에서의 거래액 증가
+- **오프라인 결제**: YoY +46% 증가  
+  - 결제 커머스 혜택과 가맹점 서비스의 안정적인 확대 효과
+- **해외결제**: YoY +16% 증가
+  - 여름 성수기 해외여행 대중화에 따른 수요 증가
+
+### 기타 서비스 TPV
+- **대출서비스**: 전월대비 가계대출 규제 강화 여파로 거래액 YoY, QoQ 감소
+- **주식거래액**: YoY +173% 증가한 **34조원**으로 분기 최고 실적 달성
+- **송금서비스**: YoY +13% 증가
+  - 증권 주식 거래 증가로 '내 계좌 송금' 금액 증가
+- **카카오페이 머니**: 송금 잔액 **2조 961억원** 기록, 2조원 돌파
+
+*주1) TPV(Total Payment Volume)는 최종 사용자 거래금이 발생한 총 거래금액*  
+*주2) P2P 거래액은 금융서비스 TPV에서 제외됨*
+
+---
+
+# 2. 영업수익(매출)
+
+## 3Q 2025 매출 성과
+
+- 3Q 영업수익(매출)은 **2,383.5억원** 기록 (YoY +28.0%) | Stage 4 교정: 238,350백만원 기준으로 수정
+- 금융서비스(YoY +72%)와 플랫폼서비스(YoY +69%) 두 자릿수 매출 성장 지속
+- 금융서비스 매출은 송금과 보험서비스의 확장으로 전체 매출의 40%대 유지
+
+## 서비스별 매출 분석
+
+### 결제서비스
+- 오프라인과 결제 커머스 확장을 위한 직접 프로모션 집중으로 YoY +5.5%, QoQ +3.7%
+
+### 금융서비스  
+- 대출 규제 영향에도 불구하고 투자 및 보험 서비스 매출 증가로 YoY +72.0%
+- **투자서비스**: 국내 및 해외 주식 거래액 증가로 YoY +155.4%
+- **보험서비스**: 지속적인 가입자 증가와 신규 상품 출시로 YoY +72.2% 
+- **대출서비스**: 여신 규제로 YoY, QoQ 감소하나, 연체율은 개선되어 안정적 운영
+
+### 플랫폼서비스
+- 광고 및 기타 서비스 성장으로 YoY +69.2% 증가
+
+## 매출 상세 (연결기준, 단위: 백만원)
+
+| 구분 | 3Q24 | 4Q24 | 1Q25 | 2Q25 | 3Q25 | YoY | QoQ |
+|---|---|---|---|---|---|---|---|
+| **영업수익(매출)** | **186,209** | **218,182** | **211,905** | **238,289** | **238,350** | **+28.0%** | **+0.0%** |
+| 결제서비스 | 122,903 | 125,690 | 122,201 | 125,121 | 129,710 | +5.5% | +3.7% |
+| 금융서비스 | 55,046 | 83,989 | 83,157 | 100,310 | 94,662 | +72.0% | △5.6% |
+| 플랫폼서비스 | 8,262 | 8,503 | 9,546 | 12,858 | 13,978 | +69.2% | +8.7% |
+
+*주1) 플랫폼서비스는 광고수익, 충전수수료 등이 포함됨*  
+*주2) Stage 4 교정: 서비스별 매출 합계 129.71 + 94.66 + 13.98 = 238.35억원으로 전체 매출과 일치 확인*
+
+---
+
+# 3. 영업비용
+
+## 3Q 2025 영업비용 현황
+
+- 3Q 영업비용은 **2,225억원** 발생 (YoY +14.9%, QoQ △2.8%)
+- 광고선전비는 오프라인 결제 커머스 확장을 위한 직접 프로모션 집중으로 YoY +44.6%
+- 매출 대비 영업비용 비율 개선으로 수익성 향상
+
+## 주요 비용 항목 분석
+
+### 증가 요인
+- **인건비**: Y
+
+*주) 상세 비용 항목별 분석은 원본 문서 cut-off로 인해 누락 | Stage 4 교정: 누락 항목 표시*
+```
+
+
+---
+
+## DART 연결재무제표 (카카오페이, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 9,583.7 | DART |
+| 영업이익 | 503.7 | DART |
+| 자산총계 | 53,395.8 | DART |
+| 부채총계 | 53,395.8 | DART |
+| 자본총계 | 19,509.1 | DART |
+| 영업활동현금흐름 | 1,186.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

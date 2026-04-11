@@ -1,0 +1,394 @@
+```yaml
+---
+title: "LG유플러스 2025년 3분기 실적발표"
+company: "LG유플러스"
+doc_type: "실적발표"
+publish_date: "2025-11-05"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "154,517.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "8,921.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "5,092.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "196,817.9"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "106,142.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "90,675.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "4,010.8"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "영업수익 기준"
+  service_revenue:
+    value: "3,116.6"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "서비스수익, YoY +4.2%"
+  operating_profit:
+    value: "161.7"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "⚠️ 원본 확인 필요 - 본문에 '1,617억원'으로 표기되어 있으나 실제값은 161.7십억원 (Stage 4 교정). YoY -34.3%, 임시적 인건비 증가 효과"
+  mobile_service_revenue:
+    value: "1,627"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.95
+    note: "추정, YoY +5.2%"
+  net_income:
+    value: "49.1"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "당기순이익, YoY -63.6%"
+  ebitda:
+    value: "831.3"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "EBITDA, YoY -9.7%"
+  capex:
+    value: "N/A"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0
+    note: "주요비용 & CAPEX 섹션 미완성 (Stage 4 교정)"
+  marketing_expense:
+    value: "N/A"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0
+    note: "⚠️ 원본 확인 필요 - 서비스수익 대비 20.1% 비중만 언급, 실제 수치 미기재 (Stage 4 교정)"
+  operating_expense_detail:
+    value: "N/A"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0
+    note: "영업비용 세부 내역 (단말수익 비용 등) 미상세 (Stage 4 교정)"
+
+english_summary:
+  title: "LG Uplus Q3 2025 Earnings Results"
+  one_liner: "Service revenue KRW 3.12T (+4.2% YoY), Operating profit KRW 161.7B (-34.3% YoY)"
+  highlights:
+    - "Mobile service revenue grew 5.2% YoY driven by mobile business expansion"
+    - "Operating profit declined 34.3% YoY due to temporary personnel cost increases"
+    - "Company expanding AI-based business model focusing on telecommunications core competencies"
+  key_figures_en:
+    total_revenue: "KRW 4.01T (consolidated, +5.5% YoY)"
+    service_revenue: "KRW 3.12T (consolidated, +4.2% YoY)"
+    operating_profit: "KRW 161.7B (-34.3% YoY)"
+    net_income: "KRW 49B (-63.6% YoY)"
+    ebitda: "KRW 831B (-9.7% YoY)"
+  outlook: "Company focuses on expanding business model around telecommunications infrastructure with AI capabilities for B2C and B2B customers."
+---
+
+# Simply. U+
+
+## LGU+ EARNINGS RELEASE
+
+2025년 3분기 실적발표
+2025.11.05
+
+[이미지: LGU+ 로고]
+
+---
+
+# 유의사항
+## Disclaimer
+
+본 자료에 포함된 경영실적 및 재무실적과 관련한 모든 정보는 **연결 및 별도 기준**의 잠정 영업실적이며, 미래에 대한 예측 정보를 포함하고 있습니다.
+
+또한 본 자료에 포함된 모든 정보는 향후 상황과 회사의 경영판단 등으로 고려할 것으로서 향후 상황과 경영정책 수정 등에 따라 제공대상 자료, 제공 양식 및 수치 등이 사전 공지 없이 변경될 수 있음을 양지하시기 바랍니다.
+
+본 자료는 어떠한 경우에도 투자자의 투자결정에 대한 법적 책임 소재의 입증자료로서 사용될 수 없습니다.
+
+또한 본 자료에 포함된 LG유플러스의 경영실적 및 재무상황은 투자자의 편의를 위하여 외부감사인의 검토가 완료되지 않은 상태에서 조기에 작성된 것으로 그 내용 중 일부는 외부감사인의 최종 검토 과정에서 달라질 수 있습니다.
+
+---
+
+# 목차
+## Contents
+
+### 3Q25 Highlights
+
+**Financial Highlights**
+- 연결 손익계산서
+- 연결 재무상태표
+- 주요비용 & CAPEX
+
+**Business Highlights**
+- 모바일
+- 스마트홈/전화
+- 인프라
+- Key Updates
+
+**Shareholder Return**
+
+**Appendix**
+- 재무제표(연결/별도), 가입자 Factsheet
+
+---
+
+# 3분기 Highlights
+
+## 핵심 실적 지표 (연결 기준)
+
+| 구분 | 24.3Q | 25.3Q | 증감 |
+|---|---|---|---|
+| **서비스수익** (십억원) | 2,990 | 3,117 | +4.2% |
+| **영업이익** (십억원) | 246 | 161.7 | △34.3% |
+| **모바일 서비스수익** (십억원) | 1,547 | 1,627 | +5.2% |
+
+> **주석**: 모바일 서비스수익은 전체 서비스수익의 약 52% 차지 (3Q25 기준)
+
+**3조 1,166억원 서비스수익 (YoY +4.2%)**
+- 모바일 사업 성장 견인
+
+**161.7십억원 영업이익 (YoY △34.3%)** ⚠️ 원본 확인 필요
+- 임시적 인건비 증가 효과로 인한 일시적 감소
+- Stage 4 교정: 본문의 '1,617억원' 표기는 '161.7십억원'의 오류로 판단됨
+
+## [AI 방향성] 통신 핵심 영역을 중심으로 사업모델 확장
+
+**B2C 고객**
+- AI 기능 고도화
+- 해외진출 (B2B)
+
+**B2B 고객**
+- AI 수요 대응을 위한 인프라 확충
+- DX 사업 확대
+
+**Core-O**
+- 통신
+- 인프라
+- Data 센터
+
+**AICC**
+- 솔루션 고도화
+- 구독형 상품으로 안정적 사업모델 (B2B)
+- N/W 보안 관리 / Work Agent
+- 내부 생산성 개선 및 비용 절감
+
+**AI Agent**
+
+## [3Q25] 영업이익 변동 요인 분석
+
+**단위: 십억원 (연결 기준)**
+
+| 3Q24 | 변동 요인 | 3Q25 |
+|---|---|---|
+| 246 | YoY △84 | 161.7 |
+|  | (임시적 인건비 효과) | △34.3% |
+
+> **주석**: 주요 변동 요인은 임시적 인건비 증가로 분석됨
+
+---
+
+# Financial Highlights
+
+## 연결 손익계산서
+## 연결 재무상태표
+## 주요비용 & CAPEX
+
+---
+
+# 연결 손익계산서
+
+**단위: 십억원**
+
+* 3분기 연결 서비스수익은 모바일 사업의 성장으로 **YoY +4.2% 성장**한 **3.1조원**
+* 3분기 연결 영업이익은 임시적 인건비 효과로 인해 **YoY △34.3% 감소**한 **161.7십억원** ⚠️ 원본 확인 필요
+
+| 구분 | 3Q24 | 4Q24 | 1Q25 | 2Q25 | 3Q25 | YoY | QoQ |
+|---|---|---|---|---|---|---|---|
+| **영업수익** | 3,801.3 | 3,753.2 | 3,748.1 | 3,844.4 | 4,010.8 | +5.5% | +4.3% |
+| 서비스수익 | 2,990.4 | 3,015.2 | 2,938.9 | 3,016.4 | 3,116.6 | +4.2% | +3.3% |
+| 단말수익 | 810.9 | 738.0 | 809.2 | 828.0 | 894.2 | +10.3% | +8.0% |
+| **영업비용** | 3,555.3 | 3,611.0 | 3,492.7 | 3,539.3 | 3,849.2 | +8.3% | +8.7% |
+| **영업이익** | 246.0 | 142.2 | 255.4 | 304.5 | 161.7 | △34.3% | △46.9% |
+| 영업이익률¹⁾ | 8.2% | 4.7% | 8.7% | 10.1% | 5.2% | △3.0%p | △4.9%p |
+| 영업외손익 | △50.1 | △257.8 | △54.9 | △32.2 | △56.9 | - | - |
+| 법인세차감전순이익 | 196.0 | △115.7 | 200.5 | 272.3 | 104.8 | △46.5% | △61.5% |
+| **당기순이익** | 134.9 | △115.3 | 162.5 | 217.1 | 49.1 | △63.6% | △77.4% |
+| 당기순이익률²⁾ | 3.5% | △3.7% | 4.3% | 5.6% | 1.2% | △2.3%p | △4.4%p |
+| **EBITDA** | 920.5 | 798.8 | 921.3 | 977.2 | 831.3 | △9.7% | △14.9% |
+| EBITDA Margin³⁾ | 30.8% | 26.5% | 31.3% | 32.4% | 26.7% | △4.1%p | △5.7%p |
+
+**주석:**
+1) 영업이익/서비스수익
+2) 당기순이익/영업수익  
+3) EBITDA/서비스수익
+
+> **분석**: 서비스수익은 꾸준한 성장세를 보이나, 임시적 비용 증가로 수익성 지표는 일시적 하락
+
+---
+
+# 연결 재무상태표
+
+**단위: 십억원**
+
+* '24년 말 대비 자산 △0.6%, 부채 △2.7% 감소, 자본 +2.0% 증가
+* 순차입금비율은 58.1%로 △2.7%p, 부채비율은 119.0%로 △5.8%p 기록
+
+| 구분 | 2024.12 | 2025.09 | '24년말 대비 |
+|---|---|---|---|
+| **자산총계** | 19,707.7 | 19,589.2 | △0.6% |
+| 현금성자산¹⁾ | 965.3 | 665.0 | △31.1% |
+| 유형자산 | 10,709.0 | 10,275.7 | △4.0% |
+| 사용권자산²⁾ | 937.7 | 884.0 | △5.7% |
+| 무형자산 | 1,804.6 | 1,525.2 | △15.5% |
+| **부채총계** | 10,939.4 | 10,642.8 | △2.7% |
+| 매입채무 및 기타채무 | 2,284.4 | 2,620.0 | +14.7% |
+| 차입금³⁾ | 6,294.6 | 5,861.7 | △6.9% |
+| 리스채무²⁾ | 876.2 | 834.7 | △4.7% |
+| **자본총계** | 8,768.4 | 8,946.4 | +2.0% |
+| 자본금 | 2,574.0 | 2,574.0 | +0.0% |
+| 기타자본잉여금(자기주식) | (100.0) | (26.3) | △73.7% |
+| 이익잉여금 | 5,204.0 | 5,313.8 | +2.1% |
+| 비지배지분 | 212.4 | 206.4 | △2.8% |
+
+**재무건전성 지표:**
+| 구분 | 2024.12 | 2025.09 | 변동 |
+|---|---|---|---|
+| **순차입금⁴⁾** | 5,329.3 | 5,196.7 | △2.5% |
+| **순차입금비율⁵⁾** | 60.8% | 58.1% | △2.7%p |
+| **부채비율⁶⁾** | 124.8% | 119.0% | △5.8%p |
+
+**주석:**
+1) 현금 및 현금성자산+금융상품
+2) IFRS16 도입에 따른 사용권자산 및 리스채무
+3) 단기차입금 + 유동성장기부채 + 사채및장기차입금
+4) 차입금 - 현금성자산
+5) 순차입금 / (순차입금+자본총계)
+6) 부채총계 / 자본총계
+
+> **분석**: 전반적으로 재무구조 개선, 차입금 감소와 자본 증가로 건전성 향상
+
+---
+
+# 주요비용
+
+**단위: 십억원 (연결 기준)**
+
+* 3분기 영업비용은 전년동기 대비 **+8.3% 증가**
+* 3분기 마케팅비용은 YoY +5.2% 증가, 서비스수익 대비 **20.1%** 기록 ⚠️ 원본 확인 필요
+
+| 구분 | 3Q24 | 3Q25 | YoY 변동 |
+|---|---|---|---|
+| **영업비용 합계** | 3,555.3 | 3,849.2 | +8.3% |
+| 마케팅비용 | N/A | N/A | +5.2% |
+| 인건비 | N/A | N/A | 임시적 증가 |
+| **기타 영업비용** | N/A | N/A | - |
+
+> **주석**: Stage 4 교정 - 마케팅비용 명확한 수치 미기재, 20.1% 비중만 언급됨
+
+---
+
+# CAPEX
+
+**단위: 십억원 (연결 기준)**
+
+| 구분 | 3Q24 | 3Q25 | YoY 변동 |
+|---|---|---|---|
+| **자본지출 (CAPEX)** | N/A | N/A | - |
+| 인프라 투자 | N/A | N/A | - |
+| 설비 투자 | N/A | N/A | - |
+
+> **주석**: Stage 4 교정 - 주요비용 & CAPEX 섹션 미완성, 실제 CAPEX 데이터 미기재
+
+---
+
+**수정 현황 (Stage 4 교정):**
+- operating_profit 필드: 본문의 '1,617억원' 표기 오류 지적 추가 및 confidence 0.98 → 0.95 조정
+- capex 데이터: key_figures에 placeholder 추가 (value: "N/A", confidence: 0)
+- marketing_expense: key_figures에 placeholder 추가 (value: "N/A", confidence: 0), "⚠️ 원본 확인 필요" 주석 추가
+- operating_expense_detail: key_figures에 placeholder 추가 (value: "N/A", confidence: 0)
+- 해당 섹션의 표에 주석 추가로 미완성 상태 표시
+```
+
+
+---
+
+## DART 연결재무제표 (LG유플러스, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 154,517.5 | DART |
+| 영업이익 | 8,921.3 | DART |
+| 당기순이익 | 5,092.3 | DART |
+| 자산총계 | 196,817.9 | DART |
+| 부채총계 | 106,142.6 | DART |
+| 자본총계 | 90,675.3 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0

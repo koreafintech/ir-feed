@@ -1,0 +1,372 @@
+```markdown
+---
+title: "엔씨소프트 2025년 3분기 실적발표"
+company: "엔씨소프트"
+doc_type: "실적발표"
+publish_date: "2025-11-11"
+fiscal_year: 2025
+fiscal_quarter: "Q3"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-19T10:30:00Z"
+
+key_figures:
+  dart_revenue_annual:
+    value: "15,069.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "160.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "3,474.2"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "43,331.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "43,331.4"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "33,704.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2025"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue:
+    value: "3,600"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 6% 감소, 전년 동기 대비 10% 감소"
+  
+  operating_loss:
+    value: "7.467"
+    unit: "십억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.85
+    note: "⚠️ 원본 확인 필요. Stage 4 교정: 테이블 3Q25 영업손실 (7,467)백만원으로 수정. 원본 테이블 일부 누락으로 2Q25 수치 참조되었으나 정확한 3Q25 수치는 테이블 기준으로 74.67억원"
+  
+  pretax_income:
+    value: "4,351"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "일회성 부동산 매각 이익과 외환 관련 손익 등 반영"
+  
+  net_income:
+    value: "3,474"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "당기순이익"
+
+  mobile_game_revenue:
+    value: "1,972"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.98
+    note: "전분기 대비 10% 감소, 총 매출 대비 55%"
+
+  pc_online_revenue:
+    value: "877"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.7
+    note: "⚠️ 원본 확인 필요. Stage 4 교정: 테이블 합계 87,746백만원(877.46억원) 일치 확인. 개별 게임 수치 중복 오류 가능성으로 신뢰도 하향"
+
+  korea_revenue:
+    value: "2,177.74"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.75
+    note: "⚠️ 원본 확인 필요. Stage 4 교정: 테이블 기준값 217,774백만원으로 통일(2,177.74억원). 본문 '2,178억원' 표기와 소수점 이하 차이 미미"
+
+  asia_revenue:
+    value: "675.29"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.7
+    note: "⚠️ 원본 확인 필요. Stage 4 교정: 테이블 기준값 67,529백만원으로 통일(675.29억원). 본문 '675억원'과 일치"
+
+  northamerica_europe_revenue:
+    value: "467.83"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0.7
+    note: "⚠️ 원본 확인 필요. Stage 4 교정: 테이블 기준값 46,783백만원으로 통일(467.83억원). 본문 '468억원'과 일치"
+
+  operating_expense:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "3Q25"
+    confidence: 0
+    note: "누락 항목: 영업비용 구성 상세 테이블 미완성"
+
+  q4_24_pretax_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "4Q24"
+    confidence: 0
+    note: "누락 항목: 4Q24 세전이익 원본 확인 필요"
+
+  q1_25_pretax_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "1Q25"
+    confidence: 0
+    note: "누락 항목: 1Q25 세전이익 원본 확인 필요"
+
+  q2_25_pretax_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0
+    note: "누락 항목: 2Q25 세전이익 원본 확인 필요"
+
+  q2_25_net_income:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "2Q25"
+    confidence: 0
+    note: "누락 항목: 2Q25 당기순이익 원본 확인 필요"
+
+english_summary:
+  title: "NCSOFT Q3 2025 Earnings Results"
+  one_liner: "Revenue KRW 0.36T (-10% YoY), Operating loss KRW 7.5B, Net income KRW 3.474T"
+  highlights:
+    - "Q3 revenue of KRW 360B down 6% QoQ and 10% YoY due to mobile game revenue decline"
+    - "Operating loss of KRW 7.5B affected by revenue decline and one-time personnel costs"
+    - "Strong net income of KRW 347.4B driven by one-time real estate disposal gains and FX gains"
+    - "Mobile games revenue KRW 197.2B (55% of total), PC online games KRW 87.7B (24% of total)"
+  key_figures_en:
+    revenue: "KRW 0.36T (consolidated, -10% YoY)"
+    operating_loss: "KRW 7.5B ⚠️ 원본 확인 필요"
+    net_income: "KRW 3.474T"
+    mobile_games: "KRW 0.197T (55% of total revenue)"
+    pc_online_games: "KRW 87.7B (24% of total revenue)"
+  outlook: "Company continues strategic adjustments across game portfolio with focus on operational efficiency."
+---
+
+# 2025년 3분기 실적발표
+
+2025.11.11  NCSOFT IR
+
+---
+
+## 유의 사항
+
+본 자료는 2025년 3분기 실적에 대한 외부감시인의 검토가 완료되지 않은 상태에서 투자자 여러분의 편의를 위하여 작성된 자료입니다.
+
+투자자는 이 자료에 포함되어 있는 정보만을 믿고 투자결정을 하지 말아야 하며, 투자책임은 전적으로 투자자 자신에게 있음을 밝힙니다.
+
+### 주요 연결기업(K-IFRS 기준):
+
+- NCSOFT Corporation(HQ, KOR), NC West Holdings(100%, USA)
+- NC America(100%, USA), NC Europe(100%, GBR), NC Japan(100%, JPN)
+- NC Taiwan(100%, TWN), NCSOFT Service(100%, KOR), NC Dinos(100%, KOR)
+- NC ITS(100%, KOR), NCSOFT Asia Holdings(100%, SG), NC IDS(100%, KOR)
+- NC QA(100%, KOR), FirstSpark Games Co., Ltd.(100%, KOR)
+- BigFire Games Co., Ltd.(100%, KOR), Ludius Games Co., Ltd.(100%, KOR)
+- NC AI Co., Ltd.(100%, KOR)
+
+---
+
+## 목차
+
+### I. 연결기준 실적
+
+1. 실적요약
+2. 매출구성
+3. 비용구성
+
+### II. 별첨
+
+4. 요약 재무제표
+
+---
+
+## 1. 실적요약
+
+- 3분기 매출액은 **3,600억 원**(연결기준)으로 전분기 대비 6%, 전년 동기 대비 10% 감소
+- **영업손실 75억 원**(연결기준) 기록, 매출 감소 및 일회성 인건비 부담 영향
+- **세전이익 4,351억 원**(연결기준), **당기순이익 3,474억 원**(연결기준), 일회성 부동산 매각 이익과 외환 관련 손익 등 반영
+
+### 분기별 영업실적
+
+#### 매출 (단위: 백만원, 연결기준)
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 매출 | 401,937 | 409,407 | 360,278 | 382,393 | 360,036 |
+
+*3Q25 기준: 전분기 대비 6% 감소, 전년 동기 대비 10% 감소*
+
+#### 영업이익 (단위: 백만원, 연결기준)
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 영업이익 | 5,220 | (14,291) | (129,491) | (7,467) | (7,467) |
+
+*Stage 4 교정: 3Q25 영업손실 75억원(7,467백만원) 기록. ⚠️ 원본 테이블 일부 누락으로 정확한 3Q25 수치 원본 확인 필요*
+
+#### 세전이익 (단위: 백만원, 연결기준)
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 세전이익 | 15,079 | [원본 확인 필요] | [원본 확인 필요] | [원본 확인 필요] | 435,088 |
+
+*3Q25: 4,351억원의 세전이익 기록. ⚠️ 4Q24, 1Q25, 2Q25 세전이익 원본 확인 필요*
+
+#### 당기순이익 (단위: 백만원, 연결기준)
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 당기순이익 | 37,507 | (26,524) | (7,588) | [원본 확인 필요] | 347,360 |
+
+*3Q25: 3,474억원의 당기순이익 기록, 전년 동기 및 전분기 대비 큰 폭 증가. ⚠️ 2Q25 당기순이익 원본 확인 필요*
+
+---
+
+## 2. 매출구성 (게임별)
+
+- 3분기 모바일 게임 매출은 게임 전환의 사업 확장 등도 조정으로 전분기 대비 10% 감소한 **1,972억 원**(연결기준), 총 매출 대비 비중 55%
+- Legacy PC 온라인 게임 매출은 전년 동기 대비 9% 증가한 **877억 원**(연결기준), 글로벌 확장 및 PLC 연장 누적 등으로 2개 분기 연속 YoY 증가세 기록. 총 매출 대비 비중 24%
+
+### 모바일 게임 (단위: 백만원, 연결기준)
+
+범례: ■ 리니지RM  ■ 리니지2M  ■ 리니지W  ■ 블레이드 & 소울 2
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 리니지RM | 158,891 | 121,770 | 112,710 | 121,111 | 105,339 |
+| 리니지2M | 43,143 | 41,263 | 57,876 | 47,987 | 47,170 |
+| 리니지W | 46,866 | 49,086 | 53,097 | 47,640 | 43,410 |
+| 블레이드 & 소울 2 | 4,491 | 5,506 | 2,595 | 2,214 | 1,288 |
+| 합계 | 253,391 | 217,624 | 226,278 | 218,952 | 197,207 |
+
+*기타 모바일 게임 매출 제외. 3Q25 모바일 게임 총 매출: 1,972억원*
+
+### PC 온라인 게임 (단위: 백만원, 연결기준)
+
+범례: ■ 리니지  ■ 리니지 2  ■ 아이온  ■ 블레이드 & 소울  ■ 길드워즈2
+
+| 구분 | 3Q 24 | 4Q 24 | 1Q 25 | 2Q 25 | 3Q 25 |
+|------|-------|-------|-------|-------|-------|
+| 리니지 | 26,455 | 22,943 | 22,300 | 20,737 | 25,157 |
+| 리니지 2 | 20,216 | 20,569 | 19,089 | 22,708 | 21,610 |
+| 아이온 | 19,016 | 13,967 | 8,499 | 12,984 | 8,995 |
+| 블레이드 & 소울 | 3,220 | 11,195 | 11,820 | 11,195 | 13,596 |
+| 길드워즈2 | 11,820 | 11,195 | 20,569 | 19,089 | 18,387 |
+| 합계 | 80,727 | 93,394 | 83,327 | 91,718 | 87,746 |
+
+*Stage 4 교정: ⚠️ 원본 테이블 데이터 정합성 검토 필요. 리니지2와 길드워즈2 일부 수치 중복 배치 가능성 및 각 게임별 추세 검증 필요. 합계값 87,746백만원(877.46억원)은 본문 877억원과 일치 확인. 기타 PC 온라인 게임 매출 제외. 3Q25 PC 온라인 게임 총 매출: 877억원*
+
+---
+
+## 2. 매출구성 (지역별)
+
+- 3분기 한국 매출은 주요 게임들의 매출 감소로 전분기 대비 11% 감소한 **2,178억 원**(연결기준)
+- 아시아 매출은 전분기 대비 29% 감소한 **675억 원**(연결기준), L2M 동남아 출시, BNS NEO 지역 확장으로 전년 동기 대비는 37% 증가
+- 북미/유럽 매출은 전분기 대비 11% 증가한 **468억 원**(연결기준), 길드워즈2 확장, PC B&S 중국 매출 증가
+
+### 지역별 매출 (단위: 백만원, 연결기준)
+
+| 구분 | 3Q'24 | 4Q'24 | 1Q'25 | 2Q'25 | 3Q'25 |
+|------|-------|-------|-------|-------|-------|
+| 매출총계 | 401,937 | 409,407 | 360,278 | 382,393 | 360,036 |
+| 북미/유럽 | 38,107 | 73,538 | 44,955 | 42,252 | 46,783 |
+| 중국 | 28,242 | 35,366 | 30,897 | 26,242 | 27,950 |
+| 아시아 | 49,378 | 52,025 | 56,108 | 69,098 | 67,529 |
+| 한국 | 286,210 | 248,479 | 228,318 | 244,802 | 217,774 |
+
+*Stage 4 교정: 지역별 매출값 단위 일관성 확인(모두 백만원). 3Q25 한국 217,774백만원(2,177.74억원 ≈ 2,178억원), 아시아 67,529백만원(675.29억원 ≈ 675억원), 북미/유럽 46,783백만원(467.83억원 ≈ 468억원) 모두 본문 수치와 일치. ⚠️ 일관성 문제 해소: 3Q25 지역별 매출 비중: 한국 60.5%, 아시아 18.8%, 북미/유럽 13.0%, 중국 7.8%*
+
+---
+
+## 3. 비용구성
+
+- 3분기 총 영업비용은 전분기와 유사한 **3,675억 원**(연결기준)
+- 인건비는 임직원 퇴직 위로금이 반영되어 전분기 대비 5% 증가한 **1,994억 원**(연결기준)
+- 마케팅비는 마케팅 활동의 전략적 조정에 맞춰 효율적으로 집행, 전분기 대비 32% 감소한 **160억 원**(연결기준)
+- 감가상각비는 임대 서버 자산들의 감가상각이 종료되어 전분기 대비 13% 감소한 **214억 원**(연결기준)
+
+### 영업비용 구성 (단위: 백만원, 연결기준)
+
+*⚠️ 원본 확인 필요. Stage 4 교정: 영업비용 구성 상세 테이블 미완성 상태*
+
+| 구분 | 3Q'24 | 4Q'24 | 1Q'25 | 2Q'25 | 3Q'25 |
+|------|-------|-------|-------|-------|-------|
+| [데이터 준비 중] | - | - | - | - | - |
+```
+
+
+---
+
+## DART 연결재무제표 (엔씨소프트, 2025년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 15,069.3 | DART |
+| 영업이익 | 160.8 | DART |
+| 당기순이익 | 3,474.2 | DART |
+| 자산총계 | 43,331.4 | DART |
+| 부채총계 | 43,331.4 | DART |
+| 자본총계 | 33,704.3 | DART |
+| 영업활동현금흐름 | 1,619.7 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-28 | 파서 버전: v2.0.0

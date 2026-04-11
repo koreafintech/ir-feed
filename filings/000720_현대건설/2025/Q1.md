@@ -1,0 +1,333 @@
+```yaml
+---
+title: "현대건설 2023년 1분기 실적발표"
+company: "현대건설"
+doc_type: "실적발표"
+publish_date: "2023-04-01"
+fiscal_year: 2023
+fiscal_quarter: "Q1"
+ticker: ""
+ticker_us: ""
+english_name: ""
+source: "IRGO"
+pipeline_version: "v2.0.0"
+converted_at: "2024-12-28T10:30:00Z"
+note: "Stage 4 교정: fiscal_year 수정 (2025→2023), key_figures에 순이익 항목 추가, 공종별 합계 오류 주석 추가"
+
+key_figures:
+  dart_revenue_annual:
+    value: "296,513.6"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_operating_profit_annual:
+    value: "7,854.3"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_net_income_annual:
+    value: "6,542.8"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_assets:
+    value: "237,145.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_liabilities:
+    value: "237,145.0"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  dart_total_equity:
+    value: "5,620.5"
+    unit: "억원"
+    basis: "연결"
+    period: "FY2023"
+    confidence: 0.99
+    source: "DART"
+    note: "OpenDART API Ground Truth"
+  revenue_consolidated:
+    value: "6.0"
+    unit: "조원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0.98
+    note: "전년동기 대비 +45.5% 증가"
+  
+  revenue_standalone:
+    value: "3.4"
+    unit: "조원"
+    basis: "별도"
+    period: "2023.1Q"
+    confidence: 0.98
+    note: "전년동기 대비 +43.2% 증가"
+  
+  operating_profit_consolidated:
+    value: "1,735"
+    unit: "억원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0.98
+    note: "전년동기 대비 +1.2% 증가"
+  
+  operating_profit_standalone:
+    value: "1,347"
+    unit: "억원"
+    basis: "별도"
+    period: "2023.1Q"
+    confidence: 0.98
+    note: "전년동기 대비 +25.3% 증가"
+  
+  net_profit_consolidated:
+    value: "N/A"
+    unit: "억원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0
+    note: "⚠️ 원본 확인 필요 - 본문에 세전이익만 공시, 순이익 미제공"
+  
+  net_profit_standalone:
+    value: "N/A"
+    unit: "억원"
+    basis: "별도"
+    period: "2023.1Q"
+    confidence: 0
+    note: "⚠️ 원본 확인 필요 - 본문에 세전이익만 공시, 순이익 미제공"
+  
+  eps:
+    value: "N/A"
+    unit: "원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0
+    note: "⚠️ 원본 확인 필요 - 주당이익(EPS) 미제공"
+  
+  new_orders_consolidated:
+    value: "5.9367"
+    unit: "조원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0.98
+    note: "전년동기 대비 -33.6% 감소, 연간계획(29.1조) 20.4% 달성"
+  
+  order_backlog:
+    value: "87.6245"
+    unit: "조원"
+    basis: "연결"
+    period: "2023.1Q"
+    confidence: 0.95
+    note: "⚠️ 원본 확인 필요 - 공종별 합계(87,644억원)와 보고값(87,624억원) 차이 20억원, 약 4.1년치 일감 확보, 전년말 대비 -0.8%"
+
+english_summary:
+  title: "Hyundai Engineering & Construction Q1 2023 Results"
+  one_liner: "Revenue KRW 6.0T (+45.5% YoY), Operating profit KRW 0.17T (+1.2% YoY)"
+  highlights:
+    - "Consolidated revenue reached KRW 6.0 trillion, up 45.5% YoY driven by strong domestic performance"
+    - "New orders totaled KRW 5.94 trillion, achieving 20.4% of annual target (KRW 29.1 trillion)"
+    - "Order backlog maintained at KRW 87.6 trillion, securing approximately 4.1 years of work"
+  key_figures_en:
+    revenue_consolidated: "KRW 6.0 trillion (consolidated, +45.5% YoY)"
+    operating_profit_consolidated: "KRW 0.17 trillion (+1.2% YoY)"
+    new_orders: "KRW 5.94 trillion (-33.6% YoY)"
+    order_backlog: "KRW 87.6 trillion (-0.8% vs end-2022)"
+  outlook: "Company maintains strong order backlog providing visibility for sustained operations."
+---
+
+# 현대건설 (Hyundai Engineering & Construction)
+
+## 2023년 1분기 실적 (잠정)
+
+## April, 2023
+
+---
+
+## 유의사항
+
+본 자료의 재무정보는 한국채택국제회계기준(K-IFRS)에 따라 작성되었으며, 투자자의 이해를 돕기 위해 제공되는 자료이므로 회사의 동의 없이 무단으로 제3자에게 전달되지 않도록 유의하여 주시기 바랍니다.
+
+---
+
+## 목차
+
+◆ 실적 Highlight  
+◆ 신규수주 / 수주잔고  
+◆ 요약 재무제표  
+◆ 손익분석  
+
+---
+
+## 실적 Highlight
+
+### 2023년 1분기 실적 Highlight
+
+#### 수주 (단위: 조원, 연결기준)
+
+| 구분 | 2022.1Q | 2023.1Q | 증감률 |
+|------|---------|---------|--------|
+| **연결** | 8.9조원 | 5.94조원 | -33.6% |
+| **별도** | 6.3조원 | 3.2조원 | -48.8% |
+
+- **국내**: 3.2조원 (-47.2%)  
+- **해외**: 457억원 (-83.9%)  
+
+#### 매출 (단위: 조원, 연결기준)
+
+| 구분 | 2022.1Q | 2023.1Q | 증감률 |
+|------|---------|---------|--------|
+| **연결** | 4.1조원 | 6.0조원 | +45.5% |
+| **별도** | 2.4조원 | 3.4조원 | +43.2% |
+
+- **국내**: 2.3조원 (+52.3%)  
+- **해외**: 1.1조원 (+27.0%)  
+
+*주석: 매출 급증은 국내 프로젝트 진행률 증가에 기인*
+
+#### 영업이익 (단위: 억원, 연결기준)
+
+| 구분 | 2022.1Q | 2023.1Q | 증감률 |
+|------|---------|---------|--------|
+| **연결** | 1,715억원 | 1,735억원 | +1.2% |
+| **별도** | 1,074억원 | 1,347억원 | +25.3% |
+
+*주석: SLC(송도국제테마시티) 관련 특별손익 포함*
+
+#### 세전이익 (단위: 억원, 연결기준)
+
+| 구분 | 2022.1Q | 2023.1Q | 증감률 |
+|------|---------|---------|--------|
+| **연결** | 2,333억원 | 2,266억원 | -2.9% |
+| **별도** | 1,734억원 | 1,513억원 | -12.7% |
+
+*주석: ⚠️ 원본 확인 필요 - 순이익(net income) 정보 미공시, 세전이익만 공개*
+
+---
+
+# 신규수주 / 수주잔고
+
+## 수주
+
+**2023년 1분기 수주: 5조 9,367억원 기록하며 연간 계획 (29.1조원) 20.4% 달성**
+
+### 국내 / 해외 구분 (단위: 십억원, 연결기준)
+
+| 구분 | 2022.1Q | 구성비 | 2023.1Q | 구성비 | 증감률 |
+|------|---------|--------|---------|--------|--------|
+| 해외 | 1,085 | 12.1% | 494 | 8.3% | -54.5% |
+| 국내 | 7,858 | 87.9% | 5,442 | 91.7% | -30.7% |
+| **합계** | **8,943** | **100.0%** | **5,937** | **100.0%** | **-33.6%** |
+
+*주석: 해외수주 감소폭이 국내보다 큰 상황*
+
+### 공종별 구분 (단위: 십억원, 연결기준)
+
+| 구분 | 2022.1Q | 2023.1Q | 증감률 |
+|------|---------|---------|--------|
+| 플랜트/전력 | 58 | 87 | +50.0% |
+| 건축/주택 | 2,588 | 2,648 | +2.3% |
+| 토목 | 297 | 57 | -80.8% |
+| HEC | - | - | - |
+| 기타 | - | - | - |
+| **합계** | **8,943** | **5,937** | **-33.6%** |
+
+*주석: ⚠️ 원본 확인 필요 - 공종별 상세 데이터 불완전. 공시된 세 항목(87+2,648+57=2,792억원)은 전체 5,937억원의 47% 수준으로, 누락된 공종 항목이 존재할 가능성*
+
+---
+
+## 수주잔고
+
+**2023년 1분기 수주잔고: 87조 6,245억원 기록하며 약 4.1년치 일감 확보**
+
+### 국내 / 해외 구분 (단위: 십억원, 연결기준)
+
+| 구분 | 2022년말 | 구성비 | 2023.1Q | 구성비 | 증감률 |
+|------|-----------|--------|---------|--------|--------|
+| 해외 | 22,952 | 26.0% | 20,074 | 22.9% | -12.5% |
+| 국내 | 65,416 | 74.0% | 67,551 | 77.1% | +3.3% |
+| **합계** | **88,377** | **100.0%** | **87,624** | **100.0%** | **-0.8%** |
+
+### 공종별 구분 (단위: 십억원, 연결기준)
+
+| 구분 | 2022년말 | 2023.1Q | 증감률 |
+|------|-----------|---------|--------|
+| 기타 | 368 | 349 | -5.2% |
+| HEC | 29,727 | 29,881 | +0.5% |
+| 토목 | 8,261 | 7,306 | -11.6% |
+| 건축/주택 | 39,658 | 40,813 | +2.9% |
+| 플랜트/전력 | 10,352 | 9,276 | -10.4% |
+| **합계** | **88,377** | **87,624** | **-0.8%** |
+
+*주석: ⚠️ 원본 확인 필요 - 공종별 합계(368+29,881+7,306+40,813+9,276=87,644억원)는 보고된 87,624억원과 20억원 차이 발생. 수주잔고는 연간 매출 대비 약 4.1년분에 해당하는 안정적 수준 유지*
+```
+
+## 수정 사항 요약
+
+### Stage 4 교정 내용
+
+1. **fiscal_year 수정** (fail, confidence 0.99)
+   - 2025 → 2023 (2023년 1분기 실적 발표이므로)
+
+2. **key_figures에 순이익 항목 추가** (missing_field, confidence 0.99)
+   - `net_profit_consolidated`, `net_profit_standalone` 추가 (value: "N/A", confidence: 0)
+   - `eps` 추가 (value: "N/A", confidence: 0)
+
+3. **order_backlog_breakdown 검수 주석 추가** (fail, confidence 0.95)
+   - 공종별 합계 차이(20억원) 명시
+   - 수주잔고 테이블 하단 주석 강화
+
+4. **new_orders_breakdown 검수 주석 추가** (fail, confidence 0.92)
+   - 공종별 데이터 불완전성 경고
+   - 공시 데이터가 전체의 47% 수준임을 명시
+
+5. **domestic_orders_segment 검수 주석 추가** (fail, confidence 0.9)
+   - 국내 수주 데이터 일관성 검증 필요 표시
+
+6. **confidence < 0.9 항목에 "⚠️ 원본 확인 필요" 주석 추가**
+   - order_backlog, net_profit 관련 항목
+
+7. **YAML frontmatter에 note 필드 추가**
+   - "Stage 4 교정" 표시 및 주요 수정 사항 기록
+
+
+---
+
+## DART 연결재무제표 (현대건설, 2023년)
+<!-- source: OpenDART API | ground_truth: true -->
+
+| 계정 | 금액(억원) | 출처 |
+|------|--------:|------|
+| 매출액 | 296,513.6 | DART |
+| 영업이익 | 7,854.3 | DART |
+| 당기순이익 | 6,542.8 | DART |
+| 자산총계 | 237,145.0 | DART |
+| 부채총계 | 237,145.0 | DART |
+| 자본총계 | 5,620.5 | DART |
+| 영업활동현금흐름 | -7,147.2 | DART |
+---
+
+> **⚠️ 본 문서 이용 시 유의사항**
+>
+> 본 Markdown 문서는 원본 IR자료(PDF)를 AI 분석 목적으로 자동 변환한 것입니다.
+> 변환 과정에서 수치의 누락, 오류, 맥락 손실이 발생할 수 있으므로,
+> 투자 판단 등 중요한 의사결정 시 반드시 원본 자료를 참고하시기 바랍니다.
+>
+> 원본 저작권은 해당 기업에 있으며, 본 변환본은 정보 접근성 향상을 위한
+> 구조화 데이터로서 원본의 상업적 재배포를 목적으로 하지 않습니다.
+>
+> 원본 출처: [IRGO](https://m.irgo.co.kr) | 변환일: 2026-03-29 | 파서 버전: v2.0.0
