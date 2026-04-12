@@ -89,7 +89,7 @@ Show me Samsung Electronics Q4 2024 earnings
 
 ## Data Coverage
 
-- 298 earnings filings from 135+ Korean listed companies
+- 335 filings from 120 Korean listed companies
 - DART consolidated financial statements
 - Structured key figures (revenue, operating profit, net income, margins)
 - English summaries included for global accessibility
