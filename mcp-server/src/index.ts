@@ -48,6 +48,7 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 // ─── Supabase 클라이언트 ──────────────────────────────────────────────────────
 const supabase: SupabaseClient = createClient(SUPABASE_URL, SUPABASE_KEY, {
   auth: { persistSession: false },
+  global: { headers: { "User-Agent": "irfeed-mcp/0.1.5" } },
 });
 
 // ─── 보안 유틸리티 ──────────────────────────────────────────────────────────
@@ -152,6 +153,13 @@ const TOOLS: Tool[] = [
         offset: { type: "number", description: "페이지 오프셋", default: 0 },
       },
     },
+    annotations: {
+      title: "List IR Filings",
+      readOnlyHint: true,
+      destructiveHint: false,
+      idempotentHint: true,
+      openWorldHint: false,
+    },
   },
   {
     name: "get_filing",
@@ -164,6 +172,13 @@ const TOOLS: Tool[] = [
         filing_id: { type: "string", description: "공시 고유 ID (UUID)" },
       },
       required: ["filing_id"],
+    },
+    annotations: {
+      title: "Get Filing Details",
+      readOnlyHint: true,
+      destructiveHint: false,
+      idempotentHint: true,
+      openWorldHint: false,
     },
   },
   {
@@ -189,6 +204,13 @@ const TOOLS: Tool[] = [
         },
       },
       required: ["query"],
+    },
+    annotations: {
+      title: "Search Filings",
+      readOnlyHint: true,
+      destructiveHint: false,
+      idempotentHint: true,
+      openWorldHint: false,
     },
   },
   {
@@ -220,6 +242,13 @@ const TOOLS: Tool[] = [
           description: "조회할 재무 지표 (미지정 시 전체)",
         },
       },
+    },
+    annotations: {
+      title: "Get Key Financial Figures",
+      readOnlyHint: true,
+      destructiveHint: false,
+      idempotentHint: true,
+      openWorldHint: false,
     },
   },
 ];
@@ -534,7 +563,7 @@ async function getKeyFigures(params: z.infer<typeof GetKeyFiguresSchema>): Promi
 const server = new Server(
   {
     name: "irfeed-mcp-server",
-    version: "0.1.3",
+    version: "0.1.5",
   },
   {
     capabilities: {
@@ -623,7 +652,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 async function main() {
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.error("[IRFeed MCP] 서버 v0.1.3 시작됨 (stdio transport)");
+  console.error("[IRFeed MCP] 서버 v0.1.5 시작됨 (stdio transport)");
 }
 
 main().catch((err) => {
