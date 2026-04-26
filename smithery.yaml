@@ -1,0 +1,73 @@
+# smithery.yaml — Smithery (smithery.ai) 자동 인덱싱 메타데이터
+# Spec: https://smithery.ai/docs/config
+# Repo: https://github.com/koreafintech/ir-feed
+# npm:  irfeed-mcp (v0.1.5)
+#
+# 이 repo의 mcp 서버 source는 mcp-server/ 폴더에 있다.
+# Smithery 표준은 repo 루트의 yaml을 본다 — 이 파일이 그 역할.
+
+runtime: node
+
+startCommand:
+  type: stdio
+  command: npx
+  args:
+    - "-y"
+    - "irfeed-mcp"
+
+configSchema:
+  type: object
+  required:
+    - IRFEED_SUPABASE_URL
+    - IRFEED_SUPABASE_ANON_KEY
+  properties:
+    IRFEED_SUPABASE_URL:
+      type: string
+      description: Supabase project URL (e.g. https://YOUR-PROJECT.supabase.co)
+    IRFEED_SUPABASE_ANON_KEY:
+      type: string
+      description: Read-only anon key (RLS enforced). Sign up at https://irfeed.dev for a free key.
+
+name: IRFeed
+displayName: IRFeed MCP
+description: >-
+  Korean listed company IR filings and DART financial data — 335 filings from
+  120 KOSPI/KOSDAQ companies (Samsung, SK Hynix, Hyundai, LG, Naver, Kakao,
+  etc.) with English summaries. Read-only access via 4 tools.
+homepage: https://irfeed.dev
+repository: https://github.com/koreafintech/ir-feed
+license: MIT
+author: KoreaFintech (IRFeed)
+
+categories:
+  - financial-data
+  - stock-market
+
+tags:
+  - korean-stocks
+  - dart
+  - ir
+  - earnings
+  - financials
+  - kospi
+  - kosdaq
+  - korea
+  - claude-desktop
+
+tools:
+  - name: list_filings
+    description: List IR filings with filters (company, date, type)
+    readOnly: true
+    idempotent: true
+  - name: get_filing
+    description: Get full details of a specific filing by ID
+    readOnly: true
+    idempotent: true
+  - name: search_filings
+    description: Search filings by keyword across all companies
+    readOnly: true
+    idempotent: true
+  - name: get_key_figures
+    description: Query DART consolidated financial metrics (revenue, operating profit, net income, margins, debt ratio)
+    readOnly: true
+    idempotent: true
