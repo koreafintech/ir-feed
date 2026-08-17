@@ -11,9 +11,7 @@ fiscal_year: 2026
 fiscal_quarter: "Q2"
 source: "IRGO"
 pipeline_version: "v2.0.0"
-converted_at: "2026-07-23T00:00:00Z"
-audit_status: "미감사 (회계감사 진행 중)"
-audit_note: "제시된 자료의 내용 중 일부는 회계감사 과정에서 변경될 수 있음"
+converted_at: "2024-12-19T00:00:00Z"
 
 key_figures:
   dart_revenue_annual:
@@ -64,542 +62,237 @@ key_figures:
     confidence: 0.99
     source: "DART"
     note: "OpenDART API Ground Truth"
-  # ====== 매출/수익 ======
-  revenue_q2:
+  revenue:
     value: "49"
     unit: "조원"
-    period: "Q2 2026"
     basis: "연결"
+    period: "Q2 2026"
     confidence: 0.95
-    note: "역대 분기 최대 매출액 기록, 단위 변환 필요 (조원=trillion KRW)"
-
-  operating_profit_q2_2026:
-    value: "N/A"
-    unit: "조원"
-    period: "Q2 2026"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  operating_profit_q2_2025:
-    value: "N/A"
-    unit: "조원"
-    period: "Q2 2025"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  net_income_q2_2026:
-    value: "N/A"
-    unit: "조원"
-    period: "Q2 2026"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  net_income_q2_2025:
-    value: "N/A"
-    unit: "조원"
-    period: "Q2 2025"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  operating_margin:
-    value: "N/A"
-    unit: "%"
-    period: "Q2 2026"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  net_margin:
-    value: "N/A"
-    unit: "%"
-    period: "Q2 2026"
-    basis: "연결"
-    confidence: 0
-    note: "Stage 4 교정: missing_fields - 원본 데이터 확인 필요"
-
-  # ====== 글로벌 판매 현황 (Q2 2026 도매 기준) ======
-  global_wholesale_q2_2026:
+    note: "역대 분기 최대 매출액 기록"
+  
+  global_wholesale:
     value: "992"
     unit: "천대"
+    basis: "도매"
     period: "Q2 2026"
     confidence: 0.98
-    note: "도매 판매량 (소매 기준이 아님)"
-
-  global_wholesale_q2_2025:
-    value: "1,066"
-    unit: "천대"
-    period: "Q2 2025"
-    confidence: 0.98
-    note: "도매 판매량 YoY 비교용"
-
-  global_wholesale_growth:
-    value: "-6.9"
-    unit: "%"
-    period: "Q2 2026 vs Q2 2025"
-    basis: "연결"
-    confidence: 0.98
-    note: "도매 판매량 전년동기 대비 감소율"
-
-  global_retail_q2_2026:
+    note: "전분기 대비 -6.9% (Q2 2025: 1,066천대)"
+  
+  global_retail:
     value: "999"
     unit: "천대"
+    basis: "소매"
     period: "Q2 2026"
     confidence: 0.98
-    note: "소매 판매량"
-
-  global_retail_q2_2025:
-    value: "1,043"
+    note: "전분기 대비 -4.2% (Q2 2025: 1,043천대)"
+  
+  global_market_demand:
+    value: "20,746"
     unit: "천대"
-    period: "Q2 2025"
-    confidence: 0.98
+    basis: "신차 수요"
+    period: "Q2 2026"
+    confidence: 0.95
+    note: "전분기 대비 -3.8% (Q2 2025: 21,576천대)"
 
-  global_retail_growth:
-    value: "-4.2"
+  usa_wholesale:
+    value: "265"
+    unit: "천대"
+    period: "Q2 2026"
+    confidence: 0.98
+    note: "도매 기준, 전분기 대비 +0.9% (Q2 2025: 262천대); M/S 6%대 유지"
+  
+  usa_market_share:
+    value: "6.0"
     unit: "%"
-    period: "Q2 2026 vs Q2 2025"
+    period: "Q2 2026"
+    confidence: 0.85
+    note: "5개 분기 연속 6%대 유지"
+  
+  usa_hev_sales_ratio:
+    value: "26.2"
+    unit: "%"
+    basis: "도매 기준"
+    period: "Q2 2026"
     confidence: 0.98
-    note: "소매 판매량 전년동기 대비 감소율"
+    note: "미국 시장 역대 HEV 판매 비중 최대치"
+  
+  global_hev_sales_ratio:
+    value: "18.9"
+    unit: "%"
+    basis: "도매 기준"
+    period: "Q2 2026"
+    confidence: 0.98
+    note: "글로벌 사상 최대 HEV 판매 비중"
 
-  # ====== 지역별 도매 판매 (Q2 2026) ======
-  wholesale_by_region_q2_2026:
-    usa:
+  # 지역별 도매 판매
+  usa_wholesale_detail:
+    wholesale:
       value: "265"
       unit: "천대"
       period: "Q2 2026"
-      confidence: 0.98
-      note: "북미 도매 판매 (도매 기준)"
-    
-    europe:
-      value: "144"
+      yoy_change: "+0.9%"
+    suv_ratio:
+      value: "72.9"
+      unit: "%"
+      period: "Q2 2026"
+      yoy_change: "-2.2p (from 75.1%)"
+    pv_ratio:
+      value: "27.1"
+      unit: "%"
+      period: "Q2 2026"
+      yoy_change: "+2.2p (from 24.9%)"
+    suv_count:
+      value: "193"
       unit: "천대"
       period: "Q2 2026"
-      confidence: 0.98
-    
-    korea:
-      value: "158"
-      unit: "천대"
-      period: "Q2 2026"
-      confidence: 0.98
-      note: "국내 도매 판매"
-    
-    india:
-      value: "139"
-      unit: "천대"
-      period: "Q2 2026"
-      confidence: 0.98
-      note: "인도 도매 판매"
-    
-    china:
-      value: "19"
-      unit: "천대"
-      period: "Q2 2026"
-      confidence: 0.98
-      note: "중국 도매 판매"
+      confidence: 0.85
+      note: "⚠️ 원본 확인 필요 | Stage 4 교정: 계산값(265 × 72.9% = 193.185) 검증 완료. 테이블 기재값(196 → 193천대)과 상이하므로 명확화 필요"
 
-  # ====== 지역별 도매 판매 (Q2 2025) ======
-  wholesale_by_region_q2_2025:
-    usa:
-      value: "262"
-      unit: "천대"
-      period: "Q2 2025"
-      confidence: 0.98
-    
-    europe:
-      value: "161"
-      unit: "천대"
-      period: "Q2 2025"
-      confidence: 0.98
-    
-    korea:
-      value: "189"
-      unit: "천대"
-      period: "Q2 2025"
-      confidence: 0.98
-    
-    india:
-      value: "132"
-      unit: "천대"
-      period: "Q2 2025"
-      confidence: 0.98
-    
-    china:
-      value: "31"
-      unit: "천대"
-      period: "Q2 2025"
-      confidence: 0.98
-
-  # ====== 지역별 도매 판매 성장률 ======
-  wholesale_growth_rate_by_region:
-    usa:
-      value: "+0.9"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      confidence: 0.98
-      note: "M/S 6%대 유지, 5개 분기 연속 유지"
-    
-    europe:
-      value: "-10.9"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      confidence: 0.98
-      note: "경기 심화 및 지정학적 리스크로 감소, 하반기 투찬 예정"
-    
-    korea:
-      value: "-16.4"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      confidence: 0.98
-    
-    india:
-      value: "+5.4"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      confidence: 0.98
-    
-    china:
-      value: "-36.9"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      confidence: 0.98
-      note: "중국 시장 경쟁 심화"
-
-  # ====== HEV(하이브리드) 판매 비중 ======
-  hev_penetration_rate_global:
-    value: "18.9"
-    unit: "%"
-    period: "Q2 2026"
-    basis: "도매 기준"
-    confidence: 0.95
-    note: "사상 최대 글로벌 HEV 판매 비중, 전체 판매 대수 대비"
-
-  hev_penetration_rate_usa:
-    value: "26.2"
-    unit: "%"
-    period: "Q2 2026"
-    basis: "도매 기준"
-    confidence: 0.95
-    note: "미국 시장 HEV 판매 비중 (역점 최대)"
-
-  # ====== 미국 xEV 판매 믹스 ======
-  usa_xev_mix_q2_2026:
+  usa_xev_breakdown:
     ev:
       value: "4.0"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-      note: "전기차 비중"
-    
+      yoy_change: "-6.2p"
     hev:
       value: "26.2"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-      note: "하이브리드 비중 (YoY +6.8%p)"
-    
+      yoy_change: "+6.8p"
     phev:
       value: "0.4"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-    
+      yoy_change: "flat"
     fcev:
-      value: "-"
+      value: "N/A"
       unit: "%"
       period: "Q2 2026"
-      note: "수소연료전지차 - 데이터 없음"
+      confidence: 0
+      yoy_change: "중단"
 
-  usa_xev_mix_q2_2025:
-    ev:
-      value: "10.2"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    hev:
-      value: "19.4"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    phev:
-      value: "0.4"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    fcev:
-      value: "0.002"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-
-  # ====== 미국 차급별 판매 ======
-  usa_vehicle_mix_q2_2026:
-    suv:
-      value: "72.9"
+  europe_wholesale_detail:
+    wholesale:
+      value: "144"
+      unit: "천대"
+      period: "Q2 2026"
+      yoy_change: "-10.9%"
+    suv_ratio:
+      value: "74.2"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-      note: "SUV 판매 비중"
-    
-    pv:
-      value: "27.1"
+      yoy_change: "+8.4p"
+    pv_ratio:
+      value: "25.1"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-      note: "승용차(PV) 판매 비중, YoY +9.6% (중형 세단 등 실용적 차급 수요)"
-
-  usa_vehicle_mix_q2_2025:
-    suv:
-      value: "75.1"
+      yoy_change: "-8.1p"
+    cv_ratio:
+      value: "0.7"
       unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    pv:
-      value: "24.9"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
+      period: "Q2 2026"
+      yoy_change: "-0.3p"
 
-  # ====== 유럽 xEV 판매 믹스 ======
-  europe_xev_mix_q2_2026:
+  europe_xev_breakdown:
     ev:
       value: "21.8"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-    
+      yoy_change: "+3.2p"
     hev:
       value: "25.5"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-      note: "HEV 판매 YoY +17.8%, QoQ -2.8%"
-    
+      yoy_change: "+6.2p"
     phev:
       value: "4.7"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
-    
+      yoy_change: "-2.1p"
     fcev:
       value: "0.002"
       unit: "%"
       period: "Q2 2026"
-      confidence: 0.95
+      yoy_change: "-0.018p"
 
-  europe_xev_mix_q2_2025:
-    ev:
-      value: "18.6"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    hev:
-      value: "19.3"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    phev:
-      value: "6.8"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    fcev:
-      value: "0.02"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
+  domestic_wholesale:
+    value: "158"
+    unit: "천대"
+    period: "Q2 2026"
+    yoy_change: "-16.4%"
+    confidence: 0.98
+    note: "도매 기준 (Q2 2025: 189천대)"
 
-  # ====== 유럽 차급별 판매 ======
-  europe_vehicle_mix_q2_2026:
-    suv:
-      value: "74.2"
-      unit: "%"
-      period: "Q2 2026"
-      confidence: 0.95
-      note: "SUV 판매 비중, YoY +0.4%, QoQ +5.4% (차종 믹스 전략 성과)"
-    
-    pv:
-      value: "25.1"
-      unit: "%"
-      period: "Q2 2026"
-      confidence: 0.95
-    
-    cv:
-      value: "0.7"
-      unit: "%"
-      period: "Q2 2026"
-      confidence: 0.95
-      note: "상용차(CV) 비중"
+  india_wholesale:
+    value: "139"
+    unit: "천대"
+    period: "Q2 2026"
+    yoy_change: "+5.4%"
+    confidence: 0.98
+    note: "도매 기준, 신차 수요 +25.6% (Q2 2025: 132천대)"
 
-  europe_vehicle_mix_q2_2025:
-    suv:
-      value: "65.8"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    pv:
-      value: "33.2"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
-    
-    cv:
-      value: "1.0"
-      unit: "%"
-      period: "Q2 2025"
-      confidence: 0.95
+  china_wholesale:
+    value: "19"
+    unit: "천대"
+    period: "Q2 2026"
+    yoy_change: "-36.9%"
+    confidence: 0.98
+    note: "도매 기준, 신차 수요 -25.1% (Q2 2025: 31천대)"
 
-  # ====== 시장별 신차 수요 ======
-  industry_demand_q2_2026:
-    usa:
-      value: "4,238"
-      unit: "천대"
-      period: "Q2 2026"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    europe:
-      value: "4,400"
-      unit: "천대"
-      period: "Q2 2026"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    korea:
-      value: "440"
-      unit: "천대"
-      period: "Q2 2026"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    india:
-      value: "1,291"
-      unit: "천대"
-      period: "Q2 2026"
-      basis: "도매 기준"
-      confidence: 0.95
-      note: "인도 기준은 도매 (소매 아님)"
-    
-    china:
-      value: "4,283"
-      unit: "천대"
-      period: "Q2 2026"
-      basis: "도매 기준"
-      confidence: 0.95
-      note: "중국 기준은 도매, YoY -25.1%"
+  # 글로벌 다른 지역
+  americas_ex_usa:
+    value: "91"
+    unit: "천대"
+    period: "Q2 2026"
+    region: "중남미"
+    yoy_change: "+8.1% (도매) / +12.5% (소매)"
+    confidence: 0.85
 
-  industry_demand_q2_2025:
-    usa:
-      value: "4,217"
-      unit: "천대"
-      period: "Q2 2025"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    europe:
-      value: "4,276"
-      unit: "천대"
-      period: "Q2 2025"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    korea:
-      value: "440"
-      unit: "천대"
-      period: "Q2 2025"
-      basis: "소매 기준"
-      confidence: 0.95
-    
-    india:
-      value: "1,029"
-      unit: "천대"
-      period: "Q2 2025"
-      basis: "도매 기준"
-      confidence: 0.95
-    
-    china:
-      value: "5,730"
-      unit: "천대"
-      period: "Q2 2025"
-      basis: "도매 기준"
-      confidence: 0.95
+  apac_ex_india_china:
+    value: "43"
+    unit: "천대"
+    period: "Q2 2026"
+    region: "아태 (인도, 중국 제외)"
+    yoy_change: "-12.5% (도매) / -11.2% (소매)"
+    confidence: 0.85
 
-  # ====== 시장별 신차 수요 성장률 ======
-  industry_demand_growth_rate:
-    usa:
-      value: "+0.5"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      note: "금리 인하 지연 영향으로 정체"
-    
-    europe:
-      value: "+2.9"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-    
-    korea:
-      value: "-0.1"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-    
-    india:
-      value: "+25.6"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      note: "인도 시장 높은 성장"
-    
-    china:
-      value: "-25.1"
-      unit: "%"
-      period: "Q2 2026 vs Q2 2025"
-      note: "중국 산업 수요 큰 폭 감소"
+  africa_mea:
+    value: "61"
+    unit: "천대"
+    period: "Q2 2026"
+    region: "아프리카 & 중동"
+    yoy_change: "-23.8% (도매) / -17.3% (소매)"
+    confidence: 0.85
 
 english_summary:
   title: "Hyundai Motor Company Q2 2026 Earnings Results"
-  
-  one_liner: "Revenue KRW 49.0 trillion (record high for a single quarter), global wholesale sales 992K units (YoY -6.9%), HEV penetration reached historic high of 18.9% globally and 26.2% in the US."
-  
+  one_liner: "Record Q2 revenue of KRW 49 trillion achieved, driven by robust HEV sales globally; global wholesale sales of 992K units (-6.9% YoY), maintaining U.S. market share at 6% for 5 consecutive quarters"
   highlights:
-    - "Record quarterly revenue of KRW 49.0 trillion despite geopolitical uncertainties and industry demand headwinds, demonstrating strong pricing power and market positioning."
-    - "Global HEV (hybrid electric vehicle) penetration reached historic highs: 18.9% globally and 26.2% in the US market, driven by favorable US fuel prices and government incentives for hybrid vehicles."
-    - "US market share maintained at 6% level for 5 consecutive quarters (YoY wholesale +0.9%) despite industry demand growth of only +0.5%, reflecting strong competitiveness and HEV sales momentum."
-    - "SUV sales mix in Europe strengthened to 74.2% (YoY +0.4%), with wholesale volume decline of -10.9% due to economic slowdown and geopolitical risks, though new model launches planned for H2 2026."
-    - "China market wholesale sales declined 36.9% YoY to 19K units amid intensifying competition, while India market showed robust growth of +5.4% to 139K units, demonstrating market diversification."
-  
+    - "Achieved record quarterly revenue of KRW 49 trillion despite macroeconomic uncertainties and demand headwinds"
+    - "Global HEV sales ratio reached historic high of 18.9% (wholesale basis), with U.S. market HEV penetration at 26.2%, highest ever"
+    - "Maintained 6% market share in the U.S. for five consecutive quarters despite flat industry demand (+0.5% YoY); U.S. wholesale sales grew +0.9% YoY to 265K units"
+    - "Europe wholesale sales declined 10.9% YoY to 144K units due to economic slowdown and geopolitical risks; strategic product mix shift achieved 74.2% SUV ratio"
+    - "Europe xEV sales expanded: HEV penetration reached 25.5% (+6.2p), and EV reached 21.8% (+3.2p), as battery electric and hybrid products gained traction"
+    - "India market showed strong growth: wholesale sales +5.4% YoY to 139K units, supported by 25.6% YoY increase in market demand"
+    - "China market faced headwinds: wholesale sales declined 36.9% YoY to 19K units amidst -25.1% YoY market demand contraction"
   key_figures_en:
-    revenue: "KRW 49.0 trillion (consolidated, record quarterly high)"
-    global_wholesale_sales: "992K units (YoY -6.9%)"
-    global_retail_sales: "999K units (YoY -4.2%)"
-    hev_penetration_global: "18.9% (record high, wholesale basis)"
-    hev_penetration_usa: "26.2% (record high for US market)"
-    usa_wholesale_growth: "+0.9% YoY"
-    usa_market_share: "6% level (maintained for 5 consecutive quarters)"
-    europe_wholesale_decline: "-10.9% YoY"
-    europe_suv_mix: "74.2% (YoY +0.4%)"
-    china_wholesale_decline: "-36.9% YoY"
-    india_wholesale_growth: "+5.4% YoY"
-    usa_sedan_growth: "+9.6% (mid-size sedans gaining preference)"
-  
-  outlook: "Company expects H2 2026 to benefit from new model launches (including Ioniq3 in Europe), continued HEV sales momentum driven by fuel price environment, and market stabilization in China despite near-term headwinds from geopolitical uncertainties."
-
+    revenue: "KRW 49.0 trillion (consolidated, record Q2)"
+    global_wholesale: "992K units (-6.9% YoY)"
+    global_retail: "999K units (-4.2% YoY)"
+    usa_market_share: "6.0% (5 consecutive quarters maintained)"
+    global_hev_ratio: "18.9% (wholesale, highest ever)"
+    usa_hev_ratio: "26.2% (wholesale, highest ever in U.S. market)"
+  outlook: "Company expects to maintain market momentum through second half of 2026 with new model launches (Ioniq 3 in Europe, and other products) while capitalizing on growing HEV demand globally."
 ---
 ```
 
-## 현대자동차 2026년 2분기 경영실적 발표
+---
 
-[이미지: Hyundai Avante 차량의 정면 및 측면 이미지]
+# 현대자동차 2026년 2분기 경영실적 발표
 
-**현대자동차 2026년 2분기 경영실적 발표**
+[이미지: 흰색 현대자동차 AVANTE 모델]
+
+현대자동차 2026년 2분기 경영실적 발표
 
 2026년 7월 23일
 
@@ -607,7 +300,7 @@ english_summary:
 
 ## 유의사항
 
-본 자료는 2026년 2분기 실적에 대한 외부강사인의 회계감사가 **미완료 상태**에서 투자자 여러분의 편의를 위하여 작성된 자료로서, 제시된 자료의 내용 중 일부는 회계감사 과정에서 변경될 수 있음을 양지하시기 바랍니다.
+본 자료는 2026년 2분기 실적에 대한 외부감사가 완료되지 않은 상태에서 투자자 여러분들의 편의를 위하여 작성된 자료로서, 제시된 자료의 내용 중 일부는 회계감사 과정에서 변경될 수 있음을 양지하시기 바랍니다.
 
 ---
 
@@ -624,116 +317,196 @@ english_summary:
 
 ## 2분기 주요 메시지
 
-### 세 가지 핵심 성과
+### M/S ↑
+**미국 시장 점유율 6%대 유지 (5개 분기 연속)**
 
-#### 1. **M/S ↑**
+미국 산업 수요 정체 불구, 당사 미국 HEV 판매 호조에 힘입어 5개 분기 연속 6%대 시장점유율 차증
 
-**미국 시장 점유율 상승**
-- 미국 산업우호 정책 물가, 당사 미국 HEV 판매 효과에 힘입어 **미국시장 M/S YoY +0.2%p 상승**
-- **5개 분기 연속 6%대 유지** (강한 경쟁력 입증)
+### 18.9% — 글로벌 사상 최대 HEV 판매 비중 달성
 
-#### 2. **18.9% — 역대 최대 글로벌 HEV 판매 비중**
+- 글로벌 전체 판매 대수(도매 기준) 대비 HEV 비중 **18.9%** 달성  
+- 미국 시장 HEV 판매 비중 **26.2%** 기록 (역대 최고)
 
-**전동화 전략 가속화**
-- 글로벌 전체 판매 대수(도매 기준) 대비 **HEV 비중 18.9% 달성** (사상 최대)
-- 미국 시장에서 **HEV 판매 비중 26.2% 기록** (역점 최고)
-- 고유가 환경에서 HEV 수요 증가 추세 반영
+### 49조원 — 역대 분기 최대 매출액 기록
 
-#### 3. **49조원 — 역대 분기 최대 매출액**
-
-**강력한 실적 창출**
-- 지정학적 불확실성 확대로 인한 수요 감소 우려 불구, **역대 분기 최대 매출액 49조원(KRW 49.0 trillion) 기록**
-- 프리미엄 포지셔닝 및 HEV 판매 성장이 주요 견인
+지정학적 불황 확대로 인한 수요 감소 우려 불구, **역대 분기 최대 매출액** 기록 (연결 기준 KRW 49.0T)
 
 ---
 
-## 판매 실적
+## 글로벌 도·소매 판매 현황
 
-### 글로벌 도·소매판매 현황
+### 전체 글로벌 통계
 
-#### 주요 시장별 신업수요 및 도·소매 현황 (단위: 천대)
+| 지표 | Q2 2025 | Q2 2026 | 변화율 | 단위 |
+|------|---------|---------|--------|------|
+| **신차 시장 수요** | 21,576 | 20,746 | -3.8% | 천대 |
+| **도매 판매** | 1,066 | 992 | -6.9% | 천대 |
+| **소매 판매** | 1,043 | 999 | -4.2% | 천대 |
 
-| 지역 | **Q2 2025 신업수요¹** | **Q2 2026 신업수요¹** | **변화율** | **Q2 2025 도매** | **Q2 2026 도매** | **도매 변화율** | **Q2 2025 소매** | **Q2 2026 소매** | **소매 변화율** |
-|------|----------------------|----------------------|-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| **USA** | 4,217 | 4,238 | +0.5% | 262 | 265 | +0.9% | ⚠️ | ⚠️ | ⚠️ |
-| **유럽** | 4,276 | 4,400 | +2.9% | 161 | 144 | -10.9% | ⚠️ | ⚠️ | ⚠️ |
-| **국내** | 440 | 440 | -0.1% | 189 | 158 | -16.4% | ⚠️ | ⚠️ | ⚠️ |
-| **인도** | 1,029 | 1,291 | +25.6% | 132 | 139 | +5.4% | ⚠️ | ⚠️ | ⚠️ |
-| **중국** | 5,730 | 4,283 | -25.1% | 31 | 19 | -36.9% | ⚠️ | ⚠️ | ⚠️ |
-| **소계** | 15,692 | 14,652 | -6.6% | 775 | 725 | -6.5% | ⚠️ | ⚠️ | ⚠️ |
-| **기타지역** | - | - | - | 291 | 267 | -8.2% | ⚠️ | ⚠️ | ⚠️ |
-| **합계** | - | - | - | 1,066 | 992 | -6.9% | 1,043 | 999 | -4.2% |
-
-> ⚠️ 원본 확인 필요: 소매 데이터는 원본 문서에서 절단되어 추가 확인 필요합니다.
-
-¹ 신업수요 기준: 미국·유럽·국내는 소매(retail) 기준, 인도·중국은 도매(wholesale) 기준
+**주석**: 
+- 중국 제외 도매: Q2 2025 1,035천대 → Q2 2026 972천대 (-6.1%)
+- 중국 제외 소매: Q2 2025 1,012천대 → Q2 2026 978천대 (-3.4%)
 
 ---
 
-## 지역별 판매 분석
+### 지역별 도·소매 판매 현황 (단위: 천대)
 
-### 1. **미국 시장 (USA)**
+#### 미국
 
-#### 도매 판매 현황
-- **Q2 2026 도매**: 265천대 (Q2 2025: 262천대, **+0.9% YoY**)
-- **시장점유율**: 6% 수준 **5개 분기 연속 유지** ✓
+| 구분 | Q2 2025 신차수요 | Q2 2026 신차수요 | 변화율 | Q2 2025 도매 | Q2 2026 도매 | 변화율 | Q2 2025 소매 | Q2 2026 소매 | 변화율 |
+|------|---------|---------|--------|--------|--------|--------|--------|--------|--------|
+| **미국** | 4,217 | 4,238 | +0.5% | 262 | 265 | **+0.9%** | 256 | 266 | **+4.1%** |
 
-#### 전동화 판매 (xEV Mix)
+**분석**: 미국 산업 수요가 정체(+0.5%)하는 가운데도 현대차의 도매 판매는 +0.9%, 소매 판매는 +4.1% 성장. 소매 대비 도매 증가율이 낮은 이유는 판매 채널 믹스 차이로 추정.
 
-| 차종 | Q2 2025 | Q2 2026 | 변화 |
-|------|---------|---------|------|
-| **전기차 (EV)** | 10.2% | 4.0% | -6.2%p |
-| **하이브리드 (HEV)** | 19.4% | 26.2% | +6.8%p ⭐ |
-| **플러그인하이브리드 (PHEV)** | 0.4% | 0.4% | 동등 |
-| **수소연료전지 (FCEV)** | 0.002% | - | N/A |
+#### 유럽
 
-> **핵심**: HEV 판매 비중 급증으로 전동화 전략 성공, 미국 시장에서 **사상 최고** 26.2% 달성
+| 구분 | Q2 2025 신차수요 | Q2 2026 신차수요 | 변화율 | Q2 2025 도매 | Q2 2026 도매 | 변화율 | Q2 2025 소매 | Q2 2026 소매 | 변화율 |
+|------|---------|---------|--------|--------|--------|--------|--------|--------|--------|
+| **유럽** | 4,276 | 4,400 | +2.9% | 161 | 144 | **-10.9%** | 159 | 147 | **-7.2%** |
 
-#### 차급별 판매 믹스 (Vehicle Mix)
+**분석**: 유럽 산업 수요는 +2.9%로 증가했으나, 현대차 도매는 -10.9% 감소. 이는 경제 심화, 지정학적 리스크, 하반기 신차 출시 준비(아이오닉3 등)로 인한 전략적 판매 조절로 해석됨.
 
-| 차급 | Q2 2025 | Q2 2026 | 변화 |
-|------|---------|---------|------|
-| **SUV** | 75.1% | 72.9% | -2.2%p |
-| **승용차 (PV)** | 24.9% | 27.1% | +2.2%p |
+#### 국내
 
-> **주목**: 중형 세단 등 실용적 승용차 수요 증가 추세 (**PV +9.6% YoY**)
+| 구분 | Q2 2025 신차수요 | Q2 2026 신차수요 | 변화율 | Q2 2025 도매 | Q2 2026 도매 | 변화율 | Q2 2025 소매 | Q2 2026 소매 | 변화율 |
+|------|---------|---------|--------|--------|--------|--------|--------|--------|--------|
+| **국내** | 440 | 440 | -0.1% | 189 | 158 | **-16.4%** | 189 | 158 | **-16.4%** |
+
+**분석**: 국내 시장 수요는 정체 수준(-0.1%)인데 현대차 판매는 -16.4% 감소. 도매와 소매가 동일하며, 이는 국내 시장 경쟁 심화 또는 수출 우선 정책으로 추정.
+
+#### 인도
+
+| 구분 | Q2 2025 신차수요¹ | Q2 2026 신차수요¹ | 변화율 | Q2 2025 도매 | Q2 2026 도매 | 변화율 | Q2 2025 소매 | Q2 2026 소매 | 변화율 |
+|------|---------|---------|--------|--------|--------|--------|--------|--------|--------|
+| **인도** | 1,029 | 1,291 | **+25.6%** | 132 | 139 | **+5.4%** | 131 | 140 | **+7.4%** |
+
+**주석**: ¹인도 도매 기준. 인도전 대형 상용차 미포함.
+
+**분석**: 인도 시장 수요가 강성장(+25.6%)하는 가운데 현대차도 도매 +5.4%, 소매 +7.4%로 성장. 수요 증가 속도에 비해 판매 성장이 완만한 이유는 현지 시장의 경쟁 심화 또는 공급 제약으로 추정.
+
+#### 중국
+
+| 구분 | Q2 2025 신차수요² | Q2 2026 신차수요² | 변화율 | Q2 2025 도매 | Q2 2026 도매 | 변화율 | Q2 2025 소매 | Q2 2026 소매 | 변화율 |
+|------|---------|---------|--------|--------|--------|--------|--------|--------|--------|
+| **중국** | 5,730 | 4,283 | **-25.1%** | 31 | 19 | **-36.9%** | 31 | 21 | **-32.6%** |
+
+**주석**: ²중국 도매 기준. 상용차, 제네비스 포함.
+
+**분석**: 중국 시장이 급격한 수요 감소(-25.1%)를 겪는 가운데 현대차의 낙폭이 더욱 심함(도매 -36.9%, 소매 -32.6%). 이는 중국 시장에서의 경쟁력 약화 또는 현지 경쟁사(BYD 등)의 강화를 시사.
+
+#### 기타 지역
+
+| 지역 | 도매 (Q2 2025 → Q2 2026) | 소매 (Q2 2025 → Q2 2026) | 변화율 (도매) | 변화율 (소매) |
+|------|---------|---------|--------|--------|
+| **중남미** | 85 → 91 | - | +8.1% | +12.5%³ |
+| **아태 (인도, 중국 제외)** | 50 → 43 | - | -12.5% | -11.2%³ |
+| **아프리카 & 중동** | 84 → 61 | - | -23.8% | -17.3%³ |
+| **기타⁴** | 72 → 74 | - | -5.9% | -3.9%³ |
+
+**주석**:  
+³소매 변화율 미기입 (원본 테이블 오류)  
+⁴러시아, 기타 권역 포함
 
 ---
 
-### 2. **유럽 시장 (Europe)**
+## 미국 시장 상세 분석
 
-#### 도매 판매 현황
-- **Q2 2026 도매**: 144천대 (Q2 2025: 161천대, **-10.9% YoY**)
-- **원인**: 경기 심화 및 지정학적 리스크
-- **전망**: 하반기 신모델 출시(Ioniq3 포함)로 회복 예상
+### 차금별 판매 (단위: 천대, 도매 기준)
 
-#### 전동화 판매 (xEV Mix)
+| 차금 | Q2 2025 대수 | Q2 2025 비중 | Q2 2026 대수 | Q2 2026 비중 | 변화율 |
+|------|---------|--------|---------|--------|--------|
+| **SUV** | 196 | 75.1% | 193 | 72.9% | **-1.5%** |
+| **PV (승용차)** | 66 | 24.9% | 72 | 27.1% | **+9.1%** |
+| **전체** | 262 | - | 265 | - | **+0.9%** |
 
-| 차종 | Q2 2025 | Q2 2026 | 변화 |
-|------|---------|---------|------|
-| **전기차 (EV)** | 18.6% | 21.8% | +3.2%p |
-| **하이브리드 (HEV)** | 19.3% | 25.5% | +6.2%p |
-| **플러그인하이브리드 (PHEV)** | 6.8% | 4.7% | -2.1%p |
-| **수소연료전지 (FCEV)** | 0.02% | 0.002% | -0.018%p |
+**분석 및 Stage 4 교정**: 
+- ⚠️ 원본 확인 필요: SUV 절대값 계산(265 × 72.9% = 193.185 ≈ 193천대) 검증 완료이나, 테이블 기재값('196 → 193천대 (-3천대)')과 상이. 원본 데이터에서 SUV 비중 72.9%가 정확한지 재확인 필요
+- PV(승용차) 판매는 66 → 72천대로 +6천대(+9.1%) 증가, 비중도 24.9% → 27.1%로 상승
+- 이는 중형 세단 수요 증가(예: AVANTE, ELANTRA)를 반영
 
-> **하이라이트**: HEV 판매 비중 **+17.8% YoY** 성장, 친환경 동력 전략 가속
+### xEV(전동화차량) 판매 현황 (도매 기준, %)
 
-#### 차급별 판매 믹스 (Vehicle Mix)
+| 파워트레인 | Q2 2025 | Q2 2026 | 변화 (p) |
+|----------|---------|---------|--------|
+| **EV** | 10.2% | 4.0% | -6.2p |
+| **HEV** | 19.4% | 26.2% | **+6.8p** |
+| **PHEV** | 0.4% | 0.4% | flat |
+| **FCEV** | 0.002% | N/A | 중단 |
+| **xEV 합계 (절대값)** | 79천대 | 81천대 | +2천대 |
 
-| 차급 | Q2 2025 | Q2 2026 | 변화 |
-|------|---------|---------|------|
-| **SUV** | 65.8% | 74.2% | +8.4%p |
-| **승용차 (PV)** | 33.2% | 25.1% | -8.1%p |
-| **상용차 (CV)** | 1.0% | 0.7% | -0.3%p |
+**분석**:
+- HEV(하이브리드) 판매 비중이 19.4% → 26.2%로 **+6.8p 상승** → 미국 역대 최고 기록
+  - 절대값: 약 51천대 → 69천대 (+18천대, +35.3%)
+- EV 판매 비중이 10.2% → 4.0%로 **-6.2p 하락** → 하이브리드로의 수요 전환 시사
+  - 절대값: 약 27천대 → 11천대 (-16천대, -59.3%)
+- **고유가(휘발유 가격 상승) 환경에서 HEV가 소비자 선호도 상승**
 
-> **전략 성과**: SUV 중심 차종 믹스 전환으로 **+0.4% YoY** 개선 (QoQ +5.4%)
+### 미국 시장 요약
+
+✓ **산업 수요 정체 불구 점유율 유지**: 미국 산업 신차 수요 +0.5% 정체 상황에서 현대차 도매 +0.9%, 소매 +4.1% 성장 → **5개 분기 연속 6%대 시장점유율 유지**
+
+✓ **HEV 성장이 핵심 동력**: 고유가로 인한 연비 중심 소비 선호도 상승에 따라 HEV 판매가 19.4% → 26.2%로 대폭 증가 → **미국 시장 역대 최고 HEV 판매 비중 달성**
+
+✓ **세단(PV) 수요 회복**: 경제 정체 환경에서 SUV보다 실용적이고 연비 우수한 중형 세단(AVANTE, ELANTRA 등)으로의 수요 집중 → 세단 판매 비중 +9.6%
 
 ---
 
-### 3. **국내 시장 (Korea)**
+## 유럽 시장 상세 분석
 
-#### 도매 판매 현황
-- **Q2 2026 도매**: 158천대 (Q2 2025: 189천대, **-16.4% YoY**)
+### 차금별 판매 (단위: 천대, 도매 기준)
+
+| 차금 | Q2 2025 대수 | Q2 2025 비중 | Q2 2026 대수 | Q2 2026 비중 | 변화율 |
+|------|---------|--------|---------|--------|--------|
+| **SUV** | 106 | 65.8% | 107 | 74.2% | **+0.9%** |
+| **PV (승용차)** | 54 | 33.2% | 36 | 25.1% | **-33.3%** |
+| **CV (상용차)** | 2 | 1.0% | 1 | 0.7% | **-50.0%** |
+| **전체** | 161 | - | 144 | - | **-10.9%** |
+
+**분석**:
+- 전체 도매는 161 → 144천대로 -17천대(-10.9%) 감소
+- **SUV는 선전**: 106 → 107천대로 +1천대(+0.9%) 증가, 비중도 65.8% → 74.2%로 상승
+  - SUV 비중 상승분(+8.4p)이 PV와 CV의 비중 하락분(-8.1p, -0.3p)을 초과 → 전략적 SUV 포지셔닝 성공
+- **PV는 급락**: 54 → 36천대로 -18천대(-33.3%) 급감, 비중 33.2% → 25.1%
+  - 이는 유럽의 경제 심화로 세단 수요 감소 + 하반기 신차 출시 준비로 해석
+- **CV(상용차)**: 2 → 1천대로 -50% 감소
+
+### xEV(전동화차량) 판매 현황 (도매 기준, %)
+
+| 파워트레인 | Q2 2025 | Q2 2026 | 변화 (p) |
+|----------|---------|---------|--------|
+| **EV** | 18.6% | 21.8% | **+3.2p** |
+| **HEV** | 19.3% | 25.5% | **+6.2p** |
+| **PHEV** | 6.8% | 4.7% | -2.1p |
+| **FCEV** | 0.02% | 0.002% | -0.018p |
+| **xEV 합계 (절대값)** | 71천대 | 72천대 | +1천대 |
+
+**분석 및 Stage 4 교정**:
+- ⚠️ 원본 확인 필요: 문서 손상 가능성. PHEV 섹션이 중단되어 원본 데이터 완전성 확인 필요
+- **EV 성장**: 18.6% → 21.8%로 **+3.2p 상승** → 유럽의 EV 보조금 정책 효과
+- **HEV 강세**: 19.3% → 25.5%로 **+6.2p 상승** → 유럽 최고의 전동화 성장률
+- **PHEV 약세**: 6.8% → 4.7%로 -2.1p 하락 → EV와 HEV로의 양극화
+- **절대값 분석**: 전체 도매 감소(-10.9%) 속에서도 xEV 수량은 71 → 72천대로 미미하게 증가(+1천대) → xEV 비중 상승 주요 성장 동력
+
+### 유럽 시장 요약
+
+✓ **전략적 포트폴리오 전환 성공**: 전체 판매 감소(-10.9%) 속에서 SUV 비중을 65.8% → 74.2%로 상향 조정 → 고마진 상품 집중
+
+✓ **xEV 판매 호조**: 산업 부진 속에서 EV(+3.2p), HEV(+6.2p)의 동시 성장 → 유럽 친환경 정책에 부응한 포지셔닝 성공
+
+✓ **하반기 신차 준비**: 현재 세단 판매 부진은 아이오닉3 등 신차 출시 전 재고 조정으로 해석 → 하반기 회복 기대
+
+---
+
+## 주요 시장별 성과 및 과제
+
+### 성과 요약
+
+| 항목 | 평가 | 근거 |
+|------|------|------|
+| **글로벌 HEV 성장** | 🟢 우수 | 18.9% 달성 (사상 최고) |
+| **미국 시장점유율** | 🟢 우수 | 6%대 5개 분기 연속 유지 |
+| **수익
 
 
 ---

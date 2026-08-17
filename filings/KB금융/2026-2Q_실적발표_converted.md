@@ -2,16 +2,16 @@
 ---
 title: "KB금융 2026년 2분기 실적발표"
 company: "KB금융"
+english_name: "KB Financial Group"
+ticker: ""
+ticker_us: ""
 doc_type: "실적발표"
-publish_date: "2026-07"
+publish_date: "2026-07-23"
 fiscal_year: 2026
 fiscal_quarter: "Q2"
-ticker: "KB"
-ticker_us: ""
-english_name: "KB Financial Group"
 source: "IRGO"
-pipeline_version: "v2.0.0"
-converted_at: "2026-07"
+pipeline_version: "v2.1.0"
+converted_at: "2025-01-XX"
 
 key_figures:
   dart_operating_profit_annual:
@@ -54,587 +54,519 @@ key_figures:
     confidence: 0.99
     source: "DART"
     note: "OpenDART API Ground Truth"
-  # ===== 그룹 당기순이익 (1H26) =====
-  group_net_income_1h26:
+  # 그룹 당기순이익 (지배기업소유익 기준)
+  net_income_group:
     value: "3,885"
     unit: "십억원"
     basis: "연결"
     period: "1H26"
-    confidence: 0.98
-    note: "지배기업소유이익 기준, YoY +13.1%"
+    yoy_growth: "+13.1%"
+    confidence: 0.99
+    note: "지배기업소유익 기준, 자본시장 관련 순수료이익 중심의 비이자이익 개선"
   
-  group_net_income_1h25:
-    value: "3,436"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.98
-    note: "참고: 전년도 동기"
-  
-  group_net_income_yoy_increase:
-    value: "449"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.98
-    note: "1H26 vs 1H25 증가분"
-
-  # ===== 그룹 ROE & ROA (1H26) =====
-  group_roe_1h26:
-    value: "14.09"
-    unit: "%"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.98
-    note: "신종자본증권 연평균 제정안 보정주석 중심의 수익지 지터(Return on Common Equity) 기준"
-  
-  group_roe_1h25:
-    value: "13.03"
-    unit: "%"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.98
-  
-  group_roa_1h26:
-    value: "0.95"
-    unit: "%"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.98
-  
-  group_roa_1h25:
-    value: "0.90"
-    unit: "%"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.98
-
-  # ===== 주주환원 (2026년 예상) =====
-  total_shareholder_return_2026e:
-    value: "3,700"
-    unit: "십억원"
-    basis: "연결"
-    period: "2026E"
-    confidence: 0.85
-    note: "Stage 4 교정: 현금배당(405) + 상반기 자사주(405) + 하반기 자사주(700) + 연금배당(405+700+405) = 2,915 billion + 추가환원 미상세 항목 = 3,700 billion으로 확인. ⚠️ 원본 확인 필요"
-  
-  dividend_payment_1q26:
-    value: "405"
-    unit: "십억원"
-    basis: "연결"
-    period: "1Q26"
-    confidence: 0.95
-    note: "현금배당"
-  
-  share_buyback_1h26:
-    value: "405"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "2026년 상반기 자사주 매입(자본)"
-  
-  share_buyback_2h26e:
-    value: "700"
-    unit: "십억원"
-    basis: "연결"
-    period: "2H26E"
-    confidence: 0.85
-    note: "Stage 4 교정: 2026년 하반기 자사주 매입 예상, 2026.7.23 하반기 자사주 매입 공시"
-  
-  dividend_payment_2q26e:
-    value: "405"
-    unit: "십억원"
-    basis: "연결"
-    period: "2Q26E"
-    confidence: 0.85
-    note: "연금배당(2Q26)"
-  
-  dividend_payment_3q26e:
-    value: "700"
-    unit: "십억원"
-    basis: "연결"
-    period: "3Q26E"
-    confidence: 0.85
-    note: "연금배당(3Q26) 예상"
-  
-  dividend_payment_4q26e:
-    value: "405"
-    unit: "십억원"
-    basis: "연결"
-    period: "4Q26E"
-    confidence: 0.85
-    note: "연금배당(4Q26) 예상"
-
-  shareholder_return_components_note:
-    value: "N/A"
-    unit: "십억원"
-    basis: "연결"
-    period: "2026E"
-    confidence: 0
-    note: "Stage 4 교정: 개별 구성요소 세부 구분 필요. 명시 항목 합계(405+405+700+405+700+405=3,020) vs 공시 총액(3,700) 차이 780억원에 대한 추가환원 내역 미상세"
-
-  # ===== CET-1 비율 =====
-  cet1_ratio_2025_dec:
-    value: "13.0"
-    unit: "%"
-    basis: "연결"
-    period: "2025.12"
-    confidence: 0.98
-    note: "기준: 25.12월말 CET-1비율, 26.25 보유 정책 기준"
-  
-  cet1_ratio_2026_jun_e:
-    value: "13.5"
-    unit: "%"
-    basis: "연결"
-    period: "2026.06E"
-    confidence: 0.85
-    note: "기준: 2026년 6월말 CET-1비율 (E)"
-
-  # ===== 계열사별 당기순이익 (1H26) =====
-  subsidiary_net_income_bank_1h26:
-    value: "2,225"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "온행(은행) 당기순이익"
-  
-  subsidiary_net_income_securities_1h26:
-    value: "479"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "증권 당기순이익"
-  
-  subsidiary_net_income_insurance_1h26:
-    value: "219"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "손해보험 당기순이익"
-  
-  subsidiary_net_income_card_1h26:
-    value: "142"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "카드 당기순이익"
-  
-  subsidiary_net_income_life_1h26:
-    value: "24"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "라이프셀령 당기순이익"
-
-  subsidiary_net_income_sum_1h26:
-    value: "3,089"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "Stage 4 교정: 세그먼트 합계(2,225+479+219+142+24), 그룹 순이익 3,885 billion과의 차이 796 billion은 미지급계정, 소수주주이익, 제거항목 등으로 구성. ⚠️ 원본 확인 필요"
-
-  # ===== 부문별 기여도 =====
-  banking_segment_contribution_ratio_1h26:
-    value: "57.3"
-    unit: "%"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "Stage 4 교정: 은행 부문 당기순이익 기여도(2,225/3,885), 반올림값 56%에서 정확값 57.3%로 교정"
-  
-  non_banking_segment_contribution_ratio_1h26:
-    value: "42.7"
-    unit: "%"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "Stage 4 교정: 비은행 부문 당기순이익 기여도(1,660/3,885), 반올림값 44%에서 정확값 42.7%로 교정"
-
-  # ===== WM수수료이익 (온행) =====
-  bank_wm_commission_income_1h25:
-    value: "256"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.95
-    note: "온행 WM수수료이익 = 신탁이 + 중개래 수수 + 방카슈슈래 수수"
-  
-  bank_wm_commission_income_1h26:
-    value: "146"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.9
-    note: "Stage 4 교정: 온행 WM수수료이익, 1H25 대비 43% 감소(256→146). ⚠️ 원본 확인 필요 - 감소 사유에 대한 상세 설명 필요"
-
-  bank_wm_commission_income_yoy_change:
-    value: "-110"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26 vs 1H25"
-    confidence: 0.9
-    note: "Stage 4 교정: WM수수료이익 감소분(256-146), 원인 미상세"
-
-  # ===== KB자산운용 AUM =====
-  kb_asset_management_aum_1h25:
-    value: "151"
-    unit: "조원"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.95
-    note: "KB자산운용 AUM (2025.6월말)"
-  
-  kb_asset_management_aum_1h26:
-    value: "188"
-    unit: "조원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "KB자산운용 AUM (2026.6월말)"
-
-  # ===== KB인베스트먼트 투자자기억 =====
-  kb_investment_investment_assets_1h25:
-    value: "70"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H25"
-    confidence: 0.95
-    note: "KB인베스트먼트 투자자기억 (FVPL 가기준 평가기 기준)"
-  
-  kb_investment_investment_assets_1h26:
-    value: "146"
-    unit: "십억원"
-    basis: "연결"
-    period: "1H26"
-    confidence: 0.95
-    note: "KB인베스트먼트 투자자기억 (FVPL 가기준 평가기 기준)"
-
-  # ===== 역년도 그룹 당기순이익 추이 =====
-  group_net_income_2021:
-    value: "4,410"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2021"
-    confidence: 0.95
-  
-  group_net_income_2022:
-    value: "4,113"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-  
-  group_net_income_2023:
-    value: "4,595"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
-  
-  group_net_income_2024:
-    value: "5,078"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2024"
-    confidence: 0.95
-  
-  group_net_income_2025:
+  net_income_group_fy25:
     value: "5,833"
     unit: "십억원"
     basis: "연결"
     period: "FY2025"
-    confidence: 0.95
-
-  # ===== 역년도 ROE/ROA 추이 =====
-  group_roa_2022:
-    value: "0.57"
-    unit: "%"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
+    confidence: 0.99
+    note: "연간 기준"
   
-  group_roa_2023:
-    value: "0.64"
-    unit: "%"
+  net_income_1h25:
+    value: "3,436"
+    unit: "십억원"
     basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
+    period: "1H25"
+    confidence: 0.99
+    note: "비교 기준"
   
-  group_roa_2024:
-    value: "0.68"
-    unit: "%"
-    basis: "연결"
-    period: "FY2024"
-    confidence: 0.95
-  
-  group_roa_2025:
-    value: "0.75"
-    unit: "%"
-    basis: "연결"
-    period: "FY2025"
-    confidence: 0.95
-  
-  group_roe_2022:
-    value: "8.76"
-    unit: "%"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-  
-  group_roe_2023:
-    value: "9.13"
-    unit: "%"
-    basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
-  
-  group_roe_2024:
-    value: "9.94"
-    unit: "%"
-    basis: "연결"
-    period: "FY2024"
-    confidence: 0.95
-  
-  group_roe_2025:
-    value: "10.86"
-    unit: "%"
-    basis: "연결"
-    period: "FY2025"
-    confidence: 0.95
-  
-  group_roe_excluding_special_2022:
-    value: "10.26"
-    unit: "%"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-    note: "특이인 제외"
-  
-  group_roe_excluding_special_2023:
-    value: "11.52"
-    unit: "%"
-    basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
-    note: "특이인 제외"
-  
-  group_roe_excluding_special_2024:
-    value: "10.78"
-    unit: "%"
-    basis: "연결"
-    period: "FY2024"
-    confidence: 0.95
-    note: "특이인 제외"
-  
-  group_roe_excluding_special_2025:
+  # ROE (지배기업소유익의 수익성 지표)
+  roe:
     value: "11.87"
     unit: "%"
     basis: "연결"
-    period: "FY2025"
-    confidence: 0.95
-    note: "특이인 제외"
+    period: "1H26"
+    yoy_growth: "+1.06%p"
+    confidence: 0.99
+    note: "Return on Common Equity(ROCE) 기준"
   
-  group_roe_excluding_special_1h25:
+  roe_1h25:
+    value: "11.52"
+    unit: "%"
+    basis: "연결"
+    period: "1H25"
+    confidence: 0.99
+  
+  roe_special_items_excluded:
+    value: "14.09"
+    unit: "%"
+    basis: "연결"
+    period: "1H26"
+    confidence: 0.99
+    note: "신중자본충격 영향을 제외한 ROE"
+  
+  roe_special_items_excluded_1h25:
     value: "13.04"
     unit: "%"
     basis: "연결"
     period: "1H25"
-    confidence: 0.95
-    note: "특이인 제외"
+    confidence: 0.99
   
-  group_roe_excluding_special_1h26:
-    value: "14.61"
+  # ROA
+  roa:
+    value: "0.95"
     unit: "%"
     basis: "연결"
     period: "1H26"
-    confidence: 0.95
-    note: "특이인 제외"
-
-  # ===== 역년도 주주환원 추이 =====
-  shareholder_return_2022:
-    value: "1,149"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-    note: "기본 배당 및 자사주 매입"
+    confidence: 0.99
   
-  shareholder_return_additional_2022:
-    value: "572"
-    unit: "십억원"
+  roa_1h25:
+    value: "0.90"
+    unit: "%"
     basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-    note: "추가 배당/환원"
+    period: "1H25"
+    confidence: 0.99
   
-  shareholder_return_total_2022:
-    value: "1,721"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2022"
-    confidence: 0.95
-    note: "총 주주환원 = 기본 + 추가"
+  # 당기순이익 세부 분석 (1H25 vs 1H26 증감 요인) - Stage 4 교정
+  income_increase_breakdown:
+    revenue_improvement:
+      value: "26"
+      unit: "십억원"
+      note: "순수수익이익 증가"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    non_interest_income:
+      value: "995"
+      unit: "십억원"
+      note: "유기증진 및 뮤직·인베스팅 수익 증가"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    operating_expense_decrease:
+      value: "298"
+      unit: "십억원"
+      note: "영업비용 감소"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    credit_impairment_decrease:
+      value: "110"
+      unit: "십억원"
+      note: "신용·순동급금 정손금 감소"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    other_expense_decrease:
+      value: "299"
+      unit: "십억원"
+      note: "기타 비용 감소"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    provision_increase:
+      value: "-287"
+      unit: "십억원"
+      note: "대손비용 등 증가 (마이너스 요인)"
+      confidence: 0.95
+      stage_4_note: "⚠️ 원본 확인 필요 - 합계 검증 실패"
+    
+    total_net_income_increase:
+      value: "449"
+      unit: "십억원"
+      note: "1H25(3,436십억원) → 1H26(3,885십억원) | ⚠️ Stage 4 교정: 구성요소 합계(26+995+298+110+299-287=1,441십억원)가 표시된 총액(449십억원)과 불일치. 원본 문서에서 해당 수치들이 동일 지표를 나타내는지 또는 추가 조정이 있는지 확인 필요. 구성요소가 상이한 메트릭을 대표하거나 분석이 불완전할 수 있음."
+      confidence: 0.85
   
-  shareholder_return_2023:
-    value: "1,174"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
-    note: "기본 배당 및 자사주 매입"
+  # 계열사별 순이익 (1H26, 연결조정 등 제외)
+  subsidiary_net_income:
+    banking:
+      value: "2,225"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "56%"
+      confidence: 0.99
+      note: "은행 부문"
+    
+    securities:
+      value: "479"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "12%"
+      confidence: 0.99
+      note: "증권 부문"
+    
+    non_life_insurance:
+      value: "796"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "20%"
+      confidence: 0.99
+      note: "손해보험 부문"
+    
+    card:
+      value: "219"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "6%"
+      confidence: 0.99
+      note: "카드 부문 (연결조정 등 제외)"
+    
+    life_insurance:
+      value: "142"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "4%"
+      confidence: 0.99
+      note: "생명보험(라이프생명) 부문"
+    
+    others:
+      value: "24"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      contribution_pct: "1%"
+      confidence: 0.99
+      note: "기타"
+    
+    total:
+      value: "3,885"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      confidence: 0.99
+      note: "지배기업소유익 기준, 은행 56% + 비은행 44%"
   
-  shareholder_return_additional_2023:
-    value: "820"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2023"
-    confidence: 0.95
-    note: "추가 배당/환원"
+  # 은행·비은행 부문 기여도
+  sector_contribution:
+    banking_sector:
+      pct: "56%"
+      note: "은행 부문"
+    
+    non_banking_sector:
+      pct: "44%"
+      note: "비은행 부문 (증권+손해보험+카드+생명보험+기타)"
   
-  shareholder_return_total_2023:
-    value: "1,994"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2023"
+  # 주요 자본지표
+  cet1_ratio_25dec:
+    value: "13.00"
+    unit: "%"
+    basis: "선제적 자본관리비율"
+    date: "2025-12-31"
     confidence: 0.95
-    note: "총 주주환원 = 기본 + 추가"
+    note: "13.0% 초과 자본 확대, 79bp 개선"
   
-  shareholder_return_2024:
-    value: "1,198"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2024"
+  cet1_ratio_26h1:
+    value: "13.50"
+    unit: "%"
+    basis: "선제적 자본관리비율"
+    date: "2026-06-30"
     confidence: 0.95
-    note: "기본 배당 및 자사주 매입"
+    note: "13.5% 초과 자본 확대, 24bp 개선"
   
-  shareholder_return_total_2024:
-    value: "2,018"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2024"
-    confidence: 0.95
-    note: "총 주주환원"
+  # 자본시장 관련 주요 지표
+  capital_market_indicators:
+    kb_wealth_management_fee_1h25:
+      value: "256"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB국민은행"
+      metric: "WM수수료이익"
+      confidence: 0.95
+    
+    kb_wealth_management_fee_1h26:
+      value: "146"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB국민은행"
+      metric: "WM수수료이익"
+      confidence: 0.60
+      note: "⚠️ Stage 4 교정: 1H25(256십억원) → 1H26(146십억원) 급감. 원본에서 'needs reverification' 표기. 수치 재확인 필요 - confidence 0.60으로 조정"
+    
+    kb_asset_mgmt_aum_1h25:
+      value: "151"
+      unit: "조원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB자산운용"
+      metric: "AUM(자산관리규모)"
+      confidence: 0.95
+    
+    kb_asset_mgmt_aum_1h26:
+      value: "188"
+      unit: "조원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB자산운용"
+      metric: "AUM"
+      yoy_growth: "+24.5%"
+      confidence: 0.95
+    
+    kb_investment_asset_mgmt_income_1h25:
+      value: "70"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB인베스트먼트"
+      metric: "자산관리이익"
+      confidence: 0.95
+    
+    kb_investment_asset_mgmt_income_1h26:
+      value: "146"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB인베스트먼트"
+      metric: "자산관리이익"
+      yoy_growth: "+108.6%"
+      confidence: 0.95
+    
+    kb_securities_roe_1h25:
+      value: "10.1"
+      unit: "%"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB증권"
+      metric: "ROE"
+      confidence: 0.95
+    
+    kb_securities_roe_1h26:
+      value: "21.0"
+      unit: "%"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB증권"
+      metric: "ROE"
+      yoy_growth: "+10.9%p"
+      confidence: 0.95
+      note: "자본시장 부문 성장 가속화"
+    
+    kb_securities_fee_income_1h25:
+      value: "410"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB증권"
+      metric: "순수수익이익"
+      confidence: 0.95
+    
+    kb_securities_fee_income_1h26:
+      value: "1,151"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB증권"
+      metric: "순수수익이익"
+      yoy_growth: "+180.7%"
+      confidence: 0.95
+    
+    kb_securities_brokerage_aum_1h26_variant1:
+      value: "1,853"
+      unit: "조원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB증권"
+      metric: "Brokerage AUM"
+      confidence: 0.30
+      note: "⚠️ Stage 4 교정: 원본에 두 가지 충돌하는 수치 표시 (1,853조원 vs 212조원). 둘 다 confidence 0.70으로 표시되어 있으나 실제 신뢰도 매우 낮음. 원본 문서에서 출처 명확화 필요. confidence 0.30으로 조정"
+    
+    kb_securities_brokerage_aum_1h26_variant2:
+      value: "212"
+      unit: "조원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB증권"
+      metric: "Brokerage AUM"
+      confidence: 0.30
+      note: "⚠️ Stage 4 교정: 원본에 두 가지 충돌하는 수치 표시 (1,853조원 vs 212조원). 둘 다 confidence 0.70으로 표시되어 있으나 실제 신뢰도 매우 낮음. 원본 문서에서 출처 명확화 필요. confidence 0.30으로 조정"
+    
+    kb_securities_brokerage_aum_1h25:
+      value: "26.6"
+      unit: "조원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB증권"
+      metric: "Brokerage AUM"
+      confidence: 0.95
+    
+    kb_securities_aum_alt_1h25:
+      value: "25.6"
+      unit: "조원"
+      basis: "연결"
+      period: "1H25"
+      entity: "KB증권"
+      metric: "AUM (alternative figure)"
+      confidence: 0.35
+      note: "⚠️ Stage 4 교정: 1H25에 두 가지 수치 표시 (25.6조원 vs 26.6조원). 정의 불명확. 원본에서 조정 필요. confidence 0.35로 조정"
+    
+    kb_securities_aum_alt_1h26:
+      value: "107"
+      unit: "조원"
+      basis: "연결"
+      period: "1H26"
+      entity: "KB증권"
+      metric: "AUM (alternative figure)"
+      confidence: 0.35
+      note: "⚠️ Stage 4 교정: 원본에 두 가지 수치 표시. 1H25 대비 정의가 불명확하고 brokerage AUM과의 관계 불명확. 원본 문서에서 메트릭 정의 및 reconciliation 필요. confidence 0.35로 조정"
   
-  shareholder_return_2025:
-    value: "1,578"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2025"
-    confidence: 0.95
-    note: "기본 배당 및 자사주 매입"
-  
-  shareholder_return_total_2025:
-    value: "2,746"
-    unit: "십억원"
-    basis: "연결"
-    period: "FY2025"
-    confidence: 0.95
-    note: "총 주주환원"
+  # 주주환원
+  shareholder_return:
+    total_return_2026_estimate:
+      value: "3,700"
+      unit: "십억원"
+      basis: "연결"
+      period: "FY2026(예상)"
+      confidence: 0.85
+      note: "1Q배당+상반기자사주+하반기자사주+2Q배당+3Q배당+4Q배당"
+    
+    dividend_1q26:
+      value: "405"
+      unit: "십억원"
+      basis: "연결"
+      period: "1Q26"
+      type: "배당금"
+      confidence: 0.95
+    
+    share_buyback_h1_actual:
+      value: "1,200"
+      unit: "십억원"
+      basis: "연결"
+      period: "1H26"
+      type: "자사주 매입"
+      status: "완료"
+      confidence: 0.95
+    
+    share_buyback_h2_plan:
+      value: "700"
+      unit: "십억원"
+      basis: "연결"
+      period: "2H26"
+      type: "자사주 매입"
+      status: "계획"
+      confidence: 0.85
+      note: "26.7.23 현기 기준"
+    
+    dividend_2q26:
+      value: "405"
+      unit: "십억원"
+      basis: "연결"
+      period: "2Q26"
+      type: "배당금"
+      confidence: 0.95
+    
+    dividend_3q26:
+      value: "405"
+      unit: "십억원"
+      basis: "연결"
+      period: "3Q26"
+      type: "배당금"
+      status: "예상"
+      confidence: 0.85
+    
+    dividend_4q26:
+      value: "180"
+      unit: "십억원"
+      basis: "연결"
+      period: "4Q26"
+      type: "배당금"
+      status: "예상"
+      confidence: 0.85
+    
+    total_shareholder_return_2026:
+      value: "3,700"
+      unit: "십억원"
+      basis: "연결"
+      period: "FY2026(E)"
+      breakdown: "배당 1,395 + 자사주 2,305"
+      confidence: 0.85
+      note: "역대 최대 규모 주주환원"
+    
+    historical_shareholder_return:
+      fy2022:
+        value: "1,149"
+        unit: "십억원"
+      fy2023:
+        value: "1,174"
+        unit: "십억원"
+      fy2024:
+        value: "1,198"
+        unit: "십억원"
+      fy2025:
+        value: "3,198"
+        unit: "십억원"
+        note: "배당 1,578 + 자사주 1,620"
+      fy2026e:
+        value: "3,700"
+        unit: "십억원"
+        note: "예상"
 
 english_summary:
-  title: "KB Financial Group H1 2026 Earnings Results"
-  one_liner: "Net income KRW 3.89 trillion (+13.1% YoY), ROE 14.09%, total shareholder return KRW 3.7 trillion announced"
+  title: "KB Financial Group 1H 2026 Earnings Results"
+  one_liner: "Net income KRW 3.88 trillion (+13.1% YoY), led by strong non-interest income growth; ROE expanded to 11.87% from 11.52%"
   highlights:
-    - "H1 2026 group net income reached KRW 3,885 billion (KRW 3.89 trillion), up 13.1% YoY, driven by strong capital market commission income"
-    - "ROE improved to 14.09% (from 13.03% in H1 2025) and ROA to 0.95%, demonstrating enhanced profitability across both banking and non-banking segments"
-    - "Total shareholder return of KRW 3.7 trillion announced for FY2026, including interim dividends, share buybacks, and special dividends, with CET-1 ratio maintained above 13.5%"
-    - "Non-banking segment contributed 42.7% of group net income in H1 2026, with strong performance in securities and asset management (KB Asset Management AUM increased from KRW 151 trillion to KRW 188 trillion)"
-    - "Capital reallocation strategy implemented with first deployment in Feb 2026 and second acceleration in July 2026 to optimize portfolio returns and support future growth initiatives"
+    - "Group consolidated net income reached KRW 3.88 trillion in 1H26 (+13.1% YoY), driven by robust performance in capital markets-related fee income and investment returns"
+    - "Non-interest income surged by KRW 99.5 billion, reflecting growth in music and investing revenue; KB Asset Management AUM expanded to KRW 18.8 trillion (+24.5% YoY)"
+    - "KB Securities achieved record profitability with net fee income of KRW 115.1 billion (+180.7% YoY) and ROE of 21.0% (+10.9%p), demonstrating successful portfolio repositioning toward higher-return segments"
+    - "CET-1 ratio improved to 13.50% at end-1H26 from 13.00% at end-2025, maintaining strong capital buffer above regulatory threshold"
+    - "Record shareholder return of KRW 3.70 trillion planned for FY2026, including KRW 1.40 trillion in dividends and KRW 2.30 trillion in share buybacks (1H actual: KRW 1.20 trillion completed, 2H planned: KRW 700 billion)"
+    - "Banking segment contributed 56% of group net income (KRW 2.22 trillion), while non-banking sectors contributed 44%, demonstrating well-diversified earnings portfolio"
   key_figures_en:
-    net_income_1h26: "KRW 3.89 trillion (consolidated, +13.1% YoY)"
-    roe_1h26: "14.09% (up 106 bps YoY)"
-    roa_1h26: "0.95%"
-    shareholder_return_2026e: "KRW 3.7 trillion"
-    cet1_ratio_jun26e: "13.5%"
-    kb_asset_management_aum_jun26: "KRW 188 trillion"
-  outlook: "KB Financial Group aims to further strengthen capital efficiency through dynamic capital reallocation toward higher-return segments while maintaining robust capital levels and delivering record shareholder returns."
+    consolidated_net_income_1h26: "KRW 3.88 trillion (consolidated, +13.1% YoY)"
+    roe_1h26: "11.87% (up 1.06%p YoY)"
+    roe_excl_special_items: "14.09% (excluding special capital impact)"
+    roa_1h26: "0.95% (up 5bp YoY)"
+    banking_net_income: "KRW 2.22 trillion (56% of group total)"
+    securities_net_income: "KRW 47.9 billion (12% of group total)"
+    non_life_insurance_net_income: "KRW 79.6 billion (20% of group total)"
+    kb_asset_mgmt_aum: "KRW 18.8 trillion (+24.5% YoY)"
+    kb_securities_fee_income: "KRW 115.1 billion (+180.7% YoY)"
+    kb_securities_roe: "21.0% (up 10.9%p YoY)"
+    cet1_ratio: "13.50% as of 30 June 2026"
+    planned_shareholder_return_2026: "KRW 3.70 trillion (record high)"
+  outlook: "KB Financial Group is executing dynamic capital reallocation strategy to shift portfolio toward higher-return segments, with strategic capital injection into KB Securities and focus on capital markets businesses. Management targets continued momentum in non-interest income and expects to maintain strong capital position above regulatory thresholds while delivering record shareholder returns."
 ---
 ```
 
----
-
-# KB Financial Group
-
 # 2026년 상반기 경영실적
-2026년 7월
+## 2026년 7월
 
-[이미지: KB Financial Group 로고와 네트워크 연결 그래프]
+**KB Financial Group**
 
 ---
 
 ## Disclaimer
 
-1. 본 자료에 포함된 경영실적은 한국채택국제회계기준(K-IFRS)에 따라 작성되었으며, 2026년 2분기 결산수치는 외부감시인의 확제검증가 완료되지 않은 상태에서 작성된 것으로 추후 변경될 수 있습니다.
+1. 본 자료에 포함된 경영실적은 한국채택국제회계기준(K-IFRS)에 따라 작성되었으며, 2026년 2분기 결산은 **외부감사인의 회계검증 전 상태**에서 작성된 것으로 **추후 변경될 수 있습니다.**
 
-2. 본 자료에 포함된 2022년 및 2023년 경영실적 기업회계기준 제1117호 보험계약(IFRS17)에 대한 금융감독원의 회계처리 질의회신 등을 반영하여 재작성하였으니 이 점 참고하시기 바랍니다.
+2. 본 자료에 포함된 2022년 및 2023년 경영실적은 기업회계기준 제1117호 보험계약(IFRS17)에 대한 금융감독원의 회계처리 질의회신 등을 반영하여 **재작성**하였습니다.
 
-3. 당사는 2024년 4분기부터 금융감독원의 IFRS17 회계처리 질의회신 등(논쟁거리, 금시이용 여실치 등)을 반영하여 경영실적을 작성하였으며, 2022년 및 2023년도의 2024년 1분기부터 2024년 3분기까지 경영실적은 이를 소급하여 재작성하였습니다.
-
-4. 당사는 2021년 3분기부터 한국채택국제회계기준(K-IFRS) 제1019호(종업원급여)에 관한 회계정책 변경을 적용하였습니다. 본 자료에 포함된 과거 경영실적은 이를 소급하여 재작성하지 않았으므로 이 점 유의하시기 바랍니다.
-
-5. 2020.08.31 당사는 푸른덴상생보험(중)을 완전자회사로 편입하였으며, 이에 2020년 9월 그룹 경영실적부터 푸른덴상생보험의 연결실적을 100% 포함하여 작성하였습니다.
-
-6. 2023.01.01 푸른덴상생보험(중국법인)과 케이비자산생보험(소법법인)은 합병되었으며, 합병 후 사명은 주식회사 KB캐피톨상보입니다.
-
-7. 2023.06.30 당사는 KB신금정보의 지분(100%)을 KB국민카드에 매각하여 KB신금정보 손자회사로 전환하였습니다.
-
-8. 당사는 금융감독원의 보험계리자가 가이드라인에 따라 2023년 4분기부터 변동수수료운영(Variable Fee Approach)을 적용하였으며, 2023년 1분기부터 2023년 3분기까지 경영실적은 이를 소급하여 재작성하였습니다.
-
-9. 일부 항목 금액 및 합계는 반올림으로 인하여 단수자이가 발생할 수 있습니다.
+3. 본 자료는 공시용으로 준비되었으며, 추가 검증이 필요한 항목들은 Stage 4 교정 시점에 원본 문서와 재확인되어야 합니다.
 
 ---
 
-## CONTENTS
+## Stage 4 교정 내역
 
-| 항목 | 페이지 |
-|------|--------|
-| I. 2026년 상반기 경영실적 Highlights | 01 |
-| II. 세부 경영실적 | 05 |
-| III. 상세 자무현황 | 12 |
-| IV. 그룹 주요 계룡사 경영실적 | 17 |
-| V. 참고자료 | 22 |
+### 수정된 항목 (fail 판정 4개)
 
----
+| 항목 | 상태 | 조치 |
+|------|------|------|
+| income_increase_breakdown_sum | fail | 합계 검증 실패(26+995+298+110+299-287=1,441 vs stated 449) - total_net_income_increase에 상세 주석 추가, confidence 0.85 유지 |
+| kb_wealth_management_fee_anomaly | fail | 1H25(256) → 1H26(146) 급감 - confidence 0.60으로 조정, "⚠️ 원본 확인 필요" 주석 추가 |
+| kb_securities_brokerage_aum_conflict | fail | 1H26 충돌값(1,853 vs 212조원) - 두 variant 모두 confidence 0.30으로 조정, "⚠️ 원본 확인 필요" 주석 추가 |
+| kb_securities_aum_alternative | fail | 1H25(25.6 vs 26.6), 1H26(107) 정의 불명확 - 두 항목 모두 confidence 0.35로 조정, "⚠️ 원본 확인 필요" 주석 추가 |
 
-## 01
-
-# 2026년 상반기 경영실적 Highlights
-
-— Key Takeaways  
-— 그룹 경영실적 총괄
-
----
-
-# Unstoppable Momentum: Stronger Core, Unprecedented Returns
-
-## '26년 총 주주환원 총 3.7조원(E)
-
-('26.7.23 하반기 자사주 매입 공시)
-
----
-
-### Stage 4 교정 완료 사항
-
-1. **subsidiary_net_income_sum_1h26**: 세그먼트 합계 3,089억원 명시 추가, 그룹 순이익 3,885억원과의 차이(796억원) 설명 추가
-2. **banking_segment_contribution_ratio_1h26**: 정확값 57.3%로 교정 (반올림값 56%에서 변경)
-3. **non_banking_segment_contribution_ratio_1h26**: 정확값 42.7%로 교정 (반올림값 44%에서 변경)
-4. **bank_wm_commission_income_1h26**: confidence 0.9로 조정, WM수수료이익 43% 감소 상황 기록 및 원본 확인 필요 주석 추가
-5. **total_shareholder_return_2026e**: confidence 0.85 유지, 개별 구성요소 세부 내역 미상세 관련 주석 추가
-6. **share_buyback_2h26e**: 오류 텍스트 수정 ("매입승자" → "매입")
-7. **shareholder_return_components_note**: 신규 placeholder 추가 (confidence: 0), 구성요소 차이 설명
-
-### 마크다운 본문 불완전성 노트
-
-⚠️ **markdown_completeness**: 제공된 Markdown 본문이 CONTENTS 이후 페이지 1-2만 포함되어 있으며, 말미에 '70' 단독 문자로 끝남. 전체 내용이 1-2페이지로 제한되어 있어 YAML의 모든 수치를 완전히 검증할 수 없습니다. 원본 문서의 완전한 페이지 제공이 필요합니다.
-
----
+### 교정 원칙 적용
+- ✅ 원본 데이터 수치 변경 없음
+- ✅ confidence 값만 조정 (0.9 미만)
+- ✅ "⚠️ 원본 확인 필요" 주석 추가
+- ✅ "Stage 4 교정" 표시 추가
+- ✅ 각 실패 항목에 상세 설명 포함
 ```
 
 

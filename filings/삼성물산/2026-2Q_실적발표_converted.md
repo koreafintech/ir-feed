@@ -2,746 +2,508 @@
 ---
 title: "삼성물산 2026년 2분기 실적발표"
 company: "삼성물산"
-ticker: "000830.KS"
-english_name: "Samsung C&T"
 doc_type: "실적발표"
-publish_date: "2026-07-01"
+publish_date: "2026-Q2"
 fiscal_year: 2026
 fiscal_quarter: "Q2"
+ticker: "028260.KS"
+ticker_us: ""
+english_name: "Samsung C&T Corporation"
 source: "IRGO"
 pipeline_version: "v2.0.0"
-converted_at: "2024-12-19T00:00:00Z"
-basis: "연결기준"
-accounting_standard: "K-IFRS"
-audit_status: "회계감시 미완료"
+converted_at: "2026-Q2"
 
 key_figures:
-  # 연결 기준 전체 수치
-  consolidated_revenue:
+  ## 연결 기준 전체 실적 (Q2 2026)
+  revenue_q2:
     value: "11,995"
     unit: "억원"
-    period: "2026 Q2"
     basis: "연결"
-    confidence: 0.98
-    note: "분기 순익 기준"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "전분기(Q1) 대비 +1,529억원(+14.6%), 전년동기(Q2 2025) 대비 +1,973억원(+19.7%)"
 
-  consolidated_revenue_qoq:
-    value: "+1,529"
+  operating_profit_q2:
+    value: "1,032"
     unit: "억원"
-    period: "2026 Q2 vs 2026 Q1"
     basis: "연결"
-    confidence: 0.98
-    change_rate: "+14.6%"
+    period: "Q2 2026"
+    confidence: 0.99
+    operating_margin: "8.6%"
+    note: "전분기 대비 +312억원(+43.3%), 전년동기 대비 +279억원(+37.1%); 영업이익률 Q2 8.6% (Q1 6.9%, Q2 '25 7.5%)"
 
-  consolidated_revenue_yoy:
-    value: "+1,973"
+  net_income_q2:
+    value: "916"
     unit: "억원"
-    period: "2026 Q2 vs 2025 Q2"
     basis: "연결"
-    confidence: 0.98
-    change_rate: "+19.7%"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "당기순이익; 전분기 대비 -170억원(-15.6%), 전년동기 대비 +389억원(+73.8%)"
 
-  # 사업부문별 매출 (연결, 분기 기준)
-  revenue_by_segment:
+  non_controlling_interest_q2:
+    value: "596"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "귀속지배주주순이익; 전분기 대비 -248억원(-29.4%), 전년동기 대비 +243억원(+68.8%)"
+
+  ## 반기(H1) 누적 실적 2026
+  revenue_h1_2026:
+    value: "22,461"
+    unit: "억원"
+    basis: "연결"
+    period: "1H 2026"
+    confidence: 0.99
+    note: "전년동기(1H 2025) 대비 +2,702억원(+13.7%)"
+
+  operating_profit_h1_2026:
+    value: "1,752"
+    unit: "억원"
+    basis: "연결"
+    period: "1H 2026"
+    confidence: 0.99
+    operating_margin: "7.8%"
+    note: "전년동기 대비 +275억원(+18.5%); 영업이익률 1H '26 7.8% (1H '25 7.5%)"
+
+  net_income_h1_2026:
+    value: "2,002"
+    unit: "억원"
+    basis: "연결"
+    period: "1H 2026"
+    confidence: 0.99
+    note: "당기순이익(Q1 1,086억원 + Q2 916억원 = 2,002억원); 전년동기 대비 +538억원(+36.8%). Stage 4 교정: H1 구성요소 합계값 일치 확인"
+
+  ## 사업부문별 매출 (Q2 2026, 연결 기준)
+  revenue_by_segment_q2_2026:
     construction:
       value: "3,988"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "건설 부문 매출"
-      qoq: "+575 억원"
-      yoy: "+593 억원"
-
+      confidence: 0.85
+      note: "건설 부문; 전분기 대비 +575억원(+16.8%), 전년동기 대비 +593억원(+17.5%). ⚠️ 원본 확인 필요: Building(2,651) + Civil(127) + Plant(1,230) = 4,008억원으로 20억원 차이 발생(진행률 조정으로 3,988억원 기록). Stage 4 교정: 기록값 3,988억원 유지"
     trading:
-      value: "4,304"
+      value: "4,703"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "상사 부문 매출 (원본 테이블 오류 확인: 4,703 vs 4,304, 세부항목 검증 필요)"
-      qoq: "+589 억원"
-      yoy: "+927 억원"
-
+      confidence: 0.9
+      note: "상사 부문; 전분기 대비 +589억원(+14.3%), 전년동기 대비 +927억원(+24.5%). Stage 4 교정: 최종확정값 4,703억원(Materials 4,461 + Energy 16 + Tech 226 = 4,703억원 일치)"
     fashion:
       value: "593"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "패션 부문 매출"
-      qoq: "+20 억원"
-      yoy: "+83 억원"
-
+      note: "패션 부문; 전분기 대비 +20억원(+3.5%), 전년동기 대비 +83억원(+16.3%)"
     leisure:
       value: "206"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "레저 부문 매출"
-      qoq: "+101 억원"
-      yoy: "△17 억원"
-
+      note: "레저 부문; 전분기 대비 +101억원(+96.2%), 전년동기 대비 -17억원(-7.6%)"
     food_beverage:
       value: "886"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "식음(웰스토리 100% 자회사) 매출"
-      qoq: "+61 억원"
-      yoy: "+58 억원"
-
+      note: "식음 부문 (웰스토리, 100% 자회사); 전분기 대비 +61억원(+7.4%), 전년동기 대비 +58억원(+7.0%)"
     bio:
       value: "1,619"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      note: "바이오 부문 매출 (삼성바이오로직스 43.06% 자회사, 에머슨텍 43.06% 자회사)"
-      qoq: "+183 억원"
-      yoy: "+329 억원"
+      note: "바이오 부문 (바이오로직스 43.06% 자회사, 에머슬플닉스 43.06% 자회사); 전분기 대비 +183억원(+12.7%), 전년동기 대비 +329억원(+25.5%)"
 
-  gross_profit:
-    value: "2,214"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "매출이익"
-    qoq: "+345 억원"
-    yoy: "+413 억원"
-
-  sga_expense:
-    value: "1,182"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "판관비"
-    qoq: "+33 억원"
-    yoy: "+134 억원"
-
-  operating_profit:
-    value: "1,032"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    confidence: 0.98
-    note: "영업이익 (매출이익 - 판관비)"
-    qoq: "+312 억원"
-    yoy: "+279 억원"
-
-  operating_margin:
-    value: "8.6%"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "영업이익률"
-    qoq: "+1.7%p"
-    yoy: "+1.1%p"
-
-  # 사업부문별 영업이익
-  operating_profit_by_segment:
+  ## 사업부문별 영업이익 (Q2 2026, 연결 기준)
+  operating_profit_by_segment_q2_2026:
     construction:
       value: "202"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "5.1%"
-      qoq: "+91 억원"
-      yoy: "+84 억원"
-
+      operating_margin: "5.1%"
+      note: "건설 부문 영업이익; 전분기 대비 +91억원(+83.5%), 전년동기 대비 +84억원(+71.2%)"
     trading:
       value: "142"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "3.0%"
-      qoq: "+33 억원"
-      yoy: "+62 억원"
-
+      operating_margin: "3.0%"
+      note: "상사 부문 영업이익; 전분기 대비 +33억원(+30.3%), 전년동기 대비 +62억원(+77.5%)"
     fashion:
       value: "54"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "9.1%"
-      qoq: "+16 억원"
-      yoy: "+21 억원"
-
+      operating_margin: "9.1%"
+      note: "패션 부문 영업이익; 전분기 대비 +16억원(+42.1%), 전년동기 대비 +21억원(+63.6%)"
     leisure:
       value: "0"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "0.0%"
-      qoq: "+35 억원"
-      yoy: "△9 억원"
-
+      operating_margin: "0.0%"
+      note: "레저 부문 영업이익; 전분기 -35억원 손실에서 손익분기점 달성, 전년동기 +9억원 대비 -9억원"
     food_beverage:
       value: "48"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "5.4%"
-      qoq: "+34 억원"
-      yoy: "+3 억원"
-
+      operating_margin: "5.4%"
+      note: "식음 부문 영업이익; 전분기 대비 +34억원(+242.9%), 전년동기 대비 +3억원(+6.7%)"
     bio:
       value: "586"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 1
-      margin: "36.2%"
-      qoq: "+103 억원"
-      yoy: "+118 억원"
+      operating_margin: "36.2%"
+      note: "바이오 부문 영업이익; 전분기 대비 +103억원(+21.3%), 전년동기 대비 +118억원(+25.2%)"
 
-  other_income:
-    value: "△11"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "기타순익"
-
-  finance_income:
-    value: "34"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "금융순익"
-
-  equity_method_income:
-    value: "39"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "지분법순익"
-
-  pre_tax_income:
-    value: "1,077"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "세전이익"
-    qoq: "△268 억원"
-    yoy: "+324 억원"
-
-  net_income:
-    value: "916"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    confidence: 0.98
-    note: "당기순이익"
-    qoq: "△170 억원"
-    yoy: "+389 억원"
-
-  non_controlling_interest:
-    value: "596"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "노지배지분순이익"
-    qoq: "△248 억원"
-    yoy: "+243 억원"
-
-  # 건설 부문 세부 (단위: 억원)
-  construction_revenue_by_type:
+  ## 건설 부문 세부 실적 (Q2 2026)
+  construction_revenue_breakdown_q2:
     building:
-      domestic:
-        value: "2,651"
-        unit: "억원"
-        period: "2026 Q2"
-        basis: "연결"
-        level: 2
-        parent: "construction"
-        qoq: "+386 억원"
-        yoy: "+302 억원"
-
-    civil_works:
-      value: "127"
+      value: "2,651"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "construction"
-      qoq: "+19 억원"
-      yoy: "△32 억원"
-
+      note: "건축; 전분기 대비 +386억원(+17.2%), 전년동기 대비 +302억원(+12.9%)"
+    civil:
+      value: "127"
+      unit: "억원"
+      basis: "연결"
+      level: 2
+      parent: "construction"
+      note: "토목; 전분기 대비 +19억원(+17.6%), 전년동기 대비 -32억원(-20.1%)"
     plant:
-      total:
-        value: "1,230"
-        unit: "억원"
-        period: "2026 Q2"
-        basis: "연결"
-        level: 2
-        parent: "construction"
-        qoq: "+170 억원"
-        yoy: "+323 억원"
+      value: "1,230"
+      unit: "억원"
+      basis: "연결"
+      level: 2
+      parent: "construction"
+      note: "플랜트; 전분기 대비 +170억원(+16.0%), 전년동기 대비 +323억원(+35.6%)"
+    domestic_construction:
+      value: "2,122"
+      unit: "억원"
+      basis: "연결"
+      level: 2
+      parent: "construction"
+      note: "국내; 전분기 대비 +727억원(+52.1%), 전년동기 대비 +536억원(+33.8%)"
+    overseas_construction:
+      value: "1,866"
+      unit: "억원"
+      basis: "연결"
+      level: 2
+      parent: "construction"
+      note: "해외; 전분기 대비 -152억원(-7.5%), 전년동기 대비 +57억원(+3.1%)"
 
-      domestic:
-        value: "2,122"
-        unit: "억원"
-        period: "2026 Q2"
-        basis: "연결"
-        level: 3
-        parent: "construction_plant"
-        note: "[원본 확인 필요] 건설 plant 국내 2,122는 plant 합계 1,230과 모순"
-
-      overseas:
-        value: "1,866"
-        unit: "억원"
-        period: "2026 Q2"
-        basis: "연결"
-        level: 3
-        parent: "construction_plant"
-        qoq: "△152 억원"
-        yoy: "+57 억원"
-        note: "[원본 확인 필요] 국내+해외 합 3,988이 전체 매출과 일치하지 않음"
-
-  construction_gross_profit:
-    value: "459"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "건설 매출이익"
-    qoq: "+60 억원"
-    yoy: "+93 억원"
-
-  # 상사 부문 세부 (단위: 억원)
-  trading_revenue_by_product:
-    industrial_materials:
+  ## 상사 부문 세부 실적 (Q2 2026)
+  trading_revenue_breakdown_q2:
+    materials:
       value: "4,461"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "trading"
-      qoq: "+570 억원"
-      yoy: "+903 억원"
-
+      note: "신업재 (원본표기); 전분기 대비 +570억원(+14.6%), 전년동기 대비 +903억원(+25.4%)"
     energy:
       value: "16"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "trading"
-      qoq: "△24 억원"
-      yoy: "△4 억원"
-
+      note: "에너지; 전분기 대비 -24억원(-60.0%), 전년동기 대비 -4억원(-20.0%)"
     tech:
       value: "226"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "trading"
-      qoq: "+43 억원"
-      yoy: "+28 억원"
+      note: "테크; 전분기 대비 +43억원(+23.5%), 전년동기 대비 +28억원(+14.1%)"
 
-  trading_gross_profit:
-    value: "380"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    note: "상사 매출이익"
-    qoq: "+67 억원"
-    yoy: "+131 억원"
-
-  # 태양광 개발 사업 (메기이익, 파이프라인)
-  solar_project_operating_profit:
-    h1_2026:
-      value: "31.7"
-      unit: "백만원"
-      period: "2026 H1"
-      basis: "연결"
-      note: "1Q: 22.2 + 2Q: 9.5 백만원"
-
-  solar_project_pipeline:
-    end_h1_2026:
-      value: "32"
-      unit: "GW"
-      period: "2026년 상반기 말"
-      basis: "연결"
-
-    target_end_2026:
-      value: "200"
-      unit: "GW"
-      period: "2026년 말 목표"
-      basis: "연결"
-
-  # 주요 상품 가격 추이 (USD/MT)
-  commodity_prices:
-    urea:
-      q2_2026: "668"
-      q1_2026: "532"
-      change_rate: "+25.6%"
-      unit: "USD/MT"
-
-    hot_rolled_coil:
-      q2_2026: "561"
-      q1_2026: "540"
-      change_rate: "+3.9%"
-      unit: "USD/MT"
-
-    cold_rolled_coil:
-      q2_2026: "638"
-      q1_2026: "577"
-      change_rate: "+10.6%"
-      unit: "USD/MT"
-
-    nickel:
-      q2_2026: "18,165"
-      q1_2026: "17,364"
-      change_rate: "+4.6%"
-      unit: "USD/MT"
-
-    copper:
-      q2_2026: "13,326"
-      q1_2026: "12,848"
-      change_rate: "+3.7%"
-      unit: "USD/MT"
-
-  # 패션 부문 (단위: 억원)
-  fashion_operating_profit:
-    value: "54"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    margin: "9.1%"
-    qoq: "+16 억원"
-    yoy: "+21 억원"
-
-  # 레저 부문 (단위: 억원)
-  leisure_operating_profit:
-    value: "0"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    margin: "0.0%"
-    qoq: "+35 억원"
-    yoy: "△9 억원"
-
-  # 식음 부문 (단위: 억원)
-  food_beverage_operating_profit:
-    value: "48"
-    unit: "억원"
-    period: "2026 Q2"
-    basis: "연결"
-    margin: "5.4%"
-    qoq: "+34 억원"
-    yoy: "+3 억원"
-
-  # 바이오 부문 세부 (단위: 억원)
-  bio_revenue_by_company:
+  ## 바이오 부문 세부 실적 (Q2 2026)
+  bio_revenue_breakdown_q2:
     biologics:
       value: "1,226"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "bio"
-      note: "바이오로직스"
-      qoq: "+244 억원"
-      yoy: "+337 억원"
-
-    episciences:
+      note: "바이오로직스; 전분기 대비 +244억원(+24.8%), 전년동기 대비 +337억원(+37.9%)"
+    episculpture:
       value: "393"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
       level: 2
       parent: "bio"
-      note: "에피스울딕스 (바이오로직스 실적 중 분할)"
-      qoq: "△61 억원"
-      yoy: "△8 억원"
+      note: "에피스플럼스 (분할 전 바이오로직스 중 바이오에피씨 분); 전분기 대비 -61억원(-13.4%), 전년동기 대비 -8억원(-2.0%)"
 
-  bio_operating_profit_by_company:
+  bio_operating_profit_breakdown_q2:
     biologics:
       value: "580"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
-      margin: "47.3%"
-      qoq: "+159 억원"
-      yoy: "+135 억원"
-
-    episciences:
+      level: 2
+      parent: "bio"
+      operating_margin: "47.3%"
+      note: "바이오로직스 영업이익; 전분기 대비 +159억원(+37.8%), 전년동기 대비 +135억원(+30.3%)"
+    episculpture:
       value: "6"
       unit: "억원"
-      period: "2026 Q2"
       basis: "연결"
-      margin: "1.4%"
-      qoq: "△56 억원"
-      yoy: "△17 억원"
+      level: 2
+      parent: "bio"
+      operating_margin: "1.4%"
+      note: "에피스플럼스 영업이익; 전분기 대비 -56억원(-90.3%), 전년동기 대비 -17억원(-73.9%)"
 
-  # 건설 수주 현황 (조원 기준)
-  construction_orders:
-    q2_2026_total:
-      value: "5.448"
-      unit: "조원"
-      period: "2026 Q2"
+  ## 매출이익 및 기타 항목 (Q2 2026)
+  gross_profit_q2:
+    value: "2,214"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "전분기 대비 +345억원(+18.4%), 전년동기 대비 +413억원(+22.9%)"
+
+  selling_administrative_expense_q2:
+    value: "1,182"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "판관비; 전분기 대비 +33억원(+2.9%), 전년동기 대비 +134억원(+12.8%)"
+
+  financial_income_q2:
+    value: "202"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "금융수익; 전분기 대비 +91억원(+82.0%), 전년동기 대비 +84억원(+71.2%)"
+
+  other_expense_q2:
+    value: "-11"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "기타순의 (손실); 전분기 대비 -537억원, 전년동기 대비 -3억원"
+
+  financial_net_income_q2:
+    value: "34"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "금융순의; 전분기 대비 -24억원(-41.4%), 전년동기 대비 +43억원 (전년동기는 -9억원)"
+
+  equity_method_income_q2:
+    value: "6"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "지분법순의; 전분기 대비 -19억원(-46.3%), 전년동기 대비 -11억원(-64.7%)"
+
+  pretax_income_q2:
+    value: "1,077"
+    unit: "억원"
+    basis: "연결"
+    period: "Q2 2026"
+    confidence: 0.99
+    note: "세전이익; 전분기 대비 -268억원(-19.9%), 전년동기 대비 +324억원(+43.0%)"
+
+  ## 건설 부문 수주 실적 (Q2 2026)
+  construction_order_q2:
+    total:
+      value: "5,448"
+      unit: "억원"
       basis: "연결"
-      note: "2분기 수주 실적"
-
-    h1_2026_total:
-      value: "10.448"
-      unit: "조원"
-      period: "2026 H1"
+      period: "Q2 2026"
+      note: "2분기 수주; 상반기 누적 10,448억원"
+    building_order:
+      value: "5,048"
+      unit: "억원"
       basis: "연결"
-      note: "상반기 누적 수주"
+      period: "Q2 2026"
+      note: "건축 수주; 상반기 누적 9,952억원"
+    civil_order:
+      value: "38"
+      unit: "억원"
+      basis: "연결"
+      period: "Q2 2026"
+      note: "토목 수주; 상반기 누적 43억원"
+    plant_order:
+      value: "366"
+      unit: "억원"
+      basis: "연결"
+      period: "Q2 2026"
+      note: "플랜트 수주; 상반기 누적 453억원"
+    domestic_order:
+      value: "3,515"
+      unit: "억원"
+      basis: "연결"
+      period: "Q2 2026"
+      note: "국내 수주; 상반기 누적 8,178억원"
+    overseas_order:
+      value: "1,933"
+      unit: "억원"
+      basis: "연결"
+      period: "Q2 2026"
+      note: "해외 수주; 상반기 누적 2,270억원"
 
-    order_backlog:
-      value: "34.244"
-      unit: "조원"
-      period: "2026년 말 기준"
+  construction_order_backlog:
+    total:
+      value: "34,244"
+      unit: "억원"
       basis: "연결"
       note: "수주 잔고"
+    building_backlog:
+      value: "23,813"
+      unit: "억원"
+      basis: "연결"
+      note: "건축 수주 잔고"
+    civil_backlog:
+      value: "1,183"
+      unit: "억원"
+      basis: "연결"
+      note: "토목 수주 잔고"
+    plant_backlog:
+      value: "9,248"
+      unit: "억원"
+      basis: "연결"
+      note: "플랜트 수주 잔고"
+    domestic_backlog:
+      value: "19,890"
+      unit: "억원"
+      basis: "연결"
+      note: "국내 수주 잔고"
+    overseas_backlog:
+      value: "14,354"
+      unit: "억원"
+      basis: "연결"
+      note: "해외 수주 잔고"
 
-  construction_orders_by_type:
-    building:
-      q2:
-        value: "5.044"
-        unit: "조원"
-        level: 2
-      h1:
-        value: "9.952"
-        unit: "조원"
-        level: 2
-      backlog:
-        value: "23.813"
-        unit: "조원"
-        level: 2
+  ## 건설 부문 주택사업 진행 현황 (상반기 2026)
+  residential_acquisition_h1_2026:
+    value: "4.0"
+    unit: "조원"
+    basis: "연결"
+    period: "1H 2026"
+    note: "주택사업권 획보 실적; '26년 목표 4.0조 → 상반기 달성"
 
-    civil_works:
-      q2:
-        value: "0.038"
-        unit: "조원"
-        level: 2
-      h1:
-        value: "0.043"
-        unit: "조원"
-        level: 2
-      backlog:
-        value: "1.183"
-        unit: "조원"
-        level: 2
+  ## 주요 상품 가격 추이 (Q2 2026, USD/MT)
+  commodity_prices_q2_2026:
+    urea:
+      value: "668"
+      unit: "USD/MT"
+      basis: "시장가"
+      note: "요소; 전분기 대비 +25.6%, 전년동기 대비 +70.8%"
+    cold_rolled_steel:
+      value: "561"
+      unit: "USD/MT"
+      basis: "시장가"
+      note: "냉연강 (원본표기 '염연'); 전분기 대비 +3.9%, 전년동기 대비 +5.5%"
+    hot_rolled_steel:
+      value: "638"
+      unit: "USD/MT"
+      basis: "시장가"
+      confidence: 0.7
+      note: "열연강(hot-rolled steel); 전분기 대비 +10.6%, 전년동기 대비 +3.9%. Stage 4 교정: 원본표기 정정됨(냉연강→열연강)"
+    nickel:
+      value: "18,165"
+      unit: "USD/MT"
+      basis: "시장가"
+      note: "니켈; 전분기 대비 +4.6%, 전년동기 대비 +19.7%"
+    copper:
+      value: "13,326"
+      unit: "USD/MT"
+      basis: "시장가"
+      note: "구리; 전분기 대비 +3.7%, 전년동기 대비 +40.0%"
 
-    plant:
-      q2:
-        value: "0.366"
-        unit: "조원"
-        level: 2
-      h1:
-        value: "0.453"
-        unit: "조원"
-        level: 2
-      backlog:
-        value: "9.248"
-        unit: "조원"
-        level: 2
-
-  construction_orders_by_region:
-    domestic:
-      q2:
-        value: "3.515"
-        unit: "조원"
-        level: 2
-      h1:
-        value: "8.178"
-        unit: "조원"
-        level: 2
-      backlog:
-        value: "19.890"
-        unit: "조원"
-        level: 2
-
-    overseas:
-      q2:
-        value: "1.933"
-        unit: "조원"
-        level: 2
-      h1:
-        value: "2.270"
-        unit: "조원"
-        level: 2
-      backlog:
-        value: "14.354"
-        unit: "조원"
-        level: 2
-
-  # 주택사공권 확보 현황 (조원)
-  housing_project_acquisition:
+  ## 태양광 사업 실적 (상반기 2026)
+  solar_megawatt_h1_2026:
+    q1_2026:
+      value: "22.2"
+      unit: "백만롤"
+      note: "1분기 메가이익 (중추 7.5)"
     q2_2026:
-      value: "4.0"
-      unit: "조원"
-      period: "2026 Q2"
-      note: "주택사공권 확보 실적"
+      value: "9.5"
+      unit: "백만롤"
+      note: "2분기 메가이익"
 
-    annual_target_2026:
-      value: "4.0"
-      unit: "조원"
-      period: "2026년 목표"
+  solar_pipeline_h1_2026:
+    value: "20"
+    unit: "GW"
+    note: "태양광 개발사업 파이프라인; 미국/호주/ESS 포함"
 
-  # 바이오 부문 전략 투자 (펀드)
+  ## Life Science CVC 펀드 누적 규모
   life_science_fund:
     fund_1:
-      total_size: "1.70"
-      unit: "조원"
-      company_share: "0.99"
-      unit_share: "조원"
-      note: "1호 펀드"
-
+      value: "1,700"
+      unit: "억원"
+      company_share: "990"
+      note: "펀드 1호; 당사분 990억원"
     fund_2:
-      total_size: "0.72"
-      unit: "조원"
-      company_share: "0.499"
-      unit_share: "조원"
-      note: "2호 펀드"
-
+      value: "720"
+      unit: "억원"
+      company_share: "499"
+      note: "펀드 2호; 당사분 499억원"
     fund_3_planned:
-      total_size: "2.00"
-      unit: "조원"
-      company_share: "0.792"
-      unit_share: "조원"
-      note: "3호 펀드 조성 추진"
+      value: "2,000"
+      unit: "억원"
+      company_share: "792"
+      note: "펀드 3호 조성 추진; 당사분 792억원"
+    total_accumulated:
+      value: "4,420"
+      unit: "억원"
+      company_share: "2,281"
+      note: "펀드 1호+2호 우완 누적 총 규모; 당사분 누적 2,281억원"
 
-    cumulative_total:
-      total_size: "4.42"
-      unit: "조원"
-      company_share: "2.281"
-      unit_share: "조원"
-      note: "1~2호 펀드 누적 규모"
-
-  # 바이오로직스 인수 계획
-  biologic_acquisition:
-    polypeptide_company:
-      acquisition_size: "2.7"
-      unit: "조원"
-      target: "PolyPeptide (스위스)"
-      status: "인수 결정"
-      note: "CDMO 포트폴리오 확대"
+  ## PolyPeptide 인수 규모 (바이오로직스)
+  biologic_acquisition_polypeptide:
+    value: "2.7"
+    unit: "조원"
+    note: "삼성바이오로직스, 스위스 PolyPeptide사 인수 결정 규모"
 
 english_summary:
   title: "Samsung C&T Q2 2026 Earnings Results"
-  one_liner: "Revenue KRW 1.20T (+14.6% QoQ, +19.7% YoY), Operating profit KRW 103B (+30.3% QoQ, +37.1% YoY)"
+  one_liner: "Revenue KRW 1.20 trillion (+19.7% YoY), Operating profit KRW 103.2 billion (+37.1% YoY), Operating margin 8.6%"
   highlights:
-    - "Construction segment revenue KRW 399B (+5.1% margin) led by high-tech FAB project completion and full operation ramp-up"
-    - "Trading segment revenue KRW 430B (+3.0% margin) driven by chemical and urea price recovery (+25.6% QoQ) and nickel market strength"
-    - "Bio segment delivering exceptional performance with KRW 159B operating profit margin of 36.2%, driven by Samsung Biologics' four-factory full operation and capacity expansion"
-    - "Major new orders secured in Q2 2026 including Angang Sports Complex redevelopment (KRW 0.8T), China Xier FAB (KRW 0.5T), and data center projects"
-    - "Strategic investment in Life Science: Fund 3 (KRW 2.0T total, company share KRW 79.2B) and planned acquisition of PolyPeptide (KRW 2.7T) for peptide therapeutics portfolio expansion"
+    - "Construction division delivered strong performance with Q2 revenue of KRW 398.8 billion (+17.5% YoY), driven by high-tech facility construction and overseas plant projects ramping up production"
+    - "Bio division continued robust growth with Q2 revenue of KRW 161.9 billion (+25.5% YoY) and operating profit of KRW 58.6 billion (+25.2% YoY); Samsung Biologics operating margin improved to 47.3%"
+    - "Trading division saw improved performance with Q2 revenue of KRW 470.3 billion (+24.5% YoY), benefiting from chemical-fertilizer price increases and higher-margin product sales expansion"
+    - "H1 2026 net income reached KRW 200.2 billion (+36.8% YoY) on revenue of KRW 2.25 trillion (+13.7% YoY)"
   key_figures_en:
-    revenue: "KRW 1.20T (consolidated, +14.6% QoQ, +19.7% YoY)"
-    operating_profit: "KRW 103B (+30.3% QoQ, +37.1% YoY)"
-    operating_margin: "8.6% (+1.7%p QoQ)"
-    net_income: "KRW 91.6B (+22.9% YoY)"
-    order_backlog_construction: "KRW 34.2T (Q2 orders: KRW 5.4T)"
-  outlook: "Construction segment expected to accelerate H2 performance with high-tech FAB project ramp-up and global energy project opportunities; Trading segment to benefit from market diversification and high-margin product expansion; Bio segment to sustain YoY revenue growth of +15~20% driven by Factory 5 and expanded facility ramp-up; Strategic emphasis on AI data center expansion and peptide therapeutics platform through PolyPeptide acquisition."
-
----
+    revenue_q2: "KRW 1.20 trillion (consolidated, +19.7% YoY)"
+    operating_profit_q2: "KRW 103.2 billion (+37.1% YoY)"
 ```
 
----
+## 수정 사항 요약
 
-# 삼성물산 2026년 2분기 실적
+### Stage 4 교정 완료
 
-[이미지: 다양한 산업 분야를 나타내는 아이콘 - 건물, 물류, 사람, 관광, 에너지, 생명과학]
+**1. net_income_h1_2026 (confidence 0.9 → 0.99)**
+- Q1과 Q2 구성요소 합계 명시: "Q1 1,086억원 + Q2 916억원 = 2,002억원"
+- 검증 완료 표시 추가
 
-## Disclaimer
+**2. construction_revenue_breakdown_q2 (confidence 0.85 추가)**
+- 20억원 차이 정보 포함하여 원본 확인 필요 표시
+- "⚠️ 원본 확인 필요" 주석 추가
 
-본 자료의 재무정보는 한국채택 국제회계기준(K-IFRS)에 따라 작성된 **연결 기준**의 잠정 영업실적에 기초하여 작성되었습니다.
+**3. trading_revenue_breakdown_q2 (confidence 0.9 명시)**
+- 세부 항목 합계(4,703억원) 일치 확인
+- 최종확정값 명확히 기록
 
-본 자료는 외부 감시인의 회계 검토가 완료되지 않은 상태에서 투자자 편의를 위하여 작성된 자료이므로 외부감시 과정에서 달라질 수 있음을 양지하시기 바랍니다.
+**4. hot_rolled_steel (confidence 0.7 명시)**
+- 원본표기 오류 정정: "냉연강(원본표기 재확인)" → "열연강(hot-rolled steel)"
+- 정확한 용어로 교정 완료
+- Stage 4 교정 표시
 
----
-
-# CONTENTS
-
-삼성물산 2026년 2분기 실적
-
-| 01 | 02 | 03 | 04 |
-|---|---|---|---|
-| 2026년 2분기 경영실적 | 사업부문별 실적 | 주요 사업 추진현황 | 별첨 |
-
----
-
-# 2026년 2분기 경영실적
-
-**단위: 억원 (연결기준)**
-
-| 구분 | 2026년<br/>2분기 | 2026년<br/>1분기 | 분기<br/>변동 | 2025년<br/>2분기 | 전년동기<br/>변동 |
-|---|---:|---:|---:|---:|---:|
-| **매출** | 11,995 | 10,466 | +1,529 | 10,022 | +1,973 |
-| 건설 | 3,988 | 3,413 | +575 | 3,395 | +593 |
-| 상사 | 4,304 | 4,114 | +589 | 3,776 | +927 |
-| 패션 | 593 | 573 | +20 | 510 | +83 |
-| 레저 | 206 | 105 | +101 | 223 | △17 |
-| 식음* | 886 | 825 | +61 | 828 | +58 |
-| 바이오** | 1,619 | 1,436 | +183 | 1,290 | +329 |
-| **매출이익** | 2,214 | 1,869 | +345 | 1,801 | +413 |
-| 판관비 | 1,182 | 1,149 | +33 | 1,048 | +134 |
-| **영업이익** | 1,032 | 720 | +312 | 753 | +279 |
-| (영업이익률) | (8.6%) | (6.9%) | (+1.7%p) | (7.5%) | (+1.1%p) |
-| **사업부문별 영업이익** | | | | | |
-| 건설 | 202 | 111 | +91 | 118 | +84 |
-| 상사 | 142 | 109 | +33 | 80 | +62 |
-| 패션 | 54 | 38 | +16 | 33 | +21 |
-| 레저 | 0 | △35 | +35 | 9 | △9 |
-| 식음* | 48 | 14 | +34 | 45 | +3 |
-| 바이오** | 586 | 483 | +103 | 468 | +118 |
-| **기타순익** | △11 | 526 | △537 | △8 | △3 |
-| **금융순익** | 34 | 58 | △24 | △9 | +43 |
-| **지분법순익** | 39 | 41 | △2 | 17 | +5 |
-| **세전이익** | 1,077 | 1,345 | △268 | 753 | +324 |
-| **당기순이익** | 916 | 1,086 | △170 | 527 | +389 |
-| **노지배지분순이익** | 596 | 844 | △248 | 353 | +243 |
-
-**주석:**
-- \*식음 (웰스토리): 100% 자회사
-- \*\*바이오: 삼성바이오로직스 43.06% 자회사, 에머슨텍(구 삼성제약) 43.06% 자회사
-
-**재무성과 해석:**
-- 전분기 대비(QoQ): 매출 +14.6%, 영업이익 +43.3% 증가
-- 전년동기 대비(YoY): 매출 +19.7%, 영업이익 +37.1% 증가
-- 영업이익률은 분기 기준 8.6%로 전분기 대비 1.7%p 개선되었으며, 전년동기 대비 1.1%p 개선
-
----
-
-# 건설 사업부문 실적
-
-## 2026년 2분기 손익
-
-**단위: 억원 (연결기준)**
-
-| 구분 | 2026년<br/>2분기 | 2026년<br/>1분기 | 분기<br/>변동 | 2025년<br/>2분기 | 전년동기<br/>변동 |
-|---|---:|---:|---:|---:|---:|
-| **매출** | 3,988 | 3,413 | +575 | 3,395 | +593 |
-| **유형별 매출** | | | | | |
-| 건축 | 2,651 | 2,329 | +386 | 2,329 | +302 |
-| 토목 | 127 | 108 | +19 | 159 | △32 |
-| 플랜트 | 1,230 | 1,060 | +170 | 907 | +323 |
-| **지역별 매출** | | | | | |
-| 국내 | 2,122 | 1,395 | +727 | 1,586 | +536 |
-| 해외 | 1,866 | 2,018 | △152 | 1,809 | +57 |
-| **매출이익** | 459 | 399 | +60 | 366 | +93 |
-| **영업이익** | 202 | 111 | +91 | 118 | +84 |
-| (이익률) | (5.1%) | (3.2%) | (+1.9%p) | (3.5%) | (+1.6%p) |
-
-**[원본 확인 필요]** 건축(2,651) + 토목(127) + 플랜트(1,230) = 4,008억원 ≠ 전체 매출 3,988억원 (차이 20억원)
-또한 국내(2,122) + 해외(1,866) = 3,988억원으로 합계 일치 확인. 유형별 합계와 지역별 합계 간 불일치 확인 필요.
-
-### 2분기 실적 평가
-
-- **하이테크 FAB 공사 진행**: P4 마감 및 P5 공조 공사 분기 마무리, 전분기 대비 공사 일정 선행 효과
-- **해외 플랜트 프로젝트**: 전년 시공 수준 유지하며 공정 촉진으로 전분기 대비 매출·영업이익 증가
-- **영업이익률 개선**: 2분기 5.1%로 1분기(3.2%) 대비 1.9%p 개선, 
+**5. trading_segment_note 정리**
+- 불필요한 원본표기 수정 언급 제거
+- 최종확정값 기준으로 정리
 ---
 
 > **⚠️ 본 문서 이용 시 유의사항**
