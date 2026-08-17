@@ -3104,5 +3104,64 @@
         "cost": 0.2044
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "time": "2026-08-17T09:21:30.524745",
+    "total": 7,
+    "success": 7,
+    "failed": 0,
+    "cost": 0.0,
+    "files": [
+      {
+        "company": "KB금융",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "SK하이닉스",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "두산에너빌리티",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "삼성물산",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "삼성전기",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "삼성전자",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      },
+      {
+        "company": "현대자동차",
+        "doc_type": "실적발표",
+        "period": "2026-2Q",
+        "status": "ok",
+        "cost": 0.0
+      }
+    ]
   }
 ]
